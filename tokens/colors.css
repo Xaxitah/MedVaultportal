@@ -1,0 +1,76 @@
+/* ============================================================
+   COLORS — MedVault
+   Base palette + semantic aliases.
+   Sourced from MedVaultWeb/assets/css/medvault.css
+   ============================================================ */
+
+:root {
+  /* ---- Surfaces & neutrals ---- */
+  --mv-bg: #f0f2f5;          /* app canvas */
+  --mv-bg-alt: #f8fafc;      /* subtle alternate surface */
+  --mv-surface: #ffffff;     /* cards, panels */
+  --mv-border: #e0e0e0;      /* hairline dividers */
+  --mv-border-soft: #eceef1;
+
+  /* ---- Ink ---- */
+  --mv-ink: #1a1a2e;         /* primary text / deep navy */
+  --mv-ink-muted: #555555;   /* secondary text */
+  --mv-ink-faint: #8a8f98;   /* tertiary / hints */
+  --mv-on-dark: #e8eaf6;     /* text on navy surfaces */
+
+  /* ---- Brand navy (sidebar + headers) ---- */
+  --mv-navy-900: #1a1a2e;
+  --mv-navy-800: #16213e;
+  --mv-navy-700: #0f3460;
+  --mv-indigo-600: #283593;  /* mapa / deep indigo */
+  --mv-indigo-500: #3949ab;  /* link indigo */
+  --mv-indigo-400: #5c6bc0;  /* sidebar accent */
+
+  /* ---- Discipline accents ---- */
+  --mv-farm: #0f3460;        /* Farmacologia */
+  --mv-semi: #1b5e20;        /* Semiologia Médica */
+  --mv-urol: #4a148c;        /* Urologia */
+  --mv-etica: #bf360c;       /* Ética Médica */
+  --mv-semiq: #006064;       /* Semiologia Cirúrgica */
+
+  /* ---- Artifact accents ---- */
+  --mv-resumo: #1565c0;
+  --mv-infografico: #558b2f;
+  --mv-podcast: #6a1b9a;
+  --mv-quiz: #e65100;
+  --mv-flashcard: #00695c;
+  --mv-mapa: #283593;
+  --mv-vespera: #c62828;
+
+  /* ---- Status ---- */
+  --mv-success: #10b981;
+  --mv-success-ink: #065f46;
+  --mv-success-bg: #ecfdf5;
+  --mv-danger: #ef4444;
+  --mv-danger-ink: #7f1d1d;
+  --mv-danger-bg: #fef2f2;
+  --mv-warning: #fbbf24;
+  --mv-warning-ink: #92400e;
+  --mv-warning-bg: #fffbeb;
+  --mv-info-bg: #f0f9ff;
+
+  /* ---- P1 / P2 exam tokens ---- */
+  --mv-p1-ink: #1565c0;
+  --mv-p1-bg: #e3f2fd;
+  --mv-p1-grad: linear-gradient(135deg, #1976d2, #0d47a1); /* @kind color */
+  --mv-p2-ink: #6a1b9a;
+  --mv-p2-bg: #f3e5f5;
+  --mv-p2-grad: linear-gradient(135deg, #7b1fa2, #4a148c); /* @kind color */
+
+  /* ---- Signature gradients ---- */
+  --mv-grad-header: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%); /* @kind color */
+  --mv-grad-farm:   linear-gradient(135deg, #0f3460 0%, #1a237e 100%); /* @kind color */
+
+  /* ---- Semantic aliases ---- */
+  --surface-page: var(--mv-bg);
+  --surface-card: var(--mv-surface);
+  --text-body: var(--mv-ink);
+  --text-secondary: var(--mv-ink-muted);
+  --border-default: var(--mv-border);
+  --accent-primary: var(--mv-navy-700);
+}

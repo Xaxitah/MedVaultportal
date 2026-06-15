@@ -1,0 +1,56 @@
+# ==== Binários pesados → Google Drive ====
+# Áudios
+**/*.mp3
+**/*.m4a
+**/*.wav
+
+# Vídeos
+**/*.mp4
+**/*.mov
+**/*.webm
+
+# Documentos pesados
+**/*.pdf
+**/*.pptx
+**/*.pptm
+**/*.docx
+
+# Imagens grandes (mantém SVGs e ícones pequenos)
+**/*.psd
+**/*.ai
+
+# ==== Sistema / IDE ====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# ==== Node / Build ====
+node_modules/
+dist/
+build/
+.next/
+.cache/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==== Env / secrets ====
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# ==== Scripts locais ====
+deploy.bat
+limpar-site.ps1
+
+# ==== Artefatos temporários do design tool ====
+.thumbnail
+.design-canvas.state.json

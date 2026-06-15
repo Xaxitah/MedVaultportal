@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedVault — Repositório do Grupo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: #fbfaf7; font-family: 'Manrope', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  button { font-family: inherit; }
+  input, select { font-family: inherit; }
+  a { -webkit-tap-highlight-color: transparent; }
+</style>
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<!-- dados + store (JS puro) -->
+<script src="redesign/app/data.js"></script>
+<script src="redesign/app/store.js"></script>
+<script>window.MV_TWEAKS = /*EDITMODE-BEGIN*/{
+  "atmosfera": "night",
+  "sotaque": "#6f9b80",
+  "tipografia": "Editorial",
+  "logotipo": "coracao"
+}/*EDITMODE-END*/;</script>
+</head>
+<body>
+<div id="root"></div>
+<div id="tweaks-root"></div>
+
+<!-- base visual + helpers -->
+<script type="text/babel" src="redesign/app/logos.jsx"></script>
+<script type="text/babel" src="redesign/app/ui.jsx"></script>
+<script type="text/babel" src="redesign/app/shared.jsx"></script>
+<script type="text/babel" src="redesign/app/AddModal.jsx"></script>
+<!-- páginas -->
+<script type="text/babel" src="redesign/app/PageLogin.jsx"></script>
+<script type="text/babel" src="redesign/app/PagePainel.jsx"></script>
+<script type="text/babel" src="redesign/app/PageMateriais.jsx"></script>
+<script type="text/babel" src="redesign/app/PageBiblioteca.jsx"></script>
+<script type="text/babel" src="redesign/app/PageFerramentas.jsx"></script>
+<script type="text/babel" src="redesign/app/PageArtefato.jsx"></script>
+<script type="text/babel" src="redesign/app/PageAgenda.jsx"></script>
+<!-- casca + roteamento -->
+<script type="text/babel" src="redesign/app/Shell.jsx"></script>
+<!-- tweaks -->
+<script type="text/babel" src="redesign/app/tweaks-panel.jsx"></script>
+<script type="text/babel" src="redesign/app/tweaks.jsx"></script>
+<script type="text/babel">
+  const Root = window.MVApp;
+  const Tweaks = window.MVTweaksMount;
+  ReactDOM.createRoot(document.getElementById("root")).render(<Root />);
+  ReactDOM.createRoot(document.getElementById("tweaks-root")).render(<Tweaks />);
+</script>
+</body>
+</html>

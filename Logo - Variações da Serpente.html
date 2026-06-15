@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedVault — Logo: variações da serpente</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: #f0eee9; font-family: 'Manrope', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+</style>
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel" src="redesign/design-canvas.jsx"></script>
+<script type="text/babel" src="redesign/app/logos.jsx"></script>
+<script type="text/babel">
+const { DesignCanvas, DCSection, DCArtboard, MVLogoMark: Logo, MV_LOGOS_META } = window;
+
+const C = { ink: "#33384a", mute: "#8b8f9e", faint: "#b9bcc7", line: "#e7e4dd",
+  accent: "#7d8bb5", accentInk: "#525f8a", accentBg: "#eef0f7", navy: "#33384a" };
+
+function Chip({ variant, size = 38 }) {
+  return (
+    <div style={{ width: size, height: size, borderRadius: size * 0.32, border: `1.6px solid ${C.accent}`,
+      background: C.accentBg, display: "flex", alignItems: "center", justifyContent: "center", color: C.accentInk }}>
+      <Logo variant={variant} size={size * 0.58} color={C.accentInk} />
+    </div>
+  );
+}
+
+function Caption({ children }) {
+  return <div style={{ fontSize: 12, color: C.mute, fontWeight: 600, lineHeight: 1.5 }}>{children}</div>;
+}
+
+function LogoBoard({ variant, note }) {
+  return (
+    <div style={{ height: "100%", display: "flex", flexDirection: "column", padding: 28, gap: 22 }}>
+      <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center",
+        border: `1px solid ${C.line}`, borderRadius: 18, background: "#fbfaf7" }}>
+        <Logo variant={variant} size={150} color={C.accentInk} stroke={1.5} />
+      </div>
+      <div style={{ display: "flex", alignItems: "center", gap: 22 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 11 }}>
+          <Chip variant={variant} />
+          <div>
+            <div style={{ fontWeight: 800, color: C.ink, fontSize: 16, letterSpacing: -0.3 }}>MedVault</div>
+            <div style={{ fontSize: 10.5, color: C.mute, fontWeight: 600 }}>Segundo Cérebro</div>
+          </div>
+        </div>
+        <div style={{ width: 1, alignSelf: "stretch", background: C.line }}></div>
+        <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+          <Logo variant={variant} size={32} color={C.accentInk} stroke={1.7} />
+          <Logo variant={variant} size={16} color={C.accentInk} stroke={2.1} />
+          <Caption>favicon 32 / 16</Caption>
+        </div>
+      </div>
+      <Caption>{note}</Caption>
+    </div>
+  );
+}
+
+function App() {
+  return (
+    <DesignCanvas title="MedVault — Logo: variações da serpente">
+      <DCSection id="heart" title="Coração anatômico — linha contínua (logo escolhida)">
+        <DCArtboard id="v7" label="★ · Coração 1-linha" width={560} height={560}>
+          <div style={{ height: "100%", display: "flex", flexDirection: "column", padding: 28, gap: 22 }}>
+            <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center",
+              border: `1px solid ${C.line}`, borderRadius: 18, background: "#ffffff" }}>
+              <Logo variant="coracao" size={320} color="#8a2c33" stroke={0.32} />
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 22 }}>
+              <div style={{ display: "flex", alignItems: "center", gap: 11 }}>
+                <Chip variant="coracao" />
+                <div>
+                  <div style={{ fontWeight: 800, color: C.ink, fontSize: 16, letterSpacing: -0.3 }}>MedVault</div>
+                  <div style={{ fontSize: 10.5, color: C.mute, fontWeight: 600 }}>Segundo Cérebro</div>
+                </div>
+              </div>
+              <div style={{ width: 1, alignSelf: "stretch", background: C.line }}></div>
+              <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+                <Logo variant="coracao" size={48} color={C.accentInk} stroke={1.3} />
+                <Logo variant="coracao" size={24} color={C.accentInk} stroke={1.7} />
+                <Caption>48 / 24 px</Caption>
+              </div>
+            </div>
+            <Caption>Coração anatômico desenhado em uma única linha contínua: a linha entra pela aorta, contorna o órgão e sai serpenteando como vaso coronário — pontas livres longas como na referência.</Caption>
+          </div>
+        </DCArtboard>
+      </DCSection>
+      <DCSection id="oneline" title="Linha contínua (estilo da referência nova)">
+        <DCArtboard id="v6" label="F · Linha contínua" width={560} height={560}>
+          <div style={{ height: "100%", display: "flex", flexDirection: "column", padding: 28, gap: 22 }}>
+            <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center",
+              border: `1px solid ${C.line}`, borderRadius: 18, background: "#ffffff" }}>
+              <Logo variant="linha" size={320} color="#8a2c33" stroke={0.32} />
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 22 }}>
+              <div style={{ display: "flex", alignItems: "center", gap: 11 }}>
+                <Chip variant="linha" />
+                <div>
+                  <div style={{ fontWeight: 800, color: C.ink, fontSize: 16, letterSpacing: -0.3 }}>MedVault</div>
+                  <div style={{ fontSize: 10.5, color: C.mute, fontWeight: 600 }}>Segundo Cérebro</div>
+                </div>
+              </div>
+              <div style={{ width: 1, alignSelf: "stretch", background: C.line }}></div>
+              <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+                <Logo variant="linha" size={48} color={C.accentInk} stroke={1.3} />
+                <Logo variant="linha" size={24} color={C.accentInk} stroke={1.7} />
+                <Caption>48 / 24 px</Caption>
+              </div>
+            </div>
+            <Caption>Serpente desenhada em uma única linha contínua — pontas livres longas, laçada no corpo e cabeça em laço com língua, como o coração da referência.</Caption>
+          </div>
+        </DCArtboard>
+      </DCSection>
+      <DCSection id="lineart" title="Variações line-art (mesmo traço do app)">
+        <DCArtboard id="v1" label="A · Clássica (atual)" width={420} height={480}>
+          <LogoBoard variant="classica" note="Referência — bastão de Asclépio com 2 ondas, como está hoje na sidebar." />
+        </DCArtboard>
+        <DCArtboard id="v2" label="B · Ondulada" width={420} height={480}>
+          <LogoBoard variant="ondulada" note="3 ondas mais curtas — serpente mais sinuosa e viva, mantém leitura em 16px." />
+        </DCArtboard>
+        <DCArtboard id="v3" label="C · Cabeça visível" width={420} height={480}>
+          <LogoBoard variant="cabeca" note="A serpente sobe e termina em cabeça com olho e língua bifurcada no topo." />
+        </DCArtboard>
+        <DCArtboard id="v4" label="D · Caduceu" width={420} height={480}>
+          <LogoBoard variant="caduceu" note="Duas serpentes entrelaçadas + asas. Mais denso; favicon 16px fica no limite." />
+        </DCArtboard>
+      </DCSection>
+      <DCSection id="facet" title="Versão 3D facetada (estilo da referência)">
+        <DCArtboard id="v5" label="E · Facetada 3D" width={560} height={560}>
+          <div style={{ height: "100%", display: "flex", flexDirection: "column", padding: 28, gap: 22 }}>
+            <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center",
+              border: `1px solid ${C.line}`, borderRadius: 18, background: "#ffffff" }}>
+              <Logo variant="facetada" size={300} color="#1c1f2b" stroke={0.25} />
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 22 }}>
+              <div style={{ display: "flex", alignItems: "center", gap: 11 }}>
+                <Chip variant="facetada" />
+                <div>
+                  <div style={{ fontWeight: 800, color: C.ink, fontSize: 16, letterSpacing: -0.3 }}>MedVault</div>
+                  <div style={{ fontSize: 10.5, color: C.mute, fontWeight: 600 }}>Segundo Cérebro</div>
+                </div>
+              </div>
+              <div style={{ width: 1, alignSelf: "stretch", background: C.line }}></div>
+              <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+                <Logo variant="facetada" size={48} color={C.accentInk} stroke={1.3} />
+                <Logo variant="facetada" size={24} color={C.accentInk} stroke={1.5} />
+                <Caption>48 / 24 px</Caption>
+              </div>
+            </div>
+            <Caption>Malha facetada com hachuras paralelas, no espírito da imagem de referência — corpo em fita angular, cabeça com olho e língua. Funciona melhor grande (capa, login, splash); em 16px recomendo usar uma das line-art.</Caption>
+          </div>
+        </DCArtboard>
+      </DCSection>
+    </DesignCanvas>
+  );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

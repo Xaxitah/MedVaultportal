@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedVault — Home (Redesenho)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; }
+  body { font-family: 'Manrope', system-ui, sans-serif; }
+  image-slot { border-radius: inherit; }
+</style>
+<script src="redesign/image-slot.js"></script>
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="redesign/data.js"></script>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel" src="redesign/design-canvas.jsx"></script>
+<script type="text/babel" src="redesign/icons.jsx"></script>
+<script type="text/babel" src="redesign/OptionDashboard.jsx"></script>
+<script type="text/babel" src="redesign/OptionEditorial.jsx"></script>
+<script type="text/babel" src="redesign/OptionLibrary.jsx"></script>
+<script type="text/babel" src="redesign/OptionFeed.jsx"></script>
+<script type="text/babel" src="redesign/OrgSchemes.jsx"></script>
+<script type="text/babel">
+  const { DesignCanvas, DCSection, DCArtboard } = window;
+  const { OptionDashboard, OptionEditorial, OptionLibrary, OptionFeed, OrgByProva, OrgBySystem, OrgByStatus } = window;
+
+  function App() {
+    return (
+      <DesignCanvas>
+        <DCSection id="home" title="Home — Redesenho" subtitle="Duas direções, lado a lado · clean & moderno">
+          <DCArtboard id="dash" label="A · Painel de Estudo" width={1240} height={1360}>
+            <OptionDashboard />
+          </DCArtboard>
+          <DCArtboard id="edit" label="B · Editorial Minimalista" width={1240} height={1440}>
+            <OptionEditorial />
+          </DCArtboard>
+        </DCSection>
+
+        <DCSection id="more" title="Mais modelos — repositório do grupo" subtitle="Foco em achar e abrir os materiais · clean & moderno">
+          <DCArtboard id="lib" label="C · Central de Materiais" width={1240} height={1200}>
+            <OptionLibrary />
+          </DCArtboard>
+          <DCArtboard id="feed" label="D · Mural do Grupo" width={1240} height={1200}>
+            <OptionFeed />
+          </DCArtboard>
+        </DCSection>
+
+        <DCSection id="org" title="Organização do material" subtitle="Como estruturar os temas dentro de uma disciplina">
+          <DCArtboard id="org1" label="Por Prova → Tema" width={600} height={470}>
+            <OrgByProva />
+          </DCArtboard>
+          <DCArtboard id="org2" label="Por Sistema / Aparelho" width={600} height={470}>
+            <OrgBySystem />
+          </DCArtboard>
+          <DCArtboard id="org3" label="Por Status (revisão espaçada)" width={600} height={470}>
+            <OrgByStatus />
+          </DCArtboard>
+        </DCSection>
+      </DesignCanvas>
+    );
+  }
+
+  ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

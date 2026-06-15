@@ -1,0 +1,41 @@
+/* ============================================================
+   TYPOGRAPHY — MedVault
+   MedVaultWeb ships no webfont; it relies on the native UI stack
+   ('Segoe UI' / system-ui). We preserve that as the brand intent.
+   ============================================================ */
+
+:root {
+  /* ---- Families ---- */
+  --mv-font-sans: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  --mv-font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* ---- Weights (MedVault uses up to 800 for titles) ---- */
+  --mv-weight-regular: 400;
+  --mv-weight-medium: 500;
+  --mv-weight-semibold: 600;
+  --mv-weight-bold: 700;
+  --mv-weight-extrabold: 800;
+
+  /* ---- Type scale (rem) ---- */
+  --mv-text-xs: 0.68rem;     /* badges, sidebar section labels */
+  --mv-text-sm: 0.78rem;     /* card descriptions, pills */
+  --mv-text-base: 0.875rem;  /* body / sidebar links */
+  --mv-text-md: 1rem;        /* card titles, question text */
+  --mv-text-lg: 1.05rem;     /* group headers */
+  --mv-text-xl: 1.3rem;      /* tool titles */
+  --mv-text-2xl: 1.8rem;     /* page header H1 */
+  --mv-text-3xl: 3rem;       /* score percentage */
+
+  /* ---- Line heights ---- */
+  --mv-leading-tight: 1.3;
+  --mv-leading-snug: 1.5;
+  --mv-leading-normal: 1.6;
+
+  /* ---- Letter spacing ---- */
+  --mv-tracking-wide: 0.5px;   /* uppercase card titles */
+  --mv-tracking-wider: 1px;    /* uppercase section labels */
+
+  /* ---- Semantic aliases ---- */
+  --font-display: var(--mv-font-sans);
+  --font-body: var(--mv-font-sans);
+}

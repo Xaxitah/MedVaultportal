@@ -1,0 +1,26 @@
+<!-- @dsCard group="Colors" viewport="700x150" name="Discipline Accents" subtitle="One signature color per discipline" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; font-family: var(--mv-font-sans); background: var(--mv-surface); }
+  .row { display: flex; gap: 10px; padding: 20px; }
+  .sw { flex: 1; height: 96px; border-radius: var(--mv-radius-md); display: flex; flex-direction: column; justify-content: flex-end; padding: 10px; color: #fff; }
+  .sw .emoji { font-size: 22px; position: absolute; top: 8px; left: 10px; }
+  .sw { position: relative; }
+  .sw .name { font-size: 12px; font-weight: var(--mv-weight-bold); }
+  .sw .hex { font-size: 11px; opacity: 0.8; font-family: var(--mv-font-mono); }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="sw" style="background: var(--mv-farm);"><span class="emoji">💊</span><span class="name">Farmacologia</span><span class="hex">#0f3460</span></div>
+    <div class="sw" style="background: var(--mv-semi);"><span class="emoji">🩺</span><span class="name">Semiologia</span><span class="hex">#1b5e20</span></div>
+    <div class="sw" style="background: var(--mv-urol);"><span class="emoji">🫘</span><span class="name">Urologia</span><span class="hex">#4a148c</span></div>
+    <div class="sw" style="background: var(--mv-etica);"><span class="emoji">⚖️</span><span class="name">Ética</span><span class="hex">#bf360c</span></div>
+    <div class="sw" style="background: var(--mv-semiq);"><span class="emoji">🔪</span><span class="name">Sem. Cirúrgica</span><span class="hex">#006064</span></div>
+  </div>
+</body>
+</html>

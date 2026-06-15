@@ -1,0 +1,27 @@
+<!-- @dsCard group="Colors" viewport="700x180" name="Artifact Accents" subtitle="Color per study-artifact type" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; font-family: var(--mv-font-sans); background: var(--mv-surface); }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; padding: 20px; }
+  .sw { height: 58px; border-radius: var(--mv-radius-md); display: flex; flex-direction: column; justify-content: center; padding: 0 12px; color: #fff; }
+  .sw .name { font-size: 12px; font-weight: var(--mv-weight-bold); }
+  .sw .hex { font-size: 10.5px; opacity: 0.8; font-family: var(--mv-font-mono); }
+</style>
+</head>
+<body>
+  <div class="grid">
+    <div class="sw" style="background: var(--mv-resumo);"><span class="name">📄 Resumo</span><span class="hex">#1565c0</span></div>
+    <div class="sw" style="background: var(--mv-infografico);"><span class="name">📊 Infográfico</span><span class="hex">#558b2f</span></div>
+    <div class="sw" style="background: var(--mv-podcast);"><span class="name">🎧 Podcast</span><span class="hex">#6a1b9a</span></div>
+    <div class="sw" style="background: var(--mv-quiz);"><span class="name">🎯 Quiz</span><span class="hex">#e65100</span></div>
+    <div class="sw" style="background: var(--mv-flashcard);"><span class="name">🃏 Flashcard</span><span class="hex">#00695c</span></div>
+    <div class="sw" style="background: var(--mv-mapa);"><span class="name">🗺️ Mapa</span><span class="hex">#283593</span></div>
+    <div class="sw" style="background: var(--mv-vespera);"><span class="name">🌙 Véspera</span><span class="hex">#c62828</span></div>
+    <div class="sw" style="background: var(--mv-indigo-400);"><span class="name">★ Accent</span><span class="hex">#5c6bc0</span></div>
+  </div>
+</body>
+</html>

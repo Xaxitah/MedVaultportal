@@ -1,0 +1,45 @@
+<!-- @dsCard group="Components" viewport="700x420" name="Navigation — Sidebar, Tabs, Breadcrumb" subtitle="Wayfinding" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../styles.css">
+<style>
+  body { margin: 0; font-family: var(--mv-font-sans); background: var(--mv-bg); color: var(--mv-ink); }
+  .stage { display: flex; min-height: 420px; }
+  .panel { flex: 1; padding: 24px; display: flex; flex-direction: column; gap: 20px; }
+</style>
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+  const { Sidebar, Tabs, Breadcrumb } = window.MedVaultDesignSystem_bafe94;
+  function Demo() {
+    const [tab, setTab] = React.useState("p1");
+    return (
+      <div className="stage">
+        <Sidebar brand="MedVault" tagline="Segundo Cérebro · Medicina">
+          <Sidebar.Section>Navegação</Sidebar.Section>
+          <Sidebar.Link icon="🏠" active>Início</Sidebar.Link>
+          <Sidebar.Section>Disciplinas</Sidebar.Section>
+          <Sidebar.Link icon="💊" badge="P1+P2">Farmacologia</Sidebar.Link>
+          <Sidebar.Link icon="🩺" badge="P1+P2">Semiologia Médica</Sidebar.Link>
+          <Sidebar.Link icon="🫘" badge="P1">Urologia</Sidebar.Link>
+          <Sidebar.Link icon="⚖️" badge="P1">Ética Médica</Sidebar.Link>
+        </Sidebar>
+        <div className="panel">
+          <Breadcrumb items={[{label:"🏥 Início", href:"#"}, {label:"Farmacologia", href:"#"}, "AINEs"]} />
+          <Tabs value={tab} onChange={setTab}
+            tabs={[{id:"p1", label:"P1 · 1ª Prova"}, {id:"p2", label:"P2 · 2ª Prova"}]} />
+        </div>
+      </div>
+    );
+  }
+  ReactDOM.createRoot(document.getElementById("root")).render(<Demo />);
+</script>
+</body>
+</html>

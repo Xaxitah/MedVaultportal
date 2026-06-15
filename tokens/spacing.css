@@ -1,0 +1,30 @@
+/* ============================================================
+   SPACING — MedVault
+   8px-ish rhythm with the in-product values used by medvault.css.
+   ============================================================ */
+
+:root {
+  --mv-space-1: 4px;
+  --mv-space-2: 6px;
+  --mv-space-3: 8px;
+  --mv-space-4: 10px;
+  --mv-space-5: 12px;
+  --mv-space-6: 14px;
+  --mv-space-7: 16px;
+  --mv-space-8: 20px;
+  --mv-space-9: 24px;
+  --mv-space-10: 32px;
+  --mv-space-12: 44px;   /* page-header / content-area horizontal pad */
+
+  /* ---- Radii ---- */
+  --mv-radius-sm: 6px;
+  --mv-radius-md: 8px;
+  --mv-radius-lg: 10px;
+  --mv-radius-xl: 12px;   /* default card radius */
+  --mv-radius-pill: 20px; /* pills / tab buttons */
+  --mv-radius-round: 50%; /* circular badges */
+
+  /* ---- Layout ---- */
+  --mv-sidebar-width: 260px;
+  --mv-content-max: 1100px;
+}
