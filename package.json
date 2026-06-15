@@ -1,0 +1,16 @@
+{
+  "name": "med-vault-portal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MedVault Portal v2 — second-brain de estudos médicos da Simone",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
+    "dev": "node build.mjs --watch --serve",
+    "preview": "npx --yes serve dist"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1"
+  }
+}

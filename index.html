@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedVault Portal — Segundo Cérebro</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="tokens/colors.css">
+<link rel="stylesheet" href="tokens/typography.css">
+<link rel="stylesheet" href="tokens/spacing.css">
+<link rel="stylesheet" href="tokens/elevation.css">
+<style>
+  html, body { margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: #fbfaf7; color: #33384a; }
+  #root { min-height: 100vh; }
+</style>
+
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+
+<script src="_ds_bundle.js"></script>
+</head>
+<body>
+<div id="root"></div>
+
+<script src="redesign/app/data.js"></script>
+<script src="redesign/app/ui.js"></script>
+<script src="redesign/app/logos.js"></script>
+<script src="redesign/app/store.js"></script>
+<script src="redesign/app/shared.js"></script>
+<script src="redesign/app/tweaks.js"></script>
+<script src="redesign/app/tweaks-panel.js"></script>
+<script src="redesign/app/AddModal.js"></script>
+
+<script src="redesign/app/PageLogin.js"></script>
+<script src="redesign/app/PagePainel.js"></script>
+<script src="redesign/app/PageMateriais.js"></script>
+<script src="redesign/app/PageBiblioteca.js"></script>
+<script src="redesign/app/PageFerramentas.js"></script>
+<script src="redesign/app/PageAgenda.js"></script>
+<script src="redesign/app/PageArtefato.js"></script>
+
+<script src="redesign/app/Shell.js"></script>
+
+<script>
+  ReactDOM.createRoot(document.getElementById("root")).render(
+    React.createElement(window.MVApp)
+  );
+</script>
+</body>
+</html>
