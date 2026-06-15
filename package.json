@@ -5,12 +5,15 @@
   "description": "MedVault Portal v2 — second-brain de estudos médicos da Simone",
   "type": "module",
   "scripts": {
+    "sync": "node tools/sync-content.mjs",
     "build": "node build.mjs",
     "watch": "node build.mjs --watch",
     "dev": "node build.mjs --watch --serve",
     "preview": "npx --yes serve dist"
   },
   "devDependencies": {
-    "esbuild": "^0.28.1"
+    "esbuild": "^0.28.1",
+    "gray-matter": "^4.0.3",
+    "marked": "^16.0.0"
   }
 }

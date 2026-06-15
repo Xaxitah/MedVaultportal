@@ -1,0 +1,323 @@
+/* ============================================================
+   Content pages — design v2 applied to markdown-rendered resumos,
+   livros, mapas mentais, etc.
+   ============================================================ */
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body.doc-page {
+  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  background: var(--mv-bg, #f0f2f5);
+  color: var(--mv-ink, #1a1a2e);
+  line-height: 1.55;
+  font-size: 16px;
+}
+
+/* ============== Header ============== */
+.doc-header {
+  background: linear-gradient(135deg, var(--mv-navy-900) 0%, var(--mv-navy-800) 60%, var(--accent, var(--mv-navy-700)) 100%);
+  color: #fff;
+  padding: 14px 0;
+  box-shadow: 0 1px 6px rgba(0,0,0,.12);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.doc-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.doc-back {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  background: rgba(255,255,255,.12);
+  transition: background .14s ease;
+}
+.doc-back:hover { background: rgba(255,255,255,.22); }
+
+.doc-crumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+.doc-disc {
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+.doc-prova {
+  font-weight: 800;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.18);
+  font-size: 11px;
+  letter-spacing: .06em;
+}
+.prova-p1 { background: linear-gradient(135deg, #4a90e2, #2563eb); }
+.prova-p2 { background: linear-gradient(135deg, #a855f7, #7c3aed); }
+.prova-p3 { background: linear-gradient(135deg, #ef4444, #b91c1c); }
+.doc-tipo {
+  background: rgba(255,255,255,.12);
+  padding: 3px 9px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+/* ============== Main ============== */
+.doc-main {
+  max-width: 880px;
+  margin: 24px auto;
+  padding: 0 24px;
+}
+.doc-article {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,.05);
+  padding: 36px 44px;
+  border-top: 5px solid var(--accent, var(--mv-navy-700));
+}
+.doc-title {
+  margin: 0 0 14px;
+  font-size: 1.9rem;
+  font-weight: 800;
+  letter-spacing: -.4px;
+  color: var(--mv-ink);
+}
+.doc-fonte {
+  background: var(--mv-bg-alt, #f8fafc);
+  border-left: 4px solid var(--accent, var(--mv-navy-700));
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 13.5px;
+  color: var(--mv-ink-muted, #555);
+  margin: 0 0 22px;
+}
+
+.banner {
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 22px;
+  font-weight: 600;
+  font-size: 14px;
+}
+.banner-pending {
+  background: #fff7e6;
+  border: 1px solid #f5c97a;
+  color: #7a4f00;
+}
+
+/* ============== Body ============== */
+.doc-body h1, .doc-body h2, .doc-body h3, .doc-body h4 {
+  font-weight: 700;
+  letter-spacing: -.2px;
+  margin-top: 1.8em;
+  margin-bottom: .55em;
+  color: var(--mv-ink);
+}
+.doc-body h1 { font-size: 1.6rem; }
+.doc-body h2 {
+  font-size: 1.35rem;
+  border-bottom: 2px solid var(--mv-border-soft, #eceef1);
+  padding-bottom: 4px;
+}
+.doc-body h3 { font-size: 1.12rem; color: var(--accent, var(--mv-navy-700)); }
+.doc-body h4 { font-size: 1.02rem; }
+
+.doc-body p { margin: 0.6em 0; }
+.doc-body strong { color: var(--mv-ink); }
+.doc-body em { color: var(--mv-ink-muted, #555); }
+
+.doc-body ul, .doc-body ol { margin: 0.6em 0; padding-left: 1.5em; }
+.doc-body li { margin: 0.25em 0; }
+
+.doc-body hr {
+  border: none;
+  border-top: 1px dashed var(--mv-border, #e0e0e0);
+  margin: 1.6em 0;
+}
+
+.doc-body a {
+  color: var(--mv-indigo-500, #3949ab);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(57,73,171,.25);
+}
+.doc-body a:hover { border-bottom-color: var(--mv-indigo-500); }
+
+.wikilink {
+  background: var(--mv-bg-alt, #f8fafc);
+  border-radius: 4px;
+  padding: 1px 5px;
+  border-bottom: 1px dashed var(--mv-ink-faint, #8a8f98);
+  font-weight: 500;
+  font-size: .95em;
+}
+
+/* ============== Code ============== */
+.doc-body code {
+  background: #f3f4f6;
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-family: ui-monospace, 'Cascadia Code', 'Fira Code', monospace;
+  font-size: 0.9em;
+  color: #be185d;
+}
+.doc-body pre {
+  background: #1f2937;
+  color: #f9fafb;
+  border-radius: 8px;
+  padding: 14px 18px;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.doc-body pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+/* ============== Tables ============== */
+.doc-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 14.5px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.04);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.doc-body thead { background: var(--mv-navy-900); color: #fff; }
+.doc-body th {
+  text-align: left;
+  padding: 9px 12px;
+  font-weight: 700;
+  font-size: 13.5px;
+  letter-spacing: .02em;
+}
+.doc-body td {
+  padding: 9px 12px;
+  border-top: 1px solid var(--mv-border-soft, #eceef1);
+  vertical-align: top;
+}
+.doc-body tbody tr:nth-child(odd) { background: var(--mv-bg-alt, #f8fafc); }
+.doc-body tbody tr:hover { background: #f1f5f9; }
+
+/* ============== Blockquotes ============== */
+.doc-body blockquote {
+  border-left: 4px solid var(--mv-indigo-400, #5c6bc0);
+  background: var(--mv-bg-alt, #f8fafc);
+  margin: 1em 0;
+  padding: 10px 14px;
+  border-radius: 4px;
+  color: var(--mv-ink-muted, #555);
+}
+.doc-body blockquote p { margin: 0.3em 0; }
+
+/* ============== Callouts (Obsidian) ============== */
+.callout {
+  border-left: 5px solid var(--callout-color, var(--mv-indigo-400));
+  background: var(--callout-bg, var(--mv-bg-alt));
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 1.1em 0;
+}
+.callout-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 800;
+  letter-spacing: .02em;
+  color: var(--callout-color, var(--mv-indigo-500));
+  margin-bottom: 6px;
+  font-size: 14.5px;
+}
+.callout-icon { font-size: 1.05em; }
+.callout-body p:first-child { margin-top: 0; }
+.callout-body p:last-child { margin-bottom: 0; }
+
+.callout-info { --callout-color: #1565c0; --callout-bg: #e3f2fd; }
+.callout-tip { --callout-color: #00695c; --callout-bg: #e0f2f1; }
+.callout-success { --callout-color: #2e7d32; --callout-bg: #e8f5e9; }
+.callout-note { --callout-color: #5c6bc0; --callout-bg: #eef0ff; }
+.callout-warning { --callout-color: #ef6c00; --callout-bg: #fff3e0; }
+.callout-danger,
+.callout-failure,
+.callout-bug { --callout-color: #c62828; --callout-bg: #ffebee; }
+.callout-example,
+.callout-abstract { --callout-color: #6a1b9a; --callout-bg: #f3e5f5; }
+.callout-question,
+.callout-todo { --callout-color: #283593; --callout-bg: #e8eaf6; }
+.callout-important { --callout-color: #bf360c; --callout-bg: #fbe9e7; }
+.callout-quote { --callout-color: #555; --callout-bg: #f5f5f5; }
+
+/* ============== Images ============== */
+.doc-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 1.1em auto;
+  box-shadow: 0 2px 10px rgba(0,0,0,.08);
+}
+.md-image {
+  margin: 1.3em 0;
+  text-align: center;
+}
+.md-image figcaption.md-image-fallback {
+  display: none;
+}
+.md-image.img-missing figcaption.md-image-fallback {
+  display: block;
+  background: var(--mv-bg-alt, #f8fafc);
+  border: 1px dashed var(--mv-border, #e0e0e0);
+  border-radius: 8px;
+  padding: 18px;
+  color: var(--mv-ink-muted, #555);
+  font-size: 13.5px;
+  font-style: normal;
+  text-align: left;
+}
+.md-image.img-missing .img-note {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--mv-ink-faint, #8a8f98);
+  font-style: italic;
+}
+
+/* ============== Footer ============== */
+.doc-footer {
+  max-width: 880px;
+  margin: 40px auto 28px;
+  padding: 0 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: var(--mv-ink-faint, #8a8f98);
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.doc-footer a {
+  color: var(--mv-indigo-500, #3949ab);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+@media (max-width: 720px) {
+  .doc-article { padding: 24px 18px; }
+  .doc-title { font-size: 1.45rem; }
+  .doc-body h2 { font-size: 1.2rem; }
+}

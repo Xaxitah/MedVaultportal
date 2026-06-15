@@ -1,0 +1,5453 @@
+---
+tipo: livro-capitulo
+disciplina: farmacologia
+tags:
+  - biblioteca-geral
+  - livro-capitulo
+  - goodman-gilman
+  - farmacologia
+  - capitulo-18
+data: 06-05-2026
+tema: goodman-gilman-cap-18-opioides-analgesia-e-tratamento-da-dor
+status: separando
+ficha-registrada: true
+prova: ''
+fonte: Goodman & Gilman 12 ed. Capitulo 18
+_source: >-
+  07-Biblioteca-Geral/01-Livros/Farmacologia-Livro-Goodman-Gilman-12-edicao-artmed/Goodman-Gilman-Cap-18-Opioides-Analgesia-e-Tratamento-da-Dor.md
+---
+
+# Goodman & Gilman — Capítulo 18: Opioides Analgesia e Tratamento da Dor
+
+> **Fonte:** Goodman & Gilman — As Bases Farmacológicas da Terapêutica, 12ª ed.
+> **Extração:** PyMuPDF get_text() — texto digital direto do PDF.
+> **Páginas:** 46
+> **Imagens no banco:** `07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/`  
+> Catálogo: `catalogo-goodman-cap18.md`
+
+
+---
+<!-- Página 1 -->
+
+Opioides, analgesia 
+e tratamento da dor
+Tony L. Yaksh e Mark S. Wallace
+18 
+Capítulo
+A dor é um componente presente virtualmente em todas 
+as patologias clínicas e seu tratamento é um imperativo 
+clínico fundamental. Os opioides constituem a base do 
+tratamento da dor, mas o controle eﬁ caz da dor pode en-
+volver, dependendo da condição dolorosa, uma ou mais 
+classes de fármacos, inclusive anti-inﬂ amatórios não es-
+teroides (AINEs), anticonvulsivantes e antidepressivos. 
+As propriedades desses fármacos não opioides estão des-
+critas nos Capítulos 34, 21 e 15. Este capítulo enfatiza 
+primeiramente as propriedades bioquímicas, farmacoló-
+gicas e funcionais do sistema opioide, que deﬁ nem os 
+efeitos dos opioides no processamento da dor, funções 
+endócrino-autonômicas gastrintestinal – e nos circuitos 
+de gratiﬁ cação-dependência. Em seguida, o capítulo des-
+creve os princípios que governam a utilização dos fárma-
+cos opioides e não opioides no tratamento dos estados 
+dolorosos encontrados na prática clínica.
+O termo opiáceo refere-se aos compostos relacio-
+nados estruturalmente com os produtos encontrados no 
+ópio, uma palavra deriva de opos, o vocábulo grego para 
+“suco”, porque os opiáceos naturais eram derivados da 
+resina retirada da papoula do ópio (Papaver somnife-
+rum). Os opiáceos incluem os alcaloides vegetais natu-
+rais como morﬁ na, codeína, tebaína e muitos derivados 
+semissintéticos. Opioide é qualquer composto, indepen-
+dentemente da sua estrutura, que possua as propriedades 
+funcionais e farmacológicas de um opiáceo. Os opioides 
+endógenos, entre os quais muitos são peptídeos, são os 
+ligandos naturais dos receptores opioides encontrados 
+nos animais. O termo endorﬁ na é usado como sinônimo 
+de peptídeos opioides endógenos, mas também se refere 
+a um opioide endógeno especíﬁ co, β-endorﬁ na. O termo 
+narcótico deriva da palavra grega narkotikos, que signi-
+ﬁ ca “entorpecimento” ou “estupor”. Embora esse termo 
+tenha sido aplicado inicialmente a qualquer fármaco que 
+causasse narcose ou sono, a palavra passou a ser ligada 
+aos opioides e geralmente é usada no contexto legal para 
+descrever várias substâncias que podem causar abuso ou 
+drogadição.
+História. A primeira referência inquestionável ao ópio encontra-se 
+nos escritos de Teofrasto, no século III AC. Os médicos árabes eram 
+bem versados no uso do ópio; os comerciantes árabes introduzi-
+ram a droga no Oriente, onde era empregado principalmente para o 
+controle da disenteria. Em 1680, Sydenham enalteceu o ópio com 
+as seguintes palavras: “Entre os remédios que Deus Todo Poderoso 
+houve por bem dar ao homem para aliviar-lhe os sofrimentos, ne-
+nhum é tão universal e tão eﬁ caz quanto o ópio.”
+O ópio contém > 20 alcaloides distintos. Em 1806, Frederich 
+Sertürner, assistente de farmacêutico, descreveu o isolamento por 
+cristalização de uma substância pura no ópio e a denominou mor-
+ﬁ na, em referência a Morfeu, o deus grego dos sonhos. Na metade 
+do século XIX, o uso de alcaloides puros no lugar de preparações 
+grosseiras de ópio começou a disseminar-se entre os médicos, um 
+fato que coincidiu com o desenvolvimento da seringa hipodérmica 
+e das agulhas ocas, permitindo a injeção direta dessas preparações 
+hidrossolúveis “sob a pele” dos pacientes.
+Do mesmo modo que os seus notáveis efeitos benéﬁ cos, os 
+efeitos colaterais tóxicos e o potencial de causar dependência dos 
+opioides são também conhecidos há séculos. Durante a guerra civil 
+americana, a administração da “alegria dos soldados” comumente 
+causava a “doen ça dos soldados”, ou seja, a drogadição opioide 
+desencadeada pela droga usada para controlar as dores crônicas 
+causadas por feridas de guerra. Esses problemas estimularam a 
+busca por analgésicos opioides sintéticos potentes, livres do poten-
+cial de causar dependência e outros efeitos colaterais. Em 1874, a 
+descoberta inicial do produto sintético denominado heroína por C. 
+R. Alder Wright em 1874 foi seguida de sua utilização disseminada 
+como supressor da tosse e sedativo que, segundo se aﬁ rmava, não 
+causava dependência. Infelizmente, a heroína e todos os compostos 
+sintéticos subsequentes introduzidos na prática clínica comparti-
+lham as mesmas propriedades dos opioides clássicos, inclusive seu 
+potencial de causar dependência. Entretanto, a busca por novos 
+agonistas opioides levou à síntese de antagonistas opioides e de 
+compostos com propriedades agonistas-antagonistas mistas, que 
+expandiram as opções terapêuticas e forneceram importantes ferra-
+mentas para explorar os mecanismos das ações dos opioides.
+Até o início da década de 1970, os efeitos da morﬁ na, da 
+heroína e dos outros opioides como substâncias antinociceptivas 
+e causadoras de dependência estavam bem descritas, mas os me-
+canismos responsáveis pela interação dos alcaloides opioides com 
+os sistemas biológicos eram desconhecidos. Estudos ﬁ siológicos 
+in vitro e in vitro, que investigaram a farmacologia dos agonistas 
+opiáceos, seus antagonistas e a tolerância cruzada geraram a hipó-
+tese da existência de três receptores opioides diferentes: mu (μ), 
+kappa (κ) e delta (δ) (Martin e cols., 1976). Esses resultados foram 
+complementados pelos estudos demonstrando os diversos sítios 
+de ligação dos ligandos marcados radioativamente para os opiá-
+ceos nas membranas das células cerebrais (Goldstein e cols., 1971;
+
+---
+<!-- Página 2 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-02-quadro-18-1-e-figura-18-1.png]]
+
+482
+SEÇÃO II
+NEUROFARMACOLOGIA
+Pert e cols., 1973). A hipótese dos três receptores foi conﬁ rmada 
+pela clonagem subsequente, que indicou a existência de três tipos 
+principais de receptores na farmacologia dos opioides (Waldhoer 
+e cols., 2004). Em 2000, o Committee on Receptor Nomenclature 
+and Drug Classiﬁ cation of the International Union of Pharma-
+cology adotou os termos de receptores MOP, DOP e KOP (mu 
+opioid peptide, ou peptídeo opioide mu etc.). Simultaneamente à 
+identiﬁ cação desses receptores opioides, Kostelitz e colaborado-
+res (Hughes e cols., 1975) identiﬁ caram um fator semelhante aos 
+opiá ceos endógenos, que denominaram de encefalina (“originada 
+do cérebro”). Pouco depois, foram isoladas duas classes adicio-
+nais de peptídeos endógenos, que passaram a ser conhecidos como 
+endorﬁ nas e dinorﬁ nas (Akil e cols., 1984). No trabalho original 
+de Martin, o receptor sigma (σ) foi identiﬁ cado e parecia repre-
+sentar um sítio de ligação responsável pelos efeitos excitatórios 
+paradoxais dos opiáceos; hoje se sabe que este receptor é o sítio de 
+ligação da fenciclidina e, em termos estritos, não é propriamente 
+um receptor ou sítio receptor dos opiáceos.
+SISTEMAS OPIOIDES ENDÓGENOS: 
+AGONISTAS E RECEPTORES
+As substâncias presentes no cérebro que atuam por meio 
+de um receptor opioide são conhecidas como opioides 
+endógenos. Existem descritas várias famílias diferentes 
+de opioides endógenos, principalmente encefalinas, en-
+dorﬁ nas e dinorﬁ nas. Essas famílias possuem várias pro-
+priedades em comum:
+Cada família origina-se de uma proteína precur-
+ •
+sora grande diferente: pré-pró-opiomelanocortina 
+(POMC), pré-pró-encefalina e pré-pró-dinorﬁ na, res-
+pectivamente, que são codiﬁ cadas por seus genes cor-
+respondentes.
+Cada precursor está sujeito a processos de clivagem 
+ •
+complexos por enzimas diferentes semelhantes à trip-
+sina, geralmente nos sítios designados por pares de 
+aminoácidos dibásicos, além de várias modiﬁ cações 
+pós-translacionais que resultam na síntese de vários 
+peptídeos, dos quais alguns são ativos.
+A maioria dos peptídeos opioides com atividade em 
+ •
+determinado receptor compartilha da mesma sequên-
+cia aminoterminal de Tir-Gli-Gli-Fen-(Met ou Leu), 
+seguida de várias extensões C-terminais que formam 
+peptídeos compostos de poucas (5) ou muitas molécu-
+las (Quadro 18-1; as endorﬁ nas com sequências termi-
+nais diferentes são exceções).
+A sequência da POMC contém vários peptídeos não opioi-
+des, inclusive o hormônio adrenocorticotróﬁ co (ACTH), o hor-
+mônio estimulador dos melanócitos (αMSH) e a β-lipotropina 
+(β-LPH), todos formados pela clivagem proteolítica da molécula 
+original (POMC). O principal peptídeo opioide derivado da cli-
+vagem adicional da β-lipotropina é o agonista opioide potente 
+conhecido como β-endorﬁ na. Embora a β-endorﬁ na contenha a 
+sequência da metencefalina em sua extremidade aminoterminal, 
+ela não é convertida a este peptídeo. A distribuição anatômica das 
+células que produzem POMC é relativamente limitada ao interior 
+do SNC, ocorrendo principalmente no núcleo arqueado do hipo-
+tálamo e no núcleo do trato solitário. Esses neurônios projetam-se 
+amplamente para as áreas límbicas e do tronco cerebral e para a 
+medula espinal. A expressão da POMC também ocorre nos lobos 
+anterior e intermediário da hipóﬁ se e nas células das ilhotas pan-
+creáticas. A β-endorﬁ na circulante origina-se principalmente da 
+hipóﬁ se, de onde ela e outros hormônios hipoﬁ sários são liberados 
+(Capítulo 38).
+A pró-encefalina contém muitas cópias da meta-encefalina, 
+bem como uma única cópia da leu-encefalina. Os peptídeos da 
+pra-en ce falina estão presentes nas áreas do SNC que parecem estar 
+relacionadas com o processamento dos estímulos dolorosos (p. ex., 
+lâminas I e II da medula espinal, o núcleo trigêmeo espinal e a subs-
+tância cinzenta periaquedutal), a modulação do comportamento afe-
+tivo (p. ex., amígdala, hipocampo, substância ferruginosa e córtex 
+cerebral frontal), a modulação do controle motor (p. ex., núcleo 
+caudado e globo pálido), a regulação do sistema nervoso autônomo 
+(p. ex., bulbo) e funções neuroendócrinas (p. ex., eminência me-
+diana). Embora existam uns poucos tratos de ﬁ bras encefalinérgicas 
+longas, estes peptídeos estão presentes principalmente nos interneu-
+rônios com axônios curtos. Os peptídeos derivados da pró-encefalina 
+também podem ser encontrados nas células cromafínicas da medula 
+suprarrenal e nos plexos nervosos e nas glândulas exócrinas do estô-
+mago e do intestino. Os produtos da pró-encefalina circulante pare-
+cem originar-se principalmente dessas áreas.
+A pró-dinorﬁ na contém três peptídeos de dimensões diferen-
+tes e todos começam com a sequência da leuencefalina: dinorﬁ na A, 
+dinorﬁ na B e neoendorﬁ na (Figura 18-1). Os peptídeos derivados 
+da pró-dinorﬁ na estão amplamente distribuídos nos neurônios e, em 
+menores quantidades, nos astrócitos presentes em todo o cérebro e 
+medula espinal; além disso, estes peptídeos estão comumente coex-
+pressos com outros precursores dos peptídeos opioides.
+O peptídeo nociceptina está presente nos neurônios ampla-
+mente distribuídos por todo o cérebro (córtex, hipocampo, tronco 
+cerebral e, em menores quantidades, hipotálamo, tálamo, núcleos da 
+rafe e substância cinzenta periaquedutal) e nas estruturas da medula 
+espinal. Além disso, esse peptídeo foi encontrado nos neurônios, 
+nos astrócitos e nos neutróﬁ los.
+Mais recentemente, pesquisadores identiﬁ caram uma família 
+de peptídeos que foram denominados de endomorﬁ nas: endomorﬁ -
+na-1 (Tir-Pro-Trp-Fen-NH2) e endorﬁ na-2 (Tir-Pro-Fen-Fen-NH2) 
+(Zadina e cols., 1997). Em comparação com outros peptídeos opioi-
+des, as endomorﬁ nas têm estruturas atípicas e demonstram seletivi-
+dade pelo receptor opioide μ (Fichna e cols., 2007).
+É importante ressaltar alguns pontos:
+Nem todas as células que produzem um precursor dos pró-hor-
+ •
+mônios opioides armazenam e liberam a mesma mistura de pep-
+tídeos opioides; isto é atribuído ao processamento diferencial 
+secundário às variações do complemento celular de peptidases 
+que produzem e degradam os fragmentos opioides ativos (Hook 
+e cols., 2008).
+O processamento desses peptídeos é alterado pelas demandas 
+ •
+ﬁ siológicas, resultando na liberação de misturas diferentes de 
+peptídeos derivados pós-translação por determinada célula em 
+diferentes condições.
+Os peptídeos opioides estão presentes no plasma e isto reﬂ ete sua 
+ •
+liberação pelos sistemas secretores como a hipóﬁ se e as glându-
+las suprarrenais, que não dependem da liberação neuroaxial. Por 
+outro lado, os níveis desses peptídeos no cérebro ou na medula 
+espinal e no líquido cerebrospinal (LCS) dependem dos sistemas 
+neuroaxiais e não dos sistemas periféricos.
+
+---
+<!-- Página 3 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-03-quadro-18-1.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+483
+Quadro 18-1
+Ações e seletividades de alguns opioides nos receptores μ, δ e κ
+TIPOS DE RECEPTORES
+LIGANDOS OPIOIDES
+μ
+δ
+κ
+Agonistas
+Etorﬁ na
++++
++++
++++
+Fentanila
++++
+Hidromorfona
++++
++
+Levorfanol
++++
+Metadona
++++
+Morﬁ naa
++++
++
+Sufentanila
++++
++
++
+DAMGOa (D-Ala2,MeFen4,Gli(ol)5]encefalina)
++++
+DPDPEb (D-Pen2,D-Pen5]encefalina)
+++
+[D-Ala2,Glu4]deltorﬁ na
+++
+DSLET ([D-Ser2,Leu5]encefalina-Tre6)
++
+++
+SNC80
+++
+Bremazocina
++++
+++
++++
+Buprenorﬁ na
+P
+– –
+Butorfanol
+P
++++
+Etilcetociclazocina
+P
++
++++
+Nalbuﬁ na
+– –
+++
+Espiradolinac
++
++++
+U50,488c
++++
+U69,593c
++++
+Peptídeos endógenos
+Metencefalina (Tir-Gli-Gli-Fen-Met)
+++
++++
+Leuencefalina (Tir-Gli-Gli-Fen-Leu)
+++
++++
+β-Endorfina (Tir-Gli-Gli-Fen-Met-Tre-Ser-Glu-Lis-Ser-Gln-Tre-
+Pro-Leu-Val-Tre-Leu-Fen-Lis-Asn-Ala-Ile-Ile-Lis-Asn-Ala-Tre-
+Lis-Lis-Gli-Glu)
++++
++++
+Dinorfina A (Tir-Gli-Gli-Fen-Leu-Arg-Arg-Ile-Arg-Pro-Lis-
+Leu-Lis-Trp-Asp-Asn-Gln)
+++
++++
+Dinorfina B (Tir-Gli-Gli-Fen-Leu-Arg-Arg-Gln-Fen-Lis-Val-
+Val-Tre)
++
++++
+α-Neoendorfina (Tir-Gli-Gli-Fen-Leu-Arg-Lis-Tir-Pro-Lis)
++
++
++++
+Endomorfina-1 (Tir-Pro-Trp-Fen-NH2)
++++
++
+Nociceptina (orfanina FQ) (Fen-Gli-Gli-Fen-Tre-Gli-Ala-Arg-
+Lis-Ser-Ala-Arg-Lis-Leu-Ala-Asn-Gln)
+–
+–
+–
+(continua)
+
+---
+<!-- Página 4 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-04-quadro-18-1-e-figura-18-2.png]]
+
+484
+SEÇÃO II
+NEUROFARMACOLOGIA
+Quadro 18-1
+Ações e seletividades de alguns opioides nos receptores μ, δ e κ (Continuação)
+RECEPTORES OPIOIDES
+Principais classes dos receptores 
+e sua distribuição
+Os três receptores opioides — δ, μ e κ — pertencem à 
+família da rodopsina das GPCRs (Capítulo 3) e apresen-
+tam homologia de sequência muito ampla (55-58%). A 
+maior diversidade é encontrada em suas alças extracelu-
+lares. Além disso, todos os receptores opioides possuem 
+duas moléculas conservadas de cisteína na primeira e 
+na segunda alças extracelulares, formando uma ponte 
+dissulfídrica.
+Os receptores opioides μ, κ e δ estão amplamente 
+distribuídos e essa distribuição foi estudada detalhada-
+mente por meio da imuno-histoquímica, da hibridização in 
+situ e, mais recentemente, pelas técnicas de imageamento 
+não invasivo. Os efeitos profundos e diversos nas funções 
+do SNC são compatíveis com a densidade e a distribui-
+ção diversa dos receptores no cérebro e na medula espinal 
+(Henriksen e cols., 2008). Além disso, esses receptores 
+estão expressos em uma grande variedade de tecidos pe-
+riféricos, inclusive vasos sanguíneos, coração, vias respi-
+ratórias/pulmões, intestino e em muitas células imunes/
+inﬂ amatórias ﬁ xas e circulantes (descritas mais adiante).
+Após a clonagem dos receptores opioides clássicos, a proteí na 
+semelhante ao receptor opiáceo acoplado à proteína G (ORL1 ou 
+NOP) foi clonada com base em sua homologia estrutural (seme-
+lhança de 48-49%) com outros membros da família de receptores 
+opioides; este receptor tem um ligando endógeno, que é a nocicep-
+tina/orfanina (FQ:N/OFQ) (Stevens, 2009). Ver Figura 18-2. Como 
+esse sistema não tem farmacologia opioide (Fioravanti e cols., 
+2008), ele não será descrito detalhadamente neste capítulo.
+Os sítios de ligação da N/OFQ foram localizados principal-
+mente no SNC e estão densamente distribuídos nas regiões corti-
+cais, no prosencéfalo ventral, no hipocampo, no tronco cerebral e 
+na medula espinal, bem como em algumas células periféricas como 
+basóﬁ los, células endoteliais e macrófagos.
+Subtipos dos receptores dos opiáceos
+A existência de três classes de receptores dos opiáceos (MOR, DOR 
+e KOR) é amplamente aceita. Os receptores opioides apareceram pre-
+cocemente ao longo da evolução dos vertebrados e já estavam presen-
+tes com o aparecimento dos vertebrados mandibulados. Os receptores 
+opioides humanos foram mapeados no cromossomo 1p355-33 (DOR), 
+no cromossomo 8q11.23-21 (KOR), no cromossomo 6q25-26 (MOR) 
+e no cromossomo 20q13.33 (NOR) (Dreborg e cols., 2008). As téc-
+nicas de hibridização de baixa seletividade não identiﬁ caram outros 
+tipos de receptores opioides, além dos que já foram clonados. No 
+entanto, estudos farmacológicos sugeriram a possível existência de 
+no mínimo dois subtipos para cada receptor. Embora os estudos de 
+clonagem não tenham conﬁ rmado a existência desses subtipos como 
+classes diferentes, a especiﬁ cidade modiﬁ cada para os ligandos opio-
+ides pode ser causada por vários eventos subjacentes.
+Heterodimerização. Na membrana, os receptores opioides podem 
+formar homodímeros e heterodímeros. A dimerização pode alterar 
+as propriedades farmacológicas dos respectivos receptores. Por 
+exemplo, os DORs formam heterodímeros com MORs e KORs. 
+Desse modo, os heterodímeros MOR-DOR e DOR-KOR demons-
+tram menos aﬁ nidade pelos agonistas altamente seletivos, menos 
+circulação do receptor induzida pelo agonista e sinergismo mútuo 
+TIPOS DE RECEPTORES
+LIGANDOS OPIOIDES
+μ
+δ
+κ
+Antagonistas
+Naloxonad
+– – –
+–
+– –
+Naltrexonad
+– – –
+–
+– – –
+CTOPa
+– – –
+Diprenorfina
+– – –
+– –
+– – –
+β-Flunaltrexaminaa,e
+– – –
+–
+++
+Naloxonazina
+– – –
+–
+–
+Nor-binaltorfimina
+–
+–
+– – –
+Naltrindolb
+–
+– – –
+–
+Naloxona benzoil-hidrazona
+– – –
+–
+–
+aProtótipo μ preferencial. bProtótipo δ preferencial. cProtótipo κ preferencial. dLigando universal. eLigando irreversível. +, agonista; –, antagonista; P, 
+agonista parcial. O número de símbolos é uma medida da potência; a razão para determinado fármaco refere-se à seletividade. Esses valores foram 
+obtidos principalmente de uma revisão conjunta dos resultados fornecidos por estudos farmacológicos com animais in vitro/in vivo e por estudos sobre 
+ligação e atividade dos ligandos e devem ser extrapolados cautelosamente aos seres humanos.
+Fonte: Reproduzido, com autorização, de Raynor e cols., 1994.
+
+---
+<!-- Página 5 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-05-figura-18-1.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+485
+entre os agonistas seletivos do receptor na ligação aos agonistas 
+respectivos e também na sinalização intracelular induzida pelo ago-
+nista (Gupta e cols., 2006).
+Splicing alternativo do receptor RNA
+O splicing alternativo do receptor RNA heteronuclear (p. ex., salto 
+de éxons e retenção de íntrons) parece desempenhar um papel im-
+portante na geração da diversidade in vivo entre os diversos mem-
+bros da superfamília GPCR (Capítulo 3).Variantes de montagem 
+existem em cada uma das três famílias de receptores opioides e este 
+splicing alternativo dos transcritos do receptor pode ser crucial para 
+a diversidade dos receptores opioides. Por exemplo, o gene Oprm 
+humano tem no mínimo dois éxons múltiplos promotores, com mui-
+tos éxons gerando no mínimo 11 variantes de montagem, que codi-
+ﬁ cam várias isoformas de ligação da morﬁ na, variando basicamente 
+em sua terminação carboxílica (intracelular). Tendo em vista a im-
+portância funcional dos componentes intracelulares das GPCRs, não 
+é surpreendente que existam diferenças signiﬁ cativas nas isoformas 
+dos receptores em termos de ativação da proteína G induzida pelo 
+agonista e interiorização do receptor. É importante ressaltar que 
+estudos demonstraram que essas variantes de montagem estavam 
+expressas in vivo (Pan, 2005).
+Agonistas/antagonistas dos subtipos de receptores
+Os estudos sobre a existência e a função desses receptores depen-
+diam da convergência entre os estudos de estrutura-atividade dos 
+agonistas/antagonistas e de vários ensaios funcionais realizados em 
+sistemas de receptores biológicos e clonados. Foram desenvolvidos 
+agonistas altamente seletivos, que demonstram aﬁ nidade especíﬁ ca 
+pelo respectivo sítio de ligação e ativação do reporter acoplado à 
+proteína G nos sistemas de expressão clonada (p. ex., DAMGO para 
+MOR, DPDPE para DOR e U-50,488, e U-69,593 para KOR) (Qua-
+dro 18-1). O estudo das funções biológicas dos receptores opioides 
+in vivo foi facilitado pela síntese dos antagonistas seletivos. Entre os 
+antagonistas utilizados mais comumente estão os análogos cíclicos 
+da somatostatina, inclusive a CTOP como antagonista do receptor 
+MOR, um derivado da naloxona conhecido como naltrindol como 
+antagonista do receptor DOR, e um derivado bivalente da naltrexona 
+conhecido como nor-binaltorﬁ mina (nor-BNI) como antagonista do 
+receptor KOR. Esses recursos possibilitaram a caracterização da dis-
+tribuição da ligação que, em conjunto com os estudos imunoisto-
+químicos utilizando anticorpos derivados dos receptores clonados, 
+ajudaram a deﬁ nir a distribuição anatômica dos receptores e as fun-
+ções dos respectivos receptores nas funções biológicas. A tomograﬁ a 
+por emissão de pósitrons (PET) foi usada para caracterizar a ligação 
+in vivo no cérebro com ligandos seletivos marcados isotopicamente 
+(Henriksen e Willoch, 2008). A administração in vivo de antagonistas 
+e agonistas seletivos em regiões especíﬁ cas do cérebro determinou 
+os tipos de receptores e a distribuição anatômica responsável pela 
+mediação dos diversos efeitos dos opioides (ver adiante).
+Estrutura dos receptores
+Cada receptor consiste em um segmento N-terminal extracelular, 
+sete hélices transmembrana, três alças extracelulares e intracelulares 
+e um segmento C-terminal intracelular característico das GPCRs. 
+Os receptores opioides também têm duas moléculas conservadas de 
+cisteína na primeira e na segunda alças extracelulares, que formam 
+uma ponte dissulfídrica.
+Figura 18-1 Precursores peptídicos. (Reproduzida, com autorização, de Akil e cols., 1998. Direitos autorais © da Elsevier.)
+Pró-orfanina
+Pró-dinorfina
+Pró-encefalina
+POMC
+Orfanina
+α-Neoendorfina
+γ-MSH
+α-MSH
+CLIP
+Dinorfina A
+Dinorfina B
+Heptapeptídeo
+Octapeptídeo
+Peptídeo F
+Leuencefalina
+Metencefalina
+β-MSH
+β-Endorfina
+γ-LPH
+β-LPH
+ACTH
+LEGENDA
+
+---
+<!-- Página 6 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-06-figura-18-3-e-figura-18-2.png]]
+
+486
+SEÇÃO II
+NEUROFARMACOLOGIA
+Correlatos estruturais dos requisitos de 
+ligação/acoplamento dos ligandos opiáceos
+Estruturas dos receptores opiáceos. Os estudos dos receptores 
+quiméricos e da mutagênese sítio dirigida dos receptores clonados 
+forneceram esclarecimentos deﬁ nitivos quanto aos determinantes 
+estruturais da interação entre ligando-receptor opioide. Embora haja 
+complexidade signiﬁ cativa (Kane e cols., 2006), vários princípios 
+gerais deﬁ nem a ligação e a seletividade. Primeiramente, todos os 
+receptores opioides apresentam uma bolsa de ligação formada por 
+TM3-TM7. Em segundo lugar, a bolsa do respectivo receptor está 
+parcialmente coberta pelas alças extracelulares que, junto com as 
+terminações extracelulares dos segmentos TM, formam um portão 
+que assegura a seletividade e permite que ligandos (principalmente 
+peptídeos) tenham acesso diferenciado aos diferentes tipos de recep-
+tor. Desse modo, os alcaloides (p. ex., morﬁ na) ligam-se ao centro 
+da porção transmembrana do receptor, enquanto os ligandos peptidí-
+licos longos ligam-se às alças extracelulares. Como foi mencionado, 
+as alças extracelulares demonstram a maior diversidade estrutural 
+entre os receptores. Em terceiro lugar, a seletividade foi atribuída às 
+alças extracelulares: primeira e terceira para os receptores MORs, 
+segunda para os KORs e terceira para os DORs (Waldhoer e cols., 
+2004). Os antagonistas alcaloides parecem ligar-se a uma região 
+mais profunda da bolsa, impedindo estericamente as alterações con-
+formacionais que resultam no antagonismo funcional.
+Relações entre estrutura e atividade. A seletividade dos recepto-
+res aos diversos antagonistas opiáceos geralmente é explicada em 
+termos de “mensagem-endereço” (Takemori e Portoghese, 1992). 
+Desse modo, os elementos compartilhados por todas as estruturas 
+(que reﬂ etem os compostos que se ligam a todos os sítios, como a 
+naltrexona) representam a “mensagem”, enquanto os elementos as-
+sociados ao acoplamento de um ligando a um receptor especíﬁ co re-
+presentam o “endereço” estrutural. Os aspectos estruturais comuns 
+que constituem a mensagem são:
+um nitrogênio protonado
+ •
+um anel fenólico (que forma tiramina com o nitrogênio proto-
+ •
+nado)
+um domínio hidrofóbico
+ •
+A essa “mensagem” são acrescentados uma região “aco-
+pladora” va riá vel e o “endereço” que especiﬁ ca a seletividade do 
+receptor opioide (Figura 18-3). Os reﬁ namentos desse modelo de 
+mensagem-acoplador-endereço resultaram na síntese de novos com-
+postos com especiﬁ cidade prevista. Para os receptores KOR e DOR, 
+os elementos que constituem o endereço foram deﬁ nidos. Desse 
+modo, no caso do receptor KOR, um segundo grupo hidrofóbico bá-
+sico está implicado na formação de uma ponta salina especíﬁ ca; no 
+caso do receptor DOR, um grupo hidrofóbico (p. ex., indol) forma 
+o endereço. Os ligandos do receptor MOR como a morﬁ na não pos-
+suem uma molécula química comum e, desse modo, outros elemen-
+tos parecem contribuir para a especiﬁ cidade dos ligandos por este 
+receptor (Kane e cols., 2006).
+Correlação entre receptor opiáceo e função 
+da membrana
+A ligação dos agonistas causa alterações conformacionais da GPCR 
+e inicia o ciclo de ativação/inativação da proteína G (Capítulo 3). Os 
+receptores μ, κ e δ ligam-se principalmente por meio das pro teí nas 
+Gi/Go sensíveis à toxina pertussis (embora ocasionalmente também 
+a Gs ou Gz). Com a ativação do receptor, o acoplamento Gi/Go de-
+sencadeia vários eventos intracelulares, inclusive:
+Inibição da atividade da adenililciclase
+ •
+Redução da abertura dos canais de Ca
+ •
+2+ controlados por volta-
+gem
+Estimulação da corrente de K
+ •
++ por vários canais, inclusive os 
+canais de K+ retiﬁ cadores internos ativados pelas pro teí nas G 
+(GIRKs)
+Ativação da PKC e da PLC
+ •
+β
+Assim como ocorre com outras GPCRs, a segunda alça intracelular 
+é responsável pela eﬁ cácia da ativação da proteína G, enquanto a 
+terceira alça deﬁ ne a subunidade α que será ativada (Gether, 2000).
+Regulação da disposição dos receptores opiáceos
+Como ocorre com outras GPCRs, os receptores MORs e DORs 
+podem sofrer interiorização rápida mediada por um agonista por 
+meio de uma via endocítica clássica mediada pela β-arrestina, 
+enquanto os receptores KORs não são interiorizados a exposição 
+prolongada a um agonista (Chu e cols., 1997). Aparentemente, a 
+interiorização dos receptores MORs e DORs ocorre por vias en-
+docíticas parcialmente diferentes, sugerindo interações receptor-
+especíﬁ cas com diferentes mediadores do tráfego intracelular. Esses 
+processos podem ser induzidos diferencialmente em função da es-
+trutura do ligando. Por exemplo, alguns agonistas como a etorﬁ na e 
+as encefalinas causam interiorização rápida do receptor, enquanto a 
+morﬁ na não provoca a interiorização do receptor MOR, mesmo que 
+reduza com igual eﬁ cácia a atividade da adenililciclase. Além disso, 
+um receptor truncado com acoplamento normal às pro teí nas G é 
+reciclado constitutivamente da membrana para o citosol (Segredo e 
+cols., 1997), sugerindo que a ativação da transdução dos sinais e a 
+interiorização sejam controladas por mecanismos moleculares dife-
+rentes. Esses estudos também reforçam a hipótese de que ligandos 
+diferentes induzam alterações conformacionais diversas no receptor, 
+resultando em reações intracelulares divergentes; isto também pode 
+explicar as diferenças no espectro dos efeitos dos vários opioides.
+Consequências funcionais da ativação aguda 
+e crônica dos receptores dos opiáceos
+A perda do efeito com a exposição aos opiáceos ocorre depois de 
+intervalos curtos e longos.
+Dessensibilização. A ocupação aguda dos receptores opiáceos pelos 
+agonistas resulta na ativação do sistema de sinalização intracelular 
+descrito anteriormente. Em face da ativação transitória (minutos a 
+horas), pode-se observar um fenômeno conhecido como tolerân-
+cia aguda ou dessensibilização, que é especíﬁ co para cada receptor 
+e desaparece à medida que ocorre a depuração do agonista com o 
+tempo. A dessensibilização aguda provavelmente depende da fosfo-
+rilação dos receptores, resultando no desacoplamento do receptor de 
+sua proteína G e/ou na interiorização do receptor.
+Figura 18-2 Peptídeos derivados da pró-orfanina humana.
+Orfanina
+Nocistatina
+98-127: nocistatina      MPRVRSLFQEQEEPEPGMEEAGEMEQKQLQ
+FGGFTGARKSARKLANQ
+FSEFMRQYLVLSMQSSQ
+149-165: orfanina-2
+130-146: orfanina
+Orfanina-2
+
+---
+<!-- Página 7 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-07-figura-18-3.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+487
+Tolerância. A administração prolongada de um agonista opioide 
+(dias ou semanas) resulta na perda progressiva do efeito do fármaco. 
+Nesse caso, a tolerância depende da redução da eﬁ cácia aparente 
+do fármaco com a administração repetida ou contínua do agonista; 
+com a remoção do agonista, a tolerância desaparece depois de várias 
+semanas. Essa tolerância é reﬂ etida pela redução do efeito máximo 
+alcançável, ou por um desvio da curva de dose-efeito à direita. Esse 
+fenômeno pode ser evidenciado no nível da cascata intracelular 
+(p. ex., inibição reduzida da adenililciclase) e no nível dos sistemas 
+do organismo (p. ex., perda dos efeitos sedativos e analgésicos).
+Essa perda de efeito com a exposição persistente a um ago-
+nista opiáceo demonstra várias propriedades essenciais:
+As alterações da resposta são tempo-dependentes, ou seja, as al-
+ •
+terações ocorrem a curto prazo (minutos ou horas, como é o caso 
+da dessensibilização) e a longo prazo (semanas ou meses).
+A tolerância ao efeito do fármaco é sobrepujável por doses mais 
+ •
+altas do opioide.
+A tolerância é reversível com o tempo, depois da interrupção do 
+ •
+uso do fármaco.
+Cada resposta ﬁ siológica desenvolve tolerância com velocida-
+ •
+des variáveis. Desse modo, no nível dos sistemas do organismo, 
+alguns pontos terminais demonstram pouca ou nenhuma tole-
+rância (miose pupilar), alguns apresentam tolerância moderada 
+(constipação, vômitos, analgesia e sedação) e outros desenvol-
+vem tolerância rápida (efeito euforizante).
+Em geral, os agonistas opiáceos de determinada classe comu-
+ •
+mente mostram resposta reduzida em um sistema que se tornou 
+tolerante a outro fármaco da mesma classe (p. ex., tolerância 
+cruzada entre os agonistas μ, com a morﬁ na e a fentanila).
+A totalidade dessa tolerância cruzada não é inva riá vel e forma 
+a base da alternância entre os fármacos opioides utilizados no trata-
+mento clínico. Alguns pesquisadores sugeriram que essa tolerância 
+cruzada parcial reﬂ ite diferenças pequenas, embora importantes, nos 
+receptores com os quais se ligam os diversos opiáceos da mesma 
+classe (Pasternak, 2005).
+Dependência. No estado de tolerância, observa-se o fenômeno da 
+dependência. O termo dependência descreve um estado de adap-
+tação evidenciada pela síndrome de abstinência especíﬁ ca para a 
+classe de receptor/fármaco, que é produzida pela interrupção da 
+exposição à substância (p. ex., abstinência do uso de uma droga) 
+ou pela administração de um antagonista (p. ex., naloxona). A abs-
+tinência evidencia-se pela ocorrência exagerada de sinais exacer-
+bados de ativação celular. No SNC, as alterações descritas incluem 
+atividade aumentada da adenililciclase, a liberação de aminoácidos 
+e citocinas excitatórias, a ativação da micróglia e dos astrócitos e a 
+iniciação dos processos de apoptose. Esses indicadores de hiperex-
+citabilidade também são encontrados nos plexos periféricos como 
+os que existem no trato GI e nos gânglios autonômicos (descritos 
+adiante). No nível dos sistemas do organismo, a abstinência evi-
+dencia-se por ativações somatomotora e autonômica signiﬁ cativas 
+(manifestada por agitação, hiperalgesia, hipertermia, hipertensão, 
+diarreia, dilatação pupilar e secreção de quase todos os hormônios 
+hipoﬁ sários e adrenomedulares) (Kreek e cols., 1998). Esses fenô-
+menos são considerados altamente aversivos e motivam o usuário 
+da droga a fazer esforços extremos para evitar o estado de absti-
+nência. Coerente com a seletividade dos efeitos para cada receptor, 
+os sinais de abstinência observados nos animais tolerantes a deter-
+minado opiáceo podem ser suprimidos pela administração de outro 
+fármaco da mesma classe.
+Figura 18-3 Aspectos estruturais dos ligandos opioides contribuem para a seletividade do receptor. O sistema “mensagem-acoplador-ende-
+reço” (Takemore e Portoghese, 1992) foi reﬁ nada e usada para sintetizar ligandos não peptídicos que apresentam especiﬁ cidade prevista para 
+os receptores opioides. Os ligandos ilustrados acima demonstram alguns dos aspectos comuns (mensagem) e variáveis (acoplador e endereço) 
+que parecem contribuir para as interações entre ligando e receptor, tanto para os agonistas quanto os antagonistas dos receptores opioides.
+HO
+Morfina
+(μ)
+Naltrexona
+(μ/δ/κ)
+Leuencefalina
+(δ>μ)
+Nor-binaltorfina
+(κ)
+Naltrindol
+(δ)
+HO
+CH3
+O
++
+N
+H
+HO
+O
+OH
++
+N
+H
+HO
+O
+O
+OH
++
++
+N
++
+NH2
+NH
+NH
+–OOC
+HN
+HN
+H
+HO
+Mensagem
+Acoplador
+Endereço
+O
+O
+HO
+HN
+HN
+O
+O
+OH
+N
+OH
+HO
+N
+H
+O
+O
+
+---
+<!-- Página 8 -->
+
+488
+SEÇÃO II
+NEUROFARMACOLOGIA
+Drogadição. A drogadição é um padrão comportamental eviden-
+ciado pelo uso compulsivo de uma droga e o envolvimento incon-
+trolável com sua busca e utilização. Os efeitos recompensadores 
+positivos dos opiáceos são considerados o componente motivador 
+para a iniciação do uso ilícito destas drogas. Nos seres humanos e 
+nos animais, essa propriedade recompensadora positiva está sujeita 
+ao desenvolvimento de tolerância. Em vista da natureza aversiva 
+dos sintomas da abstinência no organismo dependente, não é sur-
+preendente que a evitação e o alívio destes sintomas possam trans-
+formar-se na motivação principal para o uso compulsivo da droga 
+(Kreek e Koob, 1998). Quando o estímulo para adquirir a droga gera 
+comportamentos de busca que ocorrem apesar dos danos físicos, 
+emocionais ou so ciais sofridos pelo usuário da droga, a obsessão ou 
+a compulsão de adquirir e usar a droga parece reﬂ etir um estado de 
+drogadição. Nos animais, isso pode ser evidenciado pela disposição 
+a tolerar condições de muito estresse para conseguir a liberação da 
+droga. Nos seres humanos, os comportamentos anômalos considera-
+dos como sinais de drogadição incluem a falsiﬁ cação de prescrições, 
+o roubo das drogas de outros usuários e a obtenção de drogas vendi-
+das sob prescrição de fontes não médicas; estes comportamentos são 
+considerados indícios de um problema de drogadição. É importante 
+salientar que a dependência da droga não é sinônimo de drogadição. 
+Qualquer indivíduo exposto por determinado perío do aos opiáceos 
+desenvolverá algum grau de tolerância e, se o uso da substância for 
+interrompido repentinamente, ele terá sinais de abstinência, cuja 
+gravidade dependerá da dose e da duração da exposição à droga. 
+Esta condição não signiﬁ ca que o indivíduo seja dependente quí-
+mico. Desse modo, tolerância e dependência são respostas ﬁ sioló-
+gicas observadas em todos os pacientes, em vez de indicadores de 
+drogadição (Capítulo 24). Por exemplo, a dor associada ao câncer 
+geralmente requer tratamento prolongado com doses altas de opio-
+ides, que causam tolerância e dependência. Contudo, o uso abusivo 
+nesses casos não é considerado comum (Foley, 1993).
+Mecanismos da tolerância/dependência-abstinência
+Existem controvérsias quanto aos mecanismos responsáveis pela 
+tolerância e dependência crônicas/abstinência. Vários tipos de res-
+postas parecem contribuir para isso.
+Disposição do receptor. Com a exposição crônica aos opiáceos, o 
+consenso geral é que a perda do efeito não esteja relacionada com 
+a densidade dos receptores na membrana. Como foi mencionado, 
+a dessensibilização aguda ou a interiorização dos receptores pode 
+desempenhar um papel importante na iniciação da tolerância crônica, 
+mas não é suﬁ ciente para explicar as alterações persistentes observa-
+das com a exposição crônica. Desse modo, ao contrário dos outros 
+agonistas dos receptores μ, a morﬁ na não provoca a interiorização 
+ou a fosforilação e a dessensibilização a estes receptores (Koch e 
+cols., 2005; von Zastrow e cols., 2003). Esses estudos sugeriram que 
+a dessensibilização e a hiporregulação dos receptores sejam espe-
+cíﬁ cas para cada agonista. Os estudos das GPCRs indicaram que 
+a endocitose e o sequestro dos receptores nem sempre resulta em 
+sua degradação, mas também pode causar desfosforilação e recicla-
+gem dos receptores para a superfície da célula (Krupnick e Benovic, 
+1998). Desse modo, a tolerância aos opioides pode não estar relacio-
+nada com a dessensibilização dos receptores, mas sim com a falta de 
+dessensibilização. Os agonistas que interiorizam rapidamente os re-
+ceptores opioides também poderiam dessensibilizar rapidamente as 
+vias de sinalização, mas esta dessensibilização poderia ser ao menos 
+em parte restabelecida pela reciclagem dos receptores opioides “rea-
+tivados”. A falta de dessensibilização causada pela morﬁ na pode ser 
+responsável pela sinalização prolongada do receptor que, embora 
+seja menos eﬁ ciente que a observada com outros agonistas, poderia 
+causar outras adaptações celulares subsequentes que agravam o de-
+senvolvimento da tolerância. A mensuração da sinalização agonista 
+relativa versus endocitose (RAVE) para os agonistas opioides pode-
+ria prever o potencial de desenvolvimento de tolerância (Waldhoer 
+e cols., 2004). 
+Adaptação dos mecanismos de sinalização intracelular dos neu-
+rônios que possuem receptores opioides. O acoplamento do MOR 
+aos efetores celulares — inibição da adenililciclase, ativação dos 
+canais de K+ retiﬁ cadores internos, inibição das correntes de Ca2+ e 
+inibição da liberação ﬁ nal dos transmissores — demonstra o inde-
+pendência funcional entre a ocupação do receptor e a função efetora 
+(Williams e cols., 2001). Nesse sentido, é importante mencionar 
+que o efeito opioide crônico inicia alterações contrarreguladoras 
+adaptativas. O melhor exemplo desses processos contrarreguladores 
+celulares é o aumento reﬂ exo dos níveis do AMP cíclico celular 
+produzido pela “superativação” da adenililciclase e hiper-regulação 
+da quantidade de enzima disponível. Essa superativação induz um 
+estado excitatório mediado pelo aumento do transporte de cátions 
+por meio da ativação da PKA. Desse modo, a secreção ﬁ nal do neu-
+rotransmissor geralmente aumenta durante a abstinência dos opioi-
+des (Bailey e Connor, 2005).
+Contra-adaptação no nível sistêmico. Com a exposição crônica aos 
+opiáceos, observa-se perda inequívoca do efeito das drogas. Uma 
+linha importante de especulação sustenta que a perda aparente do 
+efeito inibitório possa reﬂ etir um estado de excitabilidade exacerbada 
+do link regulado. Desse modo, a tolerância ao efeito analgésico dos 
+opiáceos μ administrados por perío dos longos pode resultar na ativa-
+ção das vias bulboespinais, que aumenta a excitabilidade das vias de 
+transmissão da dor no corno dorsal da medula. Do mesmo modo, com 
+a exposição crônica aos opiáceos, a ocupação dos receptores opioides 
+resulta na ativação da PKC, que pode fosforilar e, consequentemente, 
+ampliar a ativação dos receptores locais de glutamato do tipo N-metil-
+D-aspartato (NMDA) (Capítulo 14). Esses receptores são conhecidos 
+por sua capacidade de mediar um estado facilitado que aumenta o 
+processamento da dor no nível espinal. O bloqueio desses receptores 
+pode ao menos em parte atenuar a perda da eﬁ cácia analgésica com a 
+exposição contínua aos opiáceos (Trujillo e Akil, 1991). Essas hipóte-
+ses de contra-adaptação no nível sistêmico podem representar os me-
+canismos que se aplicam aos sistemas especíﬁ cos (p. ex., modulação 
+da dor), mas não necessariamente a outros sistemas (p. ex., sedação 
+ou miose) (Christie, 2008).
+Desenvolvimento de tolerância diferencial e requisitos de ocupa-
+ção percentual. Um problema interessante quando se tenta explicar 
+a tolerância diz respeito às velocidades diferentes de desenvolvi-
+mento de tolerância observadas antes. Ainda não está claro porque 
+respostas como a miose não mostram tolerância com a exposição 
+prolongada (na verdade, este sinal é considerado sugestivo de over-
+dose de droga nos pacientes altamente tolerantes), enquanto a anal-
+gesia e a sedação tendem a mostrar atenuação. Uma possibilidade 
+é que a tolerância represente o desacoplamento funcional de parte 
+dos receptores disponíveis e que parâmetros ﬁ siológicos diferentes 
+possam exigir a ativação de porcentagens diferentes dos seus recep-
+tores acoplados para produzir determinado efeito ﬁ siológico. Desse 
+modo, seria coerente observar que os receptores das vias da miose 
+necessitam ativar uma pequena porcentagem dos seus receptores, 
+em comparação com os dos sistemas que medeiam o controle da 
+dor, de forma a produzir uma ação ﬁ siológica signiﬁ cativa (p. ex., 
+os sistemas que medeiam a miose têm uma reserva mais ampla de 
+receptores funcionantes).
+
+---
+<!-- Página 9 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-09-figura-18-4.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+489
+Perﬁ l de efeitos dos opioides 
+utilizados clinicamente
+Dependendo das suas preferências pelos receptores, os 
+opiáceos produzem vários efeitos compatíveis com o 
+papel desempenhado pelos sistemas do organismo com 
+os quais os receptores estão associados. Embora o uso 
+clínico principal dos opioides seja baseado em suas pro-
+priedades analgésicas, estes fármacos produzem muitos 
+outros efeitos. Isso não é surpreendente, tendo em vista 
+a distribuição ampla dos receptores opioides no cérebro 
+e nas estruturas periféricas. No sistema nervoso, esses 
+efeitos variam da analgesia aos efeitos na motivação e no 
+efeito de nível superior (euforia), excitação e alguns pro-
+cessos autonômicos, hormonais e motores. Na periferia, 
+os opiáceos podem afetar vários sistemas visceromoto-
+res, inclusive os que estão relacionados com a motilidade 
+GI e o tônus da musculatura lisa. As seções seguintes 
+analisam esses tipos de ações e seus mecanismos.
+Analgesia. Nos seres humanos, os fármacos semelhantes 
+à morﬁ na produzem analgesia, sonolência, alterações do 
+humor e obnubilação mental. Quando doses terapêuti-
+cas de morﬁ na são administradas aos pacientes com dor, 
+eles descrevem que a dor é menos intensa ou desapare-
+ceu por completo. Em geral, os pacientes relatam que a 
+dor, embora ainda esteja presente, é tolerável e que se 
+sentem mais confortáveis. Além do alívio do sofrimento, 
+alguns pacientes podem apresentar euforia. Um aspecto 
+signiﬁ cativo da analgesia é que ela geralmente ocorre 
+sem perda da consciência, embora seja comum observar 
+sonolência (ver “Respiração” nas seções subsequentes 
+deste capítulo). Nessas doses, a morﬁ na não tem ativi-
+dade anticonvulsivante e geralmente não causa distúr-
+bios da fala, labilidade emocional ou perda signiﬁ cativa 
+da coordenação motora.
+Quando se administra morﬁ na nas mesmas doses 
+aos in di ví duos normais sem dor, os pacientes podem re-
+latar que a experiência com o fármaco é deﬁ nitivamente 
+desagradável. Pode haver sonolência, diﬁ culdade de rea-
+lizar atividades mentais, apatia e redução da atividade 
+física. À medida que se aumenta a dose, os efeitos subje-
+tivos, analgésicos e tóxicos, incluindo depressão respira-
+tória, tornam-se mais pronunciados. 
+Especiﬁ cidade dos efeitos analgésicos. O alívio da dor pelos opioides 
+semelhantes à morﬁ na é relativamente seletivo, no sentido de que 
+outras modalidades sensoriais (p. ex., toque suave, propriocepção 
+e sensibilidade às temperaturas moderadas) não são afetadas. Estu-
+dos psicofísicos sistemáticos demonstraram que as doses baixas de 
+morﬁ na produzem reduções no componente afetivo da dor, mas não 
+na intensidade percebida da dor, enquanto doses mais altas (e clini-
+camente eﬁ cazes) reduzem a intensidade percebida e o componente 
+afetivo que, de outro modo, seria desencadeado pelos estímulos do-
+lorosos agudos experimentados (Price e cols., 1985) Em geral, a 
+dor difusa e contínua (p. ex., produzida pela lesão e a inﬂ amação 
+dos tecidos) é aliviada de modo mais eﬁ caz que a dor aguda inter-
+mitente (p. ex., a dor associada ao movimento de uma articulação 
+inﬂ amada); contudo, com doses suﬁ cientes do opioide, é possível 
+aliviar até mesmo a dor dilacerante grave associada à cólica biliar 
+ou renal aguda.
+Estados dolorosos e mecanismos responsáveis pelos diferentes 
+tipos de dor. Qualquer descrição esclarecedora da ação dos analgé-
+sicos deve incluir a consideração de que a dor nem sempre é igual e 
+que algumas variáveis contribuem para a queixa de dor do paciente 
+e, consequentemente, para o efeito do analgésico. Heuristicamente, 
+pode-se entender o mecanismo da dor como vários conjuntos distin-
+tos de eventos, que estão descritos nas seções subsequentes.
+Nocicepção aguda. A ativação aguda dos pequenos aferentes senso-
+riais de limiar alto (ﬁ bras Aδ e C) gera estimulação transitória da 
+medula espinal que, por sua vez, resulta na ativação dos neurônios 
+que se projetam contralateralmente ao tálamo e daí ao córtex soma-
+tossensorial. Uma projeção espinofugal paralela dirige-se ao tálamo 
+e daí para o córtex cingulado anterior, que faz parte do sistema lím-
+bico. A resposta produzida pela ativação aguda desse sistema ascen-
+dente é suﬁ ciente para provocar queixas de dor. Exemplos desses 
+estímulos são o contato com uma xícara de café quente, uma picada 
+de agulha ou uma incisão.
+Lesão dos tecidos. Depois da lesão dos tecidos ou da inﬂ amação loca-
+lizada (p. ex., queimadura da pele local, dor de dente, artrite reuma-
+toide), tem início um estado doloroso persistente que se caracteriza 
+por ardência, sensação de pulsação ou dor difusa e contínua com 
+resposta anormal à dor (hiperalgesia), que pode ser evocada por 
+estímulos inócuos em outras condições ou ligeiramente aversivos 
+(banho com água tépida depois de uma queimadura solar; exten-
+são moderada de uma articulação inﬂ amada). Em geral, essa dor 
+reﬂ ete os efeitos dos fatores ativos (como prostaglandinas, bradici-
+nina, citocinas e íons H+, entre muitos outros mediadores) liberados 
+no local lesado e que podem ativar as terminações dos pequenos 
+aferentes de limiar alto (ﬁ bras Aδ e C) e reduzir a intensidade do 
+estímulo necessária para ativar estas ﬁ bras aferentes sensoriais 
+Figura 18-4 Diagrama da sequência de eventos da nocicepção evo-
+cada pela lesão dos tecidos.
+Lesão dos tecidos
+Lesão
+PG, BK, K
+Sensibilização
+Dor persistente + hiperalgesia
+Liberação local dos
+fatores ativos (PG, BK, K)
+Ativação/sensibilização
+persistente das fibras Aδ/C
+Ativação das vias ascendentes
++
+facilitação espinal
+Ativação exagerada para
+determinado estímulo
+Facilitação
+
+---
+<!-- Página 10 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-10-figura-18-4-e-figura-18-5-e-figura-18-6.png]]
+
+490
+SEÇÃO II
+NEUROFARMACOLOGIA
+(sensibilização periférica). Além disso, o tráfego aferente contínuo 
+desencadeado pela lesão provoca a ativação das vias facilitadoras 
+espinais, ampliando o grau de ativação do cérebro por determinado 
+estímulo. Essa facilitação parece ser responsável pelos estados hi-
+peralgésicos. Em geral, essa dor provocada pela lesão dos tecidos 
+é conhecida como “nociceptiva” (Figura 18-4) (Sorkin e Wallace, 
+1999). Exemplos desse tipo de dor seriam queimaduras, incisões, 
+abrasão da pele, inﬂ amação articular e lesão musculoesquelética.
+Lesão neural. A lesão do nervo periférico desencadeia alterações 
+anatômicas e bioquímicas complexas no nervo e na medula espinal, 
+que causam disestesias espontâneas (dor em pontadas ou ardência) 
+e alodinia (dor ao toque suave). Esse estado doloroso causado pela 
+lesão neural pode não depender da ativação dos pequenos aferentes, 
+mas pode ser desencadeado pelos aferentes sensoriais de limiar baixo 
+(p. ex., ﬁ bras Aβ). Essas lesões neurais resultam no desenvolvimento 
+de atividade ectópica originada dos neuromas formados pela lesão do 
+nervo e dos gânglios das raízes dorsais dos axônios lesados, além de 
+resultar na reorganização do corno dorsal, de forma que os estímulos 
+aferentes de limiar baixo transmitidos pelas ﬁ bras Aβ evocam um 
+estado doloroso. Essa reorganização do corno dorsal reﬂ ete as alte-
+rações da inibição persistente e da excitabilidade dos neurônios que 
+se projetam ao corno dorsal (Latremoliere e Woolf, 2009). Exem-
+plos desse tipo de lesão neural incluem o traumatismo ou a com-
+pressão nervosa (síndrome do túnel do carpo), quimioterapia (p. ex., 
+antineoplásica), diabetes e dor pós-herpética (herpes-zóster). Esses 
+estados dolorosos são descritos como neuropáticos (Figura 18-5). 
+Muitas síndromes clínicas dolorosas, inclusive o câncer, geralmente 
+representam uma combinação desses mecanismos inﬂ amatórios e 
+neuropáticos. Embora a dor nociceptiva geralmente responda aos 
+analgésicos opioides, a dor neuropática é comumente menos suscetí-
+vel ao tratamento com estes analgésicos (McQuay, 1988).
+Componentes sensorial versus afetivo. As informações geradas por 
+um estímulo periférico de alta intensidade iniciam a atividade das 
+vias especíﬁ cas que ativam os sistemas de ordem superior, que reﬂ e-
+tem a magnitude aversiva do estímulo. Isso representa a dimensão 
+sensório-discriminativa da experiência dolorosa (p. ex., capacidade 
+de estimar e caracterizar com precisão o estado doloroso). Os estí-
+mulos dolorosos possuem certa capacidade de desencadear com-
+ponentes emocionais fortes, que reﬂ etem uma distinção entre dor 
+como sensação especíﬁ ca mediada por estruturas neuroﬁ siológicas 
+distintas e dor como sofrimento (sensação original acrescida pelas 
+reações evocadas pela dimensão afetivo-motivacional) (Melzack 
+e Casey, 1968). Quando a dor não evoca suas respostas habituais 
+(ansiedade, medo, pânico e sofrimento), a capacidade de o paciente 
+tolerar a dor pode aumentar de forma expressiva, mesmo quando a 
+capacidade de perceber a sensação está relativamente preservada. 
+Entretanto, é evidente que a alteração da reação emocional aos es-
+tímulos dolorosos não é o único mecanismo da analgesia. Desse 
+modo, a administração intratecal dos opioides pode causar analgesia 
+segmentar profunda sem causar alteração signiﬁ cativa da função 
+sensorial ou motora, ou dos efeitos subjetivos (Yaksh, 1988).
+Mecanismos da analgesia induzida pelos opioides. Após 
+a administração sistêmica, os efeitos analgésicos dos opiá-
+ceos parecem ser atribuídos às ações no cérebro, na me-
+dula espinal e nos tecidos periféricos (em alguns casos).
+Ações supraespinais. A microinjeção de opiáceos por meio de cânulas 
+de microinjeção implantadas por longos perío dos em áreas especí-
+ﬁ cas do cérebro demonstrou que os agonistas opioides, de acordo 
+com sua respectiva atividade nos receptores MORs, bloqueiam o 
+comportamento da dor após a aplicação em algumas regiões ce-
+rebrais muito bem delimitadas e que estes efeitos analgésicos são 
+revertidos pela naloxona. A área mais bem caracterizada é a subs-
+tância branca periaquedutal (SBP) do mesencéfalo. As microinje-
+ções de morﬁ na nessa região bloqueiam as respostas nociceptivas de 
+todas as espécies estudadas, desde roedores a primatas; a naloxona 
+reverte estes efeitos.
+Existem vários mecanismos por meio dos quais os opiáceos 
+com ação limitada à SBP podem atuar e alterar a transmissão no-
+ciceptiva. Esses mecanismos estão resumidos na Figura 18-6. Os 
+agonistas do receptor MOR bloqueiam a liberação do transmissor 
+inibitório GABA pelos sistemas tonicamente ativos da SBP, que 
+regulam a atividade das projeções ao bulbo. As projeções da SBP 
+ao bulbo ativam a secreção bulboespinal de NE e 5-HT no corno 
+dorsal da medula. Essa secreção pode atenuar a excitabilidade do 
+corno dorsal (Yaksh, 1997). Curiosamente, essa organização da SBP 
+também pode aumentar a excitabilidade da rafe dorsal e da substân-
+cia ferruginosa, de onde se originam as projeções serotonérgicas e 
+noradrenérgicas ascendentes ao prosencéfalo límbico (a função da 
+5-HT e da NE no prosencéfalo como mediadores do tônus emocio-
+nal está descrita no Capítulo 15). Nos seres humanos, não é possível 
+acessar rotineiramente o sítio de ação cerebral onde os opiáceos 
+podem atuar de forma a alterar a transmissão nociceptiva, como é 
+possível realizar nos modelos pré-clínicos. Contudo, a administra-
+ção dos opioides dentro dos ventrículos cerebrais tem sido utilizada 
+nos seres humanos para aliviar a dor associada ao câncer. Desse 
+modo, parece provável que o nível supraespinal de ação dos opiá-
+ceos nos seres humanos, assim como em outros modelos animais, 
+esteja próximo da luz ventricular (Karavelis e cols., 1996).
+Ação espinal dos opiáceos. A ação local dos opiáceos na medula es-
+pinal deprime seletivamente a descarga dos neurônios do corno dor-
+sal, que são provocadas pelas ﬁ bras nervosas aferentes ﬁ nas (limiar 
+alto), mas não pelas ﬁ bras calibrosas (limiar baixo). A administra-
+ção intratecal dos opioides aos animais (desde camundongos a seres 
+humanos) atenua conﬁ avelmente a resposta do organismo a vários 
+estímulos somáticos e viscerais que, de outro modo, provocariam 
+estados dolorosos. A ligação do opiáceo e a proteína receptora es-
+pecíﬁ ca ﬁ cam limitadas em grande parte à substância gelatinosa do 
+corno dorsal superﬁ cial, região na qual os aferentes sensoriais ﬁ nos 
+(limiar alto) têm suas terminações principais. Uma porcentagem 
+signiﬁ cativa desses receptores opioides está associada às ﬁ bras C 
+Figura 18-5 Diagrama da sequência de eventos da nocicepção de-
+sencadeada pela lesão neural.
+Lesão neural
+Neuroma
+Sensibilização
+espinal
+Degeneração do nervo
+periférico...Neuroma
+Disestesias espontâneas
+(dor em pontada e ardência)
+Alodinia
+(dor ao toque suave)
+Atividade aferente
+espontânea
+Sensibilização
+espinal
+Fibras
+aferentes Aβ
+
+---
+<!-- Página 11 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-11-figura-18-7-e-figura-18-6.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+491
+aferentes primárias peptidérgicas, enquanto as demais estão situadas 
+nos neurônios do corno dorsal. Essa observação é compatível com a 
+síntese e o transporte da proteína do receptor opioide pelas pequenas 
+células do gânglio da raiz dorsal.
+A conﬁ rmação da ação pré-sináptica é fornecida pela observa-
+ção de que os opiáceos espinais reduzem a secreção dos principais 
+transmissores peptídicos aferentes, inclusive a substância P presente 
+nos pequenos aferentes (Yaksh e cols., 1980). A ação pré-sináptica 
+corresponde à capacidade que os opiáceos têm de evitar a abertura 
+dos canais de Ca2+ sensíveis à voltagem e, desse modo, impedir a 
+secreção dos transmissores. A ação pós-sináptica é demonstrada 
+pela capacidade que os opiáceos têm de bloquear a excitação dos 
+neurônios do corno dorsal evocada diretamente pelo glutamato, re-
+ﬂ etindo a ativação direta dos neurônios que se projetam ao corno 
+dorsal. A ativação dos canais de K+ desses neurônios pós-sinápticos 
+com hiperpolarização resultante é compatível com a inibição pós-
+sináptica direta. A capacidade simultânea de os opiáceos espinais 
+reduzirem a secreção dos neurotransmissores excitatórios pelas 
+ﬁ bras C e diminuírem a excitabilidade dos neurônios do corno dor-
+sal parece explicar o efeito seletivo e potente destes fármacos no 
+processamento nociceptivo medular. Nos seres humanos, existem 
+vários estudos indicando que diversos opiáceos administrados por 
+via espinal (intratecal ou epidural) podem causar analgesia potente 
+revertida pelas doses baixas de naloxona administrada por via sistê-
+mica (Yaksh, 1997).
+Ação periférica. Historicamente, um dos princípios fundamentais 
+da ação dos opiáceos é que estas substâncias atuam no “nível cen-
+tral”. A aplicação direta dos opiáceos em concentrações altas em 
+um nervo periférico pode, na verdade, causar um efeito semelhante 
+ao dos anestésicos locais, mas esta ação não é revertida pela nalo-
+xona e parece reﬂ etir uma ação “inespecíﬁ ca”. Além disso, nos es-
+tudos que avaliaram animais normais, era possível demonstrar que 
+as ações analgésicas eram limitadas se a substância não penetrasse 
+facilmente no cérebro. Por outro lado, os estudos que utilizaram 
+injeções diretas dos opioides nos tecidos periféricos demonstraram 
+que, nas condições inﬂ amatórias em que há sensibilidade terminal 
+exacerbada que resulta em uma resposta exagerada à dor (p. ex., 
+hiperalgesia), a ação local dos opiáceos pode normalizar os limia-
+res aumentados. Isso foi demonstrado para a resposta à estimulação 
+mecânica aplicada em uma pata inﬂ amada, ou nas articulações do 
+joelho inﬂ amado. Quando não há inﬂ amação, os opioides não produ-
+zem qualquer efeito periférico local. Essa ação parece ser mediada 
+pelos receptores opioides existentes nas terminações periféricas dos 
+pequenos aferentes primários. A aplicação local dos opiáceos na 
+articulação do joelho e na pele pode reduzir os disparos das ﬁ bras 
+aferentes ativadas de forma espontânea, que são observados quando 
+há inﬂ amação nestes tecidos. Ainda não está claro se os efeitos limi-
+tam-se à terminação aferente, se o opiáceo atua nas células inﬂ ama-
+tórias que liberam produtos que sensibilizam a terminação nervosa 
+ou se as duas hipóteses combinadas (Stein e Lang, 2009).
+Alterações do humor e propriedades gratiﬁ cantes. Os 
+mecanismos pelos quais os opioides produzem euforia, 
+tranquilidade e outras alterações do humor (incluindo as 
+propriedades gratiﬁ cantes) não estão inteiramente claros. 
+Os sistemas neurais parecem mediar o reforço do uso dos 
+opioides, que se superpõe, mas é diferente dos que estão 
+envolvidos na dependência física e na analgesia (Koob e 
+cols., 1988). Dados comportamentais e farmacológicos 
+sugerem uma função fundamental do sistema dopami-
+nérgico mesocorticolímbico (MCL), que é um circuito 
+longo do prosencéfalo basal implicado na gratiﬁ cação e 
+na motivação (Figura 18-7). 
+O sistema dopaminérgico mesolímbico origina-se da área 
+tegmentar ventral (ATV) e projeta-se ao núcleo acumbente (NAc) 
+no prosencéfalo. As projeções dopaminérgicas e glutamatérgicas 
+provenientes da ATV e do córtex pré-frontal (CPF), respectiva-
+mente, estabelecem sinapses com os neurônios GABAérgicos do 
+NAc. Essas células projetam-se ao pálido ventral (PV). No NAc, 
+os receptores ionotrópicos do glutamato ativam, enquanto os recep-
+tores dopaminérgicos D2 inibem os neurônios GABAérgicos. Em 
+geral, as intervenções que suprimem a via GABAérgica do NAc-PV 
+e aumentam a secreção de dopamina são consideradas positiva-
+mente gratiﬁ cantes (p. ex., favorecem a autoadministração). Desse 
+modo, a dopamina aplicada diretamente dentro do NAc, simulando 
+a secreção extracelular aumentada, é um estímulo reforçador po-
+tente. Os opiáceos aumentam a secreção de DA no NAc e os animais 
+Figura 18-6 Mecanismos de ação dos opiáceos na produção de anal-
+gesia. Ao alto e à esquerda: ilustração esquemática da organização 
+da ação dos opiáceos na substância cinzenta periaquedutal. Ao alto 
+e à direita: vias da SBP sensíveis aos opiáceos. As ações dos opiá-
+ceos μ bloqueiam a liberação do GABA pelos sistemas tonicamente 
+ativos que, de outro modo, regulam as projeções ao bulbo (1), re-
+sultando na ativação do sistema da SBP, que ativa os receptores 
+das monoaminas do prosencéfalo (2) e da medula (3), que regulam 
+as projeções espinais (4) que fornecem estímulos sensoriais aos 
+centros mais elevados e ao humor. Embaixo e à esquerda: ilustra-
+ção esquemática da sinapse aferente primária com o neurônio de 
+segunda ordem do corno dorsal da medula, demonstrando os recep-
+tores opioides pré-sinápticos e pós-sinápticos acoplados aos canais 
+de Ca2+ e K+, respectivamente. A ligação ao receptor opioide está 
+expressa em grandes quantidades na superfície do corno dorsal da 
+medula (substância gelatinosa). Esses receptores estão localizados 
+antes das sinapses das terminações dos aferentes primários peque-
+nos (ﬁ bras C) e depois da sinapse dos neurônios de segunda ordem. 
+Antes da sinapse, a ativação do receptor MOR bloqueia a abertura 
+do canal de Ca2+ sensível à voltagem, resultando em hiperpolariza-
+ção. Desse modo, um agonista opiáceo que atue simultaneamente 
+nesses níveis serviria para atenuar a excitação do neurônio de se-
+gunda ordem desencadeada pelos estímulos aferentes.
+4
+1
+2
+3
+Rafe
+dorsal
+Neurônio
+GABAérgico
+(tonicamente ativo)
+Neurônio bulbopetal
+(GABA-R)
+Bulbo
+Ativação do receptor MOR
+(inibe a liberação do GABA)
+AÇÃO DOS OPIÁCEOS NA SBP
+AÇÃO DOS OPIÁCEOS
+NA MEDULA
+Substância 
+ferruginosa
+SBP
+Substância cinzenta
+periaquedutal
+Bulbo
+Terminação da fibra C
+MOR
+MOR
+Neurônio de 2ª ordem
+Medula espinal
+Ca2+
+K+
+
+---
+<!-- Página 12 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-12-figura-18-7-e-figura-18-6.png]]
+
+492
+SEÇÃO II
+NEUROFARMACOLOGIA
+cateterizados ativam a administração dos opiáceos aplicados dire-
+tamente em sua ATV e seu NAc, enfatizando a importância deste 
+sistema na sensação de gratiﬁ cação produzida pelos opioides. No 
+NAc, os receptores MORs estão presentes depois da sinapse dos 
+neurônios GABAérgicos. Os efeitos reforçadores dos opiáceos na 
+ATV parecem ser mediados pela inibição da atividade dos neurônios 
+GABAérgicos locais que, de outro modo, atuam no sentido de inibir 
+a secreção de DA (Xi e Stein, 2002).
+Respiração. Embora os efeitos respiratórios sejam demons-
+trados facilmente, a depressão respiratória clinicamente 
+signiﬁ cativa raramente ocorre com as doses analgésicas 
+convencionais, desde que não existam outras variáveis 
+contribuintes (descritas nas seções seguintes). Entretanto, 
+é importante ressaltar que a depressão respiratória é a 
+causa principal de morbidade secundária ao tratamento 
+com opiáceos. Nos seres humanos, as mortes por intoxica-
+ção opioide quase sempre se devem à parada ou à obstru-
+ção respiratória (Pattinson, 2008). Os opiáceos deprimem 
+todos os componentes da atividade respiratória (fre quên cia, 
+volume por minuto e volume corrente) e causam respiração 
+irregular e aperiódica. A redução do volume respiratório é 
+atribuída basicamente à diminuição da fre quên cia respira-
+tória; com as doses tóxicas dos opioides, a fre quên cia pode 
+diminuir para 3-4 respirações por minuto. A depressão 
+respiratória é detectável mesmo quando são administradas 
+doses muito pequenas para deprimir a consciência e au-
+menta progressivamente à medida que as doses são eleva-
+das. Após a administração de grandes doses de morﬁ na ou 
+outros agonistas, os pacientes respiram se forem instruídos 
+a fazê-lo, mas permanecem relativamente apnéicos quando 
+não recebem instruções para respirar. Desse modo, os opio-
+ides devem ser utilizados com cautela em pacientes com 
+asma, DPOC, cor pulmonale, reserva respiratória reduzida, 
+depressão respiratória pré-existente, hipoxia ou hiper-
+capnia para evitar apneia secundária à redução do estímulo 
+respiratório, que se superpõe ao aumento da resistência nas 
+vias respiratórias. Embora a depressão respiratória não seja 
+considerada um efeito terapêutico favorável dos opiáceos, 
+sua capacidade de suprimir o drive respiratório é usada te-
+rapeuticamente para tratar a dispneia resultante (p. ex., pa-
+cientes com doen ça pulmonar obstrutiva crônica [DPOC], 
+nos quais a ânsia por respirar causa agitação extrema, des-
+conforto e respirações ofegantes; do mesmo modo, os opiá-
+ceos são úteis nos pacientes que necessitam de respiração 
+artiﬁ cial) (Clemens e Klaschik, 2007).
+Mecanismos responsáveis pela depressão respiratória. A fre quên cia 
+respiratória e o volume corrente dependem dos geradores de ritmo 
+intrínsecos localizados no bulbo ventrolateral. Esses sistemas geram 
+um ritmo “respiratório”, estimulado pelos impulsos aferentes que 
+reﬂ etem a pressão parcial do O2 arterial captada por quimiossensores 
+localizados nos corpos carotídeos e aórticos o nível de CO2 captado 
+pelos quimiossensores existentes no tronco cerebral. Os opioides se-
+melhantes à morﬁ na deprimem a respiração por meio dos receptores 
+MORs e DORs, em parte por um efeito depressor direto na geração 
+do ritmo com alterações do padrão e da fre quên cia das respirações 
+observadas com doses menores que as alterações do volume cor-
+rente. Uma característica fundamental dos efeitos dos opiáceos na 
+respiração é a depressão da resposta ventilatória à elevação do CO2. 
+Esse efeito é mediado pela depressão da excitabilidade dos neurônios 
+quimiossensores do tronco cerebral, causada pelos opiáceos. Além 
+dos efeitos na resposta ao CO2, os opiáceos deprimem a ventilação 
+que, de outro modo, seria estimulada pela hipoxia por seus efeitos 
+nos quimiossensores dos corpos carotídeos e aórticos. É importante 
+ressaltar que, com os opiáceos, a estimulação hipóxica dos quimior-
+receptores ainda pode ser eﬁ caz quando estes fármacos deprimiram a 
+reatividade ao CO2 e a inalação de O2 pode suprimir o estímulo resi-
+dual do nível alto de PO2 e causar apneia (Pattinson, 2008). Além dos 
+efeitos no ritmo e na quimiossensibilidade respiratória, os opiáceos 
+podem produzir efeitos mecânicos na função das vias respiratórias 
+porque aumentam a rigidez da parede torácica e diminuem a patência 
+das vias respiratórias superiores (Lalley, 2008).
+Figura 18-7 Ilustração esquemática das vias responsáveis pelas 
+propriedades gratiﬁ cantes dos opiáceos. Gravura superior: esse 
+corte sagital do encéfalo de rato demonstra simpliﬁ cadamente os 
+estímulos de DA e GABA provenientes da área tegmentar ventral 
+(ATV) e do córtex pré-frontal (CPF), respectivamente, que che-
+gam ao núcleo acumbente (NAc). Painel inferior: os neurônios 
+estão assinalados por seus neurotransmissores principais. No nível 
+celular, os agonistas do receptor MOR reduzem a excitabilidade e 
+a liberação do neurotransmissor nos pontos indicados por inibição 
+da entrada de Ca2+ e ampliação do ﬂ uxo de K+ (ver Figura 18-6). 
+Desse modo, a inibição induzida pelos opiáceos na ATV sobre os 
+interneurônios GABAérgicos ou no NAc reduz a inibição mediada 
+pelo GABA e aumenta os estímulos gerados pelo pálido ventral 
+(PV), que parece correlacionar-se com um estado reforçador posi-
+tivo (gratiﬁ cação aumentada).
+MOR
+Córtex
+pré-frontal
+(CPF)
+CPF
+ATV
+NAc
+PV
+N. acumbente
+(NAc)
+Hipocampo
+Amígdala
+Área tegmentar
+ventral (ATV)
+Glu
+DA
+GABA
+MOR
+Gratificação
+Opiáceo μ
+
+---
+<!-- Página 13 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+493
+Fatores que agravam a depressão respiratória induzida pelos opiáceos. 
+Existem alguns fatores que reconhecidamente aumentam o risco 
+de depressão respiratória induzida pelos opiáceos, mesmo quando 
+utilizados em doses terapêuticas:
+Outros fármacos
+ •
+. A combinação dos opiáceos com outros agen-
+tes depressores como os anestésicos gerais, os tranquilizantes, 
+o álcool ou os hipnótico-sedativos produz depressão aditiva da 
+atividade respiratória.
+Sono
+ •
+. O sono natural diminui a sensibilidade do centro bulbar ao 
+CO2 e os efeitos depressores da morﬁ na e do sono são no mínimo 
+aditivos. A apneia obstrutiva do sono é considerada um fator de 
+risco importante para o aumento da probabilidade de ocorrer de-
+pressão respiratória fatal.
+Idade
+ •
+. Os recém-nascidos podem desenvolver depressão respira-
+tória e insaturação signiﬁ cativas; isto pode ser evidenciado com 
+os escores de Apgar mais baixos, caso os opioides sejam admi-
+nistrados por via parenteral às gestantes pouco antes do parto 
+(2-4 h), em consequência da transferência transplacentária dos 
+fármacos. Os pacientes idosos estão mais sujeitos à depressão 
+respiratória porque seus pulmões são menos elásticos, as paredes 
+torácicas são rígidas e a capacidade vital está reduzida.
+Doen ças
+ •
+. Os opiáceos podem causar efeitos depressores mais 
+graves nos pacientes com doen ças cardiopulmonares ou renais 
+crônicas, porque estes in di ví duos podem ter dessensibilização da 
+resposta à elevação do CO2.
+DPOC
+ •
+. A depressão respiratória grave também pode ocorrer em 
+pacientes com doen ça pulmonar obstrutiva crônica (DPOC) e 
+apneia do sono secundária à diminuição do estímulo hipóxico.
+Alívio da dor
+ •
+. Como a dor estimula a respiração, a eliminação da 
+condição dolorosa (p. ex., analgesia resultante do uso terapêu-
+tico do opiáceo) deprime o estímulo ventilatório e causa depres-
+são respiratória aparente.
+Sedação. Os opiáceos podem causar sonolência e disfunção cognitiva. 
+Essa depressão pode agravar a disfunção respiratória. Esses efeitos 
+são observados mais comumente após o início do tratamento com 
+opiáceos ou após o aumento de suas doses. É importante salientar que 
+esses efeitos ao despertar regridem depois de alguns dias. Assim como 
+ocorre com a depressão respiratória, a gravidade do efeito farmaco-
+lógico pode ser aumentada por vários fatores predisponentes do pa-
+ciente, inclusive demência, encefalopatias ou tumores cerebrais, bem 
+como por outros fármacos depressores, inclusive indutores do sono, 
+anti-histamínicos, antidepressivos e ansiolíticos (Cherny, 1996).
+Diversidade dos opiáceos. Vários estudos compararam a morﬁ na e 
+os opioides semelhantes quanto às suas razões entre as atividades 
+analgésica e depressora respiratória e a maioria deles demonstrou 
+que, quando se empregam doses equianalgésicas, não há diferença 
+signiﬁ cativa. A depressão respiratória máxima ocorre em 5-10 min 
+após a administração intravenosa da morﬁ na ou em 30-90 min após 
+a injeção intramuscular ou subcutâ nea. Os efeitos depressores res-
+piratórios máximos ocorrem mais rapidamente quando se utilizam 
+fármacos mais lipossolúveis. Depois do uso de doses terapêuticas, 
+o volume respiratório por minuto pode ser reduzido por até 4-5 h. 
+Os fármacos que possuem cinética prolongada, inclusive metadona, 
+devem ser monitorados cuidadosamente, em especial após o au-
+mento de suas doses.
+Tratamento da depressão associada aos opiáceos. A depressão respi-
+ratória potencialmente fatal causada por qualquer agonista opiáceo 
+pode ser revertida prontamente pela administração de um antagonista 
+opioide. Por outro lado, a capacidade de reverter a sonolência do pa-
+ciente é considerada um indício do efeito produzido pelo opioide. 
+É importante lembrar que a maioria dos antagonistas opioides tem 
+ações relativamente breves em comparação com o agonista (p. ex., 
+morﬁ na ou metadona) e, caso o paciente não seja mantido sob ob-
+servação, pode ocorrer “renarcotização” fatal. 
+Efeitos neuroendócrinos. A regulação da secreção dos 
+hormônios e dos fatores hipoﬁ sários é controlada por 
+mecanismos complexos por receptores opioides existen-
+tes no eixo hipotalâmico-hipoﬁ sário-suprarrenal (HPSR). 
+Em termos gerais, os opioides como a morﬁ na bloqueiam 
+a secreção de alguns hormônios desse sistema.
+Hormônios sexuais. Nos homens, o tratamento de curta duração com 
+opiáceos reduz os níveis plasmáticos do cortisol, da testosterona e das 
+gonadotropinas. A inibição da função suprarrenal é reﬂ etida pela pro-
+dução reduzida de cortisol e pelos níveis baixos dos androgênios su-
+prarrenais (diidroepiandrosterona, DHEA). Nas mulheres, a morﬁ na 
+também diminui a secreção do LH e do FSH. Nos dois sexos, o tra-
+tamento crônico pode causar endocrinopatias como hipogonadismo 
+hipogonadotrópico. Nos homens, isso pode diminuir a libido e, com a 
+exposição prolongada, obscurecer as características sexuais secundá-
+rias. Nas mulheres, essas exposições estão associadas às irregularida-
+des do ciclo menstrual. É importante salientar que essas alterações são 
+reversíveis com a interrupção da exposição aos opiáceos.
+Os mecanismos da regulação da secreção das gonadotropinas 
+pelos opioides podem reﬂ etir um efeito direto nas células hipoﬁ sárias 
+secretoras e uma ação indireta por seu efeito nos receptores existen-
+tes nos neurônios hipotalâmicos de forma a bloquear as secreções do 
+hormônio de liberação das gonadotropinas (GnRH) e do hormônio 
+de liberação da corticotropina (CRH). Essa redução dos fatores de 
+liberação diminui a secreção do hormônio luteinizante (LH), do hor-
+mônio folículo-estimulante (FSH), do ACTH e da β-endorﬁ na. Esse 
+conjunto de alterações diminui os níveis circulantes da testosterona 
+e do cortisol. A secreção do hormônio de liberação dos hormônios 
+tireoides (tireotropina) é relativamente preservada.
+Prolactina. A secreção de prolactina pelas células lactotrópicas da 
+hipóﬁ se anterior está sob o controle inibitório da dopamina libe-
+rada pelos neurônios tuberoinfundibulares do núcleo arqueado. Os 
+agonistas dos receptores MORs atuam antes das sinapses dessas 
+terminações que liberam dopamina de forma a inibir sua liberação e, 
+deste modo, aumentar o nível plasmático da prolactina.
+Hormônio do crescimento. O hormônio do crescimento (GH) é secre-
+tado em um padrão pulsátil pelas células somatotrópicas da hipóﬁ se 
+anterior. Os neurônios que secretam o hormônio de liberação do 
+GH (GHRH) presentes no núcleo arqueado do hipotálamo e os estí-
+mulos inibitórios gerados pelas células secretoras de somatostatina 
+(SST) existentes no núcleo periventricular regulam esse processo. 
+Embora alguns opiáceos aumentem a secreção do GH, possivel-
+mente por inibição da secreção da SST, a exposição aguda à morﬁ na 
+produz poucos efeitos na concentração plasmática deste hormônio 
+(Bluet-Pajot e cols., 2001).
+Hormônio antidiurético e ocitocina. Os efeitos dos opiáceos nas se-
+creções do ADH e da ocitocina são complexos. Esses hormônios são 
+sintetizados no pericário dos neurônios magnocelulares dos núcleos 
+parventriculares e supraópticos do hipotálamo e liberados pela hipó-
+ﬁ se posterior (Capítulo 38). A secreção do ADH (vasopressina) pode 
+ser secundária ao estresse cirúrgico, à hipovolemia, à hipotensão e 
+à osmolaridade baixa, enquanto a ocitocina geralmente é liberada 
+por estímulos aferentes relacionados com as vias neurais de ejeção 
+do leite. Os agonistas dos receptores KORs inibem as secreções da 
+ocitocina e do hormônio antidiurético (e causam diurese profusa). 
+Nos seres humanos, a administração dos agonistas dos receptores
+
+---
+<!-- Página 14 -->
+
+494
+SEÇÃO II
+NEUROFARMACOLOGIA
+MORs produz pouco efeito ou tende a produzir efeitos antidiuréti-
+cos. A morﬁ na reduz a secreção da ocitocina nas mulheres que estão 
+amamentando (Lindow e cols., 1999). É importante salientar que 
+os fármacos como a morﬁ na podem causar hipotensão secundária 
+à liberação de histamina e que isso poderia ser um estímulo para a 
+secreção do ADH. Com base na eletroﬁ siologia e na localização dos 
+receptores opioides, estes efeitos nas secreções da vasopressina e 
+da ocitocina podem reﬂ etir uma ação direta na secreção terminal e 
+também ações indiretas nas projeções moduladoras dopaminérgicas 
+e noradrenérgicas que estendem-se aos núcleos parventriculares e 
+supraópticos do hipotálamo (Gimpl e Fahrenholz, 2001).
+Miose. A iluminação da pupila ativa um arco reﬂ exo que, por meio 
+do circuito local existente no núcleo de Edinger Westphal, ativa o 
+sistema parassimpático por meio do gânglio ciliar que se conecta à 
+pupila e, desse modo, produz constrição. Os opiáceos MOR cau-
+sam constrição pupilar (miose) no indivíduo acordado e bloqueiam 
+a dilatação reﬂ exa das pupilas durante a anestesia. A estimulação 
+parassimpática é regulada localmente pelos interneurônios GABA-
+érgicos. Os opiáceos parecem bloquear a inibição mediada por esses 
+interneurônios (Larson, 2008). Com as doses altas dos agonistas, 
+a miose é extrema e as pupilas puntiformes são patognomônicas; 
+contudo, quando a asﬁ xia começa, o paciente apresenta midríase. 
+Embora haja alguma tolerância ao efeito miótico, os dependentes 
+com concentrações circulantes altas dos opioides continuam a apre-
+sentar pupilas mióticas. As doses terapêuticas da morﬁ na aumentam 
+a capacidade de acomodação e diminuem a pressão intraocular dos 
+in di ví duos normais e dos pacientes com glaucoma.
+Crises epilépticas e convulsões. Nas crianças maio res e nos adultos, 
+as doses moderadamente mais altas dos opiáceos causam lentidão 
+no EEG. Nos recém-nascidos, estudos demonstraram que a morﬁ na 
+produz atividade epileptiforme (Young e da Silva, 2000) e, ocasio-
+nalmente, atividade convulsiva. Embora geralmente ocorra aumento 
+da rigidez da mandíbula e da parede torácica com as doses usadas na 
+indução da anestesia, as crises epilépticas e as convulsões bem carac-
+terizadas comumente ocorrem apenas com doses muito acima das que 
+são necessárias para produzir analgesia profunda. Existem relatos de 
+mioclonia e convulsões, principalmente nos pacientes tolerantes aos 
+opioides que são tratados com doses altas dos opiáceos semelhan-
+tes à morﬁ na (p. ex., fentanila), como observado nos hospitais para 
+pacientes terminais e nos estágios ﬁ nais do tratamento da dor (Vella-
+-Brincat e Macleod, 2007). Contudo, as convulsões produzidas por 
+alguns fármacos como a meperidina podem ocorrer com doses apenas 
+moderadamente mais altas que as necessárias para obter analgesia, 
+principalmente nas crianças e depois da administração repetida.
+Vários mecanismos estão certamente envolvidos nessas ações 
+excitatórias:
+Inibição dos interneurônios inibitórios
+ •
+. Os fármacos seme-
+lhantes à morﬁ na excitam determinados grupos de neurônios, 
+principalmente as células piramidais do hipocampo, provavel-
+mente por inibição da liberação do GABA pelos interneurônios 
+(McGinty, 1988).
+Efeitos estimuladores diretos
+ •
+. Os opiáceos podem interagir com 
+os receptores acoplados por meio de pro teí nas G inibitórias e es-
+timuladoras com o acoplamento inibitório, mas não com o aco-
+plamento excitatório reduzindo a tolerância depois da exposição 
+prolongada (King e cols., 2005).
+Ações mediadas pelos receptores não opioides
+ •
+. Os metabólitos 
+de vários opiáceos foram implicados na atividade convulsiva, 
+principalmente morﬁ na-3-glicuronídeo (derivado da morﬁ na) e 
+a normeperidina (derivado da meperidina) (Seifert e Kenendy, 
+2004; Smith, 2000).
+Um caso especial é a síndrome de abstinência originada por 
+um estado de dependência opioide do adulto e do recém-nascido 
+ﬁ lho de uma gestante dependente de opioides. Nesses casos, a absti-
+nência (seja causada pela administração de antagonistas ou pela in-
+terrupção da exposição) pode causar ativação proeminente no EEG, 
+tremor e rigidez. As condutas recomendadas para o tratamento dessa 
+ativação são discutíveis. Entre as medidas recomendadas estão a 
+renarcotização com doses reduzidas progressivamente e o controle 
+dos sintomas com anticonvulsivantes e anestésicos (Farid e cols., 
+2008). Os agentes anticonvulsivantes nem sempre são eﬁ cazes para 
+suprimir as convulsões induzidas pelos opioides (Capítulo 21).
+Tosse. A morﬁ na e os opioides relacionados deprimem o reﬂ exo da 
+tosse, ao menos em parte por um efeito direto sobre o centro bulbar 
+da tosse e isso pode ser conseguido sem alterar a função protetora 
+da glote. Não existe qualquer relação obrigatória entre a depressão 
+da respiração e a da tosse e há agentes antitussígenos eﬁ cazes que 
+não deprimem a respiração (os antitussígenos estão descritos nas 
+seções subsequentes deste capítulo). A supressão da tosse por esses 
+fármacos parece envolver receptores bulbares menos sensíveis à 
+naloxona (um antagonista opioide) que os receptores responsáveis 
+pela analgesia (Chung e Pavord, 2008).
+A tosse é um reﬂ exo protetor desencadeado pela estimulação 
+das vias respiratórias e consiste na expulsão rápida do ar contra a 
+glote transitoriamente fechada. Esse reﬂ exo é complexo e envolve 
+os sistemas nervosos central e periférico, bem como a musculatura 
+lisa da árvore brônquica. A irritação da mucosa brônquica causa 
+broncoconstrição que, por sua vez, estimula os receptores da tosse 
+(que provavelmente constituem um tipo especial de receptor de es-
+tiramento) localizados nas vias traqueobrônquicas. A condução afe-
+rente dos estímulos gerados por esses receptores ocorre pelas ﬁ bras 
+do nervo vago; os componentes centrais do reﬂ exo provavelmente 
+incluem vários mecanismos ou centros independentes dos mecanis-
+mos envolvidos na regulação da respiração.
+Efeitos nauseantes e eméticos. Náusea é a sensação 
+prodrômica uma característica comum do desconforto 
+gástrico que está asscociado com motilidade gástrica re-
+duzida e aumento das secreções. O vômito é a sequela 
+motora da náusea e é um reﬂ exo complexo evidenciado 
+por contrações simultâneas dos músculos inspiratórios e 
+expiratórios, elevação da pressão gástrica, relaxamento 
+do esﬁ ncter esofágico e propulsão reﬂ exa retrógrada do 
+conteúdo gástrico. As náuseas e os vômitos produzidos 
+por fármacos semelhantes à morﬁ na são efeitos colate-
+rais causados pela estimulação direta da zona quimiorre-
+ceptora do gatilho emético situado na área postrema do 
+bulbo. A apomorﬁ na é um análogo estrutural da morﬁ na 
+que não possui ação opioide, mas produz efeitos emeto-
+gênicos proeminentes.
+Náuseas e vômitos são relativamente incomuns em pacien-
+tes em decúbito (hospitalizados) que recebem doses terapêuticas de 
+morﬁ na, mas as náuseas ocorrem em aproximadamente 40% e os 
+vômitos em 15% dos pacientes ambulatoriais tratados com 15 mg 
+deste fármaco por via subcutâ nea. Isso sugere que um componente 
+vestibular também esteja implicado. De fato, os efeitos nauseantes e 
+eméticos da morﬁ na intensiﬁ cam-se notavelmente pela estimulação 
+vestibular e a morﬁ na e os analgésicos sintéticos relacionados acen-
+tuam a sensibilidade do sistema vestibular. Um dos componentes 
+das náuseas provavelmente se deve à estase gástrica que ocorre no
+
+---
+<!-- Página 15 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+495
+pós-operatório e que é agravada pelas doses analgésicas da morﬁ na 
+(Greenwood-Van Meerveld, 2007). Todos os agonistas clinicamente 
+úteis produzem algum grau de náuseas e vômitos. Estudos clínicos 
+controlados minuciosos demonstram que, em geral, a incidência 
+desses efeitos colaterais não é signiﬁ cativamente menor que a ob-
+servada com a morﬁ na. Os antagonistas do receptor de serotonina 
+(5-HT3) suplantaram as fenotiazinas e os medicamentos usados no 
+tratamento da cinetose como fármacos preferidos para controlar as 
+náuseas e os vômitos induzidos pelos opiáceos. Os agentes prociné-
+ticos gástricos como a metoclopramida também são antinauseantes 
+e antieméticos úteis (Cameron e cols., 2003); contudo, recomen-
+da-se cautela em razão da propensão de a metoclopramida causar 
+discinesia tardia (Capítulo 46).
+Sistema cardiovascular. No paciente em posição supina, 
+as doses terapêuticas dos opioides semelhantes à mor-
+ﬁ na não produzem efeitos expressivos na pressão arterial 
+ou na fre quên cia e no ritmo car día cos. Contudo, essas 
+doses produzem vasodilatação periférica, diminuem a re-
+sistência periférica e inibem os reﬂ exos barorreceptores. 
+Portanto, quando os pacientes deitados põem-se de pé, 
+podem ocorrer hipotensão ortostática e síncope. A va-
+sodilatação arteriolar e venosa periférica produzida pela 
+morﬁ na envolve vários mecanismos: 
+liberação de histamina pelos mastócitos induzida pela 
+ •
+morﬁ na, que causa vasodilatação (revertida pela na-
+loxona e bloqueada apenas em parte pelos antagonis-
+tas H1)
+atenuação da vasoconstrição reﬂ exa causada pela 
+ •
+PCO2 elevada
+Altas doses de antagonistas MOR, tais como fenta-
+nila e sufentanila, usadas como agente de indução anes-
+tésica, têm somente efeitos modestos sobre a estabilidade 
+hemodinâmica, em parte porque elas não causam libera-
+ção de histamina (Monk e cols., 1988).
+Os efeitos miocárdicos não são signiﬁ cativos nos in di ví duos 
+normais. Nos pacientes com doen ça das artérias coronárias, mas 
+sem distúrbios clínicos agudos, 8-15 mg de morﬁ na administrados 
+por via intravenosa diminuem o consumo de O2, a pressão ventri-
+cular diastólica ﬁ nal e o trabalho car día co; os efeitos no índice car-
+día co habitualmente são leves. Nos pacientes com infartos agudos 
+do miocárdio, as respostas cardiovasculares à morﬁ na podem ser 
+mais variáveis que nos in di ví duos normais e a magnitude das alte-
+rações (p. ex., redução na pressão arterial) pode ser mais pronun-
+ciada (Roth e cols., 1988). As doses de indução anestésica (descritas 
+adiante) dos opiáceos MOR causam aumento da estimulação vagal 
+car día ca mediada por mecanismos centrais e bradicardia reversível 
+com atropina.
+A morﬁ na pode produzir seu bem conhecido efeito terapêutico 
+no tratamento da angina de peito e do infarto agudo do miocárdio 
+pela diminuição da pré-carga, do inotropismo e do cronotropismo, 
+alterando favoravelmente os determinantes do consumo miocárdico 
+de O2 e ajudando a aliviar a isquemia. Ainda não está claro se as pro-
+priedades analgésicas da morﬁ na nessa situa ção devem-se à rever-
+são da acidose, que pode estimular os canais de íons locais sensíveis 
+ao ácido (McCleskey e Gold, 1999), ou ao efeito analgésico direto 
+sobre os aferentes nociceptivos do coração.
+Quando é administrada antes da isquemia experimental, a mor-
+ﬁ na pode produzir efeitos cardioprotetores. Esse fármaco pode mi-
+metizar o fenômeno de pré-condicionamento isquêmico, no qual um 
+breve episódio isquêmico paradoxalmente protege o coração contra 
+a isquemia adicional. Esse efeito parece ser mediado por receptores 
+que sinalizam por meio de um canal de K+ mitocondrial sensível ao 
+ATP nos miócitos car día cos; o efeito também é produzido por outras 
+GPCRs que sinalizam através da Gi (Fryer e cols., 2000). Alguns 
+pesquisadores sugeriram que os opioides possam ser antiarrítmicos 
+e antiﬁ brilatórios durante e depois dos perío dos de isquemia (Fryer 
+e cols., 2000), enquanto outros dados sugerem que estes fármacos 
+possam ser arritmogênicos (McIntosh e cols., 1992).
+Os opioides semelhantes à morﬁ na devem ser usados com 
+cautela nos pacientes com redução do volume sanguíneo, pois 
+podem agravar o choque hipovolêmico. A morﬁ na deve ser usada 
+com grande cuidado em pacientes com cor pulmonale porque já 
+foram descritas mortes após doses terapêuticas comuns. O uso con-
+comitante de certas fenotiazinas pode aumentar o risco de hipoten-
+são induzida por morﬁ na.
+A circulação cerebral não é diretamente afetada pelas doses 
+terapêuticas dos opiáceos. Entretanto, a depressão respiratória e a 
+retenção de CO2 induzidas pelos opioides podem resultar em vaso-
+dilatação cerebral e aumentar a pressão do líquido cerebrospinal. 
+Esse aumento da pressão não ocorre quando a PCO2 é mantida em 
+níveis normais pela ventilação artiﬁ cial. No entanto, os opioides 
+produzem alterações no nível de consciência, que podem obscurecer 
+a evolução clínica dos pacientes com traumatismo craniano.
+Tônus motor. Com as doses terapêuticas necessárias para obter anal-
+gesia, os opiáceos produzem poucos efeitos no tônus ou na função 
+muscular. Contudo, as doses altas desses fármacos (p. ex., utilizadas 
+na indução da anestesia) causam rigidez muscular nos seres huma-
+nos. Desse modo, a rigidez da parede torácica e do músculo mas-
+seter, que é grave a ponto de comprometer a respiração e diﬁ cultar 
+a intubação, é comum durante a anestesia e geralmente requer a 
+administração de miorrelaxantes. 
+A mioclonia, que pode variar de tremores suaves até espas-
+mos generalizados, é um efeito colateral ocasional descrito com 
+todos os agonistas opiáceos utilizados clinicamente; embora possa 
+ser observada com doses terapêuticas mais baixas, a mioclonia é 
+especialmente comum nos pacientes internados em hospitais para 
+doentes terminais e que são tratados com doses altas (Lyss e cols., 
+1997). A hipertonia muscular certamente é mediada por um efeito 
+central, embora os mecanismos responsáveis por esses efeitos não 
+estejam claros. As doses altas dos opiáceos administrados por via 
+espinal podem aumentar o tônus motor, possivelmente por inibi-
+ção dos interneurônios inibitórios do corno ventral da medula. Por 
+outro lado, a administração intracraniana pode provocar rigidez nos 
+modelos animais e isso possivelmente reﬂ ete a hiperatividade do 
+sistema extrapiramidal. Como já mencionado, esses dois efeitos são 
+revertidos pelos antagonistas dos opiáceos.
+Trato GI. Os opiáceos produzem efeitos importantes em todos os 
+componentes da função GI. Algumas estimativas sugeriram que 
+40-95% dos pacientes tratados com opioides tenham constipa-
+ção e as alterações da função intestinal podem ser demonstradas 
+mesmo depois da administração por perío dos curtos (Benyamin e 
+cols., 2008). Os receptores opioides estão profusamente distribuídos 
+nos neurônios entéricos entre os plexos miontérico e submucoso e 
+em várias células secretoras. A expressão mais marcante da ação 
+mediada por esses receptores será revista nas seções seguintes. É 
+importante ressaltar que a exposição aos opioides pode diﬁ cultar o 
+diagnóstico ou o acompanhamento da evolução clínica dos pacien-
+tes com distúrbios abdominais agudos.
+
+---
+<!-- Página 16 -->
+
+496
+SEÇÃO II
+NEUROFARMACOLOGIA
+Esôfago. O esﬁ ncter esofágico está sob o controle dos reﬂ exos do 
+tronco cerebral, que ativam os neurônios motores colinérgicos do 
+plexo miontérico esofágico. Esse sistema regula a passagem do bolo 
+alimentar do esôfago para o estômago e impede a regurgitação; por 
+outro lado, ele permite o relaxamento durante os vômitos. A mor-
+ﬁ na inibe o relaxamento do esﬁ ncter esofágico inferior induzido 
+pela deglutição e pela distensão do esôfago. Esse efeito parece ser 
+mediado no nível central, porque os opiáceos com ações limitadas 
+às estruturas periféricas (p. ex., loperamida) não alteram o tônus do 
+esﬁ ncter esofágico (Sidhu e Triadaﬁ lopoulos, 2008).
+Estômago. A passagem dos alimentos pelo estômago depende das 
+contrações coordenadas do antro e do tônus em repouso do reserva-
+tório gástrico. Doses relativamente baixas de morﬁ na aumentam a 
+contração tônica da musculatura do antro (secundária à inibição dos 
+neurônios inibitórios locais) e do segmento proximal do duodeno e 
+reduzem o tônus em repouso da musculatura do reservatório gás-
+trico (secundária à inibição dos neurônios motores da musculatura 
+do reservatório) e, desse modo, prolonga o tempo de esvaziamento 
+gástrico e aumenta a probabilidade de ocorrer reﬂ uxo esofágico. A 
+passagem do conteúdo gástrico pelo duodeno pode ser retardada 
+em até 12 h e a absorção dos fármacos administrados por via oral 
+também é mais lenta. A morﬁ na e outros agonistas geralmente di-
+minuem a secreção de ácido clorídrico, embora a estimulação às 
+vezes seja evidente. A ativação dos receptores opioides existentes 
+nas células parietais intensiﬁ ca a secreção, mas os efeitos indiretos, 
+incluindo o aumento da secreção de somatostatina pelo pâncreas e a 
+redução da liberação de acetilcolina, parecem predominar na maior 
+parte das circunstâncias (Kromer, 1988). 
+Intestino. A morﬁ na diminui a atividade propulsátil dos intestinos 
+delgado e grosso e reduz as secreções intestinais.
+Atividade propulsátil. Os agonistas opiáceos suprimem as redes 
+neurogênicas locais que produzem a inibição rítmica do tônus mus-
+cular, causando aumentos concomitantes do tônus basal da muscu-
+latura lisa dos intestinos delgado e grosso. Isso aumenta a amplitude 
+das contrações fásicas, que não são propulsoras. 
+A porção superior do intestino delgado, par ticular mente o 
+duodeno, é mais afetada que o íleo. Um perío do de relativa atonia 
+pode seguir-se à hipertonia. A taxa reduzida de trânsito do conteúdo 
+intestinal, somada à redução das secreções intestinais, aumenta a 
+absorção de água e a viscosidade do conteúdo intestinal, agrava a 
+constipação. O tônus do esﬁ ncter anal aumenta signiﬁ cativamente e 
+o relaxamento reﬂ exo diminui em resposta à distensão retal. Essas 
+ações, combinadas com a diﬁ culdade de perceber os estímulos sen-
+soriais normais para o reﬂ exo de defecação em decorrência das 
+ações centrais do fármaco, contribuem para a constipação induzida 
+pela morﬁ na (Wood e Galligan, 2004).
+A relevância clínica da função dos receptores opioides perifé-
+ricos na regulação da motilidade GI depois da administração sistê-
+mica destes fármacos é reforçada pelas seguintes evidências:
+A eﬁ cácia como antidiarreicos dos agonistas opioides com ação 
+ •
+limitada às estruturas periféricas, inclusive loperamida
+A possibilidade de reverter as ações constipantes dos agonistas 
+ •
+opioides sistêmicos com a administração dos antagonistas opioi-
+des de ação limitada às estruturas periféricas, inclusive metil-
+naltrexona
+A infusão direta dos opioides nos ventrículos cerebrais ou no 
+espaço intratecal espinal também poderia inibir a atividade propul-
+sora, contanto que a inervação extrínseca do intestino esteja preser-
+vada. Embora ocorra alguma tolerância aos efeitos dos opioides na 
+motilidade GI, os pacientes que utilizam estes fármacos por longos 
+perío dos desenvolvem constipação.
+Secreções intestinais. Quando há aumento das secreções intesti-
+nais (p. ex., nos pacientes com diarreia), os fármacos como a mor-
+ﬁ na inibem a transferência de líquidos e eletrólitos para o lúmen 
+intestinal por suas ações sensíveis à naloxona na mucosa intestinal 
+e no SNC (Kromer, 1988). As secreções intestinais originam-se da 
+ativação dos enterócitos pelos neurônios secretomotores colinér-
+gicos do plexo submucoso. Os opioides atuam nos receptores μ/δ 
+desses neurônios secretomotores e inibem sua atividade excitatória 
+nos enterócitos e, desse modo, diminuem as secreções intestinais.
+Trato biliar. O ﬂ uxo biliar é regulado pelas contrações periódicas 
+do esﬁ ncter de Oddi, que é relaxado pela inervação inibitória. Essa 
+inervação inibitória é suprimida pelos opioides. Depois da injeção 
+subcutâ nea de 10 mg de sulfato de morﬁ na, o esﬁ ncter de Oddi contrai 
+e a pressão no ducto biliar comum pode aumentar mais de 10 vezes 
+em 15 min; este efeito pode persistir por 2 h ou mais. A pressão do 
+líquido pode aumentar na ve sícula biliar e produzir sintomas que 
+variam de desconforto epigástrico a uma cólica biliar típica.
+Alguns pacientes com cólica biliar experimentam exacerba-
+ção em vez de alívio da dor quando recebem opioides. O espasmo 
+do esﬁ ncter de Oddi é provavelmente responsável pelas elevações da 
+amilase e da lipase plasmáticas, que ocorrem ocasionalmente após 
+administração de morﬁ na. Todos os opioides podem causar espasmo 
+biliar. A atropina evita apenas parcialmente o espasmo biliar induzido 
+pela morﬁ na, mas os antagonistas opioides diminuem ou evitam este 
+efeito. A papaverina, outro alcaloide derivado da papoula, embora 
+não possua atividade opioide, causa relaxamento da musculatura lisa 
+e é usada terapeuticamente para atenuar as cólicas GI, uretrais e bi-
+liares e outros distúrbios não viscerais (p. ex., embolia e angina do 
+peito) acompanhados de espasmo da musculatura lisa.
+Outros músculos lisos
+Ureter e bexiga. A micção é uma resposta altamente organizada, desen-
+cadeada pelos aferentes ativados pelo enchimento da bexiga e pelos 
+arcos reﬂ exos espinobulboespinais, que resultam na contração da be-
+xiga e no relaxamento reﬂ exo do esﬁ ncter urinário externo (Fowler e 
+cols., 2008). A morﬁ na inibe o reﬂ uxo miccional e aumenta o tônus do 
+esﬁ ncter externo, com elevação resultante do volume da bexiga. Nos 
+modelos animais, esse efeito é mediado pelos agonistas dos recepto-
+res MORs e DORs. A estimulação desses dois tipos de receptores no 
+cérebro ou na medula espinal tem efeitos similares sobre a motilidade 
+da bexiga (Dray e Nunan, 1987). Há tolerância a esses efeitos dos 
+opioides sobre a bexiga. Clinicamente, a inibição da micção mediada 
+pelos opiáceos pode ser tão intensa que, em alguns casos, é necessário 
+realizar a cateterização depois da administração de doses terapêuticas 
+da morﬁ na, principalmente quando o opioide é administrado por via 
+espinal. É importante salientar que nos seres humanos a inibição dos 
+efeitos miccionais dos opioides sistêmicos é revertida pelos antago-
+nistas de ação unicamente periférica (Rosow e cols., 2007).
+Útero. Se o útero estiver hiperativo pela ação de ocitócicos, a mor-
+ﬁ na tende a normalizar o tônus, a fre quên cia e a amplitude das 
+contrações.
+Pele. As doses terapêuticas de morﬁ na causam dilatação dos vasos 
+sanguíneos cutâneos. A pele da face, do pescoço e da parte supe-
+rior do tórax frequentemente torna-se ruborizada. Essas alterações 
+podem, em parte, dever-se à liberação de histamina e podem ser 
+responsáveis pela sudorese e por parte do prurido que comumente se 
+segue à administração sistêmica de morﬁ na (descrita adiante). A li-
+beração de histamina provavelmente explica a urticária comumente 
+observada no local da injeção. Embora existam controvérsias, esse 
+efeito não é bloqueado pela naloxona e não parece ser mediado pelos 
+receptores opioides. O prurido é referido imediatamente quando se 
+utilizam morﬁ na e meperidina, mas é muito menos comum com
+
+---
+<!-- Página 17 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-17-quadro-18-2.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+497
+a oximorfona, a metadona, a fentanila ou o sufentanila. Esse pru-
+rido é uma complicação comum e potencialmente incapacitante do 
+uso dos opioides. Pode ser desencadeado pelas injeções sistêmicas 
+e intraespinais de doses terapêuticas dos opioides, mas parece ser 
+mais intenso após injeção epidural ou intratecal (Ballantyne e cols., 
+1988). O efeito espinal reversível com a naloxona pode reﬂ etir a 
+desinibição dos neurônios especíﬁ cos do prurido, que foram locali-
+zados no corno dorsal da medula espinal (Schmelz, 2002).
+Sistema imune. Os efeitos dos opioides no sistema imune são com-
+plexos. Os opioides modulam a função imunológica por efeitos di-
+retos nas células do sistema imune e indiretamente por mecanismos 
+neuroniais mediados centralmente (Sharp e Yaksh, 1997). Os efeitos 
+imunomoduladores agudos centrais dos opioides podem ser media-
+dos pela ativação do sistema nervoso simpático; os efeitos crônicos 
+podem envolver a modulação do eixo hipotalâmico-pituitário-su-
+prarrenal (HPA) (Mellon e Bayer, 1998). 
+Os efeitos diretos sobre as células imunes podem envolver 
+variantes únicas parcialmente caracterizadas dos receptores opioi-
+des neuroniais clássicos, entre as quais as variantes dos receptores 
+MORs são as mais proeminentes (Sharp e Yaksh, 1997). Os recep-
+tores atípicos poderiam explicar o fato de que tem sido muito difícil 
+demonstrar ligação signiﬁ cativa dos opioides às células imunes, a 
+despeito da observação de fortes efeitos funcionais. Por outro lado, 
+a supressão imune induzida pela morﬁ na é amplamente anulada nos 
+camundongos geneticamente suprimidos, que não possuem o gene 
+deste receptor, sugerindo que este receptor seja um importante alvo 
+das ações da morﬁ na no sistema imune (Gaveriaux-Ruff e cols., 
+1998). Um mecanismo proposto para os efeitos imunossupressores 
+da morﬁ na nos neutróﬁ los é a inibição da ativação do NF-kB depen-
+dente de óxido nítrico (Welters e cols., 2000). Outros autores suge-
+riram que a indução e a ativação das cinases MAP também possam 
+ser importantes (Chuang e cols., 1997).
+Em geral, os efeitos dos opioides parecem ser moderada-
+mente imunossupressores e estudos demonstraram aumentos da sus-
+cetibilidade às infecções e à disseminação de tumores. Em algumas 
+situações, os efeitos imunes parecem ser mais proeminentes com 
+a administração aguda que com a crônica e isto poderia ter impor-
+tantes implicações para o cuidado de pacientes em estado crítico 
+(Sharp e Yaksh, 1997). Por outro lado, estudos demonstraram que 
+os opioides revertem a imunossupressão e o aumento do potencial 
+metastático tumoral induzidos pela dor em modelos animais (Page 
+e Ben-Eliyahu, 1997). Portanto, os opioides podem ora inibir ora 
+aumentar a função imune, dependendo do contexto no qual são usa-
+dos. Esses estudos também indicam que, na presença de dor, a sus-
+pensão dos opioides ministrados aos pacientes imunossuprimidos 
+pode, na verdade, deteriorar ainda mais a função imune. Tomados 
+em conjunto, os estudos indicam que a supressão imune induzida 
+por opioides pode ser clinicamente relevante, tanto no tratamento da 
+dor grave quanto na suscetibilidade às infecções dos pacientes de-
+pendentes de opioides (p. ex., infecção pelo vírus da imunodeﬁ ciên-
+cia humana [HIV] e tuberculose). Diferentes agonistas opioides 
+também podem ter propriedades imunomoduladoras singulares. Por 
+ﬁ m, a compreensão mais clara dessas propriedades deverá ajudar a 
+orientar o uso racional dos opioides nos pacientes com câncer ou 
+sob risco de infecção ou imunossupressão.
+Regulação da temperatura. Os opioides alteram o ponto de equilíbrio 
+dos mecanismos termorreguladores hipotalâmicos, de modo que a 
+temperatura corporal em geral diminui ligeiramente. Estudos siste-
+máticos demonstraram que os agonistas MOR como o alfentanila e a 
+meperidina, que atuam no SNC, aumentam ligeiramente os limiares 
+de transpiração e reduzem bastante as temperaturas limítrofes para a 
+produção de vasoconstrição e calafrios (Sessler, 2008). Na síndrome 
+de abstinência experimental, as temperaturas corporais altas são co-
+muns e isto é compatível com o relato de que a administração crônica 
+de doses altas pode aumentar a temperatura corporal (Martin, 1983).
+CLASSES FUNCIONAIS DOS OPIOIDES
+A maioria dos agonistas opioides utilizados clinicamente 
+e descritos a seguir é relativamente seletiva para os recep-
+tores MORs. Esses fármacos produzem analgesia, alteram 
+o humor e o comportamento de busca de gratiﬁ cação e 
+afetam as funções respiratórias, cardiovasculares, GI e 
+neuroendócrinas. Com poucas exceções, os agonistas dos 
+receptores KOR (p. ex., butorfanol) geralmente não são 
+utilizados no tratamento de longa duração porque produ-
+zem efeitos disfóricos e psicomiméticos. Os agonistas dos 
+receptores DORs, embora produzam efeitos analgésicos 
+nos animais, não têm qualquer utilidade clínica e os ago-
+nistas dos receptores NORs são praticamente destituídos 
+de efeitos analgésicos. Os opiáceos relativamente seletivos 
+para determinado receptor em doses mais baixas interagem 
+com outros tipos de receptores quando são administrados 
+em doses altas. Isso é par ticular mente válido à medida que 
+as doses são aumentadas para superar a tolerância.
+Os agonistas-antagonistas mistos geralmente intera-
+gem com mais de um tipo de receptor quando são usados 
+nas doses clínicas habituais. As ações desses fármacos 
+são par ticular mente interessantes porque eles podem 
+atuar como agonistas em um receptor e antagonistas em 
+outro. Os compostos agonistas-antagonistas mistos foram 
+desenvolvidos com a expectativa de que tivessem menos 
+potencial de drogadição e causassem menos depressão 
+respiratória que a morﬁ na e os fármacos semelhantes. 
+Contudo, na prática, considerando-se o mesmo grau de 
+analgesia, os efeitos colaterais que ocorrem têm a mesma 
+intensidade. Em geral, com os opioides mistos (p. ex., 
+buprenorﬁ na aprovada para o tratamento da dependência 
+dos opioides), há um “efeito máximo” que limita o grau 
+de analgesia alcançável. Alguns agonistas-antagonistas 
+mistos como a pentazocina e a nalorﬁ na (não disponível 
+nos EUA) podem desencadear a síndrome de abstinência 
+nos pacientes tolerantes aos opioides. Por essas razões, 
+com exceção do uso sancionado da buprenorﬁ na para 
+tratar a dependência opioide, a utilidade clínica desses 
+fármacos mistos geralmente é limitada.
+As recomendações posológicas e a duração da ação 
+dos diversos opioides utilizados terapeuticamente estão 
+resumidas no Quadro 18-2.
+MORFINA E AGONISTAS 
+ESTRUTURALMENTE RELACIONADOS
+Embora existam muitos compostos com propriedades 
+farmacológicas semelhantes às da morﬁ na, este fármaco 
+ainda é o padrão com o qual os analgésicos novos são 
+comparados.
+
+---
+<!-- Página 18 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-18-quadro-18-2.png]]
+
+498
+SEÇÃO II
+NEUROFARMACOLOGIA
+Quadro 18-2
+Posologia dos analgésicos opioides utilizados na prática clínica
+FÁRMACO
+DOSE ORAL 
+EQUIANALGÉSICA 
+APROXIMADA
+DOSE PARENTERAL 
+EQUIANALGÉSICA 
+APROXIMADA
+DOSE INICIAL RECOMENDADA 
+(adultos > 50 kg)
+DOSE INICIAL RECOMENDADA 
+(crianças e adultos < 50 kg)a
+ORAL
+PARENTERAL
+ORAL
+PARENTERAL
+Agonistas opioides
+Morfinab
+30 mg a cada 3-4 h 
+(doses administradas 
+ao longo das 24 h)
+60 mg a cada 
+3-4 h (dose única 
+ou administração 
+intermitente)
+10 mg a cada 3-4 h
+15 mg a cada 3-4 h
+5 mg a cada 3-4 h
+0,3 mg/kg a cada 3-4 h
+0,1 mg/kg a cada 3-4 h
+Codeínac
+130 mg a cada 3-4 h
+75 mg a cada 3-4 h
+30 mg a cada 3-4 h
+30 mg a cada 2 h (IM/SC)
+1 mg/kg a cada 3-4 hd
+Não é recomendada
+Hidromorfonab
+7,5 mg a cada 3-4 h
+1,5 mg a cada 3-4 h
+4 mg a cada 3-4 h
+1 mg a cada 3-4 h
+0,06 mg/kg a cada 3-4 h
+0,015 mg/kg a cada 3-4 h
+Hidrocodona
+30 mg a cada 3-4 h
+Indisponível
+5 mg a cada 3-4 h
+Indisponível
+0,2 mg/kg a cada 3-4 hd
+Indisponível
+Levorfanol
+4 mg a cada 6-8 h
+2 mg a cada 6-8 h
+2 mg a cada 6-8 h
+1 mg a cada 6-8 h
+0,04 mg/kg a cada 6-8 h
+0,02 mg/kg a cada 6-8 h
+Meperidina
+300 mg a cada 2-3 h
+100 mg a cada 3 h
+Não é recomendada
+50 mg a cada 3 h
+Não é recomendada
+0,75 mg/kg a cada 2-3 h
+Metadona
+20 mg a cada 6-8 h
+10 mg a cada 6-8 h
+2,5 mg a cada 12 h
+2,5 mg a cada 12 h
+0,2 mg/kg a cada 12 h
+0,1 mg/kg a cada 6-8 h
+Oxicodona
+30 mg a cada 3-4 h
+Indisponível
+5 mg a cada 3-4 h
+Indisponível
+0,2 mg/kg a cada 3-4 hd
+Indisponível
+Oximorfonab
+Indisponível
+1 mg a cada 3-4 h
+Indisponível
+1 mg a cada 3-4 h
+Não é recomendada
+Não é recomendada
+Propoxifeno
+130 mge
+Indisponível
+65 mg a cada 4-6 he
+Indisponível
+Não é recomendada
+Não é recomendada
+Tramadol f
+100 mge
+100 mg
+50-100 mg a cada 6 he
+50-100 mg a cada 6 he
+Não é recomendada
+Não é recomendado
+Agonistas-antagonistas ou agonistas parciais opioides
+Buprenorfina
+Indisponível
+0,3-0,4 mg a cada 6-8 h
+Indisponível
+0,4 mg a cada 6-8 h
+Indisponível
+0,004 mg/kg a cada 6-8 h
+Butorfanol
+Indisponível
+2 mg a cada 3-4 h
+Indisponível
+2 mg a cada 3-4 h
+Indisponível
+Não é recomendado
+Nalbufina
+Indisponível
+10 mg a cada 3-4 h
+Indisponível
+10 mg a cada 3-4 h
+Indisponível
+0,1 mg/kg a cada 3-4 h
+As Tabe las publicadas variam quanto às doses equianalgésicas recomendadas com relação à morﬁ na. A resposta clínica é o critério que deve ser adotado em todos os casos; a titulação da dose com base na resposta 
+clínica é necessária. Como não há tolerância cruzada completa entre esses fármacos, geralmente é necessário utilizar uma dose menor que a dose equianalgésica quando um fármaco é substituído por outro e também 
+titular novamente a dose com base na resposta. Cuidado: as doses recomendadas não se aplicam aos pacientes com insuﬁ ciência renal ou hepática ou com outros distúrbios que afetam o metabolismo e a cinética dos 
+fármacos. aCuidado: as doses recomendadas para os pacientes com peso corporal menor que 50 kg não podem ser usadas como doses iniciais para bebês com menos de 6 meses de vida. Consulte as doses recomenda-
+das na seção sobre tratamento da dor dos recém-nascidos Clinical Practice Guideline for Acute Pain Management: Operative ou Medical Procedures and Trauma. bCom a morﬁ na, a hidromorfona e a oximorfona, a 
+administração retal é uma via alternativa para os pacientes que não conseguem ingerir fármacos orais, mas as doses equianalgésicas podem diferir das doses orais e parenterais em vista das diferenças farmacocinéticas. 
+cCuidado: as doses de codeína acima de 65 mg geralmente não são recomendáveis porque a analgesia diminui à medida que as doses são aumentadas acima deste nível, enquanto a constipação e os outros efeitos 
+colaterais continuam a aumentar. dCuidado: as doses de ácido acetilsalicílico e paracetamol combinadas com as preparações de opioides/AINE também devem ser ajustadas com base no peso corporal do paciente. 
+Dose máxima do paracetamol: 4 g/dia para adultos, 90 mg/kg/dia para crianças. eAs doses recomendadas de morﬁ na para tratar dores moderadas não é necessariamente equivalente a 30 mg VO ou 10 mg por via 
+parenteral. f Risco de convulsões: a preparação parenteral não está disponível nos EUA. g Existe (nos EUA) uma preparação de liberação estendida que contém até 160 mg de oxicodona por comprimido e o intervalo 
+recomendado entre as doses é de 12 h. Esse fármaco tem sido utilizado abusivamente. Modiﬁ cado com base na Agency for Healthcare Policy and Research, 1992.
+
+---
+<!-- Página 19 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-19-figura-18-8.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+499
+Fonte e composição do ópio
+Como a síntese de morﬁ na é difícil, o fármaco ainda é obtido do ópio 
+ou extraído da palha das papoulas. O ópio é obtido das cápsulas das 
+sementes não germinadas da papoula, Papaver somniferum. O suco 
+leitoso é desidratado e pulverizado para obter o pó de ópio, que contém 
+vários alcaloides, dos quais apenas uns poucos — a morﬁ na, a codeína 
+e a papaverina — têm utilidade clínica. Esses alcaloides podem ser 
+divididos em duas classes químicas distintas, os fenantrenos e as ben-
+zilisoquinolinas. Os principais fenantrenos são a morﬁ na (que consti-
+tui 10% do ópio), a codeína (0,5%) e a tebaína (0,2%). As principais 
+benzilisoquinoleínas são a papaverina (1%) e a noscapina (6%).
+Química da morﬁ na e seus congêneres
+A estrutura da morﬁ na está ilustrada na Figura 18-8. Mui-
+tos derivados semissintéticos são obtidos por modiﬁ ca-
+ções relativamente simples da morﬁ na ou da tebaína. A 
+codeína é metilmorﬁ na, na qual a substituição da metila é 
+acrescentada ao grupo hidroxila fenólico. A tebaína difere 
+da morﬁ na apenas porque os dois grupos hidroxila estão 
+metilados e que o anel tem duas ligações duplas (6,7; 8,14). 
+A tebaína tem pouca ação analgésica, mas é precursor de 
+vários compostos 14-OH importantes, inclusive oxico-
+dona e naloxona. Alguns derivados da tebaína têm po-
+tência mais de 1.000 vezes maior que a morﬁ na (p. ex., 
+etorﬁ na). A diacetilmorﬁ na, ou heroína, é produzida pela 
+acetilação da morﬁ na nas posições 3 e 6. A apomorﬁ na, 
+que também pode ser preparada a partir da morﬁ na, é um 
+emético potente e agonista dopaminérgico D1 e D2, mas 
+não tem interações com os receptores opioides e não pro-
+duz efeitos analgésicos (Capítulos 22 e 46). A hidromor-
+fona, a oximorfona, a hidrocodona e a oxicodona também 
+são produzidas por modiﬁ cações da molécula da morﬁ na. 
+A Figura 18-8 ilustra as relações estruturais entre a mor-
+ﬁ na e alguns dos seus substitutos e agonistas.
+Relação entre estrutura e atividade dos opioides semelhantes à 
+morﬁ na. Além da morﬁ na, da codeína e dos derivados semissintéti-
+cos dos alcaloides do ópio natural, alguns fármacos de outras classes 
+químicas estruturalmente diferentes têm ações farmacológicas seme-
+lhantes às da morﬁ na. Os compostos clinicamente úteis incluem os 
+morﬁ nanos, os benzomorfanos, as metadonas, as fenilpiperidinas e 
+as propionanilidas. Embora as representações bidimensionais desses 
+compostos quimicamente diversos pareçam ser muito diferentes, os 
+modelos moleculares mostram certas características comuns, como 
+indicado pelas linhas cheias na estrutura da morﬁ na mostrada na Fi-
+gura 18-8. Entre as importantes propriedades dos opioides que podem 
+ser alteradas por modiﬁ cações estruturais estão suas aﬁ nidades pelos 
+vários tipos de receptores opioides, suas atividades como agonistas 
+versus antagonistas, suas lipossolubilidades e suas resistências à de-
+gradação metabólica. Por exemplo, o bloqueio da hidroxila fenólica 
+na posição 3, como na codeína e heroína, reduz drasticamente a li-
+gação aos receptores; estes compostos são convertidos in vivo nos 
+potentes analgésicos morﬁ na e 6-acetilmorﬁ na, respectivamente.
+Absorção, distribuição, metabolismo e excreção
+Absorção. Em geral, os opioides são modestamente absorvidos no 
+trato gastrintestinal; a absorção pela mucosa retal é adequada e al-
+guns fármacos (p. ex., morﬁ na e hidromorfona) estão disponíveis em 
+supositórios. Os opioides mais lipofílicos são também prontamente 
+absorvidos pela mucosa nasal ou oral. Os opioides mais lipossolú-
+veis também podem ser absorvidos por via transdérmica. Os opioi-
+des, principalmente a morﬁ na, têm sido amplamente utilizados 
+por infusão espinal para produzir analgesia por uma ação medular. 
+Esses fármacos conseguem atravessar a dura-máter e isso permite 
+sua aplicação por via epidural.
+Com a maior parte dos opioides, incluindo a morﬁ na, o efeito 
+de determinada dose será menor depois da administração oral que 
+da parenteral, em vista do metabolismo hepático de primeira pas-
+sagem, que é va riá vel, mas signiﬁ cativo. Por exemplo, a biodispo-
+nibilidade das preparações orais de morﬁ na é de apenas ~ 25%. A 
+conﬁ guração da curva tempo-efeito também varia com a via de ad-
+ministração, de modo que a ação geralmente é mais duradoura com 
+a via oral. Quando se ajustam as doses de acordo com a variação 
+do metabolismo de primeira passagem e com a depuração, pode-se 
+obter alívio adequado da dor com a administração oral de morﬁ na. 
+Nos pacientes com câncer, a analgesia satisfatória pela morﬁ na as-
+socia-se a uma variedade muito ampla de concentrações plasmáticas 
+de equilíbrio (16-364 ng/mL) (Neumann e cols., 1982).
+Quando são administradas por via intravenosa, a morﬁ na e a 
+maior parte dos opioides agem prontamente. Entretanto, os compos-
+tos mais lipossolúveis (p. ex., fentanila) atuam mais rapidamente 
+que a morﬁ na após administração subcutâ nea, em vista das dife-
+renças nas taxas de absorção e entrada no SNC. Em comparação 
+com os opioides mais lipossolúveis como a codeína, a heroína e 
+a metadona, a morﬁ na atravessa a barreira hematencefálica a uma 
+taxa consideravelmente menor.
+Distribuição e metabolismo. Depois da administração de uma dose 
+terapêutica, cerca de um terço da morﬁ na plasmática está ligado às 
+pro teí nas. A morﬁ na propriamente dita não persiste nos tecidos e, 
+24 h após a última dose, as concentrações teciduais são baixas.
+A via metabólica principal da morﬁ na é a conjugação com 
+ácido glicurônico. Os dois metabólitos principais produzidos são 
+a morﬁ na-6-glicuronídeo e a morﬁ na-3-glicuronídeo. Além disso, 
+também formam-se quantidades pequenas de morﬁ na-3,6-diglicu-
+ronídeo. Embora os glicuronídeos 3 e 6 sejam muito polares, eles 
+ainda conseguem atravessar a barreira hematencefálica e produzir 
+efeitos clínicos signiﬁ cativos (Christrup, 1997).
+As ações farmacológicas da morfina-6-glicuronídeo são 
+indistinguíveis das ações da morﬁ na. Quando é administrada por 
+via sistêmica, a morﬁ na-6-glicuronídeo é duas vezes mais potente 
+que a morﬁ na nos modelos animais (Paul e cols., 1989) e nos seres 
+humanos (Osborne e cols., 1988). Com a administração crônica, o 
+6-glicuronídeo é responsável por uma porcentagem signiﬁ cativa das 
+ações analgésicas da morﬁ na (Osborne e cols., 1988). Na verdade, 
+com o uso oral crônico, os níveis sanguíneos da morﬁ na-6-glicuro-
+nídeo geralmente são mais altos que os da morﬁ na. Tendo em vista 
+sua potência mais alta nos receptores MORs e sua concentração 
+mais elevada, a morﬁ na-6-glicuronídeo pode ser responsável pela 
+maior parte da atividade analgésica da morﬁ na nos pacientes trata-
+dos por perío dos longos com este fármaco por via oral. A morﬁ na-6-
+glicuronídeo é excretada pelos rins. Na insuﬁ ciência renal, os níveis 
+da morﬁ na-6-glicuronídeo podem aumentar e isto talvez explique a 
+potência e a longa duração das ações da morﬁ na nos pacientes com 
+disfunção renal. Nos adultos, a meia-vida da morﬁ na é de ~ 2 h, 
+enquanto a meia-vida da morﬁ na-6-glicuronídeo é um pouco mais 
+longa. As crianças alcançam os níveis de função renal dos adultos 
+em torno da idade de 6 meses. Nos pacientes idosos, recomenda-se 
+a utilização de doses de morﬁ na menores porque seu volume de dis-
+tribuição é menor nesta população (Owen e cols., 1983) e a função 
+renal geralmente é menor nos in di ví duos idosos.
+A morﬁ na-3-glicuronídeo, outro metabólito importante, tem 
+menos aﬁ nidade pelos receptores opioides, mas pode contribuir para
+
+---
+<!-- Página 20 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-20-figura-18-8.png]]
+
+500
+SEÇÃO II
+NEUROFARMACOLOGIA
+os efeitos excitatórios da morﬁ na (Smith, 2000). A N-desmetilação 
+da morﬁ na em normorﬁ na é uma via metabólica pouco expressiva 
+nos seres humanos, mas é mais importante nos roedores (Yeh e cols., 
+1977). A N-desalquilação também é importante para o metabolismo 
+de alguns congêneres da morﬁ na.
+Excreção. A morﬁ na é eliminada por ﬁ ltração glomerular, princi-
+palmente na forma de morﬁ na-3-glicuronídeo; 90% da excreção 
+total ocorre durante o primeiro dia. Quantidades muito pequenas 
+de morﬁ na são excretadas sem alterações. A circulação êntero-he-
+pática da morﬁ na e dos seus glicuronídeos também ocorre e explica 
+a presença de quantidades pequenas deste fármaco nas fezes e na 
+urina por vários dias após a última dose.
+Ao contrário da morﬁ na, a codeína é ~ 60% tão eﬁ caz por 
+via oral quanto por via parenteral como analgésico e depressor res-
+piratório. Os análogos da codeína como o levorfanol, a oxicodona 
+e a metadona têm razão elevada de potência entre as preparações 
+orais e parenterais. A eﬁ cácia oral maior desses fármacos reﬂ ete o 
+metabolismo menor durante a primeira passagem pelo fígado. Após 
+absorção, a codeína é metabolizada pelo fígado e seus metabólitos 
+são excretados principalmente em formas inativas na urina. Uma pe-
+quena fração (~ 10%) da codeína administrada sofre O-desmetilação 
+Figura 18-8 Estruturas dos agonistas e antagonistas opioides semelhantes à morﬁ na.
+Morfina
+aOs números 3, 6 e 17 referem-se às posições na molécula de morfina, conforme está ilustrado acima. †Outras alterações da molécula de morfina são: 
+(1) Ligação simples em vez de dupla entre C7 e C8; (2) acréscimo de OH em C14; (3) ausência do oxigênio entre C4 e C5; (4) ligação endoeteno entre 
+C6 e C14; substituição 1-hidroxi-1,2,2-trimetilpropil em C7.
+Naloxona
+Naltrexona
+Metilnaltrexona
+Nome genérico
+Radicais químicos e suas posiçõesa
+Outras alterações†
+Morfina
+Heroína
+Hidromorfona
+Oximorfona
+Levorfanol
+Levalorfano
+Codeína
+Hidrocodona
+Oxicodona
+Nalmefeno
+Nalorfina
+Naloxona
+Naltrexona
+Buprenorfina
+Butorfanol
+Nalbufina
+Metilnaltrexona
+
+---
+<!-- Página 21 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+501
+em morﬁ na e as formas livre, e conjugadas da morﬁ na podem ser 
+detectadas na urina depois da administração das doses terapêuticas 
+de codeína. A codeína tem aﬁ nidade excepcionalmente baixa pelos 
+receptores opioides e seu efeito analgésico é atribuído à sua conver-
+são em morﬁ na. Contudo, as ações antitussígenas da codeína podem 
+envolver receptores diferentes que se ligam à própria codeína, que é 
+utilizada comumente no tratamento da tosse. A meia-vida da codeí na 
+no plasma é de 2-4 h.
+O CYP2D6 catalisa a conversão da codeína em morﬁ na. 
+Polimorﬁ smos genéticos bem caracterizados do CYP2D6 levam à 
+incapacidade de converter codeína em morﬁ na, tornando-a assim 
+ineﬁ caz como analgésico em ~ 10% da população branca (Ei-
+chelbaum e Evert, 1996). Outros polimorﬁ smos (p. ex., genótipo 
+CYP2D6*2x2) podem resultar no metabolismo ultrarrápido e, deste 
+modo, aumentar a sensibilidade aos efeitos da codeína em razão 
+dos níveis séricos mais altos de morﬁ na em 4-5% da população 
+norte-americana e em 16-28% dos norte-africanos, etíopes e árabes 
+(Eichelbaum e Evert, 1996). Também existem outras variações da 
+eﬁ ciência metabólica entre os grupos éticos. Por exemplo, os chi-
+neses produzem menos morﬁ na a partir da codeína que os brancas e 
+também são menos sensíveis aos efeitos da morﬁ na. A sensibilidade 
+reduzida à morﬁ na pode ser atribuída à produção menor de morﬁ na-
+6-glicuronídeo (Caraco e cols., 1999). Desse modo, é importante 
+considerar a possibilidade de um polimorﬁ smo das enzimas meta-
+bólicas em qualquer paciente que apresente efeitos tóxicos ou não 
+consiga analgesia adequada com a codeína ou outros pró-fármacos 
+opioides (p. ex., hidrocodona e oxicodona).
+A heroína (diacetilmorﬁ na) é rapidamente hidrolisada em 
+6-monoacetilmorﬁ na (6-MAM) que, por sua vez, é hidrolisada em 
+morﬁ na. A heroína e a 6-MAM são mais lipossolúveis que a morﬁ na 
+e entram mais facilmente no cérebro. Algumas evidências sugerem 
+que a morﬁ na e a 6-MAM sejam responsáveis pelas ações farmaco-
+lógicas da heroína. Essa droga é excretada principalmente na urina, 
+em sua maior parte como morﬁ nas livre e conjugada.
+Ações terapêuticas e precauções
+A morﬁ na e os opioides relacionados produzem amplo 
+espectro de efeitos indesejáveis, incluindo depressão res-
+piratória, náuseas, vômitos, tonturas, obnubilação men-
+tal, disforia, prurido, constipação, aumento da pressão 
+do trato biliar, retenção urinária e hipotensão. As bases 
+desses efeitos foram descritas previamente. É raro um 
+paciente desenvolver delírio. Também pode ocorrer 
+acentuação da sensibilidade à dor depois da regressão do 
+efeito analgésico e durante a abstinência entre as doses.
+Alguns fatores podem alterar a sensibilidade do paciente 
+aos analgésicos opioides, incluindo a integridade da barreira he-
+matencefálica. Por exemplo, quando se administra morﬁ na a um 
+lactente recém-nato em doses apropriadas ao peso extrapoladas dos 
+adultos, podem ser observados efeitos inesperadamente profundos 
+(analgesia e depressão respiratória). Isso se deve à imaturidade da 
+barreira hematencefálica dos recém-nascidos. Como já mencionado 
+antes, a morﬁ na é hidrofílica e, por esta razão, quantidades propor-
+cionalmente menores do fármaco conseguem entrar no SNC, em 
+comparação com os opioides mais lipofílicos. Nos recém-nascidos 
+ou quando a barreira hematencefálica está violada, os opioides li-
+pofílicos podem produzir resultados clínicos mais previsíveis que a 
+morﬁ na. Nos adultos, a duração da analgesia produzida pela mor-
+ﬁ na aumenta progressivamente com a idade; contudo, o grau de 
+analgesia obtida com determinada dose pouco se altera. As altera-
+ções dos parâmetros farmacocinéticos explicam apenas em parte 
+essas observações. O paciente com dor intensa pode tolerar doses 
+mais altas de morﬁ na. Entretanto, à medida que a dor diminui, o 
+paciente pode desenvolver sedação e até depressão respiratória, à 
+medida que os efeitos estimuladores da dor são atenuados.
+Todos os analgésicos opioides são metabolizados pelo fígado 
+e devem ser usados com cautela em pacientes com doen ça hepática, 
+em vista da maior biodisponibilidade após administração oral, ou 
+podem ocorrer efeitos cumulativos. A doen ça renal também altera 
+signiﬁ cativamente a farmacocinética da morﬁ na, da codeí na, da dii-
+drocodeína, da meperidina e do propoxifeno. Embora as doses únicas 
+de morﬁ na sejam bem toleradas, o metabólito ativo, a morﬁ na-6-
+glicuronídeo, pode acumular-se com a administração continuada e 
+os sintomas de overdose opioide podem ocorrer (Chan e Matzke, 
+1987). Esse metabólito também se acumula durante a administra-
+ção repetida de codeína aos pacientes com disfunção renal. Quando 
+doses repetidas de meperidina são administradas a esses pacientes, 
+a acumulação da normeperidina pode causar tremor e convulsões. 
+Similarmente, a administração repetida de propoxifeno pode causar 
+toxicidade car día ca refratária à naloxona, que é atribuí da à acumu-
+lação do norpropoxifeno (Chan e Matzke, 1987).
+A morﬁ na e os opioides relacionados devem ser usados com 
+cautela nos pacientes com comprometimento da função respiratória 
+(p. ex., enﬁ sema, cifoescoliose ou obesidade grave). Existem relatos 
+de mortes após a administração de doses terapêuticas de morﬁ na aos 
+pacientes com cor pulmonale. Embora muitos pacientes com essas 
+condições pareçam ter suas funções dentro dos limites normais, eles 
+já estão usando mecanismos compensatórios (p. ex., aumento da fre-
+quên cia respiratória). Muitos têm elevações crônicas dos níveis do 
+CO2 plasmático e podem ser menos sensíveis às ações estimuladoras 
+do CO2. A superposição dos efeitos depressores dos opioides pode 
+ser desastrosa. Os efeitos depressores respiratórios dos opioi des e 
+sua capacidade intrínseca de elevar a pressão intracraniana devem ser 
+considerados nos pacientes com traumatismo craniano ou hiperten-
+são intracraniana preexistente. Embora o traumatismo craniano não 
+seja uma contraindicação absoluta ao uso dos opioides, a possibili-
+dade de ocorrer depressão respiratória mais grave e a necessidade 
+de controlar a ventilação do paciente devem ser consideradas. Por 
+ﬁ m, como os opioides podem causar obnubilação mental e efeitos 
+colaterais como miose e vômitos, que são sinais importantes para 
+o acompanhamento da evolução clínica dos pacientes com trauma-
+tismos cranianos, a conveniência do uso destes fármacos deve ser 
+comparada cuidadosamente com esses riscos.
+Os pacientes com volume sanguíneo reduzido são signiﬁ ca-
+tivamente mais suscetíveis aos efeitos vasodilatadores da morﬁ na e 
+dos fármacos relacionados, que devem ser utilizados com cautela 
+nos pacientes com hipotensão de qualquer etiologia.
+A morﬁ na causa liberação de histamina, que pode desenca-
+dear broncoconstrição e vasodilatação. Esse fármaco também pode 
+provocar ou exacerbar as crises de asma e deve ser evitado nos 
+pacientes com história de asma. Os agonistas de outros receptores 
+associados à incidência mais baixa de liberação de histamina, inclu-
+sive os derivados da fentanila, podem ser opções mais apropriadas 
+a esses pacientes.
+Além de sua capacidade de liberar histamina, os analgésicos 
+opioides podem provocar fenômenos alérgicos, embora as respos-
+tas alérgicas verdadeiras não sejam comuns. Em geral, os efeitos 
+evidenciam-se por urticária e outros tipos de erupção cutâ nea, inclu-
+sive erupções ﬁ xas; também ocorre dermatite de contato nos enfer-
+meiros e nos proﬁ ssionais que trabalham nas farmácias. As pápulas 
+urticadas que se formam no local da injeção de morﬁ na, codeína e 
+fármacos semelhantes provavelmente são decorrentes da liberação
+
+---
+<!-- Página 22 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-22-figura-18-8-e-figura-18-9.png]]
+
+502
+SEÇÃO II
+NEUROFARMACOLOGIA
+de histamina. Existem relatos de reações anaﬁ lactoides após admi-
+nistração intravenosa da codeína e da morﬁ na, mas são raras. Essas 
+reações podem contribuir para a morte súbita, para os episódios de 
+edema pulmonar e para outras complicações que ocorrem nos in di-
+ví duos dependentes do uso de heroína intravenosa (Capítulo 24).
+LEVORFANOL
+O levorfanol é o principal agonista opioide da série dos 
+morﬁ nanos comercialmente disponível (ver estrutura na 
+Figura 18-8). O isômero D (dextrorfano) é relativamente 
+desprovido de ação analgésica, mas pode ter efeitos inibi-
+tórios nos receptores NMDA. O levorfanol tem aﬁ nidade 
+pelos receptores MORs, KORs e DORs e está disponível 
+em preparações IV, IM e oral. Os efeitos farmacológi-
+cos do levorfanol são muito semelhantes aos da morﬁ na. 
+Contudo, relatos clínicos sugerem que ele possa causar 
+menos náuseas e vômitos.
+O levorfanol é metabolizado menos rapidamente que 
+a morﬁ na e tem meia-vida de 12-16 h; por essa razão, a 
+administração repetida a intervalos curtos pode resultar 
+em acúmulo do fármaco no plasma. Outros opioides desse 
+grupo incluem a nalbuﬁ na e o butorfanol, que estão descri-
+tos na seção “Agonistas/Antagonistas e Agonistas Parciais 
+Opioides” nas páginas subsequentes deste capítulo.
+MEPERIDINA, DIFENOXILATO 
+E LOPERAMIDA
+As fórmulas estruturais da meperidina (uma fenilpiperi-
+dina) e de alguns dos seus congêneres estão ilustradas na 
+Figura 18-9. Dois congêneres importantes são o difeno-
+xilato e a loperamida. Esses fármacos são agonistas dos 
+receptores MOR com efeitos farmacológicos predomi-
+nantes no SNC e ações neurológicas no intestino.
+Meperidina
+A meperidina é predominantemente um agonista do re-
+ceptor MOR, que produz um padrão de efeitos semelhan-
+tes, embora não idênticos aos que já foram descritos com 
+referência à morﬁ na.
+Efeitos nos sistemas do organismo
+Ações no SNC. A meperidina é um agonista potente dos 
+receptores MORs e produz ações analgésicas potentes. 
+O pico da depressão respiratória é observado 1 hora após 
+a administração intramuscular e o retorno à normalidade 
+tem início em ~ 2 h. Como ocorre com os outros opioi-
+des, a meperidina causa constrição pupilar, aumenta a 
+sensibilidade do labirinto e tem efeitos sobre a secreção 
+dos hormônios hipoﬁ sários semelhantes aos da mor-
+ﬁ na. Em alguns casos, a meperidina causa excitação do 
+SNC, que se caracteriza por tremores, abalos musculares 
+e convulsões; estes efeitos são atri buídos em grande 
+parte ao acúmulo de um metabólito, a normeperidina. 
+Como também ocorre com a morﬁ na, a depressão respi-
+ratória é responsável pela acumulação de CO2 que, por 
+sua vez, causa vasodilatação cerebral, aumento do ﬂ uxo 
+sanguíneo do cérebro e elevação da pressão do líquido 
+cerebrospinal.
+Sistema cardiovascular. Os efeitos da meperidina no sistema cardio-
+vascular geralmente se assemelham aos da morﬁ na, incluindo a ca-
+pacidade de liberar histamina depois da administração parenteral. A 
+administração intramuscular de meperidina não afeta signiﬁ cativa-
+mente a fre quên cia car día ca, mas a injeção intravenosa geralmente 
+causa taquicardia signiﬁ cativa.
+Músculo liso. A meperidina produz efeitos em determinados mús-
+culos lisos que, sob o ponto de vista qualitativo, são semelhantes 
+aos observados com outros opioides. A meperidina não causa tanta 
+constipação quanto a morﬁ na, mesmo quando administrada por lon-
+gos perío dos; isso pode estar relacionado com sua maior capacidade 
+de penetrar no SNC e, desse modo, produzir analgesia em concen-
+trações sistêmicas mais baixas. Como também ocorre com outros 
+opioides, as doses clínicas de meperidina retardam o esvaziamento 
+gástrico a ponto de prolongar signiﬁ cativamente a absorção de ou-
+tros fármacos.
+Em geral, o útero da mulher que não está grávida é estimulado 
+suavemente pela meperidina. Quando é administrada antes de um 
+ocitócico, a meperidina não produz qualquer efeito antagonista. As 
+doses terapêuticas administradas durante o trabalho de parto ativo 
+não retardam o processo do nascimento; na verdade, a fre quên cia, 
+a duração e a amplitude das contrações uterinas podem aumentar 
+em alguns casos (Zimmer e cols., 1988). A meperidina não interfere 
+com as contrações normais ou a involução uterina depois do parto 
+e não aumenta a incidência de hemorragias puerperais. Ver também 
+“Indicações terapêuticas” nas seções subsequentes deste capítulo.
+Absorção, distribuição, metabolismo e excreção. A me-
+peridina é absorvida por todas as vias de administração, 
+mas a velocidade de absorção pode ser errática depois 
+da injeção intramuscular. A concentração plasmática de 
+pico ocorre habitualmente em ~ 45 min, mas a variação é 
+ampla. Após administração oral, apenas ~ 50% escapam 
+ao metabolismo de primeira passagem e entram na circu-
+lação e as concentrações plasmáticas de pico geralmente 
+ocorrem em 1-2 h.
+Nos seres humanos, a meperidina é hidrolisada ao ácido me-
+peridínico que, por sua vez, é parcialmente conjugado. Esse fármaco 
+também é N-desmetilado a normeperidina, que então pode ser hi-
+drolisada a ácido normeperidínico e depois conjugada. O signiﬁ cado 
+clínico da formação de normeperidina está descrito com mais detalhes 
+adiante. A meperidina é metabolizada principalmente no fígado com 
+meia-vida de ~ 3 h. Nos pacientes com cirrose, a biodisponibilidade da 
+meperidina aumenta até 80% ou mais e as meias-vidas da meperidina 
+e da normeperidina são prolongadas. Cerca de 60% da meperidina 
+plasmática ligam-se às pro teí nas. Apenas uma pequena quantidade de 
+meperidina é excretada sem alterações.
+Efeitos adversos, precauções e contraindicações. O padrão e a inci-
+dência global dos efeitos adversos que se seguem ao uso de meperi-
+dina são similares aos observados depois das doses equianalgésicas 
+de morﬁ na, exceto que a constipação e a retenção urinária podem
+
+---
+<!-- Página 23 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-23-figura-18-9.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+503
+Figura 18-9 Estruturas químicas dos analgésicos piperidínicos e fenilpiperidínicos.
+Composto
+R1
+R2
+R3
+Meperidina
+Difenoxilato
+CH3
+R2
+R1
+R3
+CH2CH2
+CN
+C
+COCH2CH3
+O
+COCH2CH3
+O
+Loperamida
+Fentanila
+Sufentanila
+CH2CH2
+N(CH3)2
+C
+O
+C
+OH
+CH2OCH3
+H
+CH2CH2
+CCH2CH3
+O
+N
+CCH2CH3
+O
+N
+CH2CH2
+N
+Alfentanila
+Remifentanila
+Propoxifeno
+Metadona
+CH2OCH3
+C
+O
+CH3
+CCH2CH3
+O
+N
+O
+CCH2CH3
+O
+N
+CH2CH2
+CH2CH3
+CH2CH2C
+CH3
+O
+O
+C
+C
+CH2
+CH3CH2
+CH
+CH3
+CH3
+CH3
+N
+O
+O
+C
+O
+CH3
+CH2
+CH3CH2C
+CHCH2
+CH3
+CH3
+N
+O
+S
+N
+N
+N
+N
+N
+N
+N
+N
+S
+
+---
+<!-- Página 24 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-24-figura-18-3.png]]
+
+504
+SEÇÃO II
+NEUROFARMACOLOGIA
+ser menos comuns. Os pacientes que têm náuseas e vômitos com 
+a morﬁ na podem não ter com meperidina; o inverso também pode 
+ser verdadeiro. Como também ocorre com outros opioides, desen-
+volve-se tolerância a alguns destes efeitos. As contraindicações ge-
+ralmente são as mesmas que as dos outros opioides. Nos pacientes 
+ou in di ví duos dependentes e tolerantes aos efeitos depressores da 
+meperidina, grandes doses repetidas a intervalos curtos podem pro-
+duzir uma síndrome excitatória que inclui alucinações, tremores, 
+abalos musculares, pupilas dilatadas, reﬂ exos hiperativos e convul-
+sões. Esses sinais e sintomas excitatórios devem-se ao acúmulo da 
+normeperidina, que tem meia-vida de 15-20 h, em comparação com 
+as 3 h da meperidina. Como a normeperidina é eliminada pelos rins 
+e pelo fígado, a disfunção hepática ou renal aumenta as chances de 
+ocorrerem efeitos tóxicos. Em razão dessas propriedades, a mepe-
+ridina não é recomendada para o tratamento das dores crônicas, em 
+vista da preocupação com os efeitos tóxicos dos metabólitos. Esse 
+fármaco não deve ser utilizado por mais de 48 h ou em doses maio-
+res que 600 mg/dia (ver www.ahrq.gov).
+Interações com outros fármacos. Reações graves podem seguir-se 
+à administração de meperidina aos pacientes tratados com inibi-
+dores da MAO. Dois tipos básicos de interação podem ser obser-
+vados. O mais proeminente é uma reação excitatória (“síndrome 
+da serotonina”) com delirium, hipertermia, cefaleia, hipertensão ou 
+hipo tensão, rigidez, convulsões, coma e morte. Essa reação pode 
+dever-se à capacidade da meperidina de bloquear a recaptação neu-
+ronial da 5-HT, resultando em hiperatividade serotoninérgica (Stack 
+e cols., 1988). Por outro lado, a interação da meperidina com os 
+inibidores da MAO pode assemelhar-se à overdose aguda de narcó-
+ticos em consequência da inibição das CYPs hepáticas. Portanto, a 
+meperidina e os seus congêneres estão contraindicados ao pacientes 
+que utilizam inibidores da MAO, ou nos primeiros 14 dias após a 
+interrupção do tratamento com estes fármacos. Do mesmo modo, o 
+dextrometorfano (um análogo do levorfanol utilizado como supres-
+sor não narcótico da tosse) também inibe a captação neuronial da 
+5-HT e deve ser evitado nesses pacientes. Além disso, o tramadol e 
+o tapentadol (analgésicos opioides sintéticos de ação central, descri-
+tos adiante) inibem a captação de norepinefrina e 5-HT e não devem 
+ser usados junto com inibidores da MAO ou inibidores seletivos da 
+recaptação da serotonina (ISRS). 
+Como também ocorre com os antidepressivos tricíclicos, a 
+clorpromazina aumenta os efeitos depressores respiratórios da me-
+peridina, mas o mesmo não ocorre com o diazepam. A administra-
+ção simultânea de fármacos como a prometazina ou a clorpromazina 
+também pode intensiﬁ car acen tua damente a sedação induzida pela 
+meperidina, sem prolongar o seu tempo de depuração. O tratamento 
+com fenobarbital ou fenitoína aumenta a depuração sistêmica e di-
+minui a biodisponibilidade da meperidina oral; isso está associado 
+à elevação da concentração plasmática da normeperidina (Edwards 
+e cols., 1982). Como também ocorre com a morﬁ na, estudos de-
+monstraram que a administração concomitante de anfetamina inten-
+siﬁ ca os efeitos analgésicos da meperidina e de seus congêneres, ao 
+mesmo tempo em que neutraliza a sedação.
+Indicações terapêuticas. A indicação principal da mepe-
+ridina é a analgesia. Ao contrário da morﬁ na e dos seus 
+congêneres, a meperidina não é usada para o tratamento 
+da tosse ou da diarreia. Os efeitos analgésicos da meperi-
+dina são detectáveis ~ 15 min após a administração oral, 
+alcançam intensidade máxima em 1-2 h e regridem grada-
+tivamente. O início do efeito analgésico é mais rápido (em 
+10 min) após a administração subcutâ nea ou intramuscu-
+lar e os efeitos atingem intensidade máxima em ~ 1 hora, 
+correspondendo diretamente às concentrações plasmáticas 
+de pico. Na prática clínica, a duração da analgesia eﬁ caz é 
+de ~ 1,5-3 h. Em geral, a dose de 75-100 mg do cloridrato 
+de meperidina é administrada por via parenteral e equi-
+vale a ~ 10 mg de morﬁ na; em doses equianalgésicas, a 
+meperidina produz tanta sedação, depressão respiratória e 
+euforia quanto a morﬁ na. Em termos de efeito analgésico 
+total, em comparação com a administração parenteral, a 
+meperidina tem eﬁ cácia de um terço quando é adminis-
+trada por via oral. Alguns pacientes podem desenvolver 
+disforia.
+As doses únicas também parecem ser eﬁ cazes no tratamento 
+dos calafrios pós-anestésicos. A meperidina (25-50 mg) é usada comu-
+mente com anti-histamínicos, corticoides, paracetamol ou anti-inﬂ a-
+matórios não hormonais (AINEs) para evitar ou atenuar os tremores e 
+os calafrios que acompanham a infusão intravenosa de anfotericina B, 
+aldesleucina (interleucina 2), trastuzumabe e alentuzumabe.
+A meperidina atravessa a barreira placentária e, mesmo em 
+doses analgésicas razoáveis, causa aumento signiﬁ cativo da por-
+centagem dos bebês que mostram retardo da respiração, diminui-
+ção do volume respiratório por minuto ou redução da saturação de 
+oxigênio, ou que requerem reanimação. A depressão respiratória 
+fetal e a materna induzidas pela meperidina podem ser tratadas com 
+naloxona. A fração do fármaco que se liga às pro teí nas é menor no 
+feto; por esta razão, suas concentrações livres podem ser considera-
+velmente mais altas que na mãe. No entanto, a meperidina produz 
+menos depressão respiratória nos recém-nascidos que uma dose 
+equianalgésica de morﬁ na ou metadona (Fishburne, 1982).
+Difenoxilato
+O difenoxilato é um congênere da meperidina com efeito 
+constipante bem deﬁ nido nos seres humanos e foi apro-
+vado apenas para o tratamento da diarreia (Capítulo 46). 
+Embora as doses únicas na faixa terapêutica (ver adiante) 
+produzam pouco ou nenhum efeito subjetivo semelhante 
+aos da morﬁ na, em altas doses (40-60 mg) o difenoxi-
+lato apresenta atividade opioide típica, incluindo eufo-
+ria, supressão da síndrome de abstinência à morﬁ na e 
+dependência física semelhante à da morﬁ na depois da 
+administração crônica. O difenoxilato tem a caracterís-
+tica singular de que mesmo os seus sais são praticamente 
+insolúveis em soluções aquosas, evitando-se assim a pos-
+sibilidade de uso abusivo por via parenteral. 
+O cloridrato de difenoxilato está disponível apenas em com-
+binação com o sulfato de atropina. A dose diária recomendada de 
+difenoxilato para o tratamento da diarreia dos adultos é de 20 mg em 
+doses divididas. A diarreia refratária às doses máximas de difenoxi-
+lato administrado por 10 dias provavelmente não pode ser controlada 
+com o prolongamento do tratamento. A difenoxina, um metabólito do 
+difenoxilato, tem ações semelhantes às do composto original. Como 
+também ocorre com o difenoxilato, a difenoxina é comercializada 
+em doses ﬁ xas com atropina para o tratamento da diarreia.
+Loperamida
+Assim como o difenoxilato, a loperamida é um deri-
+vado da piperidina (Figura 18-3). Esse fármaco reduz a
+
+---
+<!-- Página 25 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-25-figura-18-9.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+505
+motilidade GI exercendo efeitos nos músculos circulares 
+e longitudinais do intestino, presumivelmente como re-
+sultado de suas interações com receptores opioides do 
+intestino. Parte do seu efeito antidiarreico pode dever-se 
+à redução da secreção gastrintestinal (descrita anterior-
+mente) (Kromer, 1988). No controle da diarreia crônica, 
+a loperamida é tão eﬁ caz quanto o difenoxilato. Em estu-
+dos clínicos, o efeito colateral mais comum foi cólica ab-
+dominal. Há pouca tolerância ao seu efeito constipante.
+Em voluntários humanos que tomaram grandes doses de lope-
+ramida, as concentrações plasmáticas chegam ao pico em ~ 4 h depois 
+da ingestão; esta longa latência pode dever-se à inibição da motilidade 
+gastrintestinal e à circulação êntero-hepática do fármaco. A meia-vida 
+de eliminação aparente é de 7-14 h. A loperamida não é bem absorvida 
+após a administração oral e, além disso, aparentemente não penetra 
+bem no cérebro em virtude da atividade exportadora da glicoprote-
+ína P, que está amplamente expressa no endotélio cerebral (Sadeque 
+e cols., 2000). Camundongos com supressões de um dos genes que 
+codiﬁ cam a glicoproteína P transportadora têm níveis cerebrais muito 
+mais altos e efeitos centrais signiﬁ cativos após a administração de lo-
+peramida (Schinkel e cols., 1996). A inibição da glicoproteína P por 
+muitos fármacos usados clinicamente, como a quinidina e o verapamil, 
+pode intensiﬁ car os efeitos centrais da loperamida.
+Em geral, é improvável que haja uso abusivo de loperamida 
+por via parenteral, por causa da sua baixa solubilidade; as doses 
+altas administradas aos voluntários humanos não produziram os 
+efeitos prazerosos típicos dos opioides. A dose habitual é 4-8 mg/dia 
+e a dose diária total não deve exceder 16 mg.
+FENTANILA E CONGÊNERES
+Fentanila
+A fentanila é um opioide sintético relacionado com as fe-
+nilpiperidinas (Figura 18-9). As ações da fentanila e as dos 
+seus congêneres sufentanila, remifentanila e alfentanila 
+são semelhantes às dos outros agonistas do receptor MOR. 
+A alfentanila é raramente utilizada. A fentanila e a sufenta-
+nila são fármacos muitos importantes na prática anestésica 
+em razão do intervalo relativamente curto até produzir seu 
+efeito analgésico máximo, a interrupção rápida dos efeitos 
+após a administração de pequenas doses intermitentes, os 
+efeitos depressores diretos mínimos no miocárdio e sua 
+capacidade de reduzir expressivamente as doses necessá-
+rias dos anestésicos voláteis (“MAC-sparing”; ver Capí-
+tulo 19). Além da sua utilidade em anestesia, a fentanila 
+também é usada no tratamento das dores graves. 
+Propriedades farmacológicas
+Efeitos no SNC. A fentanila e seus congêneres são analgésicos extrema-
+mente potentes e, em geral, têm ação muito curta quando são admi-
+nistrados por via parenteral. Assim como ocorre com outros opioides, 
+podem ocorrer náuseas, vômitos e prurido. Embora possa ocorrer 
+após administração de todos os narcóticos, a rigidez muscular parece 
+ser mais comum após administração das doses altas utilizadas na 
+indução anestésica. A rigidez pode ser controlada por bloqueadores 
+neuromusculares despolarizantes ou não despolarizantes, ao mesmo 
+tempo em que se estabiliza a ventilação do paciente. É importante 
+ter o cuidado de assegurar que o paciente não esteja simplesmente 
+imobilizado, mas consciente. A depressão respiratória é semelhante 
+à observada com outros agonistas dos receptores opioides, mas seu 
+início é mais rápido. Como também ocorre com a analgesia, a de-
+pressão respiratória produzida pelas doses baixas tem duração mais 
+breve que a causada pela morﬁ na, mas sua duração é semelhante 
+depois da administração de doses altas ou das infusões prolongadas. 
+Assim como ocorre com a morﬁ na e a meperidina, a depressão res-
+piratória tardia também pode ser observada depois da administração 
+da fentanila ou da sufentanila, possivelmente em consequência da 
+circulação êntero-hepática. As doses altas da fentanila podem causar 
+excitação neurológica e raramente atividade convulsiva nos seres hu-
+manos (Bailey e Stanley, 1994). A fentanila produz efeitos mínimos 
+na pressão intracraniana quando a ventilação é controlada e não se 
+permite que a concentração arterial do CO2 aumente.
+Sistema cardiovascular. A fentanila e seus derivados reduzem a fre-
+quên cia car día ca e podem diminuir levemente a pressão arterial. 
+Entretanto, esses fármacos não liberam histamina e os efeitos de-
+pressores diretos no miocárdio são mínimos. Por essa razão, doses 
+altas da fentanila ou da sufentanila são utilizadas comumente como 
+anestésico principal para pacientes submetidos a operações cardio-
+vasculares ou com função car día ca comprometida. 
+Absorção, distribuição, metabolismo e excreção. Esses fármacos são 
+altamente lipossolúveis e atravessam prontamente a barreira he-
+matencefálica. Isso é reﬂ etido na meia-vida de equilíbrio entre o 
+plasma e o líquido cerebrospinal de ~ 5 min com a fentanila e a 
+sufentanila. Os níveis no plasma e no líquido cerebrospinal decli-
+nam rapidamente em consequência da redistribuição da fentanila 
+dos tecidos profusamente perfundidos para outros tecidos como 
+músculos e gordura. À medida que ocorre a saturação dos tecidos 
+menos perfundidos, a duração dos efeitos da fentanila e da sufenta-
+nila aproxima-se da sua meia-vida de eliminação (3-4 h). A fentanila 
+e a sufentanila são metabolizadas no fígado e excretadas pelos rins. 
+Com a utilização de doses mais altas ou infusões prolongadas, há 
+acúmulo do fármaco, saturação progressiva dos mecanismos de de-
+puração e prolongamento das ações da fentanila e da sufentanila.
+Indicações terapêuticas. O citrato de fentanila e o citrato de su-
+fentanila adquiriram ampla popularidade como coadjuvantes anes-
+tésicos (Capítulo 19). Esses fármacos são comumente usados por 
+via intravenosa, epidural ou intratecal. Os efeitos analgésicos da 
+fentanila e da sufentanila são semelhantes aos da morﬁ na e outros 
+opioides. A fentanila é ~ 100 vezes mais potente que a morﬁ na, 
+enquanto a sufentanila é ~ 1.000 vezes mais potente que este úl-
+timo opioide. O intervalo até alcançar o efeito analgésico máximo 
+depois da administração intravenosa da fentanila e da sufentanila 
+(~ 5 min) é expressivamente menor que o da morﬁ na e da mepe-
+ridina (~ 15 min). A recuperação dos efeitos analgésicos também 
+ocorre mais rapidamente. Entretanto, com as doses mais altas ou 
+as infusões prolongadas, os efeitos desses fármacos tornam-se mais 
+duradouros e as durações das ações tornam-se semelhantes às dos 
+opioides de ação prolongada (descritos adiante). 
+O uso epidural da fentanila e da sufentanila na analgesia pós-
+operatória ou durante o trabalho de parto conquistou popularidade 
+signiﬁ cativa. A combinação dos opioides epidurais com os anes-
+tésicos locais permite a redução das doses dos dois componentes 
+e a atenuação dos efeitos colaterais destes últimos fármacos (i.e., 
+bloqueio motor) e dos opioides (i.e., retenção urinária, prurido e 
+depressão respiratória tardia no caso da morﬁ na). Um problema im-
+portante com a administração espinal é que, em virtude de sua depu-
+ração rápida, esses fármacos em doses analgésicas espinais podem 
+produzir níveis sanguíneos semelhantes aos que causam efeitos após 
+a administração sistêmica (Bernards, 2004).
+
+---
+<!-- Página 26 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-26-figura-18-9.png]]
+
+506
+SEÇÃO II
+NEUROFARMACOLOGIA
+O uso da fentanila e da sufentanila no tratamento das dores 
+crônicas tornou-se mais difundido. O desenvolvimento de novas 
+vias de administração minimamente invasivas para a fentanila fa-
+cilitou o uso desses compostos no tratamento das dores crônicas. 
+Existem placas transdérmicas que produzem liberação contínua de 
+fentanila por 48-72 h. Entretanto, os fatores que aumentam a absor-
+ção (p. ex., febre) podem causar overdose relativa e agravamento 
+dos efeitos colaterais (ver “Vias de administração dos analgésicos” 
+nas seções subsequentes deste capítulo). A absorção bucal com a 
+utilização de comprimidos, películas bucais solúveis e pastilhas se-
+melhantes a pirulito permite a absorção rápida e tem sido útil ao 
+tratamento das dores agudas e ao alívio da dor do câncer refratária 
+às outras medidas. Como a fentanila não é bem absorvida pelo trato 
+GI, a melhor absorção ocorre por via bucal. Por essa razão, existe 
+pouca possibilidade de overdose por essa via.
+Remifentanila 
+Esse composto foi desenvolvido na tentativa de criar um 
+analgésico cujo efeito tivesse início mais rápido e término 
+previsível. A potência da remifentanila é praticamente 
+igual à da fentanila e suas propriedades farmacológicas 
+são semelhantes às da fentanila e da sufentanila. Esses 
+fármacos produzem incidências semelhantes de náuseas, 
+vômitos e rigidez muscular dependente da dose. Náuseas, 
+vômitos, prurido e cefaleia já foram descritos quando a 
+remifentanila foi usada para analgesia consciente durante 
+procedimentos dolorosos. As alterações da pressão intra-
+craniana são mínimas quando a ventilação é controlada. 
+Também existem relatos de convulsões depois da admi-
+nistração da remifentanila (Beers e Camporesi, 2004).
+Absorção, metabolismo e excreção. A remifentanila tem ação anal-
+gésica de início mais rápido que a da fentanila ou sufentanila. Os 
+efeitos analgésicos ocorrem em 1-1,5 min após administração in-
+travenosa. A depressão respiratória máxima depois das doses inter-
+mitentes da remifentanila ocorre depois de 5 min (Patel e Spencer, 
+1996). A remifentanila é metabolizada pelas esterases plasmáticas e 
+tem meia-vida de 8-20 min (Burkle e cols., 1996). Não há prolon-
+gamento do efeito com doses repetidas ou infusão prolongada. A 
+idade e o peso podem afetar a depuração da remifentanila, exigindo 
+a redução das doses dos idosos e seu ajuste com base na massa cor-
+poral magra. Contudo, nenhuma dessas condições causa alterações 
+signiﬁ cativas na duração do efeito. Depois das infusões de remi-
+fentanila por 3-5 h, a recuperação da função respiratória ocorre em 
+minutos; a recuperação completa de todos os efeitos deste fármaco 
+é observada em 15 min (Glass e cols., 1999). O metabólito principal 
+(ácido remifentanílico) tem 0,05-0,025% da potência do composto 
+original e é excretado pelos rins.
+Indicações terapêuticas. O cloridrato de remifentanila é útil para 
+procedimentos curtos e dolorosos que requerem intensa analgesia 
+e atenuação das respostas ao estresse; este fármaco é administrado 
+rotineiramente por infusão intravenosa contínua porque a duração 
+curta de sua ação torna impraticável a administração intermitente. 
+A possibilidade de titular a remifentanila e sua consistente e rápida 
+neutralização a tornam ideal para procedimentos cirúrgicos curtos, 
+nos quais a recuperação rápida é desejável. A remifentanila também 
+tem sido usada com sucesso em procedimentos neurocirúrgicos mais 
+longos, nos quais a emergência rápida da anestesia pode ser impor-
+tante. Entretanto, quando a analgesia pós-operatória é necessária, o 
+uso isolado da remifentanila não é uma boa opção. Nesses casos, de-
+ve-se combinar um opioide de ação mais longa ou outra modalidade 
+analgésica com a remifentanila para obter analgesia prolongada, ou 
+outro opioide deve ser administrado. A remifentanila não é admi-
+nistrada por via intraespinal porque sua fórmula contém glicina, um 
+transmissor inibitório no corno dorsal da medula.
+METADONA E PROPOXIFENO
+Metadona
+A metadona (Figura 18-9) é um agonista MOR de ação 
+longa com propriedades farmacológicas qualitativamente 
+semelhantes às da morﬁ na. A atividade analgésica da me-
+tadona (um racemato) deve-se quase inteiramente ao seu 
+teor de L-metadona, que é 8-50 vezes mais potente que 
+o isômero D. A D-metadona também demonstra ação de-
+pressora respiratória signiﬁ cativa e potencial de drogadi-
+ção, mas possui atividade antitussígena.
+Efeitos no SNC. As propriedades mais notáveis da me-
+tadona são sua atividade analgésica, sua eﬁ cácia por via 
+oral, sua ação estendida na supressão dos sintomas de 
+abstinência dos pacientes com dependência física e sua 
+tendência a produzir efeitos persistentes com a admi-
+nistração repetida. Os efeitos mióticos e depressores da 
+respiração podem ser detectados por mais de 24 h após 
+uma única dose; com a administração repetida, alguns 
+pacientes apresentam sedação acen tua da. Os efeitos na 
+tosse, na motilidade intestinal, no tônus biliar e na se-
+creção dos hormônios hipoﬁ sários são qualitativamente 
+semelhantes aos da morﬁ na.
+Absorção, distribuição, metabolismo e excreção. A metadona é 
+bem absorvida pelo trato GI e pode ser detectada no plasma 30 min 
+depois da ingestão oral; as concentrações de pico são alcançadas em 
+~ 4 h. Depois das doses terapêuticas, ~ 90% da metadona liga-se às 
+pro teí nas plasmáticas. As concentrações de pico no cérebro ocorrem 
+1-2 h depois da administração subcutâ nea ou intramuscular e isso 
+se correlaciona bem com a intensidade e a duração da analgesia. A 
+metadona também pode ser absorvida pela mucosa bucal.
+A metadona sofre biotransformação extensiva no fígado. Os 
+principais metabólitos, resultantes da N-desmetilação e ciclização do 
+fármaco para formar pirrolidinas e pirrolina, são excretados na urina 
+e na bile juntamente com pequenas quantidades do fármaco inalte-
+rado. A quantidade de metadona excretada na urina aumenta quando 
+esta é acidiﬁ cada. A meia-vida da metadona é longa (15-40 h).
+A metadona parece ligar-se ﬁ rmemente às pro teí nas em vá-
+rios tecidos, incluindo o cérebro. Depois da administração repetida, 
+há acúmulo gradativo nos tecidos. Quando a administração é in-
+terrompida, as concentrações baixas são mantidas no plasma por 
+liberação lenta dos sítios de ligação extravasculares; este processo 
+provavelmente explica a síndrome de abstinência relativamente 
+branda, porém duradoura.
+Efeitos adversos, toxicidade, interações farmacológicas e precau-
+ções. Os efeitos adversos, a toxicidade, as condições que alteram 
+a sensibilidade, bem como o tratamento da intoxicação aguda, são 
+semelhantes aos descritos para a morﬁ na. Durante a administração
+
+---
+<!-- Página 27 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-27-figura-18-9.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+507
+prolongada, pode haver sudorese excessiva, linfocitose e aumento 
+das concentrações de prolactina, albumina e globulinas no plasma. 
+A rifampicina e a fenitoína aceleram o metabolismo da metadona e 
+podem desencadear sintomas de abstinência. Ao contrário dos ou-
+tros opioides, a metadona está associada à síndrome do QT prolon-
+gado e tem efeitos aditivos com os fármacos que comprovadamente 
+prolongam o intervalo QT. Durante o tratamento com metadona, 
+podem ser observadas arritmias car día cas graves, inclusive torsade 
+de pointes.
+Indicações terapêuticas. As indicações principais do cloridrato de 
+metadona são o alívio da dor crônica, o tratamento das síndromes de 
+abstinência dos opioides e o tratamento dos usuários de heroína. Nos 
+EUA, a prescrição da metadona para a síndrome de abstinência e a 
+manutenção dos usuários de heroína é regulada por lei federal (Fe-
+deral Opioid Treatment Standards, 42 CRF 8.12). O início da anal-
+gesia ocorre 10-20 min após administração parenteral e 30-60 min 
+após ingestão oral. A concentração analgésica eﬁ caz mínima média 
+no sangue é de ~ 30 ng/mL (Gourlay e cols., 1986). A dose oral 
+habitual varia de 2,5-10 mg a cada 8-12 h, conforme a necessidade, 
+dependendo da gravidade da dor e da resposta do paciente. É impor-
+tante ter cuidado ao aumentar a dose desse fármaco porque a meia-
+vida é longa e existe tendência a acúmulo em um perío do de vários 
+dias de administração repetida. Overdoses iatrogênicas ocorreram 
+no início do tratamento e durante a titulação da dose da metadona, 
+em consequência da titulação muito rápida ou do uso simultâneo de 
+fármacos depressores. Os efeitos depressores respiratórios de pico 
+da metadona geralmente ocorrem mais tarde e persistem por mais 
+tempo que seus efeitos analgésicos máximos e, por esta razão, é 
+necessário cuidado e instruir claramente os pacientes a evitarem 
+automedicação com depressores do SNC, principalmente no iní-
+cio do tratamento e durante a titulação da dose. A metadona não é 
+amplamente utilizada como supressor da peristalse intestinal e não 
+deve ser administrada durante o trabalho de parto.
+A despeito de sua meia-vida plasmática mais longa, a duração 
+da ação analgésica de doses únicas é praticamente a mesma que a 
+da morﬁ na. Com o uso repetido, observam-se efeitos cumulativos, 
+de modo que é possível o emprego de doses mais baixas ou de in-
+tervalos mais longos entre as doses. Em contraste com a morﬁ na, a 
+metadona e muitos dos seus congêneres retêm considerável eﬁ cácia 
+quando administrados por via oral. Em termos de efeitos analgési-
+cos totais, a metadona administrada por via oral tem ~ 50% da eﬁ cá-
+cia da mesma dose administrada por via intramuscular; entretanto, a 
+razão entre as potências oral-parenteral é consideravelmente menor 
+quando se considera o efeito analgésico de pico. Em doses equianal-
+gésicas, o padrão e a incidência dos efeitos indesejáveis causados 
+pela metadona e pela morﬁ na são semelhantes.
+Em razão de sua biodisponibilidade oral e sua meia-vida 
+longa, a metadona tem sido amplamente utilizada como modali-
+dade substitutiva para tratar dependência de heroína. Como também 
+ocorre com outros opiáceos, a metadona produz tolerância e depen-
+dência. Desse modo, os dependentes que recebem doses subcutâ-
+neas ou orais diárias desenvolvem tolerância parcial aos efeitos 
+nausean tes, anoréxicos, mióticos, sedativos, depressores respirató-
+rios e cardiovasculares da metadona. Muitos ex-usuários de heroína 
+tratados com metadona oral praticamente não demonstram efeitos 
+comportamentais (Mattick e cols., 2009). O desenvolvimento de 
+dependência física durante a administração prolongada da metadona 
+pode ser demonstrado após a interrupção súbita do fármaco ou pela 
+administração de um antagonista opioide. Do mesmo modo, a admi-
+nistração subcutâ nea de metadona aos ex-dependentes de opioides 
+causa euforia com mesma duração que a causada pela morﬁ na e seu 
+potencial global de uso abusivo é semelhante ao da morﬁ na.
+Propoxifeno
+O propoxifeno é estruturalmente relacionado com a me-
+tadona (Figura 18-9) e seu efeito analgésico depende no 
+isômero D. Contudo, o L-propoxifeno parecer ter alguma 
+atividade antitussígena. O D-propoxifeno pode ser com-
+binado com alguns coadjuvantes como o paracetamol ou 
+o ácido acetilsalicílico. Uma variante do propoxifeno é 
+sua formulação como sal napsilato, que retarda a absor-
+ção e reduz a solubilidade (para evitar o uso indevido por 
+via IV).
+Ações farmacológicas. Embora seja ligeiramente menos seletivo 
+que a morﬁ na, o propoxifeno liga-se principalmente aos recepto-
+res opioides μ e produz analgesia e outros efeitos no SNC, que são 
+semelhantes aos observados com opioides semelhantes à morﬁ na. 
+É provável que, em doses equianalgésicas, a incidência de efeitos 
+colaterais como náuseas, anorexia, constipação, dor abdominal e 
+sonolência seja igual à da codeína.
+Como analgésico, o propoxifeno tem ~ 50-66% da potên-
+cia da codeína administrada por via oral. As doses de 90-120 mg 
+do cloridrato de propoxifeno administrado por via oral teria efei-
+tos analgésicos iguais aos de 60 mg de codeína, quantidade que 
+habitual mente produz quase tanta analgesia quanto 600 mg de ácido 
+acetilsalicílico. As combinações de propoxifeno e ácido acetilsali-
+cílico, bem como de codeína com ácido acetilsalicílico, produzem 
+níveis mais altos de analgesia que se fosse administrado apenas um 
+dos fármacos (Beaver, 1988).
+Absorção, distribuição, metabolismo e excreção. Após adminis-
+tração oral, as concentrações plasmáticas do propoxifeno alcançam 
+seus valores mais altos em 1 ou 2 h. Há grande variabilidade entre 
+os in di ví duos no que diz respeito à taxa de depuração e às concen-
+trações plasmáticas obtidas. A meia-vida média do propoxifeno no 
+plasma depois de uma única dose é de 6-12 h, ou seja, maior que a 
+da codeína. Nos seres humanos, a principal via de metabolismo é a 
+N-desmetilação para formar norpropoxifeno. A meia-vida do nor-
+propoxifeno é de ~ 30 h e seu acúmulo com doses repetidas pode 
+ser responsável por alguns dos efeitos tóxicos observados (Chan e 
+Matzke, 1987).
+Toxicidade. Quando é administrado por via oral, o efeito depressor 
+respiratório do propoxifeno é cerca de um terço do que é causado 
+pela codeína oral. Em geral, as doses moderadamente tóxicas cau-
+sam depressão do SNC e da respiração, mas com doses ainda maio-
+res o quadro clínico pode ser complicado por convulsões, além da 
+depressão respiratória. Ilusões, alucinações, confusão, cardiotoxici-
+dade e edema pulmonar também foram efeitos tóxicos descritos. Os 
+efeitos depressores respiratórios são signiﬁ cativamente exacerbados 
+quando o etanol ou os hipnótico-sedativos são ingeridos simulta-
+neamente. A naloxona antagoniza os efeitos depressores respirató-
+rios, convulsivantes e alguns efeitos cardiotóxicos do propoxifeno. 
+Outro aspecto da toxicidade desse fármaco são os efeitos tóxicos, 
+hepáticos ou renais, que ocorrem quando se utiliza uma combinação 
+contendo paracetamol ou ácido acetilsalicílico, respectivamente, so-
+mada à ingestão de um destes fármacos separadamente, resultando 
+em overdose nítida destes compostos coadjuvantes.
+Tolerância e dependência. Doses muito grandes (800 mg de clo-
+ridrato de propoxifeno ou 1.200 mg/dia de napsilato) reduzem a 
+intensidade da síndrome de abstinência de morﬁ na com eﬁ cácia um 
+pouco menor que as doses de 1.500 mg de codeína. As dosagens
+
+---
+<!-- Página 28 -->
+
+508
+SEÇÃO II
+NEUROFARMACOLOGIA
+máximas toleradas são equivalentes a 20-25 mg/dia de morﬁ na por 
+via subcutâ nea. O uso de doses mais altas de propoxifeno é acompa-
+nhado por efeitos adversos, inclusive psicoses tóxicas. Doses muito 
+grandes produzem alguma depressão respiratória nos in di ví duos 
+dependentes da morﬁ na, sugerindo que a tolerância cruzada entre 
+o propoxifeno e a morﬁ na seja parcial. A interrupção súbita do clo-
+ridrato de propoxifeno administrado prolongadamente (até 800 mg/
+dia durante quase 2 meses) resulta em fenômenos de abstinência 
+branda, enquanto as doses orais grandes (300-600 mg) produzem 
+efeitos subjetivos que são considerados prazerosos pelos ex-depen-
+dentes. O fármaco é muito irritante quando administrado pela via 
+intravenosa ou subcutâ nea, de modo que o uso abusivo por estas 
+vias resulta em danos graves das veias e dos tecidos moles.
+Indicações terapêuticas. Em 2009, a European Medicines Agency 
+concluiu uma revisão da segurança e da eﬁ cácia dos fármacos que 
+contêm dextropropoxifeno e concluiu que os benefícios não supe-
+ram os riscos e recomendou a suspensão gradativa da autorização 
+para comercialização na União Europeia (European Medicines 
+Agency, 2009). A conclusão publicada por esse órgão incluía a 
+aﬁ rmação de que os fármacos que contêm dextropropoxifeno são 
+analgésicos fracos com pouca eﬁ cácia no tratamento da dor e índice 
+terapêutico exíguo. Além disso, esse órgão considerou que as com-
+binações de paracetamol (acetaminofeno) e dextropropoxifeno eram 
+mais eﬁ cazes que o paracetamol utilizado isoladamente. Nos EUA, 
+o propoxifeno foi aprovado para o tratamento das dores brandas a 
+moderadas desde 1957. Recentemente, a bula do fármaco acrescen-
+tou alertas adicionais quanto ao risco de efeitos rapidamente fatais 
+durante uma overdose (FDA, 2009). Desse modo, nos EUA, o pro-
+poxifeno não deve ser prescrito aos pacientes suicidas em potencial 
+ou que têm história de ideação suicida. Além disso, níveis séricos 
+de propoxifeno maio res que os previstos devem ser esperados com 
+a administração simultânea dos inibidores potentes da CYP3A4, 
+inclusive ritonavir, cetoconazol, itraconazol, claritromicina, nelﬁ -
+navir, nefazadona, amiodarona, amprenavir, aprepitanto, diltiazem, 
+eritromicina, ﬂ uconazol, fosamprenavir, suco de pomelo (grape-
+fruit, toronja, toranja) e verapamil. As alternativas ao propoxifeno 
+devem ser consideradas para os pacientes tratados com um inibidor 
+de CYP3A4 e outros in di ví duos sob risco de overdose, principal-
+mente se tiverem cardiopatia pré-existente.
+Outros agonistas opioides
+Tramadol. O tramadol é um análogo sintético da codeína e um ago-
+nista MOR fraco. Parte do seu efeito analgésico é produzida por ini-
+bição da captação da norepinefrina e da serotonina. No tratamento 
+das dores brandas a moderadas, o tramadol é tão eﬁ caz quanto a 
+morﬁ na ou a meperidina. Contudo, para o tratamento das dores gra-
+ves ou crônicas, o tramadol é menos eﬁ caz. O tramadol é tão eﬁ caz 
+quanto a meperidina no tratamento da dor do trabalho de parto e 
+pode causar menos depressão respiratória neonatal.
+Farmacocinética. O tramadol tem biodisponibilidade de 68% depois 
+de uma única dose oral e de 100% quando é administrado por via in-
+tramuscular. Sua aﬁ nidade pelos receptores opioides μ é de apenas 
+1/6.000 quando comparado com a morﬁ na. Contudo, o metabólito 
+O-desmetilado principal do tramadol é 2-4 vezes mais potente que o 
+composto original e pode explicar parte do seu efeito analgésico. O 
+tramadol é fornecido como uma mistura racêmica, que é mais eﬁ caz 
+que se um dos enantiômeros fosse administrado isoladamente. O (+)
+enantiômero liga-se ao receptor e inibe a captação da serotonina. O (-)
+enantiômero inibe a captação da norepinefrina e estimula os recepto-
+res α2-adrenérgicos (Lewis e Han, 1997). O tramadol é amplamente 
+metabolizado no fígado por algumas enzimas, inclusive a CYP2D6 e 
+a CYP3A4, bem como por conjugação seguida de excreção renal. 
+A taxa de produção do metabólito ativo depende da CYP2D6 e, conse-
+quentemente, está sujeita à indução e à inibição metabólicas. A meia-
+vida de eliminação é de 6 h para o tramadol e de 7,5 h para o metabólito 
+ativo. A analgesia começa em uma hora com a administração oral e 
+alcança intensidade máxima em 2-3 h. A duração da analgesia é de 
+~ 6 h e a dose diária máxima recomendada é de 400 mg.
+Efeitos adversos. Os efeitos adversos comuns do tramadol incluem 
+náuseas, vômitos, tontura, boca seca, sedação e cefaleia. A depressão 
+respiratória parece ser menor que com as doses equianalgésicas da 
+morﬁ na e a gravidade da constipação é menor que a observada após o 
+uso de doses equianalgésicas de codeína (Duthie, 1998). O tramadol 
+pode causar convulsões e, possivelmente, agravar as crises convul-
+sivas dos pacientes com fatores predisponentes. Embora a analgesia 
+induzida pelo tramadol não seja totalmente reversível pela naloxona, 
+a depressão respiratória induzida por este fármaco é revertida pela 
+naloxona. Contudo, o uso desse último fármaco aumenta o risco de 
+convulsão nos pacientes tratados com tramadol. O uso indevido ou 
+ilícito, a dependência física, o uso abusivo, a drogadição e a sín-
+drome de abstinência foram associados ao uso de tramadol. Estudos 
+demonstraram que o tramadol reinicia a dependência física em al-
+guns pacientes que eram dependentes de outros opioides no passado 
+e, por esta razão, deve ser evitado nos pacientes com história de dro-
+gadição. A precipitação da síndrome de abstinência exige que a dose 
+do tramadol seja reduzida progressivamente antes de interromper o 
+tratamento. O tramadol não deve ser usado nos pacientes tratados 
+com inibidores da MAO (Lewis e Han, 1997), ISRS ou outros fárma-
+cos que reduzam o limiar convulsivo (descritos anteriormente).
+Tapentadol. O tapentadol é estruturalmente semelhante ao tramadol 
+e tem mecanismos de ação comparáveis. O primeiro tem atividade 
+opioide branda e atua como inibidor da recaptação das monoami-
+nas. O tapentadol é considerado semelhante ao tramadol no que se 
+refere à atividade, à eﬁ cácia e ao perﬁ l de efeitos colaterais. Como 
+também ocorre com o tramadol, o tapentadol não deve ser utilizado 
+simultaneamente com os fármacos que aumentam a atividade das 
+monoaminas ou reduzem o limiar convulsivo, inclusive inibidores 
+da MAO e ISRS. A principal via metabólica do tapentadol é con-
+jugação com ácido glicurônico e ~ 70% da dose são excretados na 
+urina na forma conjugada.
+AGONISTAS/ANTAGONISTAS E 
+AGONISTAS PARCIAIS OPIOIDES
+Os fármacos descritos nesta seção diferem dos agonistas 
+dos receptores opioides μ utilizados clinicamente. Os fár-
+macos como a nalbuﬁ na e o butorfanol são antagonistas 
+MOR competitivos, mas produzem seus efeitos analgési-
+cos atuando como agonistas nos receptores KORs. A pen-
+tazocina assemelha-se qualitativamente a esses fármacos, 
+mas pode ser um antagonista mais fraco ou um agonista 
+parcial nos receptores MORs, embora conserve sua ativi-
+dade como agonista KOR. Por outro lado, a buprenorﬁ na 
+é um agonista parcial dos receptores MORs. O estímulo 
+para o desenvolvimento dos fármacos agonistas/antago-
+nistas mistos foi a necessidade de ter analgésicos que 
+causem menos depressão respiratória e tenham menos 
+potencial de drogadição. Contudo, o uso clínico desses 
+compostos é limitado pelos efeitos adversos indesejáveis 
+e pelos efeitos analgésicos precários.
+
+---
+<!-- Página 29 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-29-figura-18-8.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+509
+Pentazocina
+A pentazocina foi sintetizada como parte de um esforço 
+deliberado para desenvolver um analgésico eﬁ caz com 
+pouco ou nenhum potencial de uso abusivo. Esse fármaco 
+tem ações agonistas e atividade antagonista opioide fraca.
+Ações farmacológicas e efeitos adversos. O padrão de efeitos pro-
+duzidos pela pentazocina no SNC geralmente é similar ao dos opioi-
+des semelhantes à morﬁ na, incluindo analgesia, sedação e depressão 
+respiratória. Os efeitos analgésicos da pentazocina são atribuídos às 
+suas ações agonistas nos receptores opioides. As doses mais altas 
+de pentazocina (60-90 mg) produzem efeitos disfóricos e psicoto-
+miméticos. Os mecanismos responsáveis por esses efeitos adversos 
+não são conhecidos, mas poderiam envolver a ativação de recepto-
+res supraespinais, porque alguns estudos sugeriram que estes efeitos 
+indesejáveis possam ser suprimidos pela naloxona.
+As respostas cardiovasculares à pentazocina diferem das ob-
+servadas com os agonistas típicos dos receptores opioides, porque 
+as doses altas causam aumentos da pressão arterial e da fre quên cia 
+car día ca. A pentazocina que atua como antagonista fraco ou agonista 
+parcial dos receptores opioides e não antagoniza a depressão respi-
+ratória produzida pela morﬁ na. Contudo, quando é administrada aos 
+pacientes dependentes de morﬁ na ou outros agonistas MOR, a pen-
+tazocina pode desencadear a síndrome de abstinência. Os efeitos li-
+mitantes da analgesia e da depressão respiratória são observados com 
+doses acima de 50-100 mg de pentazocina (Bailey e Stanley, 1994).
+Indicações terapêuticas. A injeção do lactato de pentazocina está 
+indicada para aliviar as dores moderadas a graves e também é usada 
+como fármaco pré-operatório e suplemento à anestesia. Os com-
+primidos de pentazocina para uso oral estão disponíveis apenas em 
+combinações de doses ﬁ xas de paracetamol ou naloxona. A com-
+binação de pentazocina com naloxona reduz o potencial de uso 
+abusivo dos comprimidos como substituto da pentazocina injetável 
+porque produz efeitos indesejáveis nos in di ví duos dependentes dos 
+opioides. Após ingestão oral, a naloxona é rapidamente destruída 
+pelo fígado. A dose oral de ~ 50 mg de pentazocina causa analge-
+sia equivalente à produzida por 60 mg de codeína administrada por 
+via oral.
+Nalbuﬁ na
+A nalbuﬁ na está relacionada estruturalmente com a nalo-
+xona e a oximorfona (Figura 18-8). Em geral, a nalbuﬁ na 
+é considerada um opioide agonista KOR e antagonista 
+MOR com espectro de efeitos qualitativamente seme-
+lhantes ao da pentazocina; contudo, acredita-se que este 
+primeiro fármaco tenha menos tendência de produzir 
+efeitos adversos disfóricos que a pentazocina.
+Ações farmacológicas e efeitos adversos. A dose intramuscular de 
+10 mg de nalbuﬁ na é equianalgésica a 10 mg de morﬁ na, com os 
+efeitos analgésicos e subjetivos tendo início e duração semelhantes. 
+A nalbuﬁ na deprime a respiração tanto quanto doses equianalgési-
+cas de morﬁ na. Entretanto, a nalbuﬁ na possui um efeito limitante, 
+de modo que aumentos das doses acima de 30 mg não produzem 
+depressão respiratória ou analgesia adicional. Em contraste com a 
+pentazocina e o butorfanol, 10 mg de nalbuﬁ na administrados aos 
+pacientes com doen ça estável das artérias coronárias não aumenta 
+o índice car día co, a pressão arterial pulmonar ou o trabalho car-
+día co e a pressão arterial sistêmica não se altera signiﬁ cativamente; 
+estes índices também permanecem relativamente estáveis quando se 
+administra nalbuﬁ na aos pacientes com infarto agudo do miocárdio 
+(Roth e cols., 1988); no entanto, a morﬁ na geralmente é conside-
+rada a primeira opção para o tratamento dos distúrbios car día cos 
+agudos de forma a atenuar a dor torácica e a ansiedade. Os efeitos 
+GI da nalbuﬁ na provavelmente são semelhantes aos da pentazocina. 
+A nalbuﬁ na produz poucos efeitos colaterais em doses de 10 mg 
+ou menos; sedação, sudorese e cefaleia são os mais comuns. Em 
+doses muito mais altas (70 mg), podem ocorrer efeitos adversos 
+psicotomiméticos (p. ex., disforia, pensamentos acelerados e dis-
+torções da imagem corporal). A nalbuﬁ na é metabolizada no fígado 
+e tem meia-vida plasmática de 2-3 h e sua eﬁ cácia por via oral é de 
+20-25% da potência após administração intramuscular. Nos EUA, 
+não existem disponíveis no comércio preparações para uso oral. 
+Tolerância e dependência física. Nos in di ví duos dependentes de 
+doses baixas de morﬁ na (60 mg/dia), a nalbuﬁ na precipita uma sín-
+drome de abstinência. A administração prolongada desse fármaco 
+pode produzir dependência física. A síndrome de abstinência tem 
+intensidade semelhante à que se observa com a pentazocina. O po-
+tencial de uso abusivo da nalbuﬁ na parenteral em in di ví duos não 
+dependentes de agonistas dos receptores opioides é semelhante ao 
+da pentazocina parenteral.
+Indicações terapêuticas. O cloridrato de nalbuﬁ na é usado para 
+produzir analgesia. Como é um agonista-antagonista, a adminis-
+tração aos pacientes que estavam recebendo opioides similares à 
+morﬁ na pode criar diﬁ culdades, a menos que se interponha um curto 
+intervalo livre de fármacos. A dose habitual para adultos é de 10 mg 
+por via parenteral a cada 3 ou 6 h esta dose pode ser aumentada para 
+20 mg nos pacientes sem tolerância. Atenção: estudos demonstra-
+ram que os fármacos que atuam por meios dos receptores KORs são 
+mais eﬁ cazes em mulheres que em homens (Gear e cols., 1999).
+Butorfanol
+O butorfanol é um congênere morﬁ nano cujo perﬁ l de 
+ações é similar ao da pentazocina e da nalbuﬁ na: opioide 
+agonista KOR e antagonista MOR. A fórmula estrutural 
+do butorfanol está ilustrada na Figura 18-8.
+Indicações terapêuticas. Em geral, o tartarato de butorfanol é consi-
+derado mais adequado para o alívio da dor aguda (p. ex., pós-operató-
+ria) e, em vista da sua capacidade de antagonizar os agonistas MOR, 
+não deve ser utilizado simultaneamente com estes últimos. Em conse-
+quência dos seus efeitos colaterais no coração, o butorfanol é menos 
+útil que a morﬁ na ou a meperidina nos pacientes com insu ﬁ ciência 
+car día ca congestiva ou infarto do miocárdio. A dose habitual é de 
+4 mg IM, ou 0,5-2 mg IV, a cada 3-4 h. Existe uma preparação nasal 
+que se mostrou eﬁ caz no alívio da dor, inclusive da enxaqueca. Esta 
+formulação pode ser par ticular mente útil para pacientes com cefaleias 
+graves, que não respondam às outras formas de tratamento.
+Ações farmacológicas e efeitos adversos. Nos pacientes pós-opera-
+tórios, a dose parenteral de 2-3 mg de butorfanol produz analgesia e 
+depressão respiratória praticamente iguais às que são produzidas por 
+10 mg de morﬁ na ou 80-100 mg de meperidina; o início, o pico e a du-
+ração da ação são semelhantes aos que se observam após administração 
+de morﬁ na. A meia-vida plasmática do butorfanol é de ~ 3 h. Como 
+também ocorre com a pentazocina, as doses analgésicas do butorfanol 
+aumentam a pressão arterial pulmonar e o trabalho car día co; a pressão 
+arterial sistêmica diminui ligeiramente (Popio e cols., 1978).
+
+---
+<!-- Página 30 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-30-figura-18-8.png]]
+
+510
+SEÇÃO II
+NEUROFARMACOLOGIA
+Os efeitos adversos principais do butorfanol são sonolência, 
+fraqueza, sudorese, sensações de ﬂ utuação e náuseas. Embora a in-
+cidência dos efeitos adversos psicotomiméticos seja menor que com 
+as doses equianalgésicas da pentazocina, qualitativamente eles são 
+semelhantes. A administração nasal causa sonolência e tontura e os 
+pacientes podem desenvolver dependência física.
+Buprenorﬁ na
+A buprenorﬁ na é um agonista MOR altamente lipofí-
+lico derivado da tebaína (Figura 18-8). Esse fármaco é 
+25-50 vezes mais potente que a morﬁ na, embora seja 
+considerado um agonista MOR parcial (p. ex., tem ati-
+vidade intrínseca) e, consequentemente, possa produzir 
+antagonismo quando é administrado com um agonista 
+pleno (ver adiante).
+Ações farmacológicas e efeitos adversos. A buprenorﬁ na produz 
+analgesia e outros efeitos no SNC, que são qualitativamente seme-
+lhantes aos da morﬁ na. A dose de ~ 0,4 mg de buprenorﬁ na é equia-
+nalgésica a 10 mg de morﬁ na intramuscular (Wallenstein e cols., 
+1986). Embora seja va riá vel, a duração da analgesia geralmente é 
+mais longa que a da morﬁ na. Alguns efeitos subjetivos e depresso-
+res da respiração têm início inequivocamente mais lento e duram 
+mais que os da morﬁ na. Por exemplo, a miose máxima ocorre ~ 6 h 
+após injeção intramuscular, ao passo que a depressão respiratória 
+máxima é observada após 3 h.
+Como a buprenorﬁ na é um agonista MOR parcial, ela pode 
+causar sintomas de abstinência nos pacientes que utilizam ago-
+nistas dos receptores opioides há várias semanas. A buprenorﬁ na 
+antagoniza a depressão respiratória produzida pelas doses anes-
+tésicas da fentanila, assim como ocorre com a naloxona, sem re-
+verter por completo a analgesia opioide (Boysen e Hertel, 1988). 
+Embora a depressão respiratória não seja um problema importante, 
+não está claro se há um efeito máximo (tal como se observa com a 
+nalbuﬁ na e a pentazocina). A depressão respiratória e outros efei-
+tos da buprenorﬁ na podem ser evitados pela administração prévia 
+de naloxona, mas não são prontamente revertidos pelas doses altas 
+de naloxona quando já ocorreram. Isso sugere que a buprenorﬁ na 
+dissocia-se muito lentamente dos receptores opioides. A meia-
+vida de dissociação do receptor é de 166 min para a buprenorﬁ na, 
+em contraste com 7 min para a fentanila (Boas e Villiger, 1985). 
+Portanto, os níveis plasmáticos de buprenorﬁ na podem não acom-
+panhar os efeitos clínicos. Os efeitos colaterais cardiovasculares 
+e de outros sistemas (p. ex., sedação, náuseas, vômitos, tonturas, 
+suores e cefaleia) são aparentemente semelhantes aos dos opioides 
+similares à morﬁ na.
+A buprenorﬁ na é relativamente bem absorvida por muitas 
+vias. Quando é administrada por via sublingual (0,4-0,8 mg), o fár-
+maco produz analgesia satisfatória aos pacientes pós-operatórios. As 
+concentrações sanguíneas atingem o pico 5 min após a injeção intra-
+muscular e 1-2 h após a administração oral ou sublingual. Embora a 
+meia-vida plasmática seja de ~ 3 h, este valor não guarda qualquer 
+relação com a velocidade e o desaparecimento dos efeitos (descritos 
+anteriormente). Metabólitos N-desalquilados e conjugados são de-
+tectados na urina, mas a maior parte é excretada inalterada nas fezes. 
+Cerca de 96% do fármaco circulante estão ligados às pro teí nas.
+Dependência física. Quando a buprenorﬁ na é interrompida, o pa-
+ciente desenvolve uma síndrome de abstinência tardia, que começa 
+após 2-14 dias e consiste nos sinais e sintomas típicos da abstinência 
+da morﬁ na, embora geralmente não sejam tão graves e persistam por 
+1-2 semanas (Fudala e cols., 1989).
+Indicações terapêuticas. A injeção de buprenorﬁ na está indicada 
+como analgésico. Nos EUA, o uso das preparações orais da bupre-
+norﬁ na e das combinações de doses ﬁ xas de buprenorﬁ na com na-
+loxona limita-se ao tratamento da dependência opioide, de acordo 
+com a Lei DATA (Drug Addiction Treatment Act) de 2000 (21 U.S.C. 
+823[g]). Essa lei criou a oportunidade de os médicos com treinamento 
+especial prescindirem de autorização para obter uma licença especial 
+junto à DEA para utilizarem buprenorﬁ na no tratamento drogadição 
+opioide. A dose intramuscular ou intravenosa habitual para anal-
+gesia é de 0,3 mg a cada 6 h. A buprenorﬁ na é metabolizada para 
+norbuprenorﬁ na pela CYP3A4. Assim, deve-se ter cuidado ao tratar 
+pacientes que também utilizem fármacos que sabidamente inibem a 
+CYP3A4 (p. ex., antifúngicos azólicos, antibióticos macrolídeos e ini-
+bidores da protease do HIV), bem como fármacos que induzem a ati-
+vidade da CYP3A4 (p. ex., alguns anticonvulsivantes e rifampicina).
+No tratamento da drogadição opioide, a buprenorﬁ na é ini-
+ciada com a preparação sublingual seguida do tratamento de ma-
+nutenção com uma combinação de doses ﬁ xas de buprenorﬁ na e 
+naloxona. As propriedades agonistas parciais da buprenorﬁ na limi-
+tam sua utilidade no tratamento dos dependentes que necessitam de 
+altas doses de manutenção dos opioides (Kreek e cols., 2002).
+ANTAGONISTAS OPIOIDES
+Vários fármacos que ligam-se competitivamente a um 
+ou mais receptores opioides, demonstram pouca ou ne-
+nhuma atividade intrínseca e antagonizam fortemente os 
+agonistas desses receptores. Esses compostos têm utili-
+dade terapêutica inequívoca no tratamento da overdose 
+de opioides. Em condições habituais, esses antagonis-
+tas opioides causam poucos efeitos na ausência de um 
+agonista exógeno. Contudo, em determinadas condições 
+(p. ex., choque) nas quais os sistemas opioides endóge-
+nos estão ativados, a administração isolada de um anta-
+gonista opioide pode ter consequências evidentes.
+Química. Alterações relativamente pequenas da estrutura de um 
+opioide podem converter um fármaco predominantemente agonista 
+em outro com ações antagonistas em um ou mais tipos de receptores 
+opioides. A mais comum dessas substituições é de uma molécula 
+maior (p. ex., um grupo alil ou metilciclopropil) pelo grupo N-metila 
+típico dos agonistas MORs. Essas substituições transformam a mor-
+ﬁ na em nalorﬁ na, o levorfanol em levalorfano e a oximorfona em 
+naloxona ou naltrexona (Figura 18-8). Em alguns casos, os congêne-
+res produzidos são antagonistas competitivos dos receptores MORs, 
+mas também têm ações agonistas nos receptores KORs. A nalorﬁ na 
+e o levalorfano têm essas propriedades. Outros congêneres, especial-
+mente a naloxona e a naltrexona, parecem ser desprovidos de ações 
+agonistas e interagem com todos os tipos de receptores opioides, 
+embora com aﬁ nidades até certo ponto diferentes (Martin, 1983). O 
+nalmefeno (retirado do mercado nos EUA) é um antagonista MOR 
+relativamente puro e mais potente que a naloxona (Dixon e cols., 
+1986). Também foram desenvolvidos alguns antagonistas não pep-
+tídicos, que são relativamente seletivos para determinados tipos de 
+receptores opioides. Isso inclui a ciprodima e a β-funaltrexamina 
+para os receptores MORs; o naltrindol para os receptores DORs; e 
+a norbinaltorﬁ mina para os receptores KORs (Portoghese, 1989), 
+embora estes compostos não sejam utilizados clinicamente.
+A maioria dos compostos citados anteriormente é relativa-
+mente lipossolúvel e mostra biodisponibilidade excelente no SNC
+
+---
+<!-- Página 31 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+511
+após administração sistêmica. O reconhecimento da necessidade de 
+um antagonista limitado aos sítios periféricos resultou no desenvol-
+vimento dos fármacos que mostram pouca biodisponibilidade no 
+SNC, inclusive a metilnaltrexona.
+Propriedades farmacológicas
+Quando os sistemas opioides endógenos não estão ativa-
+dos, o perﬁ l farmacológico dos efeitos dos antagonistas 
+opioides depende da presença ou da ausência do agonista 
+opioide e do grau de dependência física do paciente.
+Efeitos na ausência dos agonistas opioides. As doses 
+subcutâ neas da naloxona de até 12 mg não produzem 
+efeitos subjetivos discerníveis nos seres humanos e a 
+dose de 24 mg causa apenas sonolência branda. A nal-
+trexona também parece ser um antagonista relativamente 
+puro, embora com eﬁ cácia oral maior e duração de ação 
+mais longa.
+Os efeitos dos antagonistas dos receptores opioides geral-
+mente são sutis e limitados. Quase certamente, isso reﬂ ete os ní-
+veis baixos de atividade tônica e a complexidade organizacional dos 
+sistemas opioides nos diversos compartimentos ﬁ siológicos (Dro-
+let e cols., 2001). Em presença de vários fatores de estresse físico 
+(dor) ou psicológicos, há aumento da liberação de vários peptídeos 
+opioides. Muitos fatores de estresse ativam os circuitos centrais. As 
+alterações dos níveis circulantes das endorﬁ nas plasmáticas geral-
+mente são detectadas nos eventos como a “excitação dos corredo-
+res”, embora estas alterações periféricas tenham pouco signiﬁ cado 
+nos sistemas centrais, tendo em vista a capacidade mínima de estes 
+peptídeos atravessarem a barreira hematencefálica.
+Dor. Nos seres humanos o antagonismo opioide está associado a 
+várias consequências, desde nenhum efeito até hiperalgesia branda 
+e até mesmo hipoalgesia, conforme evidenciada por vários estudos 
+experimentais controlados sobre a dor (France e cols., 2007). Con-
+tudo, alguns estudos sugeriram que os fármacos como a naloxona 
+parecem atenuar os efeitos analgésicos do placebo e da acupuntura 
+(Benedetti e Amanzio, 1997).
+Estresse. Mesmo com doses altas dos diferentes antagonistas, os in di-
+ví duos normais geralmente apresentam alterações modestas da pres-
+são arterial ou da fre quên cia car día ca. Nos animais de laboratório, a 
+administração da naloxona reverte ou atenua a hipotensão associada 
+ao choque de diversas causas, inclusive o que é causado por anaﬁ la-
+xia, endotoxina, hipovolemia e traumatismo raquimedular; os ago-
+nistas opioides agravam estas condições (Amir, 1988; Faden, 1988).
+Afeto. As doses altas da naltrexona pareceram causar disforia branda 
+em um estudo, mas pouco ou nenhum efeito subjetivo em outros 
+(Gonzalez e Brogden, 1988).
+Efeitos endócrinos. Os peptídeos opioides endógenos participam da 
+regulação da secreção hipoﬁ sária, aparentemente por exercer efeitos 
+inibitórios tônicos sobre a liberação de certos hormônios hipotalâ-
+micos (Capítulo 38). Desse modo, a administração de naloxona ou 
+de naltrexona aumenta a secreção do hormônio de liberação das go-
+nadotropinas e do hormônio de liberação da corticotropina e eleva as 
+concentrações plasmáticas do LH, do FSH e do ACTH, bem como 
+dos hormônios esteroides produzidos pelos seus órgãos alvo. Nos 
+homens, os antagonistas não alteram consistentemente as concen-
+trações plasmáticas da prolactina basais ou induzidas por estresse; 
+paradoxalmente, a naloxona estimula a liberação de prolactina nas 
+mulheres. Os antagonistas opioides intensiﬁ cam as elevações das 
+concentrações plasmáticas do cortisol e das catecolaminas, que nor-
+malmente acompanham o estresse ou o exercício. 
+Os peptídeos opioides endógenos provavelmente têm algum 
+papel na regulação da alimentação ou do metabolismo energético: 
+nos modelos de laboratório, os antagonistas opioides aumentam o 
+consumo calórico e interrompem a hibernação em certas espécies, 
+induzem perda de peso e impedem a ingestão excessiva e a obesi-
+dade induzidas pelo estresse. Essas observações resultaram no uso 
+experimental dos agonistas opioides no tratamento da obesidade 
+humana, principalmente a que está associada aos distúrbios alimen-
+tares provocados pelo estresse. Entretanto, a naltrexona não acelera 
+a perda de peso dos in di ví duos muito obesos, mesmo que a adminis-
+tração de curta duração dos antagonistas opioides reduza a ingestão 
+alimentar dos in di ví duos magros e obesos (Atkinson, 1987).
+Mesmo depois da administração prolongada isolada de doses 
+de um antagonista, a interrupção da naloxona não é seguida por 
+qualquer síndrome de abstinência reconhecível e a abstinência da 
+naltrexona (outro antagonista relativamente puro) produz poucos 
+sinais e sintomas. Entretanto, a administração prolongada dos an-
+tagonistas aumenta a densidade de receptores opioides no cérebro 
+e causa acentuação transitória das respostas à administração subse-
+quente dos agonistas opioides (Yoburn e cols., 1988). A naltrexona e 
+a naloxona não têm potencial conhecido de uso abusivo.
+Efeitos em presença dos agonistas opioides
+Alterações dos efeitos opioides agudos. Doses pequenas 
+(0,4-0,8 mg) de naloxona administradas por via intra-
+muscular ou intravenosa evitam ou revertem imediata-
+mente os efeitos dos agonistas opioides. Nos pacientes 
+com depressão respiratória, o aumento da fre quên cia res-
+piratória ocorre em 1-2 min. Os efeitos sedativos são re-
+vertidos e a pressão arterial, quando está reduzida, volta 
+ao normal. Doses mais altas de naloxona são necessárias 
+para antagonizar os efeitos depressores respiratórios da 
+buprenorﬁ na; a dose intravenosa de 1 mg de naloxona 
+bloqueia completamente os efeitos de 25 mg de heroína. 
+A naloxona reverte os efeitos psicotomiméticos e dis-
+fóricos dos agonistas-antagonistas como a pentazocina, 
+mas doses muito maio res (10-15 mg) são necessárias. 
+A duração dos efeitos antagonistas depende da dose, 
+mas geralmente é de 1-4 h. O antagonismo dos efeitos 
+opioides pela naloxona geralmente é acompanhada de 
+um fenômeno de “efeito excessivo”. Por exemplo, a fre-
+quên cia respiratória deprimida pelos opioides torna-se 
+transitoriamente maior que antes do perío do de depres-
+são. A liberação reﬂ exa das catecolaminas pode causar 
+hipertensão, taquicardia e arritmias ventriculares. Tam-
+bém existem casos descritos de edema pulmonar depois 
+da administração da naloxona.
+Efeitos nos pacientes dependentes dos opioides. Nos pa-
+cientes dependentes dos opioides semelhantes à mor-
+ﬁ na, doses subcutâ neas pequenas de naloxona (0,5 mg) 
+desencadeiam uma síndrome de abstinência moderada 
+a grave, que é muito semelhante à observada após a in-
+terrupção súbita do uso dos opioides, exceto que a sín-
+drome começa alguns minutos depois da administração 
+e regride em ~ 2 h. A gravidade e a duração da síndrome
+
+---
+<!-- Página 32 -->
+
+512
+SEÇÃO II
+NEUROFARMACOLOGIA
+estão relacionadas com a dose do antagonista e o grau 
+e o tipo de dependência. Doses mais altas de naloxona 
+desencadeiam uma síndrome de abstinência nos pacien-
+tes dependentes de pentazocina, butorfanol ou nalbuﬁ na. 
+A naloxona produz fenômenos de antagonismo exces-
+sivo sugestivo de dependência física aguda 6-24 h depois 
+de uma única dose de um agonista μ (Heishman e cols., 
+1989). Nos pacientes dependentes, os efeitos colaterais 
+periféricos principalmente a redução da motilidade GI e 
+a constipação podem ser revertidos pela metilnaltrexona 
+em doses de 0,15 mg/kg por via subcutâ nea, produzindo 
+evacuações regulares e nenhuma outra evidência de si-
+nais de abstinência mediada por mecanismos centrais 
+(Thomas e cols., 2008).
+Absorção, distribuição, metabolismo 
+e excreção
+Embora seja prontamente absorvida no trato gastrintes-
+tinal, a naloxona é quase completamente metabolizada 
+pelo fígado antes de alcançar a circulação sistêmica e, 
+por esta razão, deve ser administrada por via parenteral. 
+O fármaco é rapidamente absorvido dos locais de injeção 
+parenteral e é metabolizado no fígado principalmente por 
+conjugação ao ácido glicurônico; outros metabólitos são 
+produzidos em pequenas quantidades. A meia-vida da na-
+loxona é de ~ 1 hora e a duração da ação clinicamente 
+eﬁ caz pode ser ainda menor.
+Em comparação com a naloxona, a naltrexona retém muito 
+mais sua eﬁ cácia quando é administrada por via oral e a duração 
+da sua ação aproxima-se de 24 h depois das doses orais moderadas. 
+As concentrações plasmáticas de pico são alcançadas em 1-2 h e, 
+em seguida, declinam com meia-vida aparente de aproximadamente 
+3 h; este valor não se altera com o uso prolongado. A naltrexona é 
+metabolizada a 6-naltrexol, que é um antagonista fraco, mas tem 
+meia-vida mais longa (~ 13 h). A naltrexona é muito mais potente 
+que a naloxona e doses orais de 100 mg administradas aos pacientes 
+dependentes de opioides produzem concentrações teciduais suﬁ -
+cientes para bloquear os efeitos euforizantes de doses intravenosas 
+de 25 mg de heroína por 48 h (Gonzalez e Brogden, 1988). A me-
+tilnaltrexona é metabolizada por mecanismos semelhantes aos da 
+naltrexona: a droga é convertida em isômeros do metil-6-naltrexol 
+e eliminada em grande parte principalmente na forma inalterada por 
+secreção renal ativa signiﬁ cativa. A meia-vida de disposição termi-
+nal da metilnaltrexona é de ~ 8 h.
+Usos terapêuticos
+Tratamento da overdose de opioides. Os antagonistas opioides, 
+principalmente a naloxona, têm uso estabelecido no tratamento da 
+toxicidade induzida por opioides, especialmente a depressão respi-
+ratória. Sua especiﬁ cidade é tão grande que a reversão da depressão 
+respiratória por esse fármaco praticamente conﬁ rma o diagnóstico 
+da intoxicação opioide como causa da depressão. A naloxona atua 
+rapidamente e reverte a depressão respiratória associada às doses 
+altas dos opioides. A naloxona deve ser utilizada com cuidado por-
+que também pode desencadear uma síndrome de abstinência nos 
+pacientes dependentes e causa efeitos adversos cardiovascula-
+res indesejáveis. Com a titulação cuidadosa da dose da naloxona, 
+geralmente é possível antagonizar rapidamente as ações depressoras 
+respiratórias sem precipitar uma síndrome de abstinência completa. 
+A duração da ação da naloxona é relativamente curta e, em geral, 
+ela deve ser administrada repetidamente ou em infusão contínua. 
+Os antagonistas opioides também têm sido empregados de modo 
+eﬁ caz para diminuir a depressão respiratória neonatal secundária 
+à administração intravenosa ou intramuscular de opioides à mãe. 
+No recém-nascido, a dose inicial é de 10 μg/kg por via intravenosa, 
+intramuscular ou subcutâ nea.
+Tratamento da constipação. Os antagonistas com ação limitada aos 
+tecidos periféricos (p. ex., metilnaltrexona) desempenham um papel 
+importante no tratamento da constipação e da redução da motilidade 
+GI encontradas nos pacientes em tratamento crônico com opioides 
+(p. ex., dor crônica ou manutenção com metadona) e foram aprova-
+dos pelo FDA para esta indicação. Com distribuição limitada aos 
+tecidos periféricos, esses fármacos não alteram as ações centrais 
+dos agonistas opioides. O FDA está revisando relatos preocupantes 
+de perfuração GI nessas condições. O Capítulo 46 descreve outras 
+estratégias para tratar a constipação causada pelos opioides.
+Tratamento das síndromes de uso abusivo. Existe considerável 
+interesse em torno da utilização dos agonistas opioides (p. ex., nal-
+trexona) como coadjuvantes para o tratamento de várias síndromes 
+de dependência não opioide, inclusive alcoolismo (Capítulos 23 e 
+24), nas quais o antagonista opioide reduz as chances de recidiva 
+(Anton, 2008). Curiosamente, os pacientes com um polimorﬁ smo 
+de um único nucleotídeo (SNP) do gene MOR têm índices signiﬁ ca-
+tivamente menores de recidiva do alcoolismo, quando são tratados 
+com naltrexona (Haile e cols., 2008). A naltrexona foi aprovada pelo 
+FDA para o tratamento do alcoolismo.
+Traumatismo. Alguns autores citaram a utilidade potencial dos an-
+tagonistas opioides no tratamento do choque, do acidente vascular 
+encefálico, dos traumatismos craniano e raquimedular e de outros 
+distúrbios que podem envolver a mobilização dos peptídeos opioi-
+des endógenos; contudo, os antagonistas opioides não produziram 
+efeitos neuroprotetores demonstráveis e seu estudo no trauma foi 
+praticamente abandonado (Hawryluk e cols., 2008).
+ANTITUSSÍGENOS DE AÇÃO CENTRAL
+A tosse é um mecanismo ﬁ siológico útil, que serve para 
+limpar as vias respiratórias de material estranho e do ex-
+cesso de secreções e não deve ser suprimida indiscrimi-
+nadamente. Há, entretanto, muitas situações nas quais a 
+tosse não serve a nenhum propósito útil e pode, em vez 
+disso, apenas aborrecer o paciente ou impedir o seu des-
+canso ou sono, ou diﬁ cultar a adesão aos outros regimes 
+terapêuticos que, de outro modo, poderiam ser benéﬁ cos 
+(p. ex., tosse induzida por um inibidor da enzima conver-
+sora da angiotensina [IECA]). A tosse crônica pode con-
+tribuir para a fadiga, especialmente nos pacientes idosos. 
+Em tais situações, o médico deve tentar substituir por um 
+fármaco com perﬁ l de efeitos colaterais diferente (p. ex., 
+um antagonista do AT1 no lugar de um inibidor de IECA), 
+ou acrescentar um antitussígeno que reduza a fre quên cia 
+ou a intensidade da tosse (Capítulos 12 e 36).
+Alguns fármacos reduzem a tosse em consequência 
+de suas ações centrais, inclusive os analgésicos opioides
+
+---
+<!-- Página 33 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-33-quadro-18-3.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+513
+(codeína, hidrocodona e diidrocodeína são os opioides 
+utilizados mais comumente para suprimir a tosse). A su-
+pressão da tosse geralmente é conseguida com doses dos 
+opioides menores, que as necessárias para obter analge-
+sia. A dose oral de 10 ou 20 mg de codeína, embora não 
+produza qualquer analgesia, produz efeito antitussígeno 
+demonstrável, enquanto as doses maio res conseguem su-
+primir mais eﬁ cazmente a tosse crônica. A seguir, estão 
+descritos alguns outros antitussígenos.
+Dextrometorfano
+O dextrometorfano (D-3-metoxi-N-metilmorﬁ nano) é o isômero D 
+do análogo da codeína conhecido como metorfano; entretanto, ao 
+contrário do isômero L, ele não tem propriedades analgésicas e vi-
+ciantes e não age através dos receptores opioides. Esse fármaco atua 
+centralmente e eleva o limiar para a tosse. Sua eﬁ cácia nos pacientes 
+com tosse patológica foi demonstrada em estudos controlados; sua 
+potência é quase igual à da codeína. Em comparação com a codeí na, 
+o dextrometorfano produz menos efeitos colaterais subjetivos e 
+gastrintestinais (Matthys e cols., 1983). Em doses terapêuticas, o 
+fármaco não inibe a atividade ciliar e seus efeitos antitussígenos 
+persistem por 5-6 h. Sua toxicidade é baixa, mas doses extrema-
+mente altas podem produzir depressão do SNC.
+As estruturas às quais o dextrometorfano liga-se foram iden-
+tiﬁ cadas nas membranas de várias regiões do cérebro (Craviso e 
+cols., 1983). Embora se saiba que o dextrometorfano funciona como 
+um antagonista do receptor de NMDA, os seus locais de ligação 
+não se limitam à distribuição conhecida destes receptores (Elliott 
+e cols., 1994). Por essa razão, o mecanismo pelo qual o dextrome-
+torfano exerce seu efeito antitussígeno ainda não foi elucidado por 
+completo. 
+A dose média do bromidato de dextrometorfano para adul-
+tos é de 10-30 mg, 3-6 vezes/dia, sem ultrapassar a dose diária de 
+120 mg. Esse fármaco é comercializado para venda sem prescrição 
+em líquidos, xaropes, cápsulas, tiras solúveis, pastilhas e freezer 
+pops*, ou em combinações com anti-histamínicos, broncodilatado-
+res, expectorantes e descongestionantes. A suspensão de dextrome-
+torfano de liberação prolongada foi aprovada para administração 
+duas vezes ao dia.
+Outros dois antitussígenos, que hoje não são aceitos pelo 
+FDA como geralmente seguros e eﬁ cazes (generally safe and effec-
+tive [GRAS/E]), o carbetapentano fentoxiverina e o caramifeno, são 
+conhecidos por se ligarem avidamente aos sítios de ligação do dex-
+trometorfano; mas a codeína, o levopropoxifeno e outros opioides 
+antitussígenos (bem como a naloxona) não não se ligam. Embora a 
+noscapina (descrita adiante) aumente a aﬁ nidade do dextrometor-
+fano, ela parece interagir com sítios de ligação distintos (Karlsson 
+e cols., 1988). A relação entre esses locais e as ações antitussígenas 
+não é conhecida; entretanto, estas observações, somadas à capaci-
+dade da naloxona em antagonizar os efeitos antitussígenos da co-
+deína, mas não os do dextrometorfano, indicam que a supressão da 
+tosse pode ser conseguida por alguns mecanismos diferentes. 
+Outros antitussígenos
+A folcodina [3-O-(2-morfolinoetil) morﬁ na] é usada clinicamente 
+em muitos paí ses, exceto nos EUA. Embora seja estruturalmente 
+relacionada com os opioides, ela não produz ações similares às dos 
+opioides porque há uma substituição na posição 3, que não é remo-
+vida pelo metabolismo. A folcodina é um antitussígeno pelo menos 
+* N. de R.T. “Gelatinas” na forma de palitos que são congelados. 
+Seria mais ou menos um picolé ﬁ ninho, sem o palito.
+tão eﬁ caz quanto a codeína, tem meia-vida longa e pode ser admi-
+nistrada 1 ou 2 vezes/dia.
+O benzonatato é um derivado poliglicólico de cadeia longa 
+relacionado quimicamente com a procaína e tido como capaz de 
+exercer ação antitussígena nos receptores da tosse ou de estiramento 
+do pulmão, bem como por um mecanismo central. Esse fármaco 
+está disponível em cápsulas orais e a dose é de 100 mg 3 vezes/dia; 
+doses de até 600 mg/dia foram utilizadas sem riscos.
+VIAS DE ADMINISTRAÇÃO 
+DOS ANALGÉSICOS
+Além das preparações de opioides orais e parenterais tra-
+dicionais, muitos outros métodos de administração foram 
+desenvolvidos na tentativa de aumentar a eﬁ cácia terapêu-
+tica e, ao mesmo tempo, minimizar os efeitos adversos. 
+Em geral, essas vias alternativas facilitam o uso dos opioi-
+des e, até certo ponto, aumentam a satisfação do paciente.
+Analgesia controlada pelo paciente (ACP) 
+Com essa modalidade, o paciente tem controle limitado 
+sobre a dose de opioide liberada por uma bomba de in-
+fusão programada dentro de parâmetros rigorosamente 
+controlados. A ACP pode ser usada para infusão intra-
+venosa, epidural ou intratecal dos opioides. Essa técnica 
+evita quaisquer atrasos inerentes à administração e per-
+mite maior correspondência entre o controle da dose e as 
+diferenças individuais de percepção da dor e resposta aos 
+opioides. A técnica da ACP também confere ao paciente 
+maior sensação de controle da dor. Com os opioides de 
+ação mais curta, raramente ocorrem toxicidade grave ou 
+uso excessivo; entretanto, recomenda-se cautela em razão 
+da possibilidade de ocorrerem erros graves de medica-
+ção associados a esse método de administração. A ACP é 
+adequada para adultos e crianças capazes de compreen-
+der os princípios envolvidos. Em geral, considera-se que 
+a APC seja preferível às injeções intramusculares para o 
+controle da dor pós-operatória. 
+Administração raquidiana
+A administração de opioides no interior do espaço epidu-
+ral ou intratecal proporciona acesso mais direto à primeira 
+sinapse processadora da dor no corno dorsal da medula 
+espinal. Isto permite o uso de doses substancialmente 
+menores que as necessárias para administração oral ou 
+parenteral (Quadro 18-3). Desse modo, é possível reduzir 
+os efeitos adversos sistêmicos. Para o controle da dor pós-
+operatória, as injeções epidurais de liberação prolongada 
+são realizadas com a incorporação de morﬁ na a uma for-
+mulação lipossômica, que proporciona alívio da dor por 
+até 48 h (Hartrick e Hartrick, 2008). O tratamento da dor 
+crônica com opiáceos espinais tem sido conseguido com a 
+utilização de cateteres intratecais implantados por longos 
+perío dos, que ﬁ cam ligados a uma bomba recarregável 
+implantada sob a pele (Wallace e Yaksh, 2000).
+
+---
+<!-- Página 34 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-34-quadro-18-3.png]]
+
+514
+SEÇÃO II
+NEUROFARMACOLOGIA
+Embora tenham indicações terapêuticas importantes, os 
+opioi des epidurais e intratecais causam efeitos adversos dependen-
+tes da dose, inclusive prurido, náuseas, vômitos, depressão respira-
+tória e retenção urinária. Os opioides hidrofílicos como a morﬁ na 
+têm tempos de permanência mais longos no líquido cerebrospinal; 
+por esta razão, após administração intratecal ou epidural de morﬁ na, 
+pode-se observar depressão respiratória tardia por até 24 h depois 
+de uma dose intermitente. Embora o risco de depressão respirató-
+ria tardia seja menor com os opioides lipofílicos, esta possibilidade 
+não é eliminada. Vigilância rigorosa e monitoração apropriada são 
+necessárias a todos os pacientes que nunca utilizaram opioides e 
+começam a ser tratados com narcóticos intraespinais. O uso dos 
+opioides intraespinais nesses pacientes é reservado para o controle 
+da dor pós-operatória no ambiente hospitalar monitorado. A admi-
+nistração epidural dos opioides tornou-se popular como tratamento 
+da dor pós-operatória e como analgesia durante o trabalho de parto 
+e o nascimento. Níveis sistêmicos mais baixos dos opioides são 
+conseguidos com a administração epidural, resultando em menos 
+transferência placentária e menos possibilidade de causar depressão 
+respiratória do recém-nascido (Shnider e Levinson, 1987). Muitos 
+opioides e outros coadjuvantes são utilizados comumente por admi-
+nistração neuraxial aos adultos e às crianças; contudo, a maioria dos 
+compostos utilizados não foi submetida a estudos pré-clínicos de 
+avaliação da segurança e não tem aprovação para essas indicações 
+clínicas; por essa razão, estas indicações são consideradas “fora da 
+bula”. Consequentemente, hoje, os fármacos aprovados para admi-
+nistração espinal incluem algumas preparações do sulfato de mor-
+ﬁ na sem preservativos e sufentanila. É importante lembrar que a via 
+de administração intraespinal representa um novo ambiente, no qual 
+o neuroeixo pode ﬁ car exposto às concentrações excessivamente 
+altas de um fármaco por perío dos longos; além disso, a segurança 
+da administração por outra via (p. ex., oral, IV) pode não se aplicar 
+com a administração intraespinal (Yaksh e Allen, 2004).
+Os pacientes em tratamento crônico com opioides intraespinais 
+também têm menos tendência a desenvolver depressão respiratória. 
+Alguns pacientes que não conseguem responder ao tratamento con-
+servador para dor crônica podem receber opioides intraespinais por 
+longos perío dos por meio de uma bomba programável implantada.
+Como também ocorre com a relação entre os opioides sistêmi-
+cos e os AINEs, os narcóticos intraespinais comumente são combina-
+dos com outros fármacos, inclusive anestésicos locais, bloqueadores 
+do canal de Ca2+ tipo N (p. ex., ziconotida), agonistas α2-adrenérgicos 
+e agonistas do GABAB. Isso assegura o sinergismo entre fármacos 
+com diferentes mecanismos de ação e permite o uso de concentrações 
+mais baixas dos dois compostos, reduzindo os efeitos colaterais e as 
+complicações induzidas pelos opioides (Wallace e Yaksh, 2000).
+Ação local dos fármacos
+Os receptores opioides existentes nos nervos sensoriais periféricos 
+respondem aos opioides liberados localmente durante os processos 
+inﬂ amatórios (Stein, 1993). A analgesia periférica permite a apli-
+cação local de doses mais baixas que as necessárias para obter um 
+efeito sistêmico. O alívio da dor conseguido por essa via de admi-
+nistração é limitado, mas estudos demonstraram sua eﬁ cácia no con-
+trole da dor pós-operatória (Stein, 1993). O desenvolvimento desses 
+compostos e a ampliação das aplicações clínicas dessa técnica são 
+áreas de experimentação ativa.
+Administração retal 
+Essa via é uma alternativa para pacientes com diﬁ culdade de deglutir 
+ou outra morbidade oral e que preferem uma via menos invasiva que 
+a administração parenteral. Essa via não é bem tolerada pela maioria 
+das crianças. O início da ação começa em 10 min. Nos EUA, apenas 
+a morﬁ na e a hidromorfona estão disponíveis em preparações de 
+supositórios retais.
+Administração por inalação 
+Os opioides podem ser administrados por nebulizador. Contudo, 
+esse método de administração raramente é utilizado em razão da 
+absorção errática pelos pulmões e das variações extremas do efeito 
+terapêutico. 
+Administração pela mucosa oral
+Os opioides podem ser absorvidos pela mucosa oral mais rapi-
+damente que através do estômago. A biodisponibilidade é maior 
+Quadro 18-3
+Opioides epidurais ou intratecais para o tratamento da dor aguda (bolo) ou crônica (infusão)
+FÁRMACO
+DOSE ÚNICA 
+(mg)a
+TAXA DE INFUSÃO 
+(mg/h)b
+INÍCIO (minutos)
+DURAÇÃO DO EFEITO DE 
+UMA ÚNICA DOSE (h)c
+Epidural
+Morﬁ na
+1-6
+0,1-1,0
+30
+6-24
+Meperidina
+20-150
+5-20
+ 5
+4-8
+Metadona
+1-10
+0,3-0,5
+10
+6-10
+Hidromorfona
+1-2
+0,1-0,2
+15
+10-16
+Fentanila
+0,025-0,1
+0,025-0,10
+ 5
+2-4
+Sufentanila
+0,01-0,06
+0,01-0,05
+ 5
+2-4
+Alfentanila
+0,5-1
+0,2
+15
+1-3
+Subaracnóidea (intratecal)
+Morﬁ na
+0,1-0,3
+15
+8-24+
+Fentanila
+0,005-0,025
+ 5
+3-6
+aAs doses baixas podem ser eﬁ cazes quando são administradas aos idosos ou quando são injetadas na região torácica.
+bSe for necessário combinar um anestésico local, considerar o uso de bupivacaína a 0,0625%.
+cA duração da analgesia é muito va riá vel; doses mais altas produzem efeitos mais duradouros. Com exceção da morﬁ na epidural/intratecal ou da sufen-
+tanila epidural, a utilização de todos os outros opioides por via intraespinal é considerada “experimental”.
+Adaptado da International Association for the Study of Pain, 1992.
+
+---
+<!-- Página 35 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-35-quadro-18-4.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+515
+porque se evita o metabolismo de primeira passagem e os opioides 
+lipofílicos são mais bem absorvidos por essa via que os compostos 
+hidrofílicos como a morﬁ na. Um sistema de liberação transmucosa 
+composta de fentanila suspensa em um pirulito composto de açú-
+car dissolvível, ou um comprimido bucal que se dissolve-se rapi-
+damente, foi aprovado para o tratamento da dor do câncer; nestes 
+casos, a fentanila transmucosa alivia a dor em 15 min e os pacientes 
+podem titular facilmente a dose apropriada. A “película” de fenta-
+nila para administração bucal foi aprovada pelo FDA para o trata-
+mento da dor do câncer. A película é aplicada na mucosa bucal e 
+dissolve-se lentamente, liberando a fentanila que penetra na mucosa 
+e entra na corrente sanguínea. O FDA recebeu uma solicitação para 
+registro de uma nova preparação de comprimido sublingual. Além 
+disso, a fentanila transmucosa foi estudada como pré-medicação 
+para crianças; contudo, esta técnica foi praticamente abandonada 
+em razão dos efeitos adversos indesejáveis, inclusive depressão res-
+piratória, sedação, náuseas, vômitos e prurido.
+Administração transnasal
+O butorfanol, um agonista KOR e antagonista MOR, tem sido ad-
+ministrado por via intranasal. Hoje, o spray de fentanila à base de 
+pectina transnasal está sendo estudado clinicamente para o trata-
+mento da dor associada ao câncer. Esse método de administração 
+é bem tolerado e o alívio da dor ocorre ~ 10 min após a aplicação 
+(Kress e cols., 2009). 
+Administrações transdérmica e iontoforética
+Os adesivos transdérmicos de fentanila foram aprovados para uso 
+nos pacientes com dor contínua. O opioide permeia a pele e forma-se 
+um “depósito” no nível do estrato córneo. Ao contrário dos outros 
+sistemas transdérmicos (i.e., escopolamina transdérmica), a posição 
+anatômica do adesivo não afeta a absorção. Entretanto, a febre e as 
+fontes externas de calor (bolsas de água quente, banhos quentes) 
+podem aumentar a absorção de fentanila e potencialmente levar a 
+uma overdose (Rose e cols., 1993). Essa modalidade é muito apro-
+priada para o tratamento da dor associada ao câncer, por causa da 
+facilidade do seu uso, da ação prolongada e da estabilidade dos ní-
+veis sanguíneos (Portenoy e cols., 1993). O início da analgesia pode 
+demorar até 12 h e o efeito clínico pleno começar em até 16 h. Os 
+níveis plasmáticos estabilizam-se após duas aplicações sequenciais 
+dos adesivos e a cinética não parece alterar-se com as aplicações 
+repetidas (Portenoy e cols., 1993). Entretanto, pode haver grande 
+variação dos níveis plasmáticos depois de uma determinada dose. A 
+meia-vida plasmática após a remoção do adesivo é de ~ 17 h. Assim, 
+se houver sedação excessiva ou depressão respiratória, pode ser ne-
+cessário manter, por um longo perío do, infusões de um antagonista. 
+Os efeitos adversos dermatológicos dos adesivos, como exantema e 
+prurido, são habitualmente leves.
+A iontoforese é o transporte de íons solúveis através da pele 
+pelo uso de uma corrente elétrica fraca. Essa técnica já foi empre-
+gada com morﬁ na (Ashburn e cols., 1992). Ao contrário dos opioi-
+des transdérmicos, não se desenvolve um reservatório do fármaco 
+na pele e, desse modo, os efeitos desejáveis e indesejáveis são li-
+mitados. Os sistemas iontoforéticos controlados pelo paciente com 
+fentanila transdérmica foram utilizados no passado, mas hoje não 
+estão mais disponíveis no comércio.
+USO TERAPÊUTICO DOS OPIÁCEOS 
+NO CONTROLE DA DOR
+O tratamento da dor é um componente importante de 
+qualquer intervenção terapêutica. A impossibilidade de 
+controlar adequadamente a dor pode ter consequências 
+negativas importantes na função ﬁ siológica, inclusive 
+hiper-reatividade autonômica (aumentos da pressão ar-
+terial e da fre quên cia car día ca, supressão da motilidade 
+gastrintestinal, redução das secreções), limitação da mo-
+bilidade com perda do condicionamento físico, atroﬁ a 
+muscular, enrijecimento articular e descalciﬁ cação e 
+pode contribuir para as alterações deletérias do estado 
+psicológico (depressão, síndromes de desesperança, an-
+siedade). Por exigência de muitas organizações de cre-
+denciamento hospitalar e por lei em muitos estados, a 
+avaliação e o controle adequados da dor são considera-
+dos padrões de assistência, e a dor é classiﬁ cada como 
+“quinto sinal vital”.
+Os comentários apresentados a seguir servem ape-
+nas como orientação geral acerca dos princípios do trata-
+mento da dor. Esforços extensivos realizados por muitos 
+Quadro 18-4
+Fontes de consulta sobre o tratamento da dor
+TIPO DE DOR
+REFERÊNCIAS
+Dores aguda 
+(pós-operatória) 
+e do câncer
+American Pain Society Recommendations for Improving the Quality of Acute and Cancer Pain 
+Management, American Pain Society, 2005, www.ampainsoc.org/pub/bulletin/fal05/inno1.htm
+Guidelines for the Management of Cancer Pain in Adults and Children, American Pain Society, 2005, 
+www.guideline.gov/summary/summary.aspx?ss=15
+Principles of Analgesic Use in the Treatment of Acute pain and Cancer Pain, American Pain Society, 
+2008, www.ampainsoc.org/pub/pub/principles.htm
+Neuropática
+Pharmacologic Management of Neuropathic Pain: Evidence-Based Recommendations, International 
+Association for the Study of Pain, 2007, www.guideline.gov/summary/summary.aspx?ss=15
+European Federation of Neurologic Societies Guidelines on Pharmacologic Treatment of Neuropathic 
+Pain, European Federation of Neurologic Societies, 2007, www.guideline.gov/summary/summary.
+aspx?ss=15; www.efns.org
+Fonte: Dworkin e cols., 2007.
+
+---
+<!-- Página 36 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-36-quadro-18-4-e-quadro-18-5-e-quadro-18-6-e-quadro-18-2.png]]
+
+516
+SEÇÃO II
+NEUROFARMACOLOGIA
+in di ví duos e organizações resultaram na publicação de 
+muitas diretrizes úteis ao controle dos estados dolorosos, 
+inclusive dores agudas, dor associada ao câncer e dor neu-
+ropática (Quadro 18-4). No caso da dor associada ao cân-
+cer, estudos demonstraram que a adesão aos protocolos 
+padronizados melhora expressivamente o controle da dor 
+(Du Pen e cols., 1999). As seções subsequentes descre-
+vem as diretrizes da seleção racional dos fármacos, anali-
+sam outras vias de administração além dos métodos oral e 
+parenteral tradicionais e delineiam os princípios geral dos 
+opioides nos estados dolorosos agudos e crônicos.
+Diretrizes posológicas dos opioides
+Embora o protocolo de três etapas da Organização Mun-
+dial de Saú de tenha enfatizado inicialmente o tratamento 
+da dor associada ao câncer, é prática corrente utilizar este 
+protocolo também para tratar outros tipos de dor crônica 
+(Quadro 18-5). O protocolo de três etapas recomenda a 
+utilização das abordagens terapêuticas mais conversado-
+ras antes de iniciar o tratamento com opioides. Contudo, 
+em presença de dor grave, o uso desses fármacos deve 
+ser considerado imediatamente.
+Várias sociedades e órgãos publicaram diretrizes 
+para a utilização dos opioides potentes no tratamento da 
+dor, inclusive a American Academy of Pain Medicine, a 
+American Pain Society, a Federation of State Medical 
+Boards (FSMB) e a Drug Enforcement Agency. Embora 
+sejam ligeiramente diferentes quanto aos detalhes, todas 
+as diretrizes publicadas até hoje compartilham dos crité-
+rios estabelecidos pela FSMB (Quadro 18-6).
+O Quadro 18-2 resume as recomendações das doses 
+orais e parenterais dos opioides comumente utilizados. As 
+Tabe las como as que são apresentadas neste capítulo ser-
+vem apenas como orientação geral. Em geral, essas Tabe-
+las são elaboradas com base na utilização desses fármacos 
+para o controle da dor aguda dos pacientes que ainda não 
+utilizaram opioides. Alguns fatores contribuem para a 
+dose necessária (descritos nas seções subsequentes).
+A metadona é considerada separadamente no Qua-
+dro 18-7 porque as informações atualizadas relativas à 
+segurança foram publicadas mais recentemente. Em 
+2006, o FDA notiﬁ cou os proﬁ ssionais de saú de sobre 
+relatos de mortes e eventos adversos potencialmente fa-
+tais (inclusive depressão respiratória e arritmias car día-
+cas) nos pacientes tratados com metadona. Esse fármaco 
+parece estar envolvido em cerca de um terço de todos os 
+óbitos relacionados ao uso de opioides sob prescrição, 
+superando em muito a hidrocodona e a oxicodona, em-
+bora seja prescrita com uma fre quên cia 10 vezes menor. 
+Isso motivou revisões das doses recomendadas na bula.
+Variáveis que modiﬁ cam a resposta 
+terapêutica aos opiáceos
+As respostas aos opioides variam signiﬁ cativamente caso 
+a caso. A dose intramuscular padronizada de 10 mg do sul-
+fato de morﬁ na aliviam satisfatoriamente a dor em apenas 
+2 dentre 3 pacientes. A concentração analgésica eﬁ caz mí-
+nima dos opioides como morﬁ na, meperidina (petidina), 
+alfentanila e sufentanila varia individualmente em uma 
+razão de 5-10 (Woodhouse e Mather, 2000). As doses 
+devem ser ajustadas de acordo com a resposta clínica. Em 
+geral, a terapêutica eﬁ caz depende da adoção de uma abor-
+dagem terapêutica que controle mais eﬁ cazmente o estado 
+doloroso, reduza o potencial de efeitos farmacológicos in-
+desejáveis e leve em consideração as variáveis que podem 
+afetar a resposta de cada paciente à analgesia opioide.
+Intensidade da dor. Piora na intensidade da dor pode exigir ajuste 
+de doses para produzir analgesia aceitável com efeitos colaterais 
+toleráveis.
+Tipo de estado doloroso. Os sistemas afetados por um estado do-
+loroso podem ser classiﬁ cados grosso modo como mediados por 
+eventos secundários à lesão e à inﬂ amação e pela lesão dos aferentes 
+sensoriais ou do sistema nervoso. Os distúrbios neuropáticos podem 
+ser controlados menos eﬁ cazmente pelos opiáceos que a dor secun-
+dária à lesão e à inﬂ amação dos tecidos. Essas condições dolorosas 
+são tratadas mais eﬁ cazmente por uma combinação de modalidades 
+terapêuticas.
+Acuidade e cronicidade da dor. A condição dolorosa de determi-
+nado distúrbio clínico geralmente não é constante e varia com o 
+Quadro 18-5
+Protocolo analgésico progressivo da Organização 
+Mundial de Saú dea
+1a etapa: dor branda a moderada
+Analgésico não opioide ± coadjuvante
+Recomenda-se utilizar paracetamol ou um AINE, a 
+ •
+menos que haja contraindicação. Os coadjuvantes são 
+fármacos que aumentam a eﬁ cácia dos analgésicos, 
+tratam os sintomas coexistentes que agravam a dor 
+e/ou possuem atividade analgésica independente em 
+determinados tipos de dor
+2a etapa: dor branda a moderada, ou dor incontrolável 
+pelas medidas da 1a etapa
+Opioide de ação curta conforme a necessidade ± analgésico 
+não opioide em doses contínuas ± coadjuvante
+A morﬁ na, a oxicodona ou a hidromorfona deve 
+ •
+ser combinada com paracetamol ou um AINE para 
+possibilitar ﬂ exibilidade máxima da dose do opioide
+3a etapa: dor moderada a grave, ou dor incontrolável 
+pelas medidas da 2a etapa
+Opioide de liberação prolongada ou ação longa em doses 
+contínuas, ou infusão contínua + opioide de ação curta 
+conforme a necessidade ± analgésico não opioide ± 
+coadjuvante
+Oxicodona, morﬁ na ou oximorfona de liberação 
+ •
+contínua, ou fentanila transdérmica, conforme a 
+necessidade
+ahttp://www.who.int/cancer/palliative/painladder/en
+
+---
+<!-- Página 37 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-37-quadro-18-6-e-quadro-18-7.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+517
+tempo. Nos estados dolorosos crônicos, a intensidade diária da dor 
+pode variar (p. ex., mais intensa pela manhã ou ao acordar). Os 
+distúrbios artríticos produzem exacerbações que estão associadas 
+ao agravamento da dor. As alterações da intensidade da dor ocor-
+rem durante a rotina diária, resultando em “dor refratária” durante 
+eventos transitórios como trocar as roupas (dor incidente). Esses 
+exemplos enfatizam a necessidade do tratamento individualizado 
+do aumento ou da redução dos níveis de dor, utilizando-se doses 
+analgésicas basais suplementadas pela administração dos fármacos 
+de “resgate” de ação curta, conforme a necessidade. Nos casos de 
+dor grave e persistente, os analgésicos devem ser administrados 
+continuamente ou “ao longo das 24 h”, em vez de apenas conforme 
+a necessidade. Isso assegura níveis analgésicos mais consistentes e 
+evita sofrimento desnecessário (Vashi e cols., 2005).
+Tolerância aos opioides. A exposição crônica a um agonista opioi de 
+geralmente diminui a eﬁ cácia dos outros agonistas opioides. A in-
+tensidade da tolerância pode ser notável. Por exemplo, 10 mg de 
+um opioide oral (como a morﬁ na) são considerados uma dose alta 
+para os pacientes que nunca foram tratados com estes fármacos, 
+enquanto 100 mg por via IV podem causar apenas sedação mínima 
+nos pacientes com tolerância grave.
+Estado físico do paciente e variáveis genéticas. A codeína, a hidro-
+codona e a oxicodona são pró-drogas analgésicas fracas, que depois 
+são metabolizadas pela CYP2D6 em analgésicos muito mais eﬁ -
+cazes como morﬁ na, hidromorfona e oximorfona, respectivamente 
+(Supernaw, 2001). As propriedades analgésicas da morﬁ na, da hi-
+dromorfona, da oximorfona, do propoxifeno e da fentanila são atri-
+buí das em grande parte à sua atuação direta nos receptores opioides 
+e não dependem do seu metabolismo adicional, embora o primeiro 
+metabólito do propoxifeno (norpropoxifeno) também seja um anal-
+gésico eﬁ caz com meia-vida longa. A atividade da CYP2D6 está 
+geneticamente reduzida em 7% dos brancos, 3% dos negros e 1% 
+dos asiáticos (Eichelbaum e Gross, 1990) e isto torna a oxicodona, 
+a hidrocodona e a codeína analgésicos relativamente ineﬁ cazes para 
+esses “metabolizadores fracos” e analgésicos potencialmente tóxi-
+cos para “metabolizadores ultrarrápidos”.
+A atividade da CYP2D6 é inibida pelos inibidores seleti-
+vos da recaptação da serotonina, inclusive ﬂ uoxetina, ﬂ uvoxa-
+mina, paroxetina, sertralina e bupropiona — estes fármacos são 
+administrados comumente aos pacientes com dor. A inibição da 
+CYP2D6 resultante dessas interações farmacológicas pode tornar 
+os opioides menos eﬁ cazes como analgésicos em alguns pacientes. 
+Embora a atividade reduzida da isoenzima CYP2D6 diminua a eﬁ -
+cácia das pró-drogas opioides, o contrário ocorre com a metadona. 
+Embora a metadona seja metabolizada principalmente pela isoen-
+zima CYP3A4, os polimorﬁ smos genéticos que causam deﬁ ciên cias 
+das isoenzimas CYP2C9, CYP2CI9 E CYP2D6 podem resultar em 
+concentrações plasmáticas surpreendentemente altas de metadona e 
+causar overdoses.
+Os opioides ligam-se amplamente às pro teí nas e os fatores 
+como o pH plasmático podem alterar drasticamente esta ligação. 
+Além disso, a α1-glicoproteína ácida (AAG) é uma proteína reagente 
+da fase aguda, que aumenta nos pacientes com câncer e tem grande 
+aﬁ nidade por fármacos básicos como a metadona e a meperidina. 
+A morﬁ na e a meperidina devem ser evitadas nos pacientes com 
+disfunção renal porque a morﬁ na-6-glicuronídeo (um metabólito da 
+Quadro 18-6
+Diretrizes para o uso dos opioides no tratamento da dor crônica
+Avaliação do paciente
+ •
+: a história médica e o exame físico completo devem ser realizados e documentados no prontuário 
+médico.
+Plano terapêutico
+ •
+: o plano terapêutico deve descrever os parâmetros objetivos utilizados para determinar o sucesso do 
+tratamento.
+Consentimento informado e concordância
+ •
+: o médico deve conversar com o paciente sobre os riscos, os benefícios e as 
+alternativas ao tratamento crônico com opioides. Muitos proﬁ ssionais elaboraram um “contrato de uso dos opioides”, que 
+descreve as responsabilidades do médico e do paciente relativas à prescrição continuada de substâncias controladas.
+Revisão periódica
+ •
+: a intervalos razoáveis, o paciente deve ser atendido pelo médico para revisar a evolução do tratamento 
+e documentar os resultados dos pareceres médicos, os exames diagnósticos e laboratoriais e o sucesso do tratamento.
+Parecer médico
+ •
+: quando necessário, o médico deve encaminhar seu paciente a outro proﬁ ssional de forma a obter um 
+parecer.
+Documentação/prontuários médicos
+ •
+: o médico deve manter prontuários médicos completos e atualizados que incluam: 
+(a) anamnese e exame físico; (b) resultados dos exames diagnósticos e laboratoriais e das intervenções terapêuticas; 
+(c) reavaliação e pareceres; (d) objetivos do tratamento; (e) descrição dos riscos e benefícios; (f) tratamento; (g) fármacos 
+usados, inclusive data, tipo, dose e quantidade prescrita; (h) instruções e concordância; e (i) revisões periódicas.
+Adesão à lei e às regulamentações sobre substâncias controladas
+ •
+: para prescrever, dispensar ou administrar substâncias 
+controladas, o médico precisa estar autorizado em seu estado e seguir as regulamentações estaduais e federais aplicáveis.
+Quadro 18-7
+Diretrizes de conversão das doses orais de morﬁ na 
+em metadona
+RAZÕES DE CONVERSÃO
+DOSE DIÁRIA DE MORFINA 
+(mg/24 h, via oral)
+MORFINA 
+(oral)
+:
+METADONA 
+(oral)
+< 100
+ 3
+:
+1
+101-300
+ 5
+:
+1
+301-600
+10
+:
+1
+601-800
+12
+:
+1
+801-1.000
+15
+:
+1
+> 1.001
+20
+:
+1
+
+---
+<!-- Página 38 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-38-quadro-18-8.png]]
+
+518
+SEÇÃO II
+NEUROFARMACOLOGIA
+morﬁ na) e a normeperidina (um metabólito da meperidina) são ex-
+cretados pelos rins e acumulam-se, causando efeitos tóxicos. Outras 
+condições que podem aumentar o risco de efeitos adversos dos opio-
+ides incluem doen ça pulmonar obstrutiva crônica, apneia do sono, 
+demência, hipertroﬁ a prostática benigna, instabilidade da marcha e 
+constipação antes de iniciar o tratamento com opioide.
+Vias de administração disponíveis. Nos estados dolorosos crônicos, 
+o objetivo é dar preferência à utilização das vias de administração 
+menos invasivas, inclusive as vias oral, bucal ou transdérmica. As 
+vias IV são mais úteis ao controle hospitalar perioperatório da dor e 
+nos serviços para pacientes terminais. Os pacientes com distúrbios 
+dolorosos crônicos nos quais os efeitos colaterais da administração 
+sistêmica são intoleráveis e são candidatos à administração intraes-
+pinal; contudo, isto pode requerer um procedimento cirúrgico para a 
+colocação do cateter de longa permanência e da bomba de infusão.
+Seleção/titulação da dose. A abordagem conservadora recomen-
+dada no início do tratamento crônico com opioides sugere iniciar 
+com doses baixas que possam ser aumentadas de acordo com a 
+farmacocinética do fármaco. Nos estados dolorosos crônicos, o 
+objetivo deve ser utilizar fármacos de ação longa que permitam a 
+administração de uma ou duas doses por dia (p. ex., preparações 
+de liberação controlada ou metadona). Esses fármacos alcançam 
+o estado de equilíbrio lentamente. Os aumentos rápidos devem ser 
+evitados e os fármacos de “resgate” devem ﬁ car disponíveis para 
+controlar a dor refratária durante a titulação inicial da dose.
+Rotação dos opioides. A rotação dos opioides é a prática de subs-
+tituir por um fármaco diferente quando o paciente não obtém o be-
+nefício esperado ou surgem efeitos colaterais antes de conseguir 
+analgesia satisfatória. Em uma revisão retrospectiva, os autores de-
+monstraram que o primeiro opioide prescrito foi eﬁ caz em 36% dos 
+pacientes, foi interrompido em consequência de efeitos adversos 
+em 30% dos casos e foi interrompido porque era ineﬁ caz em 34% 
+(Quang-Cantagrel e cols., 2000). Entre os pacientes restantes, o se-
+gundo opioide prescrito depois do insucesso do primeiro foi eﬁ caz 
+em 31%, o terceiro em 40%, o quarto em 56% e o quinto em 14% 
+dos casos. Desse modo, se for necessário alterar a prescrição de um 
+opioide em consequência de efeitos colaterais intoleráveis ou da ine-
+ﬁ cácia do fármaco, a porcentagem cumulativa de eﬁ cácia aumenta 
+a cada novo opioide experimentado. A ineﬁ cácia ou a intolerância 
+a um opioide não prevê necessariamente a resposta ou a aceitação 
+de outro fármaco pelo paciente. Na prática, a rotação dos opioi-
+des consiste em aumentar a dose de determinado fármaco (p. ex., 
+morﬁ na) até surgirem efeitos adversos e quando a analgesia não é 
+suﬁ ciente. Nesse ponto, o primeiro fármaco pode ser substituí do 
+por um opioide alternativo em doses equianalgésicas. Em geral, os 
+fármacos utilizados nessas sequências de rotação incluem vários 
+opioides orais (p. ex., morﬁ na, metadona, meperidina e oxicodona) 
+e sistemas de placa transdérmica de fentanila. É importante ter o 
+cuidado de titular as doses e monitorar cuidadosamente o paciente 
+durante as transições de um fármaco para outro.
+Tratamento combinado. Em geral, a utilização das combinações 
+de fármacos com o mesmo perﬁ l farmacocinético não se justiﬁ ca 
+(p. ex., morﬁ na por metadona) e também quando os fármacos têm 
+alvos de ação superpostos e efeitos contrários (p. ex., combinação 
+de um agonista MOR com outro fármaco que tenha propriedades 
+agonistas/antagonistas mistas). Por outro lado, algumas combina-
+ções de opioides são úteis. Por exemplo, para os estados dolorosos 
+crônicos com dor refratária ou incidente periódica, o paciente po-
+deria utilizar uma preparação de liberação lenta de morﬁ na para 
+o alívio da dor basal, enquanto a dor aguda incidente poderia ser 
+controlada com uma preparação de início rápido e duração curta, 
+como a fentanila bucal.
+Para a dor inﬂ amatória ou nociceptiva, geralmente se reco-
+menda que os opioides sejam combinados com outros analgésicos 
+como AINEs e paracetamol. Desse modo, pode aproveitar os efei-
+tos analgésicos produzidos pelo coadjuvante e reduzir a dose neces-
+sária do opioide. Em algumas situações, os AINEs podem produzir 
+analgesia comparável à obtida por 60 mg de codeína. O sinergismo 
+analgésico entre os opioides e os fármacos semelhantes do ácido ace-
+tilsalicílico estão descritos adiante e também no Capítulo 34. No caso 
+da dor neuropática, outras classes farmacológicas podem ser úteis 
+quando combinadas com o opiáceo. Por exemplo, os antidepressivos 
+que bloqueiam a recaptação das aminas (p. ex., amitriptilina ou dulo-
+xetina) e os anticonvulsivantes (p. ex., gabapentina) podem aumentar 
+o efeito analgésico e ter ação sinérgica em alguns distúrbios doloro-
+sos. As diferentes classes farmacológicas podem ter eﬁ cácia va riá vel 
+nos diferentes modelos de processamento da dor (Quadro 18-8).
+A estratégia de “poupar opioide” é fundamental ao protocolo 
+de “analgesia progressiva” para o controle da dor, que foi proposta 
+pela Organização Mundial de Saú de. Os opioides mais fracos podem 
+ser substituídos pelos fármacos mais potentes quando a dor é mode-
+rada a grave. Os antidepressivos como a duloxetina e a amitriptilina 
+são utilizados no tratamento da dor neuropática crônica, mas têm 
+ações analgésicas intrínsecas limitadas na dor aguda. Contudo, os 
+antidepressivos podem aumentar a analgesia produzida pela morﬁ na 
+(Levine e cols., 1986).
+USOS NÃO ANALGÉSICOS DOS OPIOIDES
+Dispneia
+A morﬁ na é usada para aliviar a dispneia da insuﬁ ciência ventri-
+cular esquerda aguda e do edema pulmonar, nos quais a resposta à 
+morﬁ na intravenosa pode ser espetacular. O mecanismo subjacente 
+a esse alívio não está claro, mas pode envolver uma alteração na rea-
+ção do paciente ao comprometimento da função respiratória e uma 
+redução indireta do trabalho do coração, decorrente da diminuição 
+do medo e da apreensão. Entretanto, é mais provável que o principal 
+benefício deva-se aos efeitos cardiovasculares, como a redução da 
+resistência periférica e o aumento da capacitância dos compartimen-
+tos vasculares periférico e esplâncnica. A nitroglicerina, que tam-
+bém causa vasodilatação, pode ser mais eﬁ caz que a morﬁ na nessa 
+condição (Hoffman e Reynolds, 1987). Nos pacientes com gases 
+arteriais normais, mas que apresentam dispneia grave secundária 
+à obstrução crônica do ﬂ uxo ventilatório (“sopradores rosados”), 
+a administração da dose oral de 15 mg de diidrocodeína antes de 
+realizar atividades físicas atenua a sensação de dispneia e aumenta 
+a tolerância aos esforços (Johnson e cols., 1983). Não obstante, os 
+opioides geralmente estão contraindicados no edema pulmonar, a 
+menos que haja também dor grave.
+Coadjuvantes anestésicos
+As doses altas dos opioides, principalmente fentanila e sufentanila, 
+são amplamente utilizadas como agentes anestésicos principais em 
+muitos procedimentos cirúrgicos. Estes têm poderosos efeitos de 
+“poupadores de MAC” (p. ex., reduzem as concentrações do anes-
+tésico volátil que, de outro modo, seriam necessárias para conse-
+guir a profundidade anestésica adequada. Embora a respiração seja 
+deprimida a ponto de necessitar suporte ventilatório, os pacientes 
+conseguem manter a consciência. Por essa razão, quando se utilizam 
+opioides como anestésico principal, é importante administrar tam-
+bém um fármaco que provoque inconsciência e produza amnésia, 
+inclusive benzodiazepinas ou anestésicos voláteis em concentrações 
+baixas. As doses altas dos opioides também causam rigidez acen-
+
+---
+<!-- Página 39 -->
+
+![[07-Biblioteca-Geral/07-Banco-de-Imagens/99-A-Classificar/Goodman-Gilman-Capitulo-18/goodman-cap18-pagina-39-quadro-18-8.png]]
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+519
+tua da da parede torácica e dos músculos masseteres e isto exige a 
+coadministração de miorrelaxantes para permitir a intubação e a 
+ventilação artiﬁ cial.
+TRATAMENTO DA INTOXICAÇÃO 
+OPIOIDE AGUDA
+A intoxicação opioide aguda pode ser causada por uma 
+overdose clínica, uma overdose acidental, ou tentativas 
+de suicídio. Em alguns casos, pode ocorrer uma intoxi-
+cação tardia depois da injeção de um opioide nas áreas 
+cutâ neas resfriadas, ou nos pacientes com hipotensão 
+arterial e choque. Nesses casos, o fármaco não é inteira-
+mente absorvido e, por esta razão, pode ser administrada 
+uma dose adicional. Quando a circulação normal é recu-
+perada, o organismo pode absorver repentinamente uma 
+quantidade excessiva. É difícil deﬁ nir a quantidade exata 
+de qualquer opioide que é tóxica ou letal aos seres huma-
+nos. Experiências recentes com metadona indicaram que, 
+nos in di ví duos sem tolerância, os efeitos tóxicos graves 
+possam ocorrer depois da ingestão oral de 40-60 mg. Es-
+tudos mais antigos sugeriram que, no caso da morﬁ na, o 
+adulto normal virgem de opioides em sem dor provavel-
+mente não morrerá em seguida a ingestão de doses orais 
+< 120 mg, ou desenvolva efeitos tóxicos graves depois da 
+administração parenteral de < 30 mg.
+Sinais, sintomas e diagnóstico
+O paciente com overdose de opioide geralmente apresenta estupor 
+ou, se a overdose for acen tua da, pode apresentar-se em coma pro-
+fundo. A fre quên cia respiratória é muito baixa ou o paciente pode 
+estar em apneia com cianose. À medida que as trocas respiratórias 
+diminuem, a pressão arterial, que tende a estar normal inicialmente, 
+diminui de forma gradativa. Quando a oxigenação é recuperada ra-
+pidamente, a pressão arterial aumenta; quando a hipoxia persiste, 
+pode haver lesão capilar e podem ser necessárias medidas para re-
+verter o choque. As pupilas são simétricas e puntiformes; contudo, 
+se a hipoxia for grave, as pupilas podem estar dilatadas. O débito 
+urinário diminui, a temperatura corporal cai e a pele ﬁ ca fria e 
+úmida. Os músculos esqueléticos ﬁ cam ﬂ ácidos, a mandíbula relaxa 
+e a língua pode retroceder e bloquear as vias respiratórias. Em al-
+guns lactentes e crianças, podem ser observadas convulsões nítidas. 
+Quando o óbito ocorre, quase sempre é secundário à insuﬁ ciência 
+respiratória. Mesmo que a respiração seja recuperada, o óbito ainda 
+pode ocorrer em consequência das complicações que se desenvol-
+vem durante o perío do em coma, inclusive pneumonia ou choque. O 
+edema pulmonar não cardiogênico é comum na intoxicação opioide 
+e provavelmente não se deve aos contaminantes ou às reações anaﬁ -
+láticas; esta complicação foi observada após administração de doses 
+tóxicas de morﬁ na, metadona, propoxifeno e heroína pura.
+A tríade de coma, pupilas puntiformes e depressão respirató-
+ria é muito sugestiva de intoxicação opioide. A detecção de marcas 
+de agulha que sugerem drogadição reforça essa hipótese. Contudo, 
+as intoxicações mistas também são comuns. O exame da urina e do 
+conteúdo gástrico para detectar drogas pode facilitar o diagnóstico, 
+mas os resultados geralmente ﬁ cam disponíveis em uma fase muito 
+tardia para inﬂ uenciar o tratamento.
+Tratamento
+As primeiras medidas são estabelecer uma via respiratória aberta 
+e ventilar o paciente. Os antagonistas opioides podem produzir re-
+versão grave da depressão respiratória intensa e a naloxona é o fár-
+maco preferido para essa ﬁ nalidade. Contudo, deve-se ter o cuidado 
+de evitar a precipitação da síndrome de abstinência nos pacientes 
+dependentes, que podem ser extremamente sensíveis aos antagonis-
+tas opioides. A abordagem mais segura é diluir a dose tradicional 
+Quadro 18-8
+Sumário de fármaco alvo, local de ação das classes de fármacos mais comuns e eﬁ cácia relativa em relação 
+ao estado doloroso
+CLASSE DO FÁRMACO 
+(AGENTES MAIS REPRESENTATIVOS 
+ENTRE PARÊNTESES)
+AÇÃO DO FÁRMACO
+LOCAL DE AÇÃOa
+EFICÁCIA RELATIVA NO ESTADO DOLOROSOb
+AINEs
+(ibuprofeno, ácido 
+acetilsalicílico, paracetamol)
+Inibidor inespecífico 
+das COX
+Periférico e 
+espinal
+Lesão tecidual >> estímulo agudo = lesão 
+nervosa = 0 (Hamza e Dionne, 2009; 
+Svensson e Yaksh, 2002)
+Inibídor da COX-2 
+(celecoxibe)
+Inibidor seletivo da 
+COX-2
+Periférico e 
+espinal
+Lesão tecidual >> estímulo agudo = lesão 
+nervosa = 0 (Hamza e Dionne, 2009)
+Opioides 
+(morfina)
+Agonista do receptor μ
+Supraespinal e 
+espinal
+Lesão tecidual = estímulo agudo ≥ lesão 
+nervosa > 0 (ver neste capítulo)
+Anticonvulsivantes
+(gabapentina)
+Bloqueador do canal de 
+Na+, subunidade α 
+2δ do canal de Ca2+ 
+Supraespinal e 
+espinal
+Lesão nervosa > lesão tecidual = estímulo 
+agudo = 0 (Lai e cols., 2004; 
+Taylor, 2009)
+Antidepressivos tricíclicos
+(amitriptilina)
+5-HT/NE
+Supraespinal e 
+espinal
+Lesão nervosa ≥ lesão tecidual >> estímulo 
+agudo = 0 (Mochizucki, 2004)
+aEstudos baseados na liberação local em modelos pré-clínicos, p. ex., microinjeção intracranial ou injeções intraventriculares, liberação lombar intratical 
+ou no local da lesão. bOs estados dolorosos são deﬁ nidos por modelos pré-clínicos: agudo: placa quente/retirada da camada/compressão mecânica aguda; 
+lesão tecidual: injeção intraplantar de irritantes, lesão térmica focal; lesão de nervo: compressão/ligação do nervo ciático ou seus ramos ou das raízes 
+nervosas; liberação sistêmica de quiomioterapêutica – rápidas. Ver Mogil, 2009.
+
+---
+<!-- Página 40 -->
+
+520
+SEÇÃO II
+NEUROFARMACOLOGIA
+de naloxona (0,4 mg) e administrar lentamente por via intravenosa 
+com monitoração do nível de consciência e da função respiratória. 
+Com cuidado, geralmente é possível reverter a depressão respira-
+tória sem causar uma síndrome de abstinência signiﬁ cativa. Se não 
+houver resposta depois da primeira dose, outras podem ser adminis-
+tradas. Os pacientes devem ser observados quanto à ocorrência de 
+aumentos reﬂ exos da atividade do sistema nervoso simpático, que 
+podem causar arritmias cardíacas e edema pulmonar. Para reverter 
+a intoxicação opioide das crianças, a dose inicial da naloxona é de 
+0,01 mg/kg. Se não for detectado qualquer efeito depois da dose 
+total de 10 mg, pode-se seguramente questionar a exatidão do diag-
+nóstico. Em alguns casos, o edema pulmonar associado à overdose 
+de opioides pode ser tratado por respiração com pressão positiva. As 
+convulsões tonicoclônicas que fazem parte das síndromes tóxicas 
+da meperidina, do propoxifeno e do tramadol são controladas pelo 
+tratamento com naloxona.
+A presença de depressores gerais do SNC não impede o efeito 
+benéﬁ co da naloxona e, nos casos de intoxicações mistas, as condi-
+ções do paciente melhoram em grande parte devido ao antagonismo 
+dos efeitos depressores respiratórios do opioide. Entretanto, algumas 
+evidências indicam que a naloxona e a naltrexona também possam 
+antagonizar algumas das ações depressoras dos hipnótico-sedativos. 
+Não é necessário tentar recobrar a consciência plena do paciente. A 
+duração da ação dos antagonistas disponíveis é menor que a de muitos 
+opioides; por esta razão, os pacientes podem voltar a entrar em coma. 
+Isso é par ticular mente importante quando a overdose é causada pela 
+metadona. Os efeitos depressores desse fármaco podem persistir por 
+24-72 h e alguns óbitos ocorreram em consequência da interrupção 
+prematura do tratamento com naloxona. Nos casos de overdoses des-
+ses fármacos, deve-se considerar a infusão contínua de naloxona. A 
+intoxicação causada pelas overdoses de pentazocina e outros opioides 
+com ações mistas pode exigir doses mais altas de naloxona.
+RESUMO CLÍNICO
+Os analgésicos opioides promovem alívio sintomático 
+da dor, mas a doen ça subjacente permanece. O médico 
+deve pesar os benefícios desse alívio contra os possíveis 
+riscos para o paciente, que podem ser muito diferentes 
+nas doen ças agudas e crônicas.
+Nos distúrbios agudos, os opioides reduzem a inten-
+sidade da dor. Entretanto, os sinais físicos (como rigidez 
+abdominal do abdome agudo) geralmente permanecem. 
+O alívio da dor pode facilitar a obtenção da história, a 
+realização do exame físico no setor de emergência e a 
+tolerância do paciente aos procedimentos diagnósticos. 
+Na maioria dos casos, os analgésicos não devem deixar 
+de ser usados em razão da preocupação de que possam 
+obscurecer a progressão da doen ça subjacente. 
+Os problemas que surgem durante o tratamento das 
+dores associadas às condições crônicas são mais com-
+plexos. A administração diária repetida de analgésicos 
+opioides acabará por produzir tolerância e algum grau de 
+dependência física. Esse grau dependerá do fármaco em 
+questão, da fre quên cia da administração, e da quantidade 
+administrada, da predisposição genética e das condições 
+psicosso ciais do paciente. A decisão de controlar qual-
+quer sintoma crônico, especialmente a dor, pela admi-
+nistração repetida de um opioide deve ser tomada com 
+cuidado. Quando a dor se deve a uma doen ça crônica 
+não maligna, as medidas conservadoras baseadas na uti-
+lização de analgésicos não opioides devem ser adotadas 
+antes de recorrer aos opiáceos. Essas medidas incluem a 
+administração de AINEs, os bloqueios nervosos locais, 
+os antidepressivos, a estimulação elétrica, a acupuntura, 
+a hipnose e a modiﬁ cação do comportamento.
+Alguns subgrupos de pacientes com dores crônicas 
+não associadas ao câncer podem certamente ser manti-
+dos adequadamente com opioides por longos perío dos. 
+A seleção cuidadosa dos pacientes é importante antes de 
+iniciar o tratamento crônico com esses fármacos. Todos 
+os pacientes devem passar por uma avaliação do risco de 
+uso abusivo, desvio e diﬁ culdade de adesão utilizando-se 
+um questionário validado de avaliação. Os pacientes com 
+dores crônicas e riscos mais altos de abuso não devem 
+ser necessariamente excluídos do uso dos opioides; con-
+tudo, estes pacientes exigem monitoração mais rigorosa 
+(i.e., testes aleatórios da urina, suprimentos limitados, 
+contagem dos comprimidos) e, possivelmente, devem ser 
+encaminhados a um especialista em dor ou drogadição 
+para ajudar no tratamento.
+Com as doses habituais, os fármacos semelhantes 
+à morﬁ na aliviam o sofrimento alterando o componente 
+emocional da experiência dolorosa e também produzindo 
+analgesia. O controle da dor, especialmente se for crô-
+nica, deve dar atenção aos fatores psicológicos e ao im-
+pacto social da doen ça, que às vezes tem papel dominante 
+na gênese do sofrimento experimentado pelo paciente. 
+O médico deve considerar as variações signiﬁ cativas da 
+tolerância dos pacientes à dor e das suas respostas aos 
+opioi des. Alguns médicos, motivados por uma preocu-
+pação exagerada com a possibilidade de induzirem dro-
+gadição, tendem a prescrever doses iniciais de opioides 
+muito pequenas, ou administradas a intervalos muito lon-
+gos para atenuar a dor; em seguida, estes proﬁ ssionais 
+reagem às queixas do paciente acentuando ainda mais sua 
+preocupação quanto à dependência química, apesar da 
+probabilidade alta de que a solicitação de mais fármaco 
+seja apenas a consequência previsível da dose insuﬁ ciente 
+prescrita inicialmente. Os lactentes e as crianças prova-
+velmente estão mais sujeitos a receber tratamento inade-
+quado para a dor que os adultos, em vista das diﬁ culdades 
+de comunicação, da falta de familiaridade do médico com 
+os métodos apropriados de avaliação da dor nessa popula-
+ção e da inexperiência com o uso de opioides potentes em 
+crianças. Quando uma doen ça ou um procedimento causa 
+dor nos adultos, não há razão para supor que produziria 
+menos dor nas crianças (Yaster e Deshpande, 1988).
+Dores do câncer e das doen ças terminais
+Os opioides não estão indicados em todos os casos de 
+doen ça terminal, mas a analgesia, a tranquilidade e até 
+mesmo a euforia fornecida pelo seu uso podem tornar os 
+últimos dias de vida bem menos sofridos para o paciente
+
+---
+<!-- Página 41 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+521
+e para a sua família. Embora a dependência física e a 
+tolerância possam desenvolver-se, esta possibilidade não 
+deve, em hipótese alguma, impedir que o médico cumpra 
+com a sua obrigação primordial de aliviar o desconforto 
+do paciente. O médico não deve esperar até que a dor se 
+transforme em agonia; nenhum paciente jamais deve de-
+sejar a morte em decorrência da relutância do médico em 
+empregar opioides eﬁ cazes em quantidades adequadas. 
+Ocasionalmente, isso pode exigir o uso regular de anal-
+gésicos opioides em doses substanciais. Embora possam 
+estar ﬁ sicamente dependentes, esses pacientes não são 
+“viciados”, mesmo que necessitem de grandes doses re-
+petidas regularmente. Dependência física não é o mesmo 
+que drogadição (ver Capítulo 24).
+A maior parte dos médicos experientes no controle 
+da dor crônica associada à doen ça maligna ou terminal re-
+comenda a administração contínua (ao longo das 24 h) de 
+um opioide básico de ação longa, de forma que a dor ﬁ que 
+continuamente sob controle e os pacientes não temam seu 
+reaparecimento (Foley, 1993). Durante os episódios de 
+dor refratária, pode-se administrar um opioide com início 
+de ação rápida e duração curta. A quantidade de fármaco 
+que impede a recorrência da dor é menor que a necessá-
+ria para aliviar a dor que já se instalou. A morﬁ na ainda 
+é o opioide de escolha na maior parte dessas situações 
+e a via e a dose devem ser ajustadas às necessidades de 
+cada paciente. A morﬁ na oral é adequada na maior parte 
+dessas situações. Existem preparações orais de libera-
+ção prolongada de morﬁ na ou oxicodona, que podem ser 
+administradas a intervalos de 8, 12 ou 24 h (morﬁ na), ou 
+de 8-12 h (oxicodona); desse modo, geralmente é possí-
+vel obter controle mais eﬁ caz da dor com menos efeitos 
+colaterais utilizando-se a mesma dose diária; a redução 
+das oscilações das concentrações plasmáticas da morﬁ na 
+pode ser parcialmente responsável por isso. 
+A constipação é um problema extremamente comum 
+com o uso de opioides e a administração de emolientes 
+fecais e laxantes deve ser iniciada precocemente; as mo-
+dalidades mais novas incluem a utilização dos antago-
+nistas opiáceos periféricos, inclusive metilnaltrexona. As 
+anfetaminas melhoram o humor e produzem efeitos anal-
+gésicos, aumentam a analgesia induzida pelos opioides 
+e podem reverter a sedação causada por estes fármacos. 
+Entretanto, nem todos os pacientes terminais necessitam 
+dos efeitos euforizantes da anfetamina e alguns desen-
+volvem efeitos colaterais como anorexia. Estudos con-
+trolados não demonstraram qualquer superioridade da 
+heroína oral sobre a morﬁ na oral. Similarmente, depois 
+do ajuste para potência, a heroína parenteral não era supe-
+rior à morﬁ na, em termos de analgesia, de efeitos sobre o 
+humor e de efeitos colaterais (Sawynok, 1986). Embora 
+desenvolvam tolerância aos opioides orais, muitos pa-
+cientes obtêm alívio com as mesmas doses por semanas 
+ou meses. Nos casos em que o opioide perde a eﬁ cácia, 
+substituí-lo por outro pode proporcionar maior alívio da 
+dor. Existe “tolerância cruzada” entre os opioides, mas 
+clínica e experimentalmente a tolerância cruzada entre os 
+agonistas dos receptores relacionados não é completa. As 
+razões para isso não são claras, mas podem estar relacio-
+nadas com as diferenças entre os vários agonistas no que 
+diz respeito às características da sua ligação ao receptor e 
+das interações com a sinalização celular subsequente.
+Quando os opioides e outros analgésicos orais não 
+são mais satisfatórios, podem ser necessários opioides 
+subcutâneos ou intravenosos, bloqueios nervosos ou 
+neurólise, se a natureza da doen ça permitir. A adminis-
+tração epidural ou intratecal dos opioides pode ser útil 
+quando as vias habituais não proporcionam mais o alívio 
+adequado da dor.
+BIBLIOGRAFIA
+Agency for Health Care Policy and Research. Acute Pain Mana-
+gement in Infants, Children, and Adolescents: Operative and 
+Medical Procedures. No. 92-0020. U.S. Dept. of Health and 
+Human Services, Rockville, MD, 1992a.
+Agency for Health Care Policy and Research. Acute Pain Mana-
+gement: Operative or Medical Procedures and Trauma. No. 
+92-0032. U.S. Dept. of Health and Human Services, Rockville, 
+MD, 1992b.
+Agency for Health Care Policy and Research. Management of 
+Cancer Pain. No. 94-0592. U.S. Dept. of Health and Human 
+Services, Rockville, MD, 1994.
+Akil H, Owens C, Gutstein H, et al. Endogenous opioids: Overview 
+and current issues. Drug Alcohol Depend, 1998, 51:127–140.
+Akil H, Watson SJ, Young E, et al. Endogenous opioids: Biology 
+and function. Annu Rev Neurosci, 1984, 7:223–255.
+Amir S. Anaphylactic shock: Catecholamine actions in the responses 
+to opioid antagonists. Prog Clin Biol Res, 1988, 264:265–274.
+Anton RF. Naltrexone for the management of alcohol depend ence. 
+N Engl J Med, 2008, 359:715–721.
+Ashburn MA, Stephen RL, Ackerman E, et al. Iontophoretic deli-
+very of morphine for postoperative analgesia. J Pain Symptom 
+Manage, 1992, 7:27–33.
+Atkinson RL. Opioid regulation of food intake and body weight in 
+humans. Fed Proc, 1987, 46:178–182.
+Bailey CP, Connor M. Opioids: Cellular mechanisms of tolerance 
+and physical dependence. Curr Opin Pharmacol, 2005, 5:60–68.
+Bailey PL, Stanley TH. Intravenous opioid anesthetics. In, Anes-
+thesia, 4th ed. (Miller RD, ed.) Churchill Livingstone, New 
+York, 1994, pp. 291–387.
+Ballantyne JC, Loach AB, Carr DB. Itching after epidural and spi-
+nal opiates. Pain, 1988, 33:149–160.
+Beaver WT. Impact of non-narcotic oral analgesics on pain ma na-
+gement. Am J Med, 1988, 84:3–15.
+Beers R, Camporesi E. Remifentanil update: Clinical science and 
+utility. CNS Drugs, 2004, 18:1085–1104.
+Benedetti F, Amanzio M. The neurobiology of placebo analge sia: 
+From endogenous opioids to cholecystokinin. Prog Neurobiol, 
+1997, 52:109–125.
+Benyamin R, Trescot AM, Datta S, et al. Opioid complications and 
+side effects. Pain Physician, 2008, 11:S105–S120.
+Bernards CM. Recent insights into the pharmacokinetics of spi-
+nal opioids and the relevance to opioid selection. Curr Opin 
+Anaesthesiol, 2004, 17:441–447.
+Bluet-Pajot MT, Tolle V, Zizzari P, et al. Growth hormone secreta-
+gogues and hypothalamic networks. Endocrine, 2001, 14:1–8.
+Boas RA, Villiger JW. Clinical actions of fentanyl and buprenor-
+phine. The signiﬁ cance of receptor binding. Br J Anaesth, 
+1985, 57:192–196.
+
+---
+<!-- Página 42 -->
+
+522
+SEÇÃO II
+NEUROFARMACOLOGIA
+Boysen K, Hertel S, Chraemmer-Jorgensen B, et al. Buprenor-
+phine antagonism of ventilatory depression following fentanyl 
+anaes thesia. Acta Anaesthesiol Scand, 1988, 32:490–492.
+Burkle H, Dunbar S, Van Aken H. Remifentanil: A novel, shor t-
+acting, mu-opioid. Anesth Analg, 1996, 83:646–651.
+Cameron D, Gan TJ. Management of postoperative nausea and 
+vomiting in ambulatory surgery. Anesthesiol Clin North Am, 
+2003, 21:347–365.
+Caraco Y, Sheller J, Wood AJ. Impact of ethnic origin and 
+quini-dine coadministration on codeine’s disposition and 
+pharmaco-dynamic effects. J Pharmacol Exp Ther, 1999, 
+290:413–422.
+Chan GL, Matzke GR. Effects of renal insufﬁ ciency on the phar-
+macokinetics and pharmacodynamics of opioid analgesics. 
+Drug Intell Clin Pharm, 1987, 21:773–783.
+Cherny NI. Opioid analgesics: Comparative features and pre-scri-
+bing guidelines. Drugs, 1996, 51:713–737. 
+Christie MJ. Cellular neuroadaptations to chronic opioids: To-
+lerance, withdrawal and addiction. Br J Pharmacol, 2008, 
+154:384–396.
+Christrup LL. Morphine metabolites. Acta Anaesthesiol Scand, 
+1997, 41:116–122.
+Chu P, Murray S, Lissin D, von Zastrow M. Delta and kappa opioid 
+receptors are differentially regulated by dynamin-dependent 
+endocytosis when activated by the same alkaloid agonist. J Biol 
+Chem, 1997, 272:27124–27130.
+Chuang LF, Killam KF Jr, Chuang RY. Induction and activation 
+of mitogen-activated protein kinases of human lymphocytes as 
+one of the signaling pathways of the immunomodulatory effects 
+of morphine sulfate. J Biol Chem, 1997, 272: 26815–26817.
+Chung KF, Pavord ID. Prevalence, pathogenesis, and causes of 
+chronic cough. Lancet, 2008, 371:1364–1374.
+Clemens KE, Klaschik E. Symptomatic therapy of dyspnea with 
+strong opioids and its effect on ventilation in palliative care 
+patients. J Pain Symptom Manage, 2007, 33:473–481.
+Craviso GL, Musacchio JM. High-afﬁ nity dextromethorphan bin-
+ding sites in guinea pig brain. II. Competition experiments. 
+Mol Pharmacol, 1983, 23:629–640.
+Dixon R, Howes J, Gentile J, et al. Nalmefene: Intravenous safety 
+and kinetics of a new opioid antagonist. Clin Pharmacol Ther, 
+1986, 39:49–53.
+Dray A, Nunan L. Supraspinal and spinal mechanisms in morphi-
+ne-induced inhibition of reﬂ ex urinary bladder contrac-tions in 
+the rat. Neuroscience, 1987, 22:281–287.
+Dreborg S, Sundstrom G, Larsson TA, Larhammar D. Evolution 
+of vertebrate opioid receptors. Proc Natl Acad Sci USA, 2008, 
+105:15487–15492.
+Drolet G, Dumont EC, Gosselin I, et al. Role of endogenous opi-oid 
+system in the regulation of the stress response. Prog Neuro-
+psychopharmacol Biol Psychiatry, 2001, 25:729–741.
+Duce MA, Hernande LF. Origins of the hypodermic syringe and 
+local anesthesia. Their inﬂ uence on hernia surgery. Hernia, 
+1999, 3:103–106.
+Du Pen SL, Du Pen AR, Polissar N, et al. Implementing guide-
+lines for cancer pain management: Results of a randomized 
+controlled clinical trial. J Clin Oncol, 1999, 17:361–370.
+Duthie DJ. Remifentanil and tramadol. Br J Anaesth, 1998, 
+81:51–57.
+Dworkin RH, Backonja M, Rowbotham MC, et al. Advances in 
+neuropathic pain: Diagnosis, mechanisms, and treatment re c-o-
+mmendations. Arch Neurol, 2003, 60:1524–1534.
+Edwards DJ, Svensson CK, Visco JP, Lalka D. Clinical pharma-
+cokinetics of pethidine: 1982. Clin Pharmacokinet, 1982, 7: 
+421–433.
+Eichelbaum M, Evert B. Inﬂ uence of pharmacogenetics on drug 
+disposition and response. Clin Exp Pharmacol Physiol, 1996, 
+23:983–985.
+Eichelbaum M, Gross AS. The genetic polymorphism of debri-
+soquine/sparteine metabolism—clinical aspects. Pharmacol 
+Ther, 1990, 46:377–394.
+Elliott K, Hynansky A, Inturrisi CE. Dextromethorphan attenua-
+tes and reverses analgesic tolerance to morphine. Pain, 1994, 
+59:361–368.
+Evans CJ, Keith DE Jr., Morrison H, et al. Cloning of a delta opi-oid 
+receptor by functional expression. Science, 1992, 258: 1952–
+1955.
+Faden AI. Role of thyrotropin-releasing hormone and opiate re-
+ceptor antagonists in limiting central nervous system injury. 
+Adv Neurol, 1988, 47:531–546.
+Farid WO, Dunlop SA, Tait RJ, Hulse GK. The effects of mater-
+nally administered methadone, buprenorphine and naltrexone 
+on offspring: Review of human and animal data. Curr Neuro-
+pharmacol, 2008, 6:125–150.
+Fichna J, Janecka A, Costentin J, Do Rego JC. The endomorphin 
+system and its evolving neurophysiological role. Pharmacol 
+Rev, 2007, 59:88–123.
+Fioravanti B, Vanderah TW. The ORL-1 receptor system: Are 
+there opportunities for antagonists in pain therapy? Curr Top 
+Med Chem, 2008, 8:1442–1451.
+Fishburne JI. Systemic analgesia during labor. Clin Perinatol, 
+1982, 9:29–53.
+Foley KM. Opioid analgesics in clinical pain management. In, 
+BOOK TITLE NEEDED. (Herz A, ed.) Springer-Verlag, Ber-
+lin, 1993, pp. 693–743.
+Fowler CJ, Grifﬁ ths D, de Groat WC. The neural control of mic-
+turition. Nat Rev Neurosci, 2008, 9:453–466.
+France CR, al’Absi M, Ring C, et al. Nociceptive ﬂ exion reﬂ ex 
+and pain rating responses during endogenous opiate blockade 
+with naltrexone in healthy young adults. Biol Psychol, 2007, 
+75:95–100.
+Fryer RM, Hsu AK, Nagase H, Gross GJ. Opioid-induced car-
+dioprotection against myocardial infarction and arrhythmias: 
+Mitochondrial versus sarcolemmal ATP-sensitive potassium 
+channels. J Pharmacol Exp Ther, 2000, 294:451–457.
+Fudala PJ, Johnson RE, Bunker E. Abrupt withdrawal of bupre-
+norphine following chronic administration. Clin Pharmacol 
+Ther, 1989.
+Gaveriaux-Ruff C, Matthes HW, Peluso J, Kieffer BL. Abolition of 
+morphine-immunosuppression in mice lacking the mu-opioid 
+receptor gene. Proc Natl Acad Sci USA, 1998, 95: 6326–6330.
+Gear RW, Miaskowski C, Gordon NC, et al. The kappa opioid nal-
+buphine produces gender- and dose-dependent analgesia and 
+antianalgesia in patients with postoperative pain. Pain, 1999, 
+83:339–345.
+Gether U. Uncovering molecular mechanisms involved in activa-
+tion of G protein-coupled receptors. Endocr Rev, 2000, 21: 
+90–113.
+Gimpl G, Fahrenholz F. The oxytocin receptor system: structure, 
+function, and regulation. Physiol Rev, 2001, 81:629–683.
+Glass PS, Gan TJ, Howell S. A review of the pharmacokinetics 
+and pharmacodynamics of remifentanil. Anesth Analg, 1999, 
+89:S7–S14.
+Goldstein A, Lowney LI, Pal BK. Stereospeciﬁ c and nonspeciﬁ c 
+interactions of the morphine congener levorphanol in subcellu-
+lar fractions of mouse brain. Proc Natl Acad Sci USA, 1971, 
+68:1742–1747.
+Gonzalez JP, Brogden RN. Naltrexone. A review of its pharma-
+codynamic and pharmacokinetic properties and therapeutic 
+efﬁ cacy in the management of opioid dependence. Drugs, 
+1988, 35:192–213.
+Gourlay GK, Cherry DA, Cousins MJ. A comparative study of 
+the efﬁ cacy and pharmacokinetics of oral methadone and mor-
+phine in the treatment of severe pain in patients with cancer. 
+Pain, 1986, 25:297–312.
+
+---
+<!-- Página 43 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+523
+Greenwood-Van Meerveld B. Emerging drugs for postoperative 
+ileus. Expert Opin Emerg Drugs, 2007, 12:619–626.
+Gupta A, Decaillot FM, Devi LA. Targeting opioid receptor het e-
+rodimers: strategies for screening and drug development. Aaps 
+J, 2006, 8:E153–E159.
+Haile CN, Kosten TA, Kosten TR. Pharmacogenetic treatments for 
+drug addiction: alcohol and opiates. Am J Drug Alcohol Abuse, 
+2008, 34:355–381.
+Hamza M, Dionne RA. Mechanisms of non-opioid analgesics 
+beyond cyclooxygenase enzyme inhibition. Curr Mol Pharma-
+col, 2009, 2:1–14.
+Hartrick CT, Hartrick KA. Extended-release epidural morphine 
+(DepoDur): Review and safety analysis. Expert Rev Neurother, 
+2008, 8:1641–1648.
+Hawryluk GWJ, Rowland J, Kwon BK, et al. Protection and repair 
+of the injured spinal cord: a review of completed, ongo ing, and 
+planned clinical trials for acute spinal cord injury. Neurosurg 
+Focus, 2008, 25:E14.
+Heishman SJ, Stitzer ML, Bigelow GE, Liebson IA. Acute opi oid 
+physical dependence in postaddict humans: Naloxone dose 
+effects after brief morphine exposure. J Pharmacol Exp Ther, 
+1989, 248:127–134.
+Henriksen G, Willoch F. Imaging of opioid receptors in the cen tral 
+nervous system. Brain, 2008, 131:1171–1196.
+Hoffman JR, Reynolds S. Comparison of nitroglycerin, mor phine 
+and furosemide in treatment of presumed pre-hospital pulmo-
+nary edema. Chest, 1987, 92:586–593.
+Hook V, Funkelstein L, Lu D, et al. Proteases for processing pro-
+neuropeptides into peptide neurotransmitters and hor mones. 
+Annu Rev Pharmacol Toxicol, 2008, 48:393–423.
+Hughes J, Smith TW, Kosterlitz HW, et al. Identiﬁ cation of two 
+related pentapeptides from the brain with potent opiate ago nist 
+activity. Nature, 1975, 258:577–580. International Association 
+for the Study of Pain. Management of Acute Pain: A Practical 
+Guide. IASP Publications, Seattle, WA, 1992.
+Johnson MA, Woodcock AA, Geddes DM. Dihydrocodeine for 
+breathlessness in “pink puffers.” Br Med J (Clin Res Ed), 1983, 
+286:675–677.
+Kane BE, Svensson B, Ferguson DM. Molecular recognition of 
+opioid receptor ligands. AAPS J, 2006, 8:E126–E137.
+Karavelis A, Foroglou G, Selviaridis P, Fountzilas G. Intraven-
+tricular administration of morphine for control of intractable 
+cancer pain in 90 patients. Neurosurgery, 1996, 39:57–61; dis-
+cussion 61–52.
+Karlsson MO, Dahlstrom B, Neil A. Characterization of high-afﬁ -
+nity binding sites for the antitussive [3H]noscapine in guinea 
+pig brain tissue. Eur J Pharmacol, 1988, 145: 195–203.
+King T, Ossipov MH, Vanderah TW, et al. Is paradoxical pain 
+induced by sustained opioid exposure an underlying mecha-
+nism of opioid antinociceptive tolerance? Neurosignals, 2005, 
+14:194–205.
+Koch T, Widera A, Bartzsch K, et al. Receptor endocytosis coun-
+teracts the development of opioid tolerance. Mol Pharmacol, 
+2005, 67:280–287.
+Koob GF, Bloom FE. Cellular and molecular mechanisms of drug 
+dependence. Science, 1988, 242:715–723.
+Kreek MJ, Koob GF. Drug dependence: Stress and dysregula-
+tion of brain reward pathways. Drug Alcohol Depend, 1998, 
+51:23–47.
+Kreek MJ, LaForge KS, Butelman E. Pharmacotherapy of addic-
+tions. Nat Rev Drug Discov, 2002, 1:710–726.
+Kress HG, Oronska A, Kaczmarek Z, et al. Efﬁ cacy and tolera-
+bility of intranasal fentanyl spray 50 to 200 μg for break-
+through pain in patients with cancer: A phase III, multinational, 
+randomized, double-blind, placebo-controlled, crossover trial 
+with a 10-month, open-label extension treat ment period. Clin 
+Ther, 2009, 31:1177–1191.
+Kromer W. Endogenous and exogenous opioids in the control of 
+gastrointestinal motility and secretion. Pharmacol Rev, 1988, 
+40:121–162.
+Krupnick JG, Benovic JL. The role of receptor kinases and arres-
+tins in G protein-coupled receptor regulation. Annu Rev Phar-
+macol Toxicol, 1998, 38:289–319.
+Lai J, Porreca F, Hunter JC, Gold MS. Voltage-gated sodium chan-
+nels and hyperalgesia. Annu Rev Pharmacol Toxicol, 2004, 
+44:371–397.
+Lalley PM. Opioidergic and dopaminergic modulation of respi-
+ration. Respir Physiol Neurobiol, 2008, 164:160–167.
+Larson MD. Mechanism of opioid-induced pupillary effects. Clin 
+Neurophysiol, 2008, 119:1358–1364.
+Latremoliere A, Woolf CJ. Central sensitization: A generator of 
+pain hypersensitivity by central neural plasticity. J Pain, 2009, 
+10:895–926.
+Levine JD, Gordon NC, Smith R, McBryde R. Desipramine enhan-
+ces opiate postoperative analgesia. Pain, 1986, 27: 45–49.
+Lewis KS, Han NH. Tramadol: A new centrally acting analgesic. 
+Am J Health Syst Pharm, 1997, 54:643–652.
+Lindow SW, Hendricks MS, Nugent FA, et al. Morphine sup-
+presses the oxytocin response in breast-feeding women. Gyne-
+col Obstet Invest, 1999, 48:33–37.
+Lyss AP, Portenoy RK. Strategies for limiting the side effects of 
+cancer pain therapy. Semin Oncol, 1997, 24:S16-28–34.
+Martin WR. Pharmacology of opioids. Pharmacol Rev, 1983, 
+35:283–323.
+Martin WR, Eades CG, Thompson JA, et al. The effects of mor-
+phine- and nalorphine- like drugs in the nondependent and 
+morphine-dependent chronic spinal dog. J Pharmacol Exp 
+Ther, 1976, 197:517–532.
+Matthys H, Bleicher B, Bleicher U. Dextromethorphan and co-
+deine: Objective assessment of antitussive activity in patients 
+with chronic cough. J Int Med Res, 1983, 11:92–100.
+Mattick RP, Breen C, Kimber J, Davoli M. Methadone mainte-
+nance therapy versus no opioid replacement therapy for opi oid 
+dependence. Cochrane Database Syst Rev, 2009, CD002209.
+McCleskey EW, Gold MS. Ion channels of nociception. Annu Rev 
+Physiol, 1999, 61:835–856.
+McGinty JF. What we know and still need to learn about opioids in 
+the hippocampus. NIDA Res Monogr, 1988, 82:1–11.
+McIntosh M, Kane K, Parratt J. Effects of selective opioid recep tor 
+agonists and antagonists during myocardial ischaemia. Eur J 
+Pharmacol, 1992, 210:37–44.
+McQuay H.J. Pharmacological treatment of neuralgic and neu-
+ropathic pain. Cancer Surv, 1988, 7:141–159.
+Mellon RD, Bayer BM. Evidence for central opioid receptors in the 
+immunomodulatory effects of morphine: Review of potential 
+mechanism(s) of action. J Neuroimmunol, 1998, 83: 19–28.
+Melzack R, Casey KL. Sensory, Motivational and Central Con-
+trol Determinants of Pain: A New Conceptual Model. Thomas, 
+Springﬁ eld, IL, 1968.
+Meng F, Xie GX, Thompson RC, et al. Cloning and pharmaco-
+logical characterization of a rat kappa opioid receptor. Proc 
+Natl Acad Sci USA, 1993, 90:9954–9958.
+Mochizucki D. Serotonin and noradrenaline reuptake inhibitors in 
+animal models of pain. Hum Psychopharmacol, 2004, 19(suppl 
+1):S15–A19.
+Mogil JS.Animal models of pain: progress and challenges. Nat 
+Rev Neurosci, 2009, 10:283–294.
+Monk JP, Beresford R, Ward A. Sufentanil. A review of its phar-
+macological properties and therapeutic use. Drugs, 1988, 
+36:286–313.
+Moulin DE, Clark AJ, Gilron I, et al. Pharmacological manage-
+ment of chronic neuropathic pain—consensus statement and 
+guidelines from the Canadian Pain Society. Pain Res Manage, 
+2007, 12:13–21.
+
+---
+<!-- Página 44 -->
+
+524
+SEÇÃO II
+NEUROFARMACOLOGIA
+Neumann PB, Henriksen H, Grosman N, Christensen CB. Plasma 
+morphine concentrations during chronic oral admin istration in 
+patients with cancer pain. Pain, 1982, 13:247–252.
+Osborne R, Joel S, Trew D, Slevin M. Analgesic activity of mor-
+phine-6-glucuronide. Lancet, 1988, 1:828.
+Owen JA, Sitar DS, Berger L, et al. Age-related morphine kinet ics. 
+Clin Pharmacol Ther, 1983, 34:364–368.
+Page GG, Ben-Eliyahu S. The immune-suppressive nature of pain. 
+Semin Oncol Nurs, 1997, 13:10–15.
+Pan YX. Diversity and complexity of the mu opioid receptor gene: 
+Alternative pre-mRNA splicing and promoters. DNA Cell Biol, 
+2005, 24:736–750.
+Pasternak GW. Molecular biology of opioid analgesia. J Pain 
+Symptom Manage, 2005, 29:S2–S9.
+Patel SS, Spencer CM. Remifentanil. Drugs, 1996, 52:417–427; 
+discussion 428.
+Pattinson KT. Opioids and the control of respiration. Br J Anaesth, 
+2008, 100:747–758.
+Paul D, Standifer KM, Inturrisi CE, Pasternak GW. Pharmacolo-
+gical characterization of morphine-6 beta-glucuronide, a very 
+potent morphine metabolite. J Pharmacol Exp Ther, 1989, 
+251:477–483.
+Pert CB, Snyder SH. Opiate receptor: Demonstration in nervous 
+tissue. Science, 1973, 179:1011–1014.
+Popio KA, Jackson DH, Ross AM, et al.Hemodynamic and res-
+piratory effects of morphine and butorphanol. Clin Pharmacol 
+Ther, 1978, 23:281–287.
+Portenoy RK, Southam MA, Gupta SK, et al. Transdermal fen-
+tanyl for cancer pain. Repeated dose pharmacokinetics. Anes-
+thesiology, 1993, 78:36–43.
+Portoghese PS. Bivalent ligands and the message-address concept 
+in the design of selective opioid receptor antagonists. Trends 
+Pharmacol Sci, 1989, 10:230–235.
+Price DD, Von der Gruen A, Miller J, et al. A psychophysical 
+analysis of morphine analgesia. Pain, 1985, 22:261–269.
+Quang-Cantagrel ND, Wallace MS, Magnuson SK. Opioid substi-
+tution to improve the effectiveness of chronic non-cancer pain 
+control: A chart review. Anesth Analg, 2000, 90: 933–937.
+Raynor K, Kong H, Chen Y, et al. Pharmacological character-
+ization of the cloned kappa-, delta-, and mu-opioid recep tors. 
+Mol Pharmacol, 1994, 45:330–334.
+Rose PG, Macfee MS, Boswell MV. Fentanyl transdermal sys tem 
+overdose secondary to cutaneous hyperthermia. Anesth Analg, 
+1993, 77:390–391.
+Rosow CE, Gomery P, Chen TY, et al. Reversal of opioid-induced 
+bladder dysfunction by intravenous naloxone and methylnal-
+trexone. Clin Pharmacol Ther, 2007, 82:48–53.
+Roth A, Keren G, Gluck A, et al. Comparison of nalbuphine 
+hydrochloride versus morphine sulfate for acute myocardial 
+infarction with elevated pulmonary artery wedge pressure. Am 
+J Cardiol, 1988, 62:551–555.
+Sadeque AJ, Wandel C, He H, et al. Increased drug delivery to the 
+brain by P-glycoprotein inhibition. Clin Pharmacol Ther, 2000, 
+68:231–237.
+Sawynok J. The therapeutic use of heroin: A review of the phar-
+macological literature. Can J Physiol Pharmacol, 1986, 64:1–6.
+Schinkel AH, Wagenaar E, Mol CA, van Deemter L. P-glyco-
+protein in the blood-brain barrier of mice inﬂ uences the brain 
+penetration and pharmacological activity of many drugs. J Clin 
+Invest, 1996, 97:2517–2524.
+Schmelz M. Itch—mediators and mechanisms. J Dermatol Sci, 
+2002, 28:91–96.
+Segredo V, Burford NT, Lameh J, Sadee W. A constitutively in-
+ternalizing and recycling mutant of the mu-opioid receptor. J 
+Neurochem, 1997, 68:2395–2404.
+Seifert CF, Kennedy S. Meperidine is alive and well in the new 
+millennium: Evaluation of meperidine usage patterns and 
+fre quency of adverse drug reactions. Pharmacotherapy, 2004, 
+24:776–783.
+Sessler DI. Temperature monitoring and perioperative ther-
+moregulation. Anesthesiology, 2008, 109:318–338.
+Sharp B, Yaksh T. Pain killers of the immune system. Nat Med, 
+1997, 3:831–832.
+Shnider SM, Levinson G. Anesthesia for Obstetrics. Lippincott 
+Williams & Wilkins, Baltimore, 1987.
+Sidhu AS, Triadaﬁ lopoulos G. Neuro-regulation of lower esopha-
+geal sphincter function as treatment for gastroesophageal reﬂ ux 
+disease. World J Gastroenterol, 2008, 14:985–990.
+Smith MT. Neuroexcitatory effects of morphine and hydromor-
+phone: Evidence implicating the 3-glucuronide metabolites. 
+Clin Exp Pharmacol Physiol, 2000, 27:524–528.
+Sorkin LS, Wallace MS. Acute pain mechanisms. Surg Clin North 
+Am, 1999, 79:213–229.
+Stack CG, Rogers P, Linter SP. Monoamine oxidase inhibitors and 
+anaesthesia. A review. Br J Anaesth, 1988, 60:222–227.
+Stein C. Peripheral mechanisms of opioid analgesia. Anesth Analg, 
+1993, 76:182–191.
+Stein C, Lang LJ. Peripheral mechanisms of opioid analgesia. 
+Curr Opin Pharmacol, 2009, 9:3–8.
+Stevens CW. The evolution of vertebrate opioid receptors. Front 
+Biosci, 2009, 14:1247–1269.
+Supernaw RB. CYP2D6 and the efﬁ cacy of codeine and codeine-
+like drugs. Am J Pain Manage, 2001, 11:30–31.
+Svensson CI, Yaksh TL. The spinal phospholipase-cyclooxyge-
+nase-prostanoid cascade in nociceptive processing. Annu Rev 
+Pharmacol Toxicol, 2002, 42:553–583.
+Takemori AE, Portoghese PS. Selective naltrexone-derived opi oid 
+receptor antagonists. Annu Rev Pharmacol Toxicol, 1992, 32: 
+239–269.
+Taylor CP. Mechanisms of analgesia by gabapentin and prega-
+balin—calcium channel alpha2-delta [Cavalpha2-delta] li-
+gands. Pain, 2009, 142:13–16.
+Thomas J, Karver S, Cooney GA, et al. Methylnaltrexone for 
+opioid-induced constipation in advanced illness. N Engl J Med, 
+2008, 358:2332–2343.
+Thompson RC, Mansour A, Akil H, Watson SJ. Cloning and phar-
+macological characterization of a rat mu opioid receptor. Neu-
+ron, 1993, 11:903–913.
+Trujillo KA, Akil H. Inhibition of morphine tolerance and depen-
+dence by the NMDA receptor antagonist MK-801. Science, 
+1991, 251:85–87.
+Vashi V, Harris S, El-Tahtawy A, et al. Clinical pharmacology and 
+pharmacokinetics of once-daily hydromorphone hydrochloride 
+extended-release capsules. J Clin Pharmacol, 2005, 45:547–
+554.
+Vella-Brincat J, Macleod AD. Adverse effects of opioids on the 
+central nervous systems of palliative care patients. J Pain 
+Palliat Care Pharmacother, 2007, 21:15–25.
+von Zastrow M, Svingos A, Haberstock-Debic H, Evans C. Re-
+gulated endocytosis of opioid receptors: cellular mecha nisms 
+and proposed roles in physiological adaptation to opiate drugs. 
+Curr Opin Neurobiol, 2003, 13:348–353.
+Waldhoer M, Bartlett SE, Whistler JL. Opioid receptors. Annu Rev 
+Biochem, 2004, 73:953–990.
+Wallace M, Yaksh TL. Long-term spinal analgesic delivery: a re-
+view of the preclinical and clinical literature. Reg Anesth Pain 
+Med, 2000, 25:117–157.
+Wallenstein SL, Kaiko RF, Rogers AG, Houde RW. Crossover 
+trials in clinical analgesic assays: studies of buprenorphine and 
+morphine. Pharmacotherapy, 1986, 6:228–235.
+Welters ID, Menzebach A, Goumon Y, et al. Morphine inhibits 
+NF-kappaB nuclear binding in human neutrophils and mo-
+nocytes by a nitric oxide-dependent mechanism. Anesthesio-
+logy, 2000, 92:1677–1684.
+
+---
+<!-- Página 45 -->
+
+CAPÍTULO 18
+OPIOIDES, ANALGESIA E TRATAMENTO DA DOR
+525
+Williams JT, Christie MJ, Manzoni O. Cellular and synaptic 
+adaptations mediating opioid dependence. Physiol Rev, 2001, 
+81:299–343.
+Wood JD, Galligan JJ. Function of opioids in the enteric nervous 
+system. Neurogastroenterol Motil, 2004, 16(suppl 2):17–28.
+Woodhouse A, Mather LE. The minimum effective concentra tion 
+of opioids: a revisitation with patient controlled analgesia fen-
+tanyl. Reg Anesth Pain Med, 2000, 25:259–267.
+Xi ZX, Stein EA. GABAergic mechanisms of opiate reinforce-
+ment. Alcohol Alcohol, 2002, 37:485–494.
+Yaksh TL. CNS mechanisms of pain and analgesia. Cancer Surv, 
+1988, 7:5–28.
+Yaksh TL. Pharmacology and mechanisms of opioid analgesic 
+activity. Acta Anaesthesiol Scand, 1997, 41:94–111.
+Yaksh TL, Allen JW. The use of intrathecal midazolam in humans: 
+A case study of process. Anesth Analg, 2004, 98: 1536–1545.
+Yaksh TL, Jessell TM, Gamse R, et al. Intrathecal morphine inhi-
+bits substance P release from mammalian spinal cord in vivo. 
+Nature, 1980, 286:155–157.
+Yaster M, Deshpande JK. Management of pediatric pain with 
+opioid analgesics. J Pediatr, 1988, 113:421–429.
+Yeh SY, Gorodetzky CW, Krebs HA. Isolation and identiﬁ cation of 
+morphine 3- and 6-glucuronides, morphine 3,6-diglucuronide, 
+morphine 3-ethereal sulfate, normorphine, and normorphine 
+6-glucuronide as morphine metabolites in humans. J Pharm 
+Sci, 1977, 66:1288–1293.
+Yoburn BC, Luke MC, Pasternak GW, Inturrisi CE. Upregulation 
+of opioid receptor subtypes correlates with potency changes of 
+morphine and DADLE. Life Sci, 1988, 43:1319–1324.
+Young GB, da Silva OP. Effects of morphine on the electroen-
+cephalograms of neonates: A prospective, observational study. 
+Clin Neurophysiol, 2000, 111:1955–1960.
+Zadina JE, Hackler L, Ge LJ, Kastin AJ. A potent and selective 
+endogenous agonist for the mu-opiate receptor. Nature, 1997, 
+386:499–502.
+Zimmer EZ, Divon MY, Vadasz A. Inﬂ uence of meperidine on 
+fetal movements and heart rate beat-to-beat variability in the 
+active phase of labor. Am J Perinatol, 1988, 5: 197–200.
+
+---
+<!-- Página 46 -->
+
+Esta página foi deixada em branco intencionalmente.

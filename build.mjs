@@ -4,6 +4,7 @@ import { existsSync } from "node:fs";
 import { join, dirname, relative } from "node:path";
 import { createServer } from "node:http";
 import { fileURLToPath } from "node:url";
+import { renderAll } from "./tools/render-content.mjs";
 
 const root = dirname(fileURLToPath(import.meta.url));
 const outdir = join(root, "dist");
@@ -15,7 +16,7 @@ const COPY_FILES = [
   "_ds_bundle.js",
   "_ds_manifest.json",
   "styles.css",
-  "index.html",
+  "app.html",
   "MedVault.html",
   "MedVault-Home-Redesenho.html",
   "Logo-Variacoes-Serpente.html",
@@ -141,6 +142,8 @@ async function fullBuild() {
   await buildJsx();
   console.log("[build] patching HTML references (.jsx -> .js, removing Babel CDN)...");
   await patchHtmlsInDist();
+  console.log("[build] rendering markdown content...");
+  await renderAll();
   console.log("[build] done -> dist/");
 }
 

@@ -19,6 +19,9 @@
 **/*.psd
 **/*.ai
 
+# ==== Content cache (imagens) — pesado, ainda nao tem estrategia de CDN ====
+content/imagens/
+
 # ==== Sistema / IDE ====
 .DS_Store
 Thumbs.db

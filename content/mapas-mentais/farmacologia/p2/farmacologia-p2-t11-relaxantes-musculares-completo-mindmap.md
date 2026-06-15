@@ -1,0 +1,222 @@
+---
+tipo: mapa-mental
+disciplina: farmacologia
+tema: p2-t11-relaxantes-musculares-completo
+tags:
+  - farmacologia
+  - p2-t11-relaxantes-musculares-completo
+  - mapa-mental
+  - notebooklm
+  - mapa-mental
+  - visual
+fonte: >-
+  03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-11-Relaxantes-Musculares\P2-T11-Relaxantes-Musculares.md
+prova: P2
+data: 20-05-2026
+status: construindo
+ficha-registrada: false
+gerado-por: notebooklm-pipeline-v2
+traducao-pendente: true
+_source: >-
+  03-Disciplinas/Farmacologia/Revisao/Mapas-Mentais/Farmacologia-P2-T11-RELAXANTES-MUSCULARES-COMPLETO-mindmap.md
+---
+
+# Mapa Mental — P2-T11-Relaxantes-Musculares-completo
+
+> **Fonte:** 03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-11-Relaxantes-Musculares\P2-T11-Relaxantes-Musculares.md
+> **Gerado em:** 20-05-2026 via NotebookLM
+
+---
+
+## Estrutura do Mapa
+
+**?**
+
+---
+
+## JSON Original (para ferramentas externas)
+
+```json
+{
+  "mind_map": {
+    "name": "Relaxantes Musculares",
+    "children": [
+      {
+        "name": "Bloqueadores Neuromusculares Periféricos",
+        "children": [
+          {
+            "name": "Despolarizantes",
+            "children": [
+              {
+                "name": "Succinilcolina (Suxametônio)",
+                "children": [
+                  {
+                    "name": "Agonista persistente"
+                  },
+                  {
+                    "name": "Duração ultracurta (5 min)"
+                  },
+                  {
+                    "name": "Causa fasciculações"
+                  },
+                  {
+                    "name": "Risco de Hipercalemia"
+                  },
+                  {
+                    "name": "Trigger de Hipertermia Maligna"
+                  },
+                  {
+                    "name": "Contraindicada em queimados e glaucoma"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Não Despolarizantes",
+            "children": [
+              {
+                "name": "Mecanismo: Antagonismo Competitivo"
+              },
+              {
+                "name": "Atracúrio",
+                "children": [
+                  {
+                    "name": "Eliminação de Hofmann"
+                  },
+                  {
+                    "name": "Ideal para insuficiência renal/hepática"
+                  }
+                ]
+              },
+              {
+                "name": "Rocurônio",
+                "children": [
+                  {
+                    "name": "Início rápido para IOT"
+                  },
+                  {
+                    "name": "Revertido por Sugamadex"
+                  }
+                ]
+              },
+              {
+                "name": "Pancurônio",
+                "children": [
+                  {
+                    "name": "Longa duração"
+                  },
+                  {
+                    "name": "Efeito vagolítico (taquicardia)"
+                  }
+                ]
+              },
+              {
+                "name": "Mivacúrio",
+                "children": [
+                  {
+                    "name": "Metabolizado por butirilcolinesterase"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Reversão do Bloqueio",
+        "children": [
+          {
+            "name": "Neostigmina",
+            "children": [
+              {
+                "name": "Inibidor da AChE"
+              },
+              {
+                "name": "Reverte não despolarizantes"
+              },
+              {
+                "name": "Requer Atropina (bradicardia)"
+              }
+            ]
+          },
+          {
+            "name": "Sugamadex",
+            "children": [
+              {
+                "name": "Encapsulamento molecular"
+              },
+              {
+                "name": "Específico para Rocurônio/Vecurônio"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ação Central e Direta",
+        "children": [
+          {
+            "name": "Baclofeno",
+            "children": [
+              {
+                "name": "Agonista GABA-B"
+              },
+              {
+                "name": "Retirada gradual obrigatória"
+              }
+            ]
+          },
+          {
+            "name": "Dantroleno",
+            "children": [
+              {
+                "name": "Bloqueia liberação de Ca2+ do RS"
+              },
+              {
+                "name": "Tratamento de Hipertermia Maligna"
+              }
+            ]
+          },
+          {
+            "name": "Tizanidina",
+            "children": [
+              {
+                "name": "Agonista alfa-2 central"
+              },
+              {
+                "name": "Interação com Ciprofloxacino"
+              }
+            ]
+          },
+          {
+            "name": "Diazepam",
+            "children": [
+              {
+                "name": "Modulador GABA-A"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ação Pré-Sináptica",
+        "children": [
+          {
+            "name": "Toxina Botulínica",
+            "children": [
+              {
+                "name": "Bloqueia exocitose de ACh"
+              },
+              {
+                "name": "Uso estético e espasticidade focal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "note_id": "be7a7173-2164-4efc-9390-a1edcbd43b1c"
+}
+```
