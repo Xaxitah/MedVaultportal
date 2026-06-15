@@ -290,8 +290,8 @@ export async function renderAll() {
 
   console.log(`[content] rendered ${manifest.length} pages -> dist/content/`);
   console.log(`[content] manifest -> dist/content-manifest.json`);
-
-  await renderListings(manifest);
+  // Listings are now rendered by the React Shell Pages (PageMateriais, PageBiblioteca)
+  // consuming /content-manifest.json — no static listing HTMLs needed.
   return manifest;
 }
 

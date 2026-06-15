@@ -16,7 +16,7 @@ const COPY_FILES = [
   "_ds_bundle.js",
   "_ds_manifest.json",
   "styles.css",
-  "app.html",
+  "index.html",
   "MedVault.html",
   "MedVault-Home-Redesenho.html",
   "Logo-Variacoes-Serpente.html",
