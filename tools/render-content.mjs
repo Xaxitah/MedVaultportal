@@ -303,7 +303,10 @@ export async function renderAll() {
     const fonte = asStr(fm.fonte);
     const status = asStr(fm.status);
     const tipoLabel = TIPO_LABEL[tipo] || tipo;
-    const depth = segments.length - 1;
+    // A saída fica em dist/content/<relPath>; os CSS ficam na RAIZ do dist.
+    // Precisamos subir (nº de pastas do relPath) + 1 (a própria pasta content/).
+    // Ex.: resumos/bio/p1/x.md → dist/content/resumos/bio/p1/x.html → 4x "../".
+    const depth = segments.length;
     const slug = readSlug(relPath);
 
     // Process content
