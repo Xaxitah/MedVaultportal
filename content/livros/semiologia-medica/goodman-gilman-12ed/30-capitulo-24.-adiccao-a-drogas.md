@@ -3,10 +3,8 @@ title: 30-Capítulo 24. Adicção a drogas
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 30-Capítulo 24. Adicção a drogas.pdf
 motor: PyMuPDF
 paginas: 20

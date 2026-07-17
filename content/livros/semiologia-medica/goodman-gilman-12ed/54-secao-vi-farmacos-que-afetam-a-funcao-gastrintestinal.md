@@ -3,10 +3,8 @@ title: 54-Seção VI - Fármacos que afetam a função gastrintestinal
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 54-Seção VI - Fármacos que afetam a função gastrintestinal.pdf
 motor: PyMuPDF
 paginas: 2

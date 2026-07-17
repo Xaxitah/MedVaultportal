@@ -3,10 +3,8 @@ title: 4-Apêndices
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 4-Apêndices.pdf
 motor: PyMuPDF
 paginas: 112

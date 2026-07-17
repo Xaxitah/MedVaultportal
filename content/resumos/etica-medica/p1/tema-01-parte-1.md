@@ -167,7 +167,7 @@ A técnica de comunicação durante a entrevista divide-se em **5 etapas sequenc
 **Etapa 2 — Interrogatorio:**
 - Coleta dos dados da anamnese
 - Deixar o paciente falar → escuta ativa
-- Será aprofundado em [[Tema-02-Etica-Medica]] e [[Tema-09-Consentimiento-Informado]]
+- Será aprofundado em [[P1-Tema-02-Etica-Medica/Tema-02-Parte-1|Tema-02-Etica-Medica]] e [[P1-Tema-09-Consentimiento-Informado/Tema-09-Parte-1|Tema-09-Consentimiento-Informado]]
 
 **Etapa 3 — Durante el examen físico** (4ta clase p.14):
 - Lograr confiança do paciente
@@ -320,7 +320,7 @@ COMUNICACIÓN MÉDICA
 
 ---
 
-*Próximo: [[Tema-02-Etica-Medica]] | Relacionado: [[Tema-05-Iatrogenia]] | [[Tema-06-Relacion-Medico-Paciente]]*
+*Próximo: [[P1-Tema-02-Etica-Medica/Tema-02-Parte-1|Tema-02-Etica-Medica]] | Relacionado: [[P1-Tema-05-Iatrogenia/Tema-05-Parte-1|Tema-05-Iatrogenia]] | [[P1-Tema-06-Relacion-Medico-Paciente/Tema-06-Parte-1|Tema-06-Relacion-Medico-Paciente]]*
 
 
 ---

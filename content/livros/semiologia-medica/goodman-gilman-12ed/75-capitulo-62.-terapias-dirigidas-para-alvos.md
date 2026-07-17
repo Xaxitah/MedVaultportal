@@ -3,10 +3,8 @@ title: 75-Capítulo 62. Terapias dirigidas para alvos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 75-Capítulo 62. Terapias dirigidas para alvos.pdf
 motor: PyMuPDF
 paginas: 24

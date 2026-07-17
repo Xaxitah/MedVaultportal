@@ -14,7 +14,6 @@ source_md_extraido: >-
 paginas_livro: 46-71
 paginas_pdf_original: 64-89
 tags:
-  - medicina
   - farmacologia
   - florez-6ed
   - farmacocinetica

@@ -18,7 +18,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T04
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-1
 prioridade: alta
 fontes:
@@ -29,7 +29,7 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias.md
   - pratica-nlm01: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-02T00:00:00.000Z
@@ -45,10 +45,10 @@ _source: >-
 > A Parte 2 fecha o bloco com [[P2-Tema-04-Parte-2-Asma-Bronquiectasia]].
 
 > **Fontes deste resumo:**
-> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
-> - 🖥️ Slide complementar: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-02-Grandes-Sindromes-Dra-Funez]]
+> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
+> - 🖥️ Slide complementar: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-02-Grandes-Sindromes-Dra-Funez]]
 > - 📚 Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias]]
-> - 🎧 Pratica NLM-01: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via]]
+> - 🎧 Pratica NLM-01: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via]]
 > - 🖼️ Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
 ---
@@ -152,6 +152,9 @@ Traduzindo:
 
 📌 No Argente, os sindromes obstructivos sao descritos como situacoes em que aumenta a resistencia ao fluxo nas vias aereas. Isso sobrecarrega os musculos respiratorios e produz disnea, tosse, uso de musculatura acessoria, tiraje, hiperinsuflacao, roncus e sibilancias.
 
+![[cap36-fig01-p04.jpg]]
+*Llanio Cap 36 — Vias aéreas com tapões mucosos, inflamação e espessamento de parede: mecanismo anatomopatológico da obstrução brônquica. Explica por que surgem sibilos, roncos e expiração prolongada.*
+
 ---
 
 ### 3.2 Bronquitis aguda
@@ -161,6 +164,9 @@ No Slide-01, **bronquitis aguda** e:
 - inflamacao aguda da mucosa bronquial;
 - por causas infecciosas, irritativas ou alergicas;
 - geralmente acompanhada de inflamacao da mucosa traqueal, formando traqueobronquitis.
+
+> [!note] Forma de início na HC (Dra. Fúnez — 4ª Aula)
+> Bronquitis aguda = **doença aguda** (início brusco ou progressão rápida em dias). Na HEA registrar: ¿Cuándo empezó? e o 1er sintoma apresentado. Ver [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]].
 
 O quadro clinico e dividido em dois periodos:
 
@@ -217,6 +223,9 @@ No Slide-01, **bronquitis cronica** e:
 
 - inflamacao cronica da mucosa bronquial;
 - por causas infecciosas ou irritativas.
+
+> [!note] Forma de início na HC (Dra. Fúnez — 4ª Aula)
+> Bronquitis crônica = **doença de curso longo (subaguda/crônica)**. O 1er sintoma (tos matinal produtiva) pode preceder o diagnóstico por meses ou anos. Na HEA: registrar há quanto tempo tem sintomas diários e se há períodos de agudização. Ver [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]].
 
 Quadro clinico:
 
@@ -319,6 +328,22 @@ No Slide-02, achados positivos:
 > [!tip] Frequencia clinica
 > Bronquitis aguda verdadeira em adultos e menos frequente do que parece. A maioria dos "quadros de bronquite" ambulatoriais sao VAS virais.
 > Em pediatria, a bronquitis bronquial aparece com mais frequencia como quadro diagnosticado.
+
+---
+
+### 3.10 Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+Ao confeccionar a HC, o médico plantea três níveis diagnósticos (provisórios até confirmação com exames):
+
+| Tipo de Diagnóstico | O que representa | Exemplo em bronquitis |
+|---|---|---|
+| **Diagnóstico Clínico** | Baseado em sintomas e signos | Tos matinal produtiva + expectoracion mucopurulenta + fremito bronquial |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam todos os achados | Síndrome Bronquial Agudo · Síndrome Bronquial Crônico |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | Bronquitis aguda infecciosa · Bronquitis crônica por tabagismo |
+
+> ⚠️ Estes diagnósticos são **provisórios** na HC — se confirmarão com RX, hemograma, cultura de expectoração.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

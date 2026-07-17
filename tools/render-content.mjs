@@ -5,7 +5,7 @@
 import matter from "gray-matter";
 import { Marked } from "marked";
 import { readFile, writeFile, mkdir, readdir, cp } from "node:fs/promises";
-import { existsSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join, dirname, basename, relative, extname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -16,12 +16,23 @@ const DIST_DIR = join(repoRoot, "dist");
 const CONTENT_OUT = join(DIST_DIR, "content");
 const IMAGES_OUT = join(DIST_DIR, "imagens");
 
+// Mapa basename(lowercase) -> Drive fileId (gerado por build-image-map.mjs).
+// Permite mostrar as figuras via thumbnail do Google Drive, sem hospedar ~3GB.
+let IMAGE_MAP = {};
+try { IMAGE_MAP = JSON.parse(readFileSync(join(__dirname, "image-map.json"), "utf8")); }
+catch { console.warn("[content] image-map.json ausente — rode: node tools/build-image-map.mjs"); }
+const driveThumb = (id, w) => `https://drive.google.com/thumbnail?id=${id}&sz=w${w}`;
+
 const DISC_LABEL = {
   "farmacologia": "Farmacologia",
   "semiologia-medica": "Semiologia Médica",
   "semiologia-quirurgica": "Semiologia Quirúrgica",
   "urologia": "Urologia",
   "etica-medica": "Ética Médica",
+  "biologia-geral": "Biologia Geral",
+  "fisiologia": "Fisiologia",
+  "ifms": "IFMS",
+  "psicologia-medica": "Psicologia Médica",
   "pratica-semiologia-medica": "Prática Semiologia Médica",
   "pratica-semiologia-quirurgica": "Prática Semiologia Quirúrgica",
   "tecnicas-quirurgicas": "Técnicas Quirúrgicas",
@@ -34,6 +45,10 @@ const DISC_COLOR = {
   "semiologia-quirurgica": "var(--mv-semiq)",
   "urologia": "var(--mv-urol)",
   "etica-medica": "var(--mv-etica)",
+  "biologia-geral": "#2e7d32",
+  "fisiologia": "#00695c",
+  "ifms": "#5d4037",
+  "psicologia-medica": "#6a1b9a",
   "pratica-semiologia-medica": "var(--mv-semi)",
   "pratica-semiologia-quirurgica": "var(--mv-semiq)",
   "tecnicas-quirurgicas": "var(--mv-semiq)",
@@ -105,15 +120,51 @@ function preprocessCallouts(md) {
   return out.join("\n");
 }
 
-// Convert Obsidian image embeds ![[name.jpg]] to standard markdown
-function preprocessImageEmbeds(md, depth) {
+function figureHtml(file, alt) {
+  const id = IMAGE_MAP[file.toLowerCase()];
+  if (id) {
+    const cap = alt && alt.toLowerCase() !== file.toLowerCase()
+      ? `<figcaption>📷 ${escapeHtml(alt)}</figcaption>` : "";
+    return `<figure class="fig"><a class="fig-zoom" href="${driveThumb(id, 2000)}" target="_blank" rel="noopener">`
+      + `<img src="${driveThumb(id, 1200)}" alt="${escapeHtml(alt)}" loading="lazy"></a>${cap}</figure>`;
+  }
+  // Sem ID no mapa: placeholder suave (não quebra o layout)
+  return `<figure class="fig fig-missing"><div class="fig-ph">🖼️ <strong>${escapeHtml(alt)}</strong>`
+    + `<span class="fig-note">figura ainda não vinculada ao Drive</span></div></figure>`;
+}
+
+// Embeds do Obsidian: ![[name.jpg]] e ![[name.jpg|legenda]]
+function preprocessImageEmbeds(md) {
   return md.replace(/!\[\[([^\]|#]+?)(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/g, (full, name, alias) => {
     const file = basename(name.trim());
-    const isImg = /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file);
-    if (!isImg) return full;
-    const alt = (alias || file).trim();
-    const imgPath = `${"../".repeat(depth)}imagens/${file}`;
-    return `<figure class="md-image"><img src="${imgPath}" alt="${escapeHtml(alt)}" loading="lazy" onerror="this.parentElement.classList.add('img-missing'); this.style.display='none';"><figcaption class="md-image-fallback">📷 <strong>${escapeHtml(alt)}</strong><br><span class="img-note">imagem disponível offline em MED-Imagens · ainda não publicada (Phase 2)</span></figcaption></figure>`;
+    if (!/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file)) return full;
+    return figureHtml(file, (alias || file).trim());
+  });
+}
+
+// Imagens markdown padrão: ![alt](path/name.png)
+function preprocessMarkdownImages(md) {
+  return md.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (full, alt, path) => {
+    const file = basename(path.split(/[?#]/)[0].trim());
+    if (!/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file)) return full;
+    return figureHtml(file, (alt || file).trim());
+  });
+}
+
+// Ícones visuais nas seções (Simone é visual → âncoras de memória).
+const SECTION_ICONS = [
+  [/vis[aã]o geral|introdu/i, "👁️"], [/n[uú]cleo obrigat/i, "🎯"],
+  [/explica[çc][aã]o|detalhad/i, "📖"], [/classifica|componente|sequ[eê]ncia/i, "🧩"],
+  [/compara[çc][aã]o|diferen/i, "⚖️"], [/cai na prova|mais cai|o que.*prova/i, "🔥"],
+  [/mapa mental|mapa conceitual/i, "🗺️"], [/pergunta|revis[aã]o ativa/i, "❓"],
+  [/mem[oó]riza|mnem[oô]ni/i, "🧠"], [/lacuna/i, "📌"], [/fonte/i, "📚"],
+  [/diagn[oó]stic/i, "🔎"], [/tratamento|terap/i, "💊"], [/anatom/i, "🫀"],
+];
+function preprocessSectionIcons(md) {
+  return md.replace(/^(#{2,3})\s+(.+)$/gm, (full, hashes, text) => {
+    if (/^\p{Extended_Pictographic}/u.test(text.trim())) return full; // já tem emoji (dígitos não contam)
+    const hit = SECTION_ICONS.find(([re]) => re.test(text));
+    return hit ? `${hashes} ${hit[1]} ${text}` : full;
   });
 }
 
@@ -144,11 +195,32 @@ async function walk(dir, filter, out = []) {
   return out;
 }
 
-function htmlTemplate({ title, disciplina, discLabel, discColor, prova, tipo, tipoLabel, fonte, status, sourcePath, body, slug, depth }) {
+// Adiciona id às H2/H3 e devolve a lista para o índice lateral.
+function addHeadingAnchors(html) {
+  const toc = [];
+  let n = 0;
+  const out = html.replace(/<h([23])>([\s\S]*?)<\/h\1>/g, (full, lvl, inner) => {
+    const text = inner.replace(/<[^>]+>/g, "").trim();
+    const id = "s" + (++n);
+    toc.push({ lvl: Number(lvl), id, text });
+    return `<h${lvl} id="${id}">${inner}<a class="anchor" href="#${id}" aria-label="link">#</a></h${lvl}>`;
+  });
+  return { html: out, toc };
+}
+
+function tocHtml(toc) {
+  if (toc.length < 3) return "";
+  const items = toc.map(t =>
+    `<a class="toc-link toc-l${t.lvl}" href="#${t.id}">${escapeHtml(t.text)}</a>`).join("\n");
+  return `<aside class="doc-toc"><div class="toc-title">📑 Neste resumo</div><nav>${items}</nav></aside>`;
+}
+
+function htmlTemplate({ title, disciplina, discLabel, discColor, prova, tipo, tipoLabel, fonte, status, sourcePath, body, toc, slug, depth }) {
   const up = "../".repeat(depth);
   const pendingBanner = (tipo === "livro-extraido")
     ? `<div class="banner banner-pending">📌 PENDENTE RESUMO — esta página contém apenas a transcrição do capítulo. Resumo curado ainda não foi produzido.</div>`
     : "";
+  const aside = tocHtml(toc || []);
   return `<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -175,16 +247,19 @@ function htmlTemplate({ title, disciplina, discLabel, discColor, prova, tipo, ti
     </div>
   </div>
 </header>
-<main class="doc-main">
-  <article class="doc-article">
-    ${pendingBanner}
-    <h1 class="doc-title">${escapeHtml(title)}</h1>
-    ${fonte ? `<div class="doc-fonte"><strong>Fonte:</strong> ${escapeHtml(fonte)}</div>` : ""}
-    <div class="doc-body">
+<div class="doc-layout${aside ? " has-toc" : ""}">
+  <main class="doc-main">
+    <article class="doc-article">
+      ${pendingBanner}
+      <h1 class="doc-title">${escapeHtml(title)}</h1>
+      ${fonte ? `<div class="doc-fonte"><span class="doc-fonte-ic">📚</span><span><strong>Fonte:</strong> ${escapeHtml(fonte)}</span></div>` : ""}
+      <div class="doc-body">
 ${body}
-    </div>
-  </article>
-</main>
+      </div>
+    </article>
+  </main>
+  ${aside}
+</div>
 <footer class="doc-footer">
   <span>MedVault Portal · ${escapeHtml(discLabel)} · ${prova ? escapeHtml(prova) + " · " : ""}${escapeHtml(tipoLabel)}</span>
   <a href="${up}index.html">Voltar ao portal</a>
@@ -232,15 +307,18 @@ export async function renderAll() {
     const slug = readSlug(relPath);
 
     // Process content
-    const stage1 = preprocessCallouts(parsed.content);
-    const stage2 = preprocessImageEmbeds(stage1, depth);
-    const stage3 = preprocessWikilinks(stage2);
+    let stage = preprocessSectionIcons(parsed.content);
+    stage = preprocessCallouts(stage);
+    stage = preprocessImageEmbeds(stage);
+    stage = preprocessMarkdownImages(stage);
+    stage = preprocessWikilinks(stage);
     const marked = newMarked();
-    const bodyHtml = marked.parse(stage3);
+    const rawBody = marked.parse(stage);
+    const { html: bodyHtml, toc } = addHeadingAnchors(rawBody);
 
     const html = htmlTemplate({
       title, disciplina, discLabel, discColor, prova, tipo, tipoLabel, fonte, status,
-      sourcePath: fm._source || "", body: bodyHtml, slug, depth,
+      sourcePath: fm._source || "", body: bodyHtml, toc, slug, depth,
     });
 
     const outPath = join(CONTENT_OUT, relPath.replace(/\.md$/, ".html"));
@@ -290,8 +368,9 @@ export async function renderAll() {
 
   console.log(`[content] rendered ${manifest.length} pages -> dist/content/`);
   console.log(`[content] manifest -> dist/content-manifest.json`);
-  // Listings are now rendered by the React Shell Pages (PageMateriais, PageBiblioteca)
-  // consuming /content-manifest.json — no static listing HTMLs needed.
+  // Portal estático dirigido pelo conteúdo (home + materiais + biblioteca).
+  // A SPA React continua disponível em app.html como "App experimental v2".
+  await renderListings(manifest);
   return manifest;
 }
 

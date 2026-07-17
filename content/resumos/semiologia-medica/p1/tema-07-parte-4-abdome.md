@@ -29,9 +29,9 @@ _source: >-
 
 > **Fontes usadas neste resumo:**
 
-> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/02-Transcricoes/P1-12-Exploracion-Abdomen]]`
+> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-12-Exploracion-Abdomen]]`
 
-> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/02-Transcricoes/P1-02-Exame-Abdominal-Parte-2]]`
+> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-02-Exame-Abdominal-Parte-2]]`
 
 > - 📖 Livro: Llanio, R. *Propedéutica Clínica y Semiología Médica*, Tomo I, Cap. 5
 
@@ -567,7 +567,7 @@ ABDOME — EF Regional
 
 *Continua em: [[Tema-07-Parte-5-Respiratorio]]*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

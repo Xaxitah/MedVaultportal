@@ -3,10 +3,8 @@ title: 44-Capítulo 36. Farmacologia pulmonar
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: 44-Capítulo 36. Farmacologia pulmonar.pdf
 motor: PyMuPDF

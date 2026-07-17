@@ -11,7 +11,6 @@ paginas_pdf: 683-696
 autores_capitulo:
   - M.A. Hurle
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -7,7 +7,6 @@ tags:
   - p1-t07-exame-fisico-regional
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-07-Exame-Fisico-Regional/Tema-07-Parte-1-Cabeca-Ouvidos.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-07-Exame-Fisico-Regional/Tema-07-Parte-2-Olhos-Face.md,

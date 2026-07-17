@@ -7,8 +7,6 @@ tags:
   - farmacologia
   - p2-t12-anticonvulsivantes
   - mapa-mental
-  - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Farmacologia/Revisao/Resumos/P2/P2-Tema-12-Anticonvulsivantes/P2-T12-Anticonvulsivantes.md
 prova: ''

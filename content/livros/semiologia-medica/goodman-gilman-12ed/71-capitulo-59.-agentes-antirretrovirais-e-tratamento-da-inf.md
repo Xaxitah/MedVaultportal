@@ -3,10 +3,8 @@ title: 71-Capítulo 59. Agentes antirretrovirais e tratamento da infecção pelo
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 71-Capítulo 59. Agentes antirretrovirais e tratamento da infecção pelo HIV.pdf
 motor: PyMuPDF
 paginas: 42

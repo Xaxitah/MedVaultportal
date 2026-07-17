@@ -527,7 +527,7 @@ INFECÇÕES INESPECÍFICAS — UROLOGIA
 
 ## Navegação
 
-→ [[_Prioridades-P1]] | [[_Mapeamento-Transcricoes]] | [[_Fontes-Relevantes]]
+→ [[03-Disciplinas/Urologia/00-Controle/_Prioridades-P1]] | [[03-Disciplinas/Urologia/00-Controle/_Mapeamento-Transcricoes]] | [[03-Disciplinas/Urologia/00-Controle/_Fontes-Relevantes]]
 → [[Tema-01-Triagem-Transcricao]] | [[Tema-02-Infeccoes-Especificas]]
 
 ---

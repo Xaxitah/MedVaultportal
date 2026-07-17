@@ -573,7 +573,7 @@ BASES FARMACOLÓGICAS
 
 ## Navegação
 
-← [[_Prioridades-P1|Prioridades P1]]
+← [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1]]
 → [[P1-T02-Farmacocinetica-e-Farmacodinamica|T02 — Farmacocinética e Farmacodinâmica]]
 
 ---

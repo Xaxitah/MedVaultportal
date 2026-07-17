@@ -15,7 +15,6 @@ paginas_pdf: 697-706
 autores_capitulo:
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

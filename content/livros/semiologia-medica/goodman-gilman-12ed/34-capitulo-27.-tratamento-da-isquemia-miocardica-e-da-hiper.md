@@ -3,10 +3,8 @@ title: 34-Capítulo 27. Tratamento da isquemia miocárdica e da hipertensão
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 34-Capítulo 27. Tratamento da isquemia miocárdica e da hipertensão.pdf
 motor: PyMuPDF
 paginas: 44

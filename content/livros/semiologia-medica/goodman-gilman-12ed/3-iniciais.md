@@ -3,10 +3,8 @@ title: '3-Iniciais '
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 3-Iniciais .pdf
 motor: PyMuPDF
 paginas: 21

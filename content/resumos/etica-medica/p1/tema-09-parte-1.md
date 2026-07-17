@@ -34,7 +34,7 @@ _source: >-
 
 O consentimento informado é o **instrumento legal e ético** que expressa o respeito à autonomia do paciente. É muito mais do que uma assinatura: é o processo pelo qual o paciente recebe informação suficiente e decide, de forma livre e consciente, aceitar ou recusar um procedimento.
 
-> Princípio fundante: [[Tema-04-Principios-Bioeticos]] — **Autonomía**
+> Princípio fundante: [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]] — **Autonomía**
 
 ---
 
@@ -292,7 +292,7 @@ CONSENTIMIENTO INFORMADO
 
 ---
 
-*Relacionado: [[Tema-04-Principios-Bioeticos]] | [[Tema-10-Secreto-Medico]] | [[Tema-06-Relacion-Medico-Paciente]]*
+*Relacionado: [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]] | [[P1-Tema-10-Secreto-Medico/Tema-10-Parte-1|Tema-10-Secreto-Medico]] | [[P1-Tema-06-Relacion-Medico-Paciente/Tema-06-Parte-1|Tema-06-Relacion-Medico-Paciente]]*
 
 
 ---

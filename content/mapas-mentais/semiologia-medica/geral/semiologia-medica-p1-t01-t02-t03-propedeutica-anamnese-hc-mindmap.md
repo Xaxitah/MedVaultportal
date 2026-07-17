@@ -7,7 +7,6 @@ tags:
   - p1-t01-t02-t03-propedeutica-anamnese-hc
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-01-Propedeutica-Semiologia-Sindromologia/Tema-01-Parte-1.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-02-Anamnese/Tema-02-Parte-1.md,

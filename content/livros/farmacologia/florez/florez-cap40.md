@@ -11,7 +11,6 @@ paginas_pdf: 669-682
 autores_capitulo:
   - J.M. Baeyens
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

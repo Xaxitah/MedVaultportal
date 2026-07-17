@@ -7,11 +7,10 @@ tags:
   - t04-sindromes-bronquiais
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-2-Asma-Bronquiectasia/P2-Tema-04-Parte-2-Asma-Bronquiectasia.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detallado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detallado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -29,7 +28,7 @@ _source: >-
 
 # Mapa Mental — T04-Sindromes-Bronquiais
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-2-Asma-Bronquiectasia/P2-Tema-04-Parte-2-Asma-Bronquiectasia.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detallado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-2-Asma-Bronquiectasia/P2-Tema-04-Parte-2-Asma-Bronquiectasia.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detallado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T04-Sindromes-Bronquiais` | **Disciplina:** `semiologia-medica`
 

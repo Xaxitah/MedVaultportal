@@ -12,7 +12,6 @@ autores_capitulo:
   - J. Flórez
   - A. Pazos
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -3,10 +3,8 @@ title: 48-Capítulo 39. Tireoide e fármacos antitireoidianos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 48-Capítulo 39. Tireoide e fármacos antitireoidianos.pdf
 motor: PyMuPDF
 paginas: 34

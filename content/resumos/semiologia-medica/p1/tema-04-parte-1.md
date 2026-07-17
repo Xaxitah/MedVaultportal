@@ -45,9 +45,9 @@ _source: >-
 
 > - Parte 1 (esta): marcha, biotipo, atitude, fácies → Trans 6 + Cap 24
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]]: talha, peso, IMC, temperatura, cor → Trans 8
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]]: talha, peso, IMC, temperatura, cor → Trans 8
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]]: lesões de pele, mucosas, pâneras, edema → Trans 5
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]]: lesões de pele, mucosas, pâneras, edema → Trans 5
 
 
 
@@ -83,7 +83,7 @@ O **exame físico geral** (*exploración física general*) registra os dados obs
 
 | 6 | Peso / IMC | Parte 2 |
 
-| 7 | Temperatura | Parte 2 / [[Tema-05-Sinais-Vitais]] |
+| 7 | Temperatura | Parte 2 / [[P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1|Tema-05-Sinais-Vitais]] |
 
 | 8 | Pele | Parte 2–3 |
 
@@ -789,13 +789,13 @@ EF GERAL PARTE 1
 
 
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]] — talha, peso, temperatura, cor*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]] — talha, peso, temperatura, cor*
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] — pele, mucosas, pâneras, edema*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] — pele, mucosas, pâneras, edema*
 
-*Ver também: [[Tema-06-IPPA]] — técnicas (IPPA) usadas no EF*
+*Ver também: [[P1-Tema-06-IPPA/Tema-06-Parte-1|Tema-06-IPPA]] — técnicas (IPPA) usadas no EF*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

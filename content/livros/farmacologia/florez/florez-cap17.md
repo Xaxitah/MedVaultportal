@@ -8,7 +8,6 @@ capitulo: 17
 paginas_livro: 266-278
 paginas_pdf: 284-296
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

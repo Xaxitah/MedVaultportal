@@ -576,7 +576,7 @@ Pendente para sessão futura:
 
 ← [[P1-T08-Anticonvulsivantes|T08 — Anticonvulsivantes]]
 → [[P1-T10-Neurofarmacologia|T10 — Neurofarmacologia]]
-↑ [[MED-Vault/03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
+↑ [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
 
 
 ---

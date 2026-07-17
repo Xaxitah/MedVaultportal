@@ -15,7 +15,6 @@ paginas_pdf: 1027-1045
 autores_capitulo:
   - A. Mediavilla
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -3,10 +3,8 @@ title: 59-Seção VII - Quimioterapia das doenças microbianas
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 59-Seção VII - Quimioterapia das doenças microbianas.pdf
 motor: PyMuPDF
 paginas: 2

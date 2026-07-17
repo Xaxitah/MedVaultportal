@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   28-Capítulo 22. Tratamento dos distúrbios degenerativos do sistema nervoso
   central.pdf

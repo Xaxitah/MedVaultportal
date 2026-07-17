@@ -13,7 +13,6 @@ autores_capitulo:
   - D. Ochoa
   - A.G. Garcia
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

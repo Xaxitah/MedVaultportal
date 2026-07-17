@@ -3,10 +3,8 @@ title: 22-Capítulo 16. Farmacoterapia da psicose e da mania
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 22-Capítulo 16. Farmacoterapia da psicose e da mania.pdf
 motor: PyMuPDF
 paginas: 40

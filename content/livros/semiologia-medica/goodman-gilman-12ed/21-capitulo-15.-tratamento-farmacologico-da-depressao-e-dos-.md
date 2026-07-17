@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: >-
   21-Capítulo 15. Tratamento farmacológico da depressão e dos transtornos de

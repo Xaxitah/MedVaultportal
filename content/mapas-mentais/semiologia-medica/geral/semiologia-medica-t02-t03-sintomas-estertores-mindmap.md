@@ -7,11 +7,10 @@ tags:
   - t02-t03-sintomas-estertores
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-02-Sintomas-Respiratorios/P2-Tema-02-Sintomas-Respiratorios.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-03-Estertores-Ruidos-Adventicios/P2-Tema-03-Estertores-Ruidos-Adventicios.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -29,7 +28,7 @@ _source: >-
 
 # Mapa Mental — T02-T03-Sintomas-Estertores
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-02-Sintomas-Respiratorios/P2-Tema-02-Sintomas-Respiratorios.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-03-Estertores-Ruidos-Adventicios/P2-Tema-03-Estertores-Ruidos-Adventicios.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-02-Sintomas-Respiratorios/P2-Tema-02-Sintomas-Respiratorios.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-03-Estertores-Ruidos-Adventicios/P2-Tema-03-Estertores-Ruidos-Adventicios.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T02-T03-Sintomas-Estertores` | **Disciplina:** `semiologia-medica`
 

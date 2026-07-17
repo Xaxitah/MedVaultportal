@@ -9,7 +9,6 @@ paginas_livro: 466-475
 paginas_pdf: 484-493
 status: revisando
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

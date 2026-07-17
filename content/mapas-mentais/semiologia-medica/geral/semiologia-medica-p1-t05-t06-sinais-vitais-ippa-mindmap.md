@@ -7,7 +7,6 @@ tags:
   - p1-t05-t06-sinais-vitais-ippa
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-06-IPPA/Tema-06-Parte-1.md

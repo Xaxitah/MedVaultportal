@@ -10,7 +10,6 @@ capitulo: 23
 paginas: 348-374
 paginas_pdf: 366-392
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

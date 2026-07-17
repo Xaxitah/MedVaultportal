@@ -17,7 +17,6 @@ aproveitamento_texto: >-
 figuras_pendentes: 0
 status: revisando
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

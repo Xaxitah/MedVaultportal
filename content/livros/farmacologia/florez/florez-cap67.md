@@ -13,7 +13,6 @@ autores_capitulo:
   - G. Peralta
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

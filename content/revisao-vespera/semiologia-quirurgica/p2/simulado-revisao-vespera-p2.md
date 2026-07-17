@@ -201,5 +201,5 @@ Marcar mentalmente V ou F.
 
 - Roteiro: [[Roteiro-Revisao-Vespera-P2]]
 - Indice de vespera: [[_Indice-Revisao-Vespera-P2]]
-- Prioridades P2: [[_Prioridades-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
 

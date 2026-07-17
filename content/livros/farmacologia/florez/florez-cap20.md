@@ -22,7 +22,6 @@ figuras_pendentes: 0
 tabelas_pendentes: 0
 status: revisando
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

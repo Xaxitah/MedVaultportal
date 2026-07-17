@@ -3,10 +3,8 @@ title: 16-Capítulo 10. Agentes anticolinesterásicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 16-Capítulo 10. Agentes anticolinesterásicos.pdf
 motor: PyMuPDF
 paginas: 16

@@ -38,7 +38,7 @@ _source: >-
 - Aula/transcricao: [[Audio-Aula-Sindrome-Biliar]]
 - Slide/PDF: [[11-sindrome-biliar]] + [[11-Sindrome-Biliar-Slides-PPTX]]
 - Complemento: [[12-sindrome-de-ictericia]]
-- Controle P2: [[_Prioridades-P2]] | [[_Fontes-Relevantes-P2]] | [[_Mapeamento-Transcricoes-P2]]
+- Controle P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Mapeamento-Transcricoes-P2]]
 - Grau de confiabilidade: **alto**, com lacuna de Vanuno biliar ainda nao extraido diretamente.
 
 ---
@@ -325,6 +325,6 @@ Litiasis
 - Resumo completo Parte 2: [[P2-T05-Sindrome-Biliar-Sx-Del-HD-Parte-2]]
 - Revisao de vespera anterior: [[P2-T04-Fosa-Iliaca-Izquierda-Vespera]]
 - Indice de vespera P2: [[_Indice-Revisao-Vespera-P2]]
-- Prioridades P2: [[_Prioridades-P2]]
-- Fontes P2: [[_Fontes-Relevantes-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 

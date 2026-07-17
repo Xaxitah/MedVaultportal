@@ -12,7 +12,6 @@ autores_capitulo:
   - J.A. Armijo
   - J.L. Herranz
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

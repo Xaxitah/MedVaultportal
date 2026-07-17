@@ -3,10 +3,8 @@ title: '65-Capítulo 53. Penicilinas, cefalosporinas e outros antibióticos β-l
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   65-Capítulo 53. Penicilinas, cefalosporinas e outros antibióticos
   β-lactâmicos.pdf

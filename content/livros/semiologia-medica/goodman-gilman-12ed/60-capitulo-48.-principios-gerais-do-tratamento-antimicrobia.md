@@ -3,10 +3,8 @@ title: 60-Capítulo 48. Princípios gerais do tratamento antimicrobiano
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 60-Capítulo 48. Princípios gerais do tratamento antimicrobiano.pdf
 motor: PyMuPDF
 paginas: 18

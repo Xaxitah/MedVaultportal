@@ -610,9 +610,9 @@ IATROGENIA
 
 
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Etica-Medica/00-Controle/_Prioridades-P1]]*
 
-*Ver também: [[Tema-01-Parte-1]] | [[Tema-04-Parte-1]] | [[Tema-08-Parte-1]]*
+*Ver também: [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-01-Comunicacion-Medica/Tema-01-Parte-1]] | [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1]] | [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-08-Historia-Etica-Medica/Tema-08-Parte-1]]*
 
 
 

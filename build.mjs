@@ -65,6 +65,9 @@ async function copyStaticFiles() {
       await cp(src, join(outdir, html));
     }
   }
+  // A SPA React fica em app.html; index.html é sobrescrito pelo portal estático (renderListings).
+  const spaSrc = join(root, "index.html");
+  if (existsSync(spaSrc)) await cp(spaSrc, join(outdir, "app.html"));
 }
 
 async function buildJsx() {

@@ -421,7 +421,7 @@ INOTRÓPICOS +
 ---
 
 > **Navegação:**
-> ← [[P2-T05-Vasodilatadores]] | [[_Prioridades-P2]] | [[_Guia-Fontes-P2]]
+> ← [[P2-T05-Vasodilatadores]] | [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P2]] | [[_Guia-Fontes-P2]]
 > → Próximo: [[P2-T07-Normolipemiantes]]
 
 

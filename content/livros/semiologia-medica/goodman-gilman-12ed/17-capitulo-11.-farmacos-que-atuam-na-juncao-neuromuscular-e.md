@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   17-Capítulo 11. Fármacos que atuam na junção neuromuscular e nos gânglios
   autônomos.pdf

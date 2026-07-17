@@ -7,7 +7,6 @@ livro: Farmacologia Humana — Jesús Flórez — 6ª edição
 capitulo: cap3
 paginas: 16-45
 tags:
-  - medicina
   - farmacologia
   - livro
   - dianas-mecanismos-moleculares

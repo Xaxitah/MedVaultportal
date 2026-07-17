@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: >-
   38-Capítulo 31. Terapia farmacológica para a hipercolesterolemia e a

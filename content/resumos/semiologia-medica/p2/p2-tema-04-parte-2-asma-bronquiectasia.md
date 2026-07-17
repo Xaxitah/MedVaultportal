@@ -18,7 +18,7 @@ prova: P2
 data: 02-06-2026
 codigo-tema: P2-T04
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-2
 prioridade: alta
 fontes:
@@ -27,9 +27,9 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias.md
   - pratica-nlm06: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
   - pratica-nlm10: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detalhado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detalhado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-02T00:00:00.000Z
@@ -45,11 +45,11 @@ _source: >-
 > O foco aqui e asma bronquial e sindrome bronquiectasico.
 
 > **Fontes deste resumo:**
-> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-02-Grandes-Sindromes-Dra-Funez]]
+> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-02-Grandes-Sindromes-Dra-Funez]]
 > - Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias]]
 > - Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
-> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
-> - 🎧 Pratica NLM-10: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detalhado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me]]
+> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
+> - 🎧 Pratica NLM-10: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detalhado-sobre-manejo-clinico-de-crise-asmatica-e-avaliacao-me]]
 
 ---
 
@@ -148,6 +148,9 @@ No Slide-02, asma bronquial e uma reacao inflamatoria das vias aereas. Ela se ex
 
 > [!example] Exemplo clinico
 > Paciente com episodios de falta de ar, chiado, tos seca e opressao toracica que melhora com broncodilatador. Isso e mais compatível com asma do que com obstrucao fixa.
+
+![[cap36-fig01-p04.jpg]]
+*Llanio Cap 36 — Asma brônquica: vias aéreas com tampões mucosos, infiltrado inflamatório e broncoespasmo. Explica a reversibilidade da obstrução e a resposta ao broncodilatador.*
 
 ---
 
@@ -301,6 +304,9 @@ A causa mais importante parece ser inflamacao necrosante, habitualmente de orige
 > [!tip] Ideia simples
 > Bronquiectasia e um bronquio alargado e danificado que retém secrecao. Isso favorece infeccao, mais secrecao e mais dano.
 
+![[cap36-fig02-p05.jpg]]
+*Llanio Cap 36 — Bronquiectasias: múltiplas cavidades brônquicas dilatadas (saculares e tubulares/cilíndricas) distribuídas pelo parênquima. Explica a tosse crônica com expectoração abundante e a hemoptise.*
+
 ---
 
 ### 3.8 Quadro clinico e exame fisico da bronquiectasia
@@ -339,6 +345,24 @@ TAC/RX:
 > 5. Sindrome cavitario
 >
 > Enfatizado na aula: memorizar as 5 causas de hemoptise para diagnostico diferencial.
+
+---
+
+### Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+| Tipo de Diagnóstico | O que representa | Exemplo em asma / bronquiectasia |
+|---|---|---|
+| **Diagnóstico Clínico** | Sintomas e signos do paciente | Crise de dispneia paroxística + sibilantes + tosse · Tosse crônica + expectoração fétida |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam os achados | Síndrome Obstrutivo Reversível (Asma) · Síndrome Bronquiectásico |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | Asma alérgica por ácaros · Bronquiectasia por TBC prévia / fibrose cística |
+
+> [!note] Formas de início na HC (Slide HC — Dra. Fúnez)
+> - **Asma** = doença **periódica/intermitente** — crises com intervalos livres. Na HEA: ¿Cuándo empezó? · ¿Es la primera crisis? · ¿Qué lo desencadena?
+> - **Bronquiectasia** = doença **crônica** de instalação gradual. Registrar antecedentes de TBC, pneumonias de repetição, fibrose cística.
+
+> ⚠️ Diagnósticos **provisórios** — se confirmarão com espirometria, TC, cultura de expectoração.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

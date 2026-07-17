@@ -7,11 +7,10 @@ tags:
   - t01-ippa-respiratorio
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -29,7 +28,7 @@ _source: >-
 
 # Mapa Mental — T01-IPPA-Respiratorio
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T01-IPPA-Respiratorio` | **Disciplina:** `semiologia-medica`
 

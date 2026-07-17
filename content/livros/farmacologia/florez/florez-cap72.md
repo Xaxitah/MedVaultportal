@@ -11,7 +11,6 @@ paginas_pdf: 1157-1172
 autores_capitulo:
   - J.N. Boada
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

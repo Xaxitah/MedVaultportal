@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t03-diureticos-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-03-Diureticos\P2-T03-Diureticos.md
 prova: P2

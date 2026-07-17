@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   10-Capítulo 5. Transportadores de membrana e resposta às substâncias
   terapêuticas.pdf

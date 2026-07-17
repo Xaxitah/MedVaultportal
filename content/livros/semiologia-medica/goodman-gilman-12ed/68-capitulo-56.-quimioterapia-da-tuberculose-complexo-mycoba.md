@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   68-Capítulo 56. Quimioterapia da tuberculose, complexo Mycobacterium avium e
   hanseníase.pdf

@@ -11,11 +11,10 @@ tags:
   - sopros
   - valvopatias
   - resumo
-  - nlm-integrado
 fonte: 'Llanio Cap 10-11-12, 37-42 + NLM-04 (P2 Pratica Semio Medica)'
 prova: P2
 data: 02-06-2026
-status: revisando
+status: revisado
 ficha-registrada: false
 _source: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-07-EF-Cardiovascular/P2-T07-EF-Cardiovascular.md
@@ -122,6 +121,9 @@ A inspeção divide-se em **central** e **periférica**.
 > [!tip] ⭐ Ênfase da aula prática
 > Ingurgitação jugular visível + refluxo hepatojugular → **critérios maiores de Framingham** para insuficiência cardíaca direita.
 
+![[cap39-fig01-p08.jpg]]
+*Llanio Cap 39 — Paciente em posição ortopneica (sentado, inclinado para frente): postura típica de dispneia cardíaca grave / IC descompensada. Notar uso de musculatura acessória e caquexia associada a doença crônica.*
+
 ---
 
 ### 3.3 Palpação
@@ -178,6 +180,12 @@ Duas áreas são percutidas:
 
 Sequência para matidez relativa: percutir da linha axilar anterior → sentido medial → nos 3°, 4° e 5° espaços.
 
+![[cap39-fig03-p09.jpg]]
+*Llanio Cap 39 — Área cardíaca delimitada na caixa torácica: linhas de percussão que definem os limites da matidez cardíaca relativa. Referência visual para localizar bordas direita e esquerda do coração.*
+
+![[cap39-fig04-p09.jpg]]
+*Llanio Cap 39 — Área cardíaca com marcações das bordas e espaços intercostais: complemento para a técnica de percussão cardíaca — do 3° ao 5° EIC, lateral para medial.*
+
 ---
 
 ### 3.5 Auscultação
@@ -233,6 +241,9 @@ Ou: Aórtico → Pulmonar → Erb → Tricúspide → Mitral.
 > - **DLE (Pachón)** → melhor para sons mitrais (R3, estenose mitral)
 > - **Sentado, inclinado para frente** → melhor para sons da base e insuficiência aórtica
 
+![[cap41-fig01-p06.jpg]]
+*Llanio Cap 41 — Fonocardiograma: traçados de sons cardíacos normais (B1 e B2 no topo) e sopros/ruídos patológicos (vibração intensa no traçado inferior). Referência visual para distinguir bulhas normais de sons patológicos na ausculta.*
+
 ---
 
 ### 3.6 Exame periférico — pulsos e membros
@@ -274,6 +285,12 @@ Onda gerada pela ejeção ventricular que se propaga pelas artérias a 8–10 m/
 - Paciente em decúbito supino com tronco a 45°.
 - Comprimir fígado → observar ingurgitação jugular.
 - Positivo → insuficiência cardíaca direita (critério maior de Framingham).
+
+![[cap38-fig01-p04.jpg]]
+*Llanio Cap 38 — Sistema cardiovascular normal: esquema do coração e grandes vasos com circulação sistêmica e pulmonar em equilíbrio. Base para reconhecer as alterações do débito cardíaco nas síndromes cardiovasculares.*
+
+![[cap39-fig02-p09.jpg]]
+*Llanio Cap 39 — Comparação de caixas torácicas: esqueleto normal (esquerda) vs tórax com cardiomegalia (direita — espaços intercostais alargados, arcos costais flareados). Referência para inspeção e percussão cardíaca.*
 
 ---
 
@@ -470,6 +487,37 @@ O R2 normal fecha mitral + tricúspide de forma quase simultânea. Quando o fech
 3. **Palpitações** (*palpitaciones*) — ritmo, duração, início e término
 4. **Síncope** (*síncope*) — perda transitória de consciência
 5. **Claudicação intermitente** — dor em membro inferior ao caminhar
+
+> [!tip] 💡 ALICIA FREDUSA aplicada à dor cardiovascular (Dra. Fúnez — 4ª Aula HC)
+> Para qualquer dor cardíaca (anginosa, IAM, pericárdica), aplicar o interrogatório sistemático:
+>
+> | Letra | Pergunta | Angina vs IAM |
+> |---|---|---|
+> | **A**parición | Quando começou? Forma de início? | Angina: esforço/emoção · IAM: brusco, em repouso |
+> | **L**ocalización | Onde é a dor? | Precordial, retroesternal |
+> | **I**rradiación | Irradia? Para onde? | Braço E, mandíbula, pescoço · dorso (dissecção) |
+> | **C**arácter | Como é a dor? | Opressiva/peso/aperto (angina/IAM) · lancinante (dissecção) |
+> | **I**ntensidade | Escala 0–10 | Angina: moderada (4–6) · IAM: intensa (7–10) |
+> | **A**tenuación | Com que melhora? | Angina: repouso + nitrato · IAM: **não melhora** |
+> | **FRE**cuencia | 1ª vez ou recorrente? | Angina estável: recorrente · IAM: geralmente 1ª crise grave |
+> | **DU**ración | Quanto tempo dura? | Angina: **<20 min** · IAM: **>20 min** persistente |
+> | **S**íntomas **A**sociados | Outros sintomas? | Sudorese fria, náuseas, dispneia, síncope, palidez |
+>
+> Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
+
+#### Planteamiento Diagnóstico no HC — Exemplo Cardiovascular (Slide HC — Dra. Fúnez)
+
+O slide da 4ª Aula mostra como organizar o diagnóstico de um paciente com múltiplos problemas cardíacos:
+
+| Tipo | Diagnóstico |
+|---|---|
+| **Diagnóstico Clínico** | IAM com elevação do ST · HTA descompensada · Dislipidemia · Obesidade grau II · DM tipo I |
+| **Diagnóstico Sindrômico** | Síndrome Coronário Agudo · Síndrome de HTA · Síndrome Metabólico |
+| **Diagnóstico Nosológico** | Acidente de placa (trombo) por... · Cifras elevadas de PA por... · Triglicerídeos e colesterol por... |
+
+> ⚠️ São diagnósticos **provisórios** na HC — se confirmarão com ECG, enzimas cardíacas, laboratório.
+>
+> Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

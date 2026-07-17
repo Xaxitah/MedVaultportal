@@ -4,7 +4,7 @@ tags:
   - tema-06
   - resumo
   - p1
-  - IPPA
+  - ippa
   - inspecao
   - palpacao
   - percussao
@@ -36,7 +36,7 @@ _source: >-
 
 > 💡 **Relação com outros temas:**
 > IPPA são as 4 técnicas usadas em TODOS os exames físicos por sistema.
-> Aparecem em [[Tema-04-Exame-Fisico-Geral]] e em toda semiologia por órgão.
+> Aparecem em [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]] e em toda semiologia por órgão.
 
 ---
 
@@ -339,9 +339,9 @@ IPPA — TÉCNICAS BÁSICAS
 
 ---
 
-*Ver também: [[Tema-04-Exame-Fisico-Geral]] — onde o IPPA é aplicado ao exame físico geral*
-*Ver também: [[Tema-05-Sinais-Vitais]] — parâmetros coletados durante o exame físico*
-*Voltar para: [[_Prioridades-P1]]*
+*Ver também: [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]] — onde o IPPA é aplicado ao exame físico geral*
+*Ver também: [[P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1|Tema-05-Sinais-Vitais]] — parâmetros coletados durante o exame físico*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 ---

@@ -3,10 +3,8 @@ title: '43-Capítulo 35. Imunossupressores, tolerógenos e imunoestimulantes'
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: '43-Capítulo 35. Imunossupressores, tolerógenos e imunoestimulantes.pdf'
 motor: PyMuPDF
 paginas: 26

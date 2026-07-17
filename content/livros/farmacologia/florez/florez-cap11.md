@@ -10,7 +10,6 @@ capitulo: 11
 paginas_livro: 193-205
 paginas_pdf: 211-223
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez

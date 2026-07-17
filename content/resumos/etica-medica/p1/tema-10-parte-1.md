@@ -321,7 +321,7 @@ SECRETO MÉDICO
 
 ---
 
-*Relacionado: [[Tema-04-Principios-Bioeticos]] | [[Tema-09-Consentimiento-Informado]] | [[Tema-07-Deontologia-Medica]] | [[Tema-06-Relacion-Medico-Paciente]]*
+*Relacionado: [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]] | [[P1-Tema-09-Consentimiento-Informado/Tema-09-Parte-1|Tema-09-Consentimiento-Informado]] | [[P1-Tema-07-Deontologia-Medica/Tema-07-Parte-1|Tema-07-Deontologia-Medica]] | [[P1-Tema-06-Relacion-Medico-Paciente/Tema-06-Parte-1|Tema-06-Relacion-Medico-Paciente]]*
 
 
 ---

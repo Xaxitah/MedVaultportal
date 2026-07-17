@@ -3,10 +3,8 @@ title: 26-Capítulo 20. Anestésicos locais
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 26-Capítulo 20. Anestésicos locais.pdf
 motor: PyMuPDF
 paginas: 18

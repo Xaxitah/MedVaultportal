@@ -3,10 +3,8 @@ title: 19-Capítulo 13. 5-Hidroxitriptamina (serotonina) e dopamina
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 19-Capítulo 13. 5-Hidroxitriptamina (serotonina) e dopamina.pdf
 motor: PyMuPDF
 paginas: 28

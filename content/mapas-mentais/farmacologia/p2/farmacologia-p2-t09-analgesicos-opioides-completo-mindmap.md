@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t09-analgesicos-opioides-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-09-Analgesicos-Opioides\P2-T09-Analgesicos-Opioides-Parte-1.md,
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-09-Analgesicos-Opioides\P2-T09-Analgesicos-Opioides-Parte-2.md

@@ -16,7 +16,6 @@ autores_capitulo:
   - J. Tamargo
   - E. Delpon
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -12,7 +12,6 @@ autores_capitulo:
   - C. Mart-nez-Cu-
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

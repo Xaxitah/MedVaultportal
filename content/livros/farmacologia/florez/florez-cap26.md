@@ -12,7 +12,6 @@ autores_capitulo:
   - M.A. Hurlé
   - J. Flórez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -10,7 +10,6 @@ paginas_livro: 72-82
 paginas_pdf: 90-100
 source_pdf: cap-05-metabolismo-de-los-farmacos.pdf
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

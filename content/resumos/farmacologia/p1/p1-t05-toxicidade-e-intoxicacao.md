@@ -823,7 +823,7 @@ MS  =  LD1  / ED99   →  "extremos CONSERVADORES"  →  1/99
 
 ← [[P1-T04-Formas-Farmaceuticas-e-Vias-de-Administracao|T04 — Formas Farmacêuticas e Vias de Administração]]
 → [[P1-T06-AINES|T06 — Anti-inflamatórios Não Esteroidais (AINES)]]
-↑ [[MED-Vault/03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
+↑ [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
 
 
 ---

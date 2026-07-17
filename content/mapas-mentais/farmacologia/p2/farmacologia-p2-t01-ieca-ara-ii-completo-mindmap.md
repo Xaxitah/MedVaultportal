@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t01-ieca-ara-ii-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-01-IECA-ARA-II\P2-T01-IECA-ARA-II.md
 prova: P2

@@ -13,7 +13,6 @@ autores_capitulo:
   - J. del R-o
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -292,7 +292,7 @@ Mulher de 50 anos com dolor lumbar, fiebre, perda de peso e palidez cutâneo-muc
 
 *Triagem: [[Tema-01-Triagem-Transcricao]]*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Urologia/00-Controle/_Prioridades-P1]]*
 
 
 

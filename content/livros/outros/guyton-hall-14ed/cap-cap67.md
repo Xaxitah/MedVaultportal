@@ -9,7 +9,6 @@ capitulo: 67
 paginas_pdf: 3665-3698
 status: revisando
 tags:
-  - medicina
   - fisiologia
   - guyton
   - cap67

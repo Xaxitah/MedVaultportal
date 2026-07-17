@@ -3,10 +3,8 @@ title: 72-Seção VIII - Quimioterapia das doen ças neoplásicas
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 72-Seção VIII - Quimioterapia das doen ças neoplásicas.pdf
 motor: PyMuPDF
 paginas: 2

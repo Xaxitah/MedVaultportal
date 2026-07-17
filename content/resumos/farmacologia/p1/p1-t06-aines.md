@@ -762,7 +762,7 @@ COX-2 = "Só quando tem problema" → inflamatória
 
 ← [[P1-T05-Toxicidade-e-Intoxicacao|T05 — Toxicidade e Intoxicação]]
 → [[P1-T07-Antianemicos|T07 — Antianêmicos]]
-↑ [[MED-Vault/03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
+↑ [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
 
 
 ---

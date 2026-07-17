@@ -8,7 +8,6 @@ paginas_pdf: 17-18
 aproveitamento_texto: PDF sem camada textual; OCR visual aplicado
 revisao_humana: necessaria
 tags:
-  - medicina
   - semiologia-medica
   - argente
   - aparato-respiratorio

@@ -309,4 +309,4 @@ Antagonistas de Calcio
 > - Voltar: [[P2-T05-Vasodilatadores]]
 > - Relacionados: [[P2-T01-IECA-ARA-II]] | [[P2-T02-Betabloqueantes]]
 > - Proximo subtema planejado: [[P2-T05-Vasodilatadores-Parte-3-Antianginosos]]
-> - Controle: [[_Prioridades-P2]] | [[_Pendencias-P2]] | [[Plano-Acao-Farmacologia-P2-12-06-2026]]
+> - Controle: [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Farmacologia/00-Controle/_Pendencias-P2]] | [[Plano-Acao-Farmacologia-P2-12-06-2026]]

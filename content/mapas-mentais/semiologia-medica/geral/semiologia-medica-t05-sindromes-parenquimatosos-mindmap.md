@@ -7,11 +7,10 @@ tags:
   - t05-sindromes-parenquimatosos
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detallado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detallado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -29,7 +28,7 @@ _source: >-
 
 # Mapa Mental — T05-Sindromes-Parenquimatosos
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detallado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detallado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T05-Sindromes-Parenquimatosos` | **Disciplina:** `semiologia-medica`
 

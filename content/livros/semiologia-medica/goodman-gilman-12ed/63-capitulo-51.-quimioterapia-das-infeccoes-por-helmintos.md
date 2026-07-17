@@ -3,10 +3,8 @@ title: 63-Capítulo 51. Quimioterapia das infecções por helmintos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 63-Capítulo 51. Quimioterapia das infecções por helmintos.pdf
 motor: PyMuPDF
 paginas: 20

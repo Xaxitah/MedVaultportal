@@ -3,10 +3,8 @@ title: 18-Capítulo 12. Agonistas e antagonistas adrenérgicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 18-Capítulo 12. Agonistas e antagonistas adrenérgicos.pdf
 motor: PyMuPDF
 paginas: 58

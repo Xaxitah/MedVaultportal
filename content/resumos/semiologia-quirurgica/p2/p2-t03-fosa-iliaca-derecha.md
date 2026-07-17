@@ -724,7 +724,7 @@ Obstrucción de la luz apendicular (causa mais frequente: fecalito) → prolifer
 ## 🔗 Navegação e Fontes
 
 - [[03-Disciplinas/Semiologia-Quirurgica/03-Biblioteca-md/Transcricoes/09-Afecciones-de-la-Fosa-Iliaca-Derecha|📊 Slides PPTX — 09 Afecciones FID]]
-- [[03-Disciplinas/Semiologia-Quirurgica/03-Biblioteca-md/Transcricoes/Vanuno-Cap26/Vanuno-Cap26-transcricao-integral-capitulo|📚 Vanuno Cap.26 — Transcrição integral]]
+- [[07-Biblioteca-Geral/02-Capitulos-Extraidos/Semiologia Quirurgica/Vanuno/Vanuno-Cap26/Vanuno-Cap26-transcricao-integral-capitulo|📚 Vanuno Cap.26 — Transcrição integral]]
 - [[03-Disciplinas/Semiologia-Quirurgica/03-Biblioteca-md/Transcricoes/Vanuno-Cap26/Mapa-de-Imagens-Cap26-para-IA|🗺️ Mapa de Imagens Cap.26]]
 - [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P1|📋 Prioridades P1]]
 - [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Indice-Geral|🗂️ Índice Geral da Disciplina]]

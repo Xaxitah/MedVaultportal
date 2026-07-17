@@ -10,7 +10,6 @@ capitulo: 21
 paginas: 322-335
 paginas_pdf: 340-353
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

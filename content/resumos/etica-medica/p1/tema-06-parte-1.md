@@ -67,7 +67,7 @@ A **comunicação** é o instrumento central dessa relação — durante século
 O que isso implica:
 1. Médico que se comunica mal → relação médico-paciente comprometida
 2. Comunicação deteriorada → paciente sem informação → decisões erradas
-3. Barreiras na comunicação → [[Tema-05-Iatrogenia]] iatrogenia involuntária
+3. Barreiras na comunicação → [[P1-Tema-05-Iatrogenia/Tema-05-Parte-1|Tema-05-Iatrogenia]] iatrogenia involuntária
 
 ---
 
@@ -184,7 +184,7 @@ Com base nos 4 princípios bioéticos aplicados à relação (3ra Clase p.8, 17,
 | **Autonomía** | Respeitar as decisões do paciente mesmo discordando |
 | **Justicia** | Tratar todos com equidade, sem discriminação |
 
-Veja detalhes completos em [[Tema-04-Principios-Bioeticos]].
+Veja detalhes completos em [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]].
 
 ---
 
@@ -350,7 +350,7 @@ RELACIÓN MÉDICO-PACIENTE
 
 ---
 
-*Relacionado: [[Tema-01-Comunicacion-Medica]] | [[Tema-04-Principios-Bioeticos]] | [[Tema-05-Iatrogenia]] | [[Tema-09-Consentimiento-Informado]] | [[Tema-10-Secreto-Medico]]*
+*Relacionado: [[P1-Tema-01-Comunicacion-Medica/Tema-01-Parte-1|Tema-01-Comunicacion-Medica]] | [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]] | [[P1-Tema-05-Iatrogenia/Tema-05-Parte-1|Tema-05-Iatrogenia]] | [[P1-Tema-09-Consentimiento-Informado/Tema-09-Parte-1|Tema-09-Consentimiento-Informado]] | [[P1-Tema-10-Secreto-Medico/Tema-10-Parte-1|Tema-10-Secreto-Medico]]*
 
 
 ---

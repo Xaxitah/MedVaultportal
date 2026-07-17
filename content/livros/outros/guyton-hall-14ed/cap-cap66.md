@@ -9,7 +9,6 @@ capitulo: 66
 paginas_pdf: 3620-3664
 status: revisando
 tags:
-  - medicina
   - fisiologia
   - guyton
   - cap66
@@ -157,7 +156,7 @@ A lactose se divide em uma molecula de galactose e em uma de glicose.
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-1-digestao-carboidratos|Figura 66-1 - Digestao de carboidratos]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-1-digestao-carboidratos|Figura 66-1 - Digestao de carboidratos]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-1-digestao-carboidratos.png]]
 
 A sacarose se divide em uma molecula de frutose e uma de glicose. A
@@ -241,7 +240,7 @@ polipeptidios. A pro-elastase, por sua vez, e convertida em elastase, que
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-2-digestao-proteinas|Figura 66-2 - Digestao de proteinas]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-2-digestao-proteinas|Figura 66-2 - Digestao de proteinas]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-2-digestao-proteinas.png]]
 
 entao digere as fibras de elastina que mantem as carnes parcialmente
@@ -295,7 +294,7 @@ principal constituinte dos alimentos de origem animal, mas e muito menos
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-3-hidrolise-gorduras-neutras|Figura 66-3 - Hidrolise de gorduras neutras catalisadas pela lipase]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-3-hidrolise-gorduras-neutras|Figura 66-3 - Hidrolise de gorduras neutras catalisadas pela lipase]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-3-hidrolise-gorduras-neutras.png]]
 
 encontrada nos alimentos de origem vegetal.
@@ -409,7 +408,7 @@ liquidos
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-4-digestao-gorduras|Figura 66-4 - Digestao de gorduras]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-4-digestao-gorduras|Figura 66-4 - Digestao de gorduras]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-4-digestao-gorduras.png]]
 
 digestivos e permaneca em uma solucao estavel ate que a gordura seja
@@ -475,7 +474,7 @@ desenvolvidas no duodeno e no jejuno, onde frequentemente se projetam ate
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-5-superficie-absortiva-intestino-delgado|Figura 66-5 - Secao transversa do intestino delgado mostrando valvulas coniventes]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-5-superficie-absortiva-intestino-delgado|Figura 66-5 - Secao transversa do intestino delgado mostrando valvulas coniventes]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-5-superficie-absortiva-intestino-delgado.png]]
 
 Figura 66.5 Secao transversa do intestino delgado, mostrando as valvulas
@@ -521,7 +520,7 @@ processo fisico de pinocitose.
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-6-organizacao-vilosidade|Figura 66-6 - Organizacao funcional da vilosidade]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-6-organizacao-vilosidade|Figura 66-6 - Organizacao funcional da vilosidade]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-6-organizacao-vilosidade.png]]
 
 Figura 66.6 Organizacao funcional da vilosidade. A. Secao transversa. B.
@@ -541,7 +540,7 @@ A absorcao pelo intestino delgado a cada dia consiste em varias centenas de
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-7-borda-em-escova-enterocito|Figura 66-7 - Borda em escova de celula epitelial gastrointestinal]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-7-borda-em-escova-enterocito|Figura 66-7 - Borda em escova de celula epitelial gastrointestinal]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-7-borda-em-escova-enterocito.png]]
 
 gramas de carboidratos, 100 ou mais gramas de gordura, 50 a 100 gramas
@@ -623,7 +622,7 @@ cotransportador 1 de glicose de sodio (SGLT1); (2) cotransportadores de
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-8-absorcao-sodio-cloro-glicose-aminoacidos|Figura 66-8 - Absorcao de sodio, cloro, glicose e aminoacidos]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-8-absorcao-sodio-cloro-glicose-aminoacidos|Figura 66-8 - Absorcao de sodio, cloro, glicose e aminoacidos]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-8-absorcao-sodio-cloro-glicose-aminoacidos.png]]
 
 aminoacidos de sodio; e (3) o trocador de Na+/H+. Esses transportadores
@@ -842,7 +841,7 @@ ou
 
 ### Recursos visuais desta pagina
 
-- [[Imagens/guyton-cap66-figura-66-9-absorcao-monossacaridios|Figura 66-9 - Absorcao de glicose, galactose e frutose pelo epitelio intestinal]]
+- [[07-Biblioteca-Geral/09-Imagens-de-Livros/Fisiologia/Guyton/Cap-66/guyton-cap66-figura-66-9-absorcao-monossacaridios|Figura 66-9 - Absorcao de glicose, galactose e frutose pelo epitelio intestinal]]
   - Imagem: ![[Imagens/guyton-cap66-figura-66-9-absorcao-monossacaridios.png]]
 
 de galactose.

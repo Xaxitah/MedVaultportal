@@ -34,7 +34,7 @@ _source: >-
 - Aula/transcricao: [[Audio-Aula-Afecciones-de-la-Fosa-Iliaca-Derecha]]
 - Slide/PDF: [[09-Afecciones-de-la-Fosa-Iliaca-Derecha]]
 - Livro-base: [[Vanuno-Cap26-transcricao-integral-capitulo]]
-- Controle P2: [[_Prioridades-P2]] | [[_Fontes-Relevantes-P2]] | [[_Mapeamento-Transcricoes-P2]]
+- Controle P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Mapeamento-Transcricoes-P2]]
 - Grau de confiabilidade: **alto**.
 
 ---
@@ -316,6 +316,6 @@ Dolor epigastrico/periumbilical
 - Resumo completo: [[P2-T03-Fosa-Iliaca-Derecha]]
 - Revisao de vespera anterior: [[P2-T02-Dolor-Epigastrico-Vespera]]
 - Proximo tema de vespera: [[P2-T04-Fosa-Iliaca-Izquierda-Vespera]]
-- Prioridades P2: [[_Prioridades-P2]]
-- Fontes P2: [[_Fontes-Relevantes-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 

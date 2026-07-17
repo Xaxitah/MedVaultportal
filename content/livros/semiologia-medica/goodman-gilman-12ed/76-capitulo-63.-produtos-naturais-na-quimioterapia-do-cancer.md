@@ -3,10 +3,8 @@ title: 76-Capítulo 63. Produtos naturais na quimioterapia do câncer
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 76-Capítulo 63. Produtos naturais na quimioterapia do câncer.pdf
 motor: PyMuPDF
 paginas: 16

@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t10-anestesicos-gerais-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-10-Anestesicos-Gerais\P2-T10-Anestesicos-Gerais.md
 prova: P2

@@ -11,7 +11,6 @@ paginas_pdf: 898-907
 autores_capitulo:
   - J. Gonzalez-Macias
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

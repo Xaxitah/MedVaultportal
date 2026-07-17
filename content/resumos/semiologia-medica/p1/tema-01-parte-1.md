@@ -5,7 +5,7 @@ tags:
   - resumo
   - p1
   - propedeutica
-  - sindromologia
+  - sindromes
 data: 23-04-2026
 disciplina: semiologia-medica
 tema: propedeutica-semiologia-sindromologia
@@ -318,9 +318,9 @@ PROPEDÊUTICA CLÍNICA
 
 ---
 
-*Voltar para: [[_Prioridades-P1]]*
-*Ver mapeamento de fontes: [[_Mapeamento-Transcricoes]]*
-*Próximo tema: [[Tema-03-Historia-Clinica]] (estudar antes do Tema 02)*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
+*Ver mapeamento de fontes: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Mapeamento-Transcricoes]]*
+*Próximo tema: [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]] (estudar antes do Tema 02)*
 
 
 ---
@@ -347,7 +347,7 @@ Usar: --infografico --audio --slides --mapa --quiz
 | Slides | pendente |
 | Mapa Mental | pendente |
 | Quiz | pendente |
-| Flashcards | pendente |
+| Flashcards | ✅ [[Baralho-T01-Propedeutica]] |
 | Video | pendente |
 
 ### Comandos sugeridos

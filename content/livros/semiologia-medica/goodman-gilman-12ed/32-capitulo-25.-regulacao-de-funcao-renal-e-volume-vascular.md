@@ -3,10 +3,8 @@ title: 32-Capítulo 25. Regulação de função renal e volume vascular
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 32-Capítulo 25. Regulação de função renal e volume vascular.pdf
 motor: PyMuPDF
 paginas: 50

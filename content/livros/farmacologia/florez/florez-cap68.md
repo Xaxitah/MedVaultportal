@@ -13,7 +13,6 @@ autores_capitulo:
   - M.B. Sanchez
   - A. Mediavilla
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

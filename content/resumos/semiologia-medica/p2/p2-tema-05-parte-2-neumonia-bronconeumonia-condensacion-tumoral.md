@@ -18,7 +18,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T05
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-2
 prioridade: alta
 fontes:
@@ -27,11 +27,11 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias.md
   - pratica-nlm06: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
   - pratica-nlm09: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detalhado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detalhado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c.md
   - pratica-nlm07: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-03T00:00:00.000Z
@@ -47,11 +47,11 @@ _source: >-
 > O foco e condensacion inflamatoria e condensacion tumoral.
 
 > **Fontes deste resumo:**
-> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-04-Dra-Funez]]
+> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-04-Dra-Funez]]
 > - 📚 Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias]]
-> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
-> - 🎧 Pratica NLM-09: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detalhado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c]]
-> - 🎧 Pratica NLM-07: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare]]
+> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
+> - 🎧 Pratica NLM-09: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detalhado-sobre-pneumonia-classificacoes-diagnostico-e-quadro-c]]
+> - 🎧 Pratica NLM-07: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare]]
 > - 🖼️ Imagens: banco consultado, mas nenhuma imagem foi inserida neste resumo por falta de figura classificada especifica para neumonia/condensacion tumoral da aula.
 
 ---
@@ -154,6 +154,9 @@ No Slide-04:
 
 📌 O Argente usa a ideia de sindrome de condensacion/consolidacion, caracteristico da pneumonia, quando o parenquima preenchido passa a transmitir melhor som e vibracoes.
 
+![[cap36-fig04-p08.jpg]]
+*Llanio Cap 36 — Condensação pneumônica: pulmão denso e compacto por preenchimento alveolar com exsudato inflamatório. Base anatomopatológica para entender matidez + VV aumentadas + sopro tubário + crepitantes.*
+
 ---
 
 ### 3.2 Germes principais
@@ -206,6 +209,9 @@ No Slide-04:
 
 > [!example] Exemplo clinico
 > Febre + tosse que virou produtiva + dor em puntada de costado + matidez localizada + vibraciones vocales aumentadas = pensar em condensacion inflamatoria.
+
+![[cap34-fig05-p14.jpg]]
+*Llanio Cap 34 — Condensação pulmonar periférica em contato com a parede torácica: condição necessária para que as vibrações vocais sejam transmitidas ao examinador. Se o brônquio estiver pérvio → VV aumentadas + sopro tubário.*
 
 ---
 
@@ -449,6 +455,25 @@ O Slide-04 lista:
 
 > [!warning] Atencao para prova
 > O slide coloca "se nao expectora, fazer broncoscopia/endoscopia direta e biopsia". Essa frase tem cara de cobrança prática.
+
+---
+
+### Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+| Tipo de Diagnóstico | O que representa | Exemplo em pneumonias / síndrome tumoral |
+|---|---|---|
+| **Diagnóstico Clínico** | Sintomas e signos do paciente | Febre + tosse produtiva + dor pleurítica + estertores crepitantes (Pneumonia) · Emagrecimento + hemoptise + opacidade lobar (Tumor) |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam os achados | Síndrome de Condensação Pneumônica · Síndrome de Condensação Tumoral |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | Pneumonia lobar por S. pneumoniae · Carcinoma broncogênico por tabagismo |
+
+> [!note] Formas de início na HC (Slide HC — Dra. Fúnez)
+> - **Pneumonia lobar** = início **agudo** (febre alta, calafrios, dor pleural em horas). Na HEA: ¿Cuándo empezó? · ¿Tuvo escalofríos?
+> - **Broncopneumonia** = início mais **subagudo** (progressão em dias).
+> - **Síndrome tumoral** = instalação **crônica/insidiosa** (semanas a meses, emagrecimento, hemoptise).
+
+> ⚠️ Diagnósticos **provisórios** — se confirmarão com RX, hemograma, hemocultura, broncoscopia/biopsia.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

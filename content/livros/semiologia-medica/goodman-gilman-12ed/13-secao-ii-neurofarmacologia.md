@@ -3,10 +3,8 @@ title: 13-Seção II - Neurofarmacologia
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: 13-Seção II - Neurofarmacologia.pdf
 motor: PyMuPDF

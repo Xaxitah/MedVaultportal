@@ -29,7 +29,7 @@ _source: >-
 
 > **Fontes usadas neste resumo:**
 
-> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/02-Transcricoes/P1-03-Avenida-Carlos-Dominguez-6]]`
+> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-03-Avenida-Carlos-Dominguez-6]]`
 
 > - 📖 Livro: Llanio, R. *Propedéutica Clínica y Semiología Médica*, Tomo I, Cap. 9 e Cap. 33
 
@@ -563,7 +563,7 @@ SISTEMA RESPIRATÓRIO — EF
 
 *Continua em: [[Tema-07-Parte-PENDENTE-Pescoco]]*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

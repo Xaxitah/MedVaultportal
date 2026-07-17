@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   53-Capítulo 44. Fármacos que afetam a homeostasia dos íons minerais e a
   renovação óssea.pdf

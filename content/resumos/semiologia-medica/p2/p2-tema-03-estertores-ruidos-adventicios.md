@@ -18,7 +18,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T03
 tipo: resumo
-status: revisando
+status: revisado
 parte: unica
 prioridade: alta
 fontes:
@@ -29,7 +29,7 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio.md
   - pratica-nlm02: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-02T00:00:00.000Z
@@ -45,10 +45,10 @@ _source: >-
 > Ele prepara os temas de sindromes bronquiais e parenquimatosos.
 
 > **Fontes deste resumo:**
-> - 🖥️ Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
-> - 🖥️ Slide/PDF complementar: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
+> - 🖥️ Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
+> - 🖥️ Slide/PDF complementar: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
 > - 📚 Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio]]
-> - 🎧 Pratica NLM-02: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio]]
+> - 🎧 Pratica NLM-02: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio]]
 > - 🖼️ Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
 ---
@@ -150,6 +150,9 @@ Traduzindo para estudo:
 **Estertores** sao ruidos que aparecem quando o ar passa por vias respiratorias alteradas, com secrecao, obstrucao, inflamacao ou abertura/fechamento anormal de pequenas vias/alveolos.
 
 📌 O Argente usa o termo mais amplo **ruidos agregados/adventicios**, que nao aparecem em condicoes fisiologicas e indicam patologia do pulmao ou da pleura.
+
+![[cap34-fig08-p15.jpg]]
+*Llanio Cap 34 — Bronquíolos e alvéolos em corte: base anatômica dos ruídos adventícios. Secreção, estreitamento da via aérea e espessamento da parede alteram a transmissão do ar e geram estertores.*
 
 ---
 

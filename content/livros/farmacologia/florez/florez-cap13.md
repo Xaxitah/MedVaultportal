@@ -13,7 +13,6 @@ source_pdf: dokumen.pub_farmacologia-humana-jesus-florez-6-edicion.pdf
 paginas_total: 5
 status: revisando
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

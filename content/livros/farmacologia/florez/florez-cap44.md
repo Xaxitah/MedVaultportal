@@ -17,7 +17,6 @@ autores_capitulo:
   - M. Marti-Cabrera
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

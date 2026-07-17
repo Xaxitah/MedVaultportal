@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t07-normolipemiantes-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-07-Normolipemiantes\P2-T07-Normolipemiantes.md
 prova: P2

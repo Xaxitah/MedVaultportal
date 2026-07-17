@@ -7,10 +7,9 @@ tags:
   - t07-ef-cardiovascular
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-07-EF-Cardiovascular/P2-T07-EF-Cardiovascular.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-sistema-cardiovascular-inspecao-palpacao-percussao-e-a.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-sistema-cardiovascular-inspecao-palpacao-percussao-e-a.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -27,7 +26,7 @@ _source: >-
 
 # Mapa Mental — T07-EF-Cardiovascular
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-07-EF-Cardiovascular/P2-T07-EF-Cardiovascular.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-sistema-cardiovascular-inspecao-palpacao-percussao-e-a.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-07-EF-Cardiovascular/P2-T07-EF-Cardiovascular.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-sistema-cardiovascular-inspecao-palpacao-percussao-e-a.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T07-EF-Cardiovascular` | **Disciplina:** `semiologia-medica`
 

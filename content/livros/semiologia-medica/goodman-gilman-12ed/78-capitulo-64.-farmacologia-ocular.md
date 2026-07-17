@@ -3,10 +3,8 @@ title: 78-Capítulo 64. Farmacologia ocular
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: 78-Capítulo 64. Farmacologia ocular.pdf
 motor: PyMuPDF

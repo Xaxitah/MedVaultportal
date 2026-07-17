@@ -7,7 +7,6 @@ tags:
   - p1-t08-t09-t10-achados-dor-diagnostico
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-08-Descricao-de-Achados/Tema-08-Parte-1.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-09-Dor-e-Caracteristicas/Tema-09-Parte-1.md,

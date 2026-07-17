@@ -10,38 +10,18 @@ import { readFile, writeFile, mkdir, cp, readdir, stat, rm } from "node:fs/promi
 import { existsSync } from "node:fs";
 import { join, dirname, basename, extname, relative } from "node:path";
 import { fileURLToPath } from "node:url";
+import { classify as classifyContent, INCLUDED_TYPES } from "./lib/content-classify.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, "..");
-const VAULT = "K:/Work/Obsidian Claud/Med Test/MED-Vault-2.0";
-const IMAGES_BANK = "C:/Users/Xaxitah/OneDrive/MED-Imagens";
+// Configuráveis por variável de ambiente (rumo a config central sem caminho fixo).
+// Default = drive E: desta máquina. Ex.: MV_VAULT=D:/.../MED-Vault-2.0 node tools/sync-content.mjs
+const VAULT = process.env.MV_VAULT || "E:/Work/Obsidian Claud/Med Test/MED-Vault-2.0";
+const IMAGES_BANK = process.env.MV_IMAGES || "G:/Meu Drive/MED-Imagens";
 const CONTENT_OUT = join(repoRoot, "content");
 const IMAGES_OUT = join(CONTENT_OUT, "imagens");
 
 const WITH_IMAGES = process.argv.includes("--with-images");
-
-const INCLUDED_TYPES = new Set([
-  "resumo",
-  "livro-capitulo",
-  "livro-extraido",
-  "mapa-mental",
-  "revisao-para-prova",
-  "questao",
-  "flashcard",
-]);
-
-// Disciplines we care about (lowercase keys)
-const DISCIPLINE_MAP = {
-  "farmacologia": "farmacologia",
-  "semiologia-medica": "semiologia-medica",
-  "semiologia-quirurgica": "semiologia-quirurgica",
-  "semiologia-cirurgica": "semiologia-quirurgica",
-  "urologia": "urologia",
-  "etica-medica": "etica-medica",
-  "pratica-semiologia-medica": "pratica-semiologia-medica",
-  "pratica-semiologia-quirurgica": "pratica-semiologia-quirurgica",
-  "tecnicas-quirurgicas": "tecnicas-quirurgicas",
-};
 
 const IMG_EXTS = new Set([".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"]);
 
@@ -84,85 +64,6 @@ async function buildImageIndex() {
   console.log(`[sync]   ${imageIndex.size} unique image basenames indexed`);
 }
 
-function slugify(s) {
-  return s
-    .toLowerCase()
-    .replace(/[^a-z0-9-_/.]/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-// Decide output relative path based on metadata
-function asStr(v) {
-  if (v === null || v === undefined) return "";
-  return String(v);
-}
-
-// Shorten verbose chapter filenames: keep only book + cap number + first meaningful word
-function shortChapterSlug(name) {
-  const lower = name.toLowerCase();
-  // Try to extract "<book>-cap<NN>" pattern
-  const capMatch = lower.match(/(florez|goodman|argente|llanio|leoncio|smith|tanagho|vanuno|propedeutica)?[-]?cap[-]?(\d+)/i);
-  if (capMatch) {
-    const book = capMatch[1] || "cap";
-    return `${book}-cap${capMatch[2].padStart(2, "0")}`;
-  }
-  // Otherwise truncate hard
-  return slugify(name).slice(0, 60);
-}
-
-function classify(fmData, srcRel) {
-  const tipo = asStr(fmData.tipo);
-  const disc = DISCIPLINE_MAP[asStr(fmData.disciplina).toLowerCase()] || "outros";
-  const prova = asStr(fmData.prova).toLowerCase().replace(/[^a-z0-9]/g, "");
-
-  if (tipo === "livro-capitulo" || tipo === "livro-extraido") {
-    let livroPart = null;
-    let m;
-    if (m = srcRel.match(/01-Livros\/([^/]+)\//i)) { livroPart = m[1]; }
-    else if (m = srcRel.match(/02-Capitulos-Extraidos\/[^/]+\/([^/]+)\//i)) { livroPart = m[1]; }
-    else if (m = srcRel.match(/03-Biblioteca-md\/([^/]+)\//i)) { livroPart = m[1]; }
-    if (livroPart) {
-      const livro = livroPart.toLowerCase();
-      // Normalize known book names to short keys
-      const bookSlug = livro
-        .replace(/farmacologia-livro-goodman-gilman-12-edicao-artmed/, "goodman-gilman")
-        .replace(/farmacologia-humana-jesus-florez-6-ed/, "florez")
-        .replace(/florez-6ed-pdf|florez-6ed/, "florez")
-        .replace(/argente-semiologia-medica/, "argente")
-        .replace(/llanio-propedeutica-clinica-tomo-i/, "llanio")
-        .replace(/manual-basico-de-patologias-leoncio/, "leoncio")
-        .replace(/smith-tanagho-urologia-geral/, "smith-tanagho")
-        .replace(/propedeutica-clinica-semiologia-medica-tomo-i/, "propedeutica-tomo1");
-      const chapter = basename(srcRel, ".md");
-      return `livros/${disc}/${slugify(bookSlug)}/${shortChapterSlug(chapter)}.md`;
-    }
-    return `livros/${disc}/outros/${shortChapterSlug(basename(srcRel, ".md"))}.md`;
-  }
-
-  if (tipo === "resumo") {
-    return `resumos/${disc}/${prova || "geral"}/${slugify(basename(srcRel, ".md"))}.md`;
-  }
-
-  if (tipo === "mapa-mental") {
-    return `mapas-mentais/${disc}/${prova || "geral"}/${slugify(basename(srcRel, ".md"))}.md`;
-  }
-
-  if (tipo === "revisao-para-prova") {
-    return `revisao-vespera/${disc}/${prova || "geral"}/${slugify(basename(srcRel, ".md"))}.md`;
-  }
-
-  if (tipo === "questao") {
-    return `questoes/${disc}/${prova || "geral"}/${slugify(basename(srcRel, ".md"))}.md`;
-  }
-
-  if (tipo === "flashcard") {
-    return `flashcards/${disc}/${prova || "geral"}/${slugify(basename(srcRel, ".md"))}.md`;
-  }
-
-  return null;
-}
-
 function extractImageRefs(md) {
   const refs = new Set();
   const obsidian = md.matchAll(/!\[\[([^\]|#]+?)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]/g);
@@ -195,7 +96,7 @@ async function processFile(srcAbs) {
   if (!INCLUDED_TYPES.has(fmData.tipo)) { stats.skippedType++; return; }
 
   const srcRel = relative(VAULT, srcAbs).split("\\").join("/");
-  const outRel = classify(fmData, srcRel);
+  const outRel = classifyContent(fmData, srcRel);
   if (!outRel) return;
 
   // Augment frontmatter with source path for traceability

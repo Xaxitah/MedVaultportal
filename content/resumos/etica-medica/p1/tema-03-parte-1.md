@@ -61,7 +61,7 @@ _source: >-
 
 
 
-O termo foi cunhado por **Van Rensselaer Potter em 1970**. Os 4 princípios clássicos — Justicia, Beneficencia, Autonomía, No-maleficencia (**JBAN**) — são cobertos no [[Tema-04-Principios-Bioeticos]].
+O termo foi cunhado por **Van Rensselaer Potter em 1970**. Os 4 princípios clássicos — Justicia, Beneficencia, Autonomía, No-maleficencia (**JBAN**) — são cobertos no [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]].
 
 
 
@@ -757,11 +757,11 @@ BIOÉTICA
 
 
 
-*Continua em: [[Tema-04-Principios-Bioeticos]] — JBAN em detalhe (Beauchamp & Childress)*
+*Continua em: [[P1-Tema-04-Principios-Bioeticos/Tema-04-Parte-1|Tema-04-Principios-Bioeticos]] — JBAN em detalhe (Beauchamp & Childress)*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Etica-Medica/00-Controle/_Prioridades-P1]]*
 
-*Ver também: [[_Mapa-Geral-P1]] | [[Tema-02-Parte-1]] | [[Tema-08-Parte-1]]*
+*Ver também: [[03-Disciplinas/Etica-Medica/00-Controle/_Mapa-Geral-P1]] | [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-02-Etica-Medica/Tema-02-Parte-1]] | [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-08-Historia-Etica-Medica/Tema-08-Parte-1]]*
 
 
 

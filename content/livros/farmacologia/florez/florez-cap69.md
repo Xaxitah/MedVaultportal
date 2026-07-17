@@ -12,7 +12,6 @@ autores_capitulo:
   - S. Echevarria
   - A. Mediavilla
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

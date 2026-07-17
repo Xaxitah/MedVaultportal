@@ -3,10 +3,8 @@ title: 31-Seção III - Modulação da função cardiovascular
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 31-Seção III - Modulação da função cardiovascular.pdf
 motor: PyMuPDF
 paginas: 2

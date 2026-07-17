@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   42-Capítulo 34. Agentes anti-infl amatórios, antipiréticos e analgésicos;
   farmacoterapia da gota.pdf

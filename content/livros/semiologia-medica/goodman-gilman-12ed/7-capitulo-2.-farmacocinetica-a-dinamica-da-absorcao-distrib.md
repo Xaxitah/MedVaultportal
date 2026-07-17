@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   7-Capítulo 2. Farmacocinética a dinâmica da absorção, distribuição, ação e
   eliminação dos fármacos.pdf

@@ -3,10 +3,8 @@ title: '49-Capítulo 40. Estrogênios e progestogênios '
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 49-Capítulo 40. Estrogênios e progestogênios .pdf
 motor: PyMuPDF
 paginas: 32

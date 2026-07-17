@@ -668,7 +668,7 @@ DESCRIÇÃO DOS ACHADOS
 
 > - **Circulação venosa colateral** (Cap 25): padrão caval superior vs inferior vs porta — relevante para semiologia abdominal
 
-> - **Edema e godet** — coberto em [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Tema 04 Parte 3]]
+> - **Edema e godet** — coberto em [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Tema 04 Parte 3]]
 
 > - **Nomenclatura de registro do EF** (Llanio Cap 24): registros completos por sistema — não cobertos neste resumo
 
@@ -680,11 +680,11 @@ DESCRIÇÃO DOS ACHADOS
 
 
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Tema 04 Parte 3]] — lesões de pele, mucosas, pâneras, edema (visão geral)*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Tema 04 Parte 3]] — lesões de pele, mucosas, pâneras, edema (visão geral)*
 
-*Ver também: [[Tema-06-IPPA]] — técnicas de exploração e terminologia de registro*
+*Ver também: [[P1-Tema-06-IPPA/Tema-06-Parte-1|Tema-06-IPPA]] — técnicas de exploração e terminologia de registro*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

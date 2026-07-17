@@ -5,7 +5,7 @@ tags:
   - resumo
   - p1
   - dor
-  - sintoma
+  - sintomas
   - interrogatorio
   - nocicepcao
 data: 23-04-2026
@@ -390,9 +390,9 @@ DOR — SEMIOLOGIA COMPLETA
 
 ---
 
-*Ver também: [[Tema-03-Historia-Clinica]] — interrogatório e estrutura da HC*
-*Ver também: [[Tema-10-Diagnosticos]] — semiodiagnóstico e tipos diagnósticos*
-*Voltar para: [[_Prioridades-P1]]*
+*Ver também: [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]] — interrogatório e estrutura da HC*
+*Ver também: [[P1-Tema-10-Diagnosticos/Tema-10-Parte-1|Tema-10-Diagnosticos]] — semiodiagnóstico e tipos diagnósticos*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 ---

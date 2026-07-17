@@ -3,10 +3,8 @@ title: 25-Capítulo 19. Anestésicos gerais e gases terapêuticos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 25-Capítulo 19. Anestésicos gerais e gases terapêuticos.pdf
 motor: PyMuPDF
 paginas: 38

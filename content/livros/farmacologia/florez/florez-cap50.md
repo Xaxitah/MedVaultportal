@@ -16,7 +16,6 @@ autores_capitulo:
   - J. Florez
   - J.A. Amado
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

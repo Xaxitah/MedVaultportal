@@ -28,7 +28,7 @@ _source: >-
 
 > **Fontes usadas neste resumo:**
 
-> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/02-Transcricoes/P1-11-Examen-Fisico]]`
+> - 📼 Transcrição: `[[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-11-Examen-Fisico]]`
 
 > - 📖 Livro: Llanio, R. *Propedéutica Clínica y Semiología Médica*, Tomo I, Cap. 4
 
@@ -506,7 +506,7 @@ OLHOS E FACE — EF Regional
 
 *Continua em: [[Tema-07-Parte-3-Torax-Mamas]]*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

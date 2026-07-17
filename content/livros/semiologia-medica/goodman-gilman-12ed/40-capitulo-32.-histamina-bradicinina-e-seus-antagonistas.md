@@ -3,10 +3,8 @@ title: '40-Capítulo 32. Histamina, bradicinina e seus antagonistas'
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: '40-Capítulo 32. Histamina, bradicinina e seus antagonistas.pdf'
 motor: PyMuPDF
 paginas: 26

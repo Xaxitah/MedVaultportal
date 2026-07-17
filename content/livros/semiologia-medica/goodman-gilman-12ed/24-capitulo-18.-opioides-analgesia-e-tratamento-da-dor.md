@@ -3,10 +3,8 @@ title: '24-Capítulo 18. Opioides, analgesia e tratamento da dor'
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: '24-Capítulo 18. Opioides, analgesia e tratamento da dor.pdf'
 motor: PyMuPDF
 paginas: 46

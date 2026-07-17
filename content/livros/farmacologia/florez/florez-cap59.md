@@ -12,7 +12,6 @@ autores_capitulo:
   - J.M. Lopez-Vega
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

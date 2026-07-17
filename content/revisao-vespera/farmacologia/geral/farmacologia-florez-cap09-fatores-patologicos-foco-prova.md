@@ -10,7 +10,6 @@ capitulo: 9
 paginas_livro: 156-177
 paginas_pdf: 174-195
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

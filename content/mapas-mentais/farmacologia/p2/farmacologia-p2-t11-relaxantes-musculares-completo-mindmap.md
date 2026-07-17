@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t11-relaxantes-musculares-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-11-Relaxantes-Musculares\P2-T11-Relaxantes-Musculares.md
 prova: P2

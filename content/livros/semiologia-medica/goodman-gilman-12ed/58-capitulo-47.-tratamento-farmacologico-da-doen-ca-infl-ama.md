@@ -3,10 +3,8 @@ title: '58-Capítulo 47. Tratamento farmacológico da doen ça infl amatória in
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: >-
   58-Capítulo 47. Tratamento farmacológico da doen ça infl amatória intestinal

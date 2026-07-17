@@ -53,29 +53,29 @@ _source: >-
 
 - Resumos completos de origem:
 
-  - [[../Resumos/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion]]
 
-  - [[../Resumos/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion]]
 
-  - [[../Resumos/P2-Tema-02-Sintomas-Respiratorios/P2-Tema-02-Sintomas-Respiratorios]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-02-Sintomas-Respiratorios/P2-Tema-02-Sintomas-Respiratorios]]
 
-  - [[../Resumos/P2-Tema-03-Estertores-Ruidos-Adventicios/P2-Tema-03-Estertores-Ruidos-Adventicios]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-03-Estertores-Ruidos-Adventicios/P2-Tema-03-Estertores-Ruidos-Adventicios]]
 
-  - [[../Resumos/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial/P2-Tema-04-Parte-1-Bronquitis-Obstruccion-Bronquial]]
 
-  - [[../Resumos/P2-Tema-04-Parte-2-Asma-Bronquiectasia/P2-Tema-04-Parte-2-Asma-Bronquiectasia]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-04-Parte-2-Asma-Bronquiectasia/P2-Tema-04-Parte-2-Asma-Bronquiectasia]]
 
-  - [[../Resumos/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia/P2-Tema-05-Parte-1-Enfisema-EPOC-Atelectasia]]
 
-  - [[../Resumos/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral/P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral]]
 
-  - [[../Resumos/P2-Tema-06-Parte-1-Derrame-Pleural/P2-Tema-06-Parte-1-Derrame-Pleural]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-1-Derrame-Pleural/P2-Tema-06-Parte-1-Derrame-Pleural]]
 
-  - [[../Resumos/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico]]
+  - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico]]
 
-- Aula/transcricao: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
+- Aula/transcricao: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
 
-- Slide/PDF: slides respiratorios P2 da Dra. Funez, conforme [[../../00-Controle/_Mapeamento-Transcricoes-P2]]
+- Slide/PDF: slides respiratorios P2 da Dra. Funez, conforme [[03-Disciplinas/Semiologia-Medica/00-Controle/_Mapeamento-Transcricoes-P2]]
 
 - Livro-base: Argente Caps 33, 35, 36, 38; Propedeutica Caps 8 e 9.
 
@@ -469,11 +469,11 @@ Sintoma principal
 
 
 
-- Mapa P2: [[../../00-Controle/_Mapa-Geral-P2]]
+- Mapa P2: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Mapa-Geral-P2]]
 
-- Prioridades P2: [[../../00-Controle/_Prioridades-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P2]]
 
-- Pendencias P2: [[../../00-Controle/_Pendencias-P2]]
+- Pendencias P2: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Pendencias-P2]]
 
 - Painel global P2: [[00-Meta/Painel-Geral-P2]]
 

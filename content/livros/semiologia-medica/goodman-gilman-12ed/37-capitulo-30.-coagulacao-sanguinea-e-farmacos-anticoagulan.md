@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   37-Capítulo 30. Coagulação sanguínea e fármacos anticoagulantes,
   fibrinolíticos e antiplaquetários.pdf

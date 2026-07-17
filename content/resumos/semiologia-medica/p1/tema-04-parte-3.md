@@ -7,9 +7,8 @@ tags:
   - exame-fisico-geral
   - pele
   - mucosas
-  - paneras
   - edema
-  - TCS
+  - tcs
 data: 23-04-2026
 disciplina: semiologia-medica
 tema: exame-fisico-geral
@@ -45,9 +44,9 @@ _source: >-
 
 > 💡 **Estrutura do Tema 04:**
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]]: marcha, biotipo, atitude, fácies → Trans 6
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]]: marcha, biotipo, atitude, fácies → Trans 6
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]]: talha, peso, IMC, temperatura, cor → Trans 8
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]]: talha, peso, IMC, temperatura, cor → Trans 8
 
 > - Parte 3 (esta): lesões de pele, mucosas, pâneras, edema → Trans 5
 
@@ -757,13 +756,13 @@ EF GERAL PARTE 3
 
 
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]] — marcha, biotipo, atitude, fácies*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]] — marcha, biotipo, atitude, fácies*
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]] — talha, peso, IMC, temperatura, cor*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2|Parte 2]] — talha, peso, IMC, temperatura, cor*
 
-*Ver também: [[Tema-05-Sinais-Vitais]] — temperatura e sinais vitais*
+*Ver também: [[P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1|Tema-05-Sinais-Vitais]] — temperatura e sinais vitais*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

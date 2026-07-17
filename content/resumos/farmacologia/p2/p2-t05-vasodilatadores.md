@@ -396,7 +396,7 @@ VASODILATADORES
 ---
 
 > **Navegação:**
-> ← [[P2-T01-IECA-ARA-II]] | [[_Prioridades-P2]] | [[_Guia-Fontes-P2]]
+> ← [[P2-T01-IECA-ARA-II]] | [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P2]] | [[_Guia-Fontes-P2]]
 > Parte 2: [[P2-T05-Vasodilatadores-Parte-2-Antagonistas-de-Calcio]]
 > Parte 3: [[P2-T05-Vasodilatadores-Parte-3-Antianginosos]]
 > → Próximo: [[P2-T04-Inotropicos-Positivos]]

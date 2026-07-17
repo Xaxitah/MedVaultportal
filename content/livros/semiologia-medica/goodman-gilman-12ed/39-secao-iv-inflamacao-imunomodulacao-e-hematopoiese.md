@@ -3,10 +3,8 @@ title: '39-Seção IV - Inflamação, imunomodulação e hematopoiese'
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: '39-Seção IV - Inflamação, imunomodulação e hematopoiese.pdf'
 motor: PyMuPDF
 paginas: 2

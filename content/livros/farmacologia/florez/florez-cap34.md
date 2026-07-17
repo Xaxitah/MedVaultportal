@@ -14,7 +14,6 @@ autores_capitulo:
   - M.F. Galindo
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

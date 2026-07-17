@@ -3,10 +3,8 @@ title: 29-Capítulo 23. Etanol e metanol
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 29-Capítulo 23. Etanol e metanol.pdf
 motor: PyMuPDF
 paginas: 20

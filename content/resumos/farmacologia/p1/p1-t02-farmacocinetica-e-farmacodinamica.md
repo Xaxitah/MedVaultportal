@@ -825,7 +825,7 @@ Imagine uma fila de espera:
 ## Navegação
 
 ← [[P1-T01-Bases-Farmacologicas-da-Terapeutica|T01 — Bases Farmacológicas]]
-[[_Prioridades-P1|Prioridades P1]]
+[[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1]]
 → [[P1-T03-Transportadores-de-Membrana-e-Metabolismo|T03 — Transportadores e Metabolismo]]
 
 ---

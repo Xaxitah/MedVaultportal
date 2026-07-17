@@ -12,7 +12,6 @@ paginas_total: 26
 autores:
   - J.A. Armijo
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -31,7 +31,7 @@ _source: >-
 > - 🖥️ Slide/PPTX: [[10-Afecciones-de-la-Fosa-Iliaca-Izquierda]]
 > - 📚 Livro: [[Vanuno-Cap27-transcricao-integral-capitulo]]
 > - ❓ Prova antiga: [[INST-EVAL-Trabajo-Academico-SEMIO-QCA-1-2]]
-> - 🖼️ Imagens: `03-Biblioteca-md/Imagens/afecciones-fosa-iliaca-izquierda-*.png` e [[vanuno-cap27-fig1-regiones-abdominales]]
+> - 🖼️ Imagens: `03-Biblioteca-md/Imagens/afecciones-fosa-iliaca-izquierda-*.png` e [[03-Disciplinas/Semiologia-Quirurgica/03-Biblioteca-md/Imagens/vanuno-cap27-fig1-regiones-abdominales]]
 
 > [!warning] Rastreamento P2
 > As fontes extraídas aparecem como `P1` em alguns frontmatters antigos, porque foram importadas antes da confirmação da parcial. Este resumo foi construído para **P2** por solicitação atual e preserva as fontes originais sem renomeá-las.
@@ -600,9 +600,9 @@ Dieta pobre en fibra + estreñimiento crónico → maior pressão intraluminal n
 
 ## Navegação
 
-- Voltar para prioridades P2: [[_Prioridades-P2]]
-- Ver mapeamento P2: [[_Mapeamento-Transcricoes-P2]]
-- Ver fontes P2: [[_Fontes-Relevantes-P2]]
+- Voltar para prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Ver mapeamento P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Mapeamento-Transcricoes-P2]]
+- Ver fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 - Ver lacunas: [[Relatorio-Lacunas-P2-T04-Fosa-Iliaca-Izquierda]]
 - Tema anterior relacionado: [[Tema-09-Afecciones-de-la-Fosa-Iliaca-Derecha]]
 

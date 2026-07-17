@@ -14,7 +14,6 @@ autores_capitulo:
   - A. Pazos
   - J. Pascual
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

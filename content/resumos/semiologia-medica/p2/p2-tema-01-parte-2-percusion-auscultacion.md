@@ -20,7 +20,7 @@ prova: P2
 data: 01-06-2026
 codigo-tema: P2-T01
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-2
 prioridade: altissima
 fontes:
@@ -33,11 +33,11 @@ fontes:
   - complementar: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio.md
   - pratica-nlm02: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio.md
   - pratica-nlm03: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-respiratorio-palpacao-expansividade-toracica-e-percussao-.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-respiratorio-palpacao-expansividade-toracica-e-percussao-.md
   - pratica-nlm08: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumo-detalhado-da-aula-sobre-exame-fisico-e-caso-clinico-de-paciente.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumo-detalhado-da-aula-sobre-exame-fisico-e-caso-clinico-de-paciente.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-01T00:00:00.000Z
@@ -53,13 +53,13 @@ _source: >-
 > Segue [[00-Meta/Guias/guia-estilo-resumos-medicos]] e os controles da P2.
 
 > **Fontes deste resumo:**
-> - 🎧 Transcricao: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
-> - 🖥️ Slide/PDF: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
+> - 🎧 Transcricao: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
+> - 🖥️ Slide/PDF: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
 > - 📚 Livro: [[07-Biblioteca-Geral/01-Livros/Propedeutica-Clinica-Semiologia-Medica-Tomo-I/09-exploracion-torax-sistema-respiratorio]]
 > - 📌 Complemento: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio]]
 > - 🖼️ Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
-> - 🎧 Pratica NLM-02: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio]]
-> - 🎧 Pratica NLM-03: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-respiratorio-palpacao-expansividade-toracica-e-percussao-]]
+> - 🎧 Pratica NLM-02: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---auscultacao-pulmonar-e-tecnicas-de-exame-fisico-respiratorio]]
+> - 🎧 Pratica NLM-03: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-respiratorio-palpacao-expansividade-toracica-e-percussao-]]
 
 ---
 

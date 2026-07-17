@@ -3,10 +3,8 @@ title: 12-Capítulo 7. Farmacogenética
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 12-Capítulo 7. Farmacogenética.pdf
 motor: PyMuPDF
 paginas: 24

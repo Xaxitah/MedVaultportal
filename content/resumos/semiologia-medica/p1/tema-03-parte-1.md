@@ -31,7 +31,7 @@ _source: >-
 > - 📖 Llanio Navarro, R. *Propedêutica Clínica e Semiologia Médica*, Tomo I, Cap. 23, p. 309–331
 
 > 💡 **Relação com outros temas:**
-> A História Clínica é a estrutura que CONTÉM a [[Tema-02-Anamnese|Anamnese]].
+> A História Clínica é a estrutura que CONTÉM a [[P1-Tema-02-Anamnese/Tema-02-Parte-1|Anamnese]].
 > Antes de estudar anamnese, entenda o documento todo.
 
 ---
@@ -266,8 +266,8 @@ HISTORIA CLÍNICA
 │   └── Diagnóstico: Clínico → Sindrômico → Nosológico
 │
 ├── COMPONENTES
-│   ├── Interrogatório (= Anamnese) → [[Tema-02-Anamnese]]
-│   └── Exame Físico → [[Tema-04-Exame-Fisico-Geral]]
+│   ├── Interrogatório (= Anamnese) → [[P1-Tema-02-Anamnese/Tema-02-Parte-1|Tema-02-Anamnese]]
+│   └── Exame Físico → [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]]
 │
 ├── NÍVEIS DE ATENÇÃO
 │   ├── 1° Primária → policlínico, acesso direto
@@ -327,9 +327,9 @@ HISTORIA CLÍNICA
 
 ---
 
-*Ver também: [[Tema-02-Anamnese]] — componente de interrogatório da HC*
-*Ver também: [[Tema-04-Exame-Fisico-Geral]] — componente de EF da HC*
-*Voltar para: [[_Prioridades-P1]]*
+*Ver também: [[P1-Tema-02-Anamnese/Tema-02-Parte-1|Tema-02-Anamnese]] — componente de interrogatório da HC*
+*Ver também: [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]] — componente de EF da HC*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 ---

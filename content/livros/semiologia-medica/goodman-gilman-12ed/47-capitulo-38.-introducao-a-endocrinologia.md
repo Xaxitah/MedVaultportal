@@ -3,10 +3,8 @@ title: 47-Capítulo 38. Introdução à endocrinologia
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - endocrinologia
 source_pdf: 47-Capítulo 38. Introdução à endocrinologia.pdf
 motor: PyMuPDF

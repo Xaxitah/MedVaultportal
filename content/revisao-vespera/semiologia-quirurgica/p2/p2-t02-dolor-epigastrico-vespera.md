@@ -34,7 +34,7 @@ _source: >-
 - Resumo completo de origem: [[P2-T02-Dolor-Epigastrico-Parte-1]] + [[P2-T02-Dolor-Epigastrico-Parte-2]]
 - Aula/transcricao: [[sindrome-epigastrico]]
 - Slide/PDF: [[8-dolor-en-epigastrio-epigastralgia-dispepsia]]
-- Controle P2: [[_Prioridades-P2]] | [[_Fontes-Relevantes-P2]] | [[_Mapeamento-Transcricoes-P2]]
+- Controle P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Mapeamento-Transcricoes-P2]]
 - Livro-base: Vanuno - Cap. 23, citado nos slides, ainda nao extraido diretamente no vault
 - Grau de confiabilidade: **alto**, com lacuna de extracao direta do Vanuno Cap. 23.
 
@@ -261,6 +261,6 @@ Na prova, organize por **tipo de dor + relacao com alimento + sinais associados 
 - Resumo completo Parte 2: [[P2-T02-Dolor-Epigastrico-Parte-2]]
 - Revisao de vespera anterior: [[P2-T01-Abdome-Agudo-Hemorragico-Vespera]]
 - Proximo tema de vespera: [[P2-T03-Fosa-Iliaca-Derecha-Vespera]]
-- Prioridades P2: [[_Prioridades-P2]]
-- Fontes P2: [[_Fontes-Relevantes-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 

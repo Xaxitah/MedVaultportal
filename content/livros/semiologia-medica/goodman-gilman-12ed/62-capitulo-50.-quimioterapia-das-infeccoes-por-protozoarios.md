@@ -3,10 +3,8 @@ title: 62-Capítulo 50. Quimioterapia das infecções por protozoários
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 62-Capítulo 50. Quimioterapia das infecções por protozoários.pdf
 motor: PyMuPDF
 paginas: 24

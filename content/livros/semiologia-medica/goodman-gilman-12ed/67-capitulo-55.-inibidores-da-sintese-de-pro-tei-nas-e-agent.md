@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   67-Capítulo 55. Inibidores da síntese de pro teí nas e agentes antibacterianos
   diversos.pdf

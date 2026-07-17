@@ -16,7 +16,6 @@ autores_capitulo:
   - A. Sanchez-Garcia
   - J. Saiz
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

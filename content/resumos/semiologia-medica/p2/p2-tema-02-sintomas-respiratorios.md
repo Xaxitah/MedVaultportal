@@ -16,7 +16,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T02
 tipo: resumo
-status: revisando
+status: revisado
 parte: unica
 prioridade: alta
 fontes:
@@ -25,7 +25,7 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/33-motivos-de-consulta-del-aparato-respiratorio.md
   - pratica-nlm01: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-02T00:00:00.000Z
@@ -41,9 +41,9 @@ _source: >-
 > Ele deve ser lido depois de IPPA e estertores, porque transforma queixa em raciocinio semiologico.
 
 > **Fontes deste resumo:**
-> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
+> - 🖥️ Slide principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-01-Dra-Funez]]
 > - 📚 Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/33-motivos-de-consulta-del-aparato-respiratorio]]
-> - 🎧 Pratica NLM-01: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via]]
+> - 🎧 Pratica NLM-01: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via]]
 > - 🖼️ Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
 ---
@@ -319,6 +319,23 @@ Tipos principais:
 | Mediastinico | retroesternal, pode ser sordo ou agudo | mediastinite, pneumomediastino, tumor |
 | Parietal | localizavel "na ponta do dedo", piora a palpacao | costela, musculo, articulacao |
 
+> [!tip] 💡 Como interrogar a dor torácica — ALICIA FREDUSA (Dra. Fúnez — 4ª Aula HC)
+> Para qualquer dor no interrogatório, aplicar o protocolo sistemático:
+>
+> | Letra | Pergunta | Exemplo em dor torácica |
+> |---|---|---|
+> | **A**parición | Quando começou? Forma de início? | Brusca (pneumotórax, embolia) vs progressiva (pleurite, câncer) |
+> | **L**ocalización | Onde é a dor? | Precordial, retroesternal, lateral, difusa |
+> | **I**rradiación | Irradia? Para onde? | Braço E/mandíbula (cardíaco) · dorso (dissecção) · ombro (diafragma) |
+> | **C**arácter | Como é? | Puntada/facada (pleural) · opressiva (cardíaca) · urente (traqueobronquial) |
+> | **I**ntensidade | Escala 0–10 | Pneumotórax: intensa · pleurite: moderada |
+> | **A**tenuación | Com que melhora? | Sentado: pericardite · deixar de respirar: pleurite · repouso+nitrato: angina |
+> | **FRE**cuencia | 1ª vez ou recorrente? | Angina: recorrente · embolia/pneumotórax: geralmente 1ª vez |
+> | **DU**ración | Quanto tempo dura? | Angina <20 min · IAM >20 min · pleurite: contínua |
+> | **S**íntomas **A**sociados | Outros sintomas? | Dispneia, febre, tosse, sudorese, cianose, palpitações |
+>
+> Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
+
 > [!danger] Pegadinha
 > Dor toracica sempre exige descartar causas graves. Mesmo em resumo respiratorio, nao esquecer origem cardiaca em dor toracica.
 
@@ -427,6 +444,13 @@ Na aula prática, a professora organizou os grandes grupos assim:
 
 > [!tip] Como memorizar a sequencia
 > **Queixa - Exposicao - Antecedente - Caracteristica - Associados - Exame.**
+
+> [!important] Regra 80/20 — Anamnese + Exame Físico (Dra. Fúnez — 4ª Aula HC)
+> *"Se realizada adecuadamente la **anamnesis y el examen físico**, ya tendremos un **80% de nuestro diagnóstico**; el otro **20%** lo aportarán las **pruebas complementarias**."*
+>
+> Em sintomas respiratórios: tosse produtiva + febre + achados auscultatórios já orientam o diagnóstico antes do RX.
+>
+> Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

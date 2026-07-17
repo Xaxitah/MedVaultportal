@@ -384,4 +384,4 @@ Antianginosos
 > - Parte anterior: [[P2-T05-Vasodilatadores-Parte-2-Antagonistas-de-Calcio]]
 > - Relacionados: [[P2-T01-IECA-ARA-II]] | [[P2-T02-Betabloqueantes]]
 > - Proximo subtema planejado: [[P2-T05-Vasodilatadores-Parte-4-Antiarritmicos]]
-> - Controle: [[_Prioridades-P2]] | [[_Pendencias-P2]] | [[Plano-Acao-Farmacologia-P2-12-06-2026]]
+> - Controle: [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Farmacologia/00-Controle/_Pendencias-P2]] | [[Plano-Acao-Farmacologia-P2-12-06-2026]]

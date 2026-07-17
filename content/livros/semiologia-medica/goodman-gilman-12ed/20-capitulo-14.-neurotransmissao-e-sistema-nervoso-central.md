@@ -3,10 +3,8 @@ title: 20-Capítulo 14. Neurotransmissão e sistema nervoso central
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 20-Capítulo 14. Neurotransmissão e sistema nervoso central.pdf
 motor: PyMuPDF
 paginas: 34

@@ -3,10 +3,8 @@ title: 70-Capítulo 58. Agentes antivirais (não retrovirais)
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 70-Capítulo 58. Agentes antivirais (não retrovirais).pdf
 motor: PyMuPDF
 paginas: 30

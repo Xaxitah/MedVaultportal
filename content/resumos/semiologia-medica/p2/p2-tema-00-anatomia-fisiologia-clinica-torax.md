@@ -6,7 +6,7 @@ tema: anatomia-fisiologia-clinica-torax
 fonte: 08-anatomia-fisiologia-clinicas-torax | banco-de-imagens-respiratorio
 data: 28-04-2026
 codigo-tema: P2-T00
-status: revisando
+status: revisado
 parte: apoio
 prioridade: media
 tags:
@@ -55,7 +55,7 @@ _source: >-
 
 - Transcricao principal: nao usada como fonte principal neste resumo.
 
-- Transcricao complementar: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]] apenas como contexto geral do bloco respiratorio.
+- Transcricao complementar: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]] apenas como contexto geral do bloco respiratorio.
 
 - Slide/PDF usado: nao ha slide especifico de anatomia/fisiologia para este T00.
 
@@ -247,7 +247,7 @@ O pacote vasculonervoso intercostal passa junto ao borde inferior da costilla. P
 
 
 
-![Pleura e parede toracica anterior](../../../../pleura-pared-toracica-anterior.png)
+![[pleura-pared-toracica-anterior.png|Pleura e parede toracica anterior]]
 
 
 
@@ -267,7 +267,7 @@ O exame fisico precisa de topografia porque o que a mao, o dedo ou o estetoscopi
 
 
 
-![Projecoes viscerais frontais](../../../../proyecciones-viscerales-frontal.png)
+![[proyecciones-viscerales-frontal.png|Projecoes viscerais frontais]]
 
 
 
@@ -291,7 +291,7 @@ Os bronquios se ramificam ate bronquiolos respiratorios. Dos bronquiolos respira
 
 
 
-![Unidade funcional do pulmao](../../../../unidad-funcional-pulmon.png)
+![[unidad-funcional-pulmon.png|Unidade funcional do pulmao]]
 
 
 
@@ -715,15 +715,15 @@ Estrategia para TDAH:
 
 
 
-- Voltar para prioridades: [[../../../00-Controle/_Prioridades-P2]]
+- Voltar para prioridades: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P2]]
 
-- Ver mapeamento de fontes/transcricoes: [[../../../00-Controle/_Mapeamento-Transcricoes-P2]]
+- Ver mapeamento de fontes/transcricoes: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Mapeamento-Transcricoes-P2]]
 
-- Ver fontes relevantes: [[../../../00-Controle/_Fontes-Relevantes-P2]]
+- Ver fontes relevantes: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Fontes-Relevantes-P2]]
 
-- Resumo central relacionado: [[../P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion]]
+- Resumo central relacionado: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-1-Inspeccion-Palpacion/P2-Tema-01-Parte-1-Inspeccion-Palpacion]]
 
-- Proximo bloco de estudo: [[../P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion]]
+- Proximo bloco de estudo: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-01-Parte-2-Percusion-Auscultacion/P2-Tema-01-Parte-2-Percusion-Auscultacion]]
 
 
 
@@ -808,4 +808,3 @@ python notebooklm_pipeline.py --vault-files "03-Disciplinas\Semiologia-Medica\Re
 
 
 Guia: 00-Meta/Guias/guia-pipeline-notebooklm-resumos.md
-

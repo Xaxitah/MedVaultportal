@@ -645,7 +645,7 @@ ANTIANÊMICOS
 
 ← [[P1-T06-AINES|T06 — AINEs]]
 → [[P1-T08-Anticonvulsivantes|T08 — Anticonvulsivantes e Antiepilépticos]]
-↑ [[MED-Vault/03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
+↑ [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
 
 
 ---

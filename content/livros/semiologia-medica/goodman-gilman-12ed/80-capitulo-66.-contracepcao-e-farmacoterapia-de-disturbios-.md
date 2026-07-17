@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - ginecologia
 source_pdf: >-
   80-Capítulo 66. Contracepção e farmacoterapia de distúrbios ginecológicos e

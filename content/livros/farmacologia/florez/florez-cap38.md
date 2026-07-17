@@ -11,7 +11,6 @@ paginas_pdf: 633-650
 autores_capitulo:
   - J. Tamargo
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

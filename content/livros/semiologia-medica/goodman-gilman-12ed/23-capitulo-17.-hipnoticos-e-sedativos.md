@@ -3,10 +3,8 @@ title: 23-Capítulo 17. Hipnóticos e sedativos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 23-Capítulo 17. Hipnóticos e sedativos.pdf
 motor: PyMuPDF
 paginas: 24

@@ -3,10 +3,8 @@ title: 81-Capítulo 67. Toxicologia ambiental
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 81-Capítulo 67. Toxicologia ambiental.pdf
 motor: PyMuPDF
 paginas: 26

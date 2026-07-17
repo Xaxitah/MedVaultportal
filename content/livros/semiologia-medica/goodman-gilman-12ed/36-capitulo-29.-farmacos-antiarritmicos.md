@@ -3,10 +3,8 @@ title: 36-Capítulo 29. Fármacos antiarrítmicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 36-Capítulo 29. Fármacos antiarrítmicos.pdf
 motor: PyMuPDF
 paginas: 34

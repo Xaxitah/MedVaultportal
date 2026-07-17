@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t05-vasodilatadores-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-05-Vasodilatadores\P2-T05-Vasodilatadores.md
 prova: P2

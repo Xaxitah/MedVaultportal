@@ -811,9 +811,9 @@ HISTÓRIA DA ÉTICA MÉDICA
 
 *Continua em: [[Tema-08-Parte-2]] (se houver) — Declarações internacionais detalhadas (quando slides da Aula 1 forem disponibilizados)*
 
-*Parte anterior: [[../Tema-02-Etica-Medica/Tema-02-Parte-1]] — Definições e fundamentos*
+*Parte anterior: [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-02-Etica-Medica/Tema-02-Parte-1]] — Definições e fundamentos*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Etica-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

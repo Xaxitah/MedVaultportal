@@ -13,7 +13,6 @@ autores_capitulo:
   - J.M. Garcia-Lobo
   - J. Florez
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

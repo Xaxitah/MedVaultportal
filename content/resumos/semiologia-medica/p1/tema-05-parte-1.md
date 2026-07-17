@@ -386,9 +386,9 @@ SINAIS VITAIS
 
 ---
 
-*Ver também: [[Tema-04-Exame-Fisico-Geral]] — contexto onde os sinais vitais são avaliados*
-*Ver também: [[Tema-06-IPPA]] — técnicas de exame físico (inclui ausculta)*
-*Voltar para: [[_Prioridades-P1]]*
+*Ver também: [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]] — contexto onde os sinais vitais são avaliados*
+*Ver também: [[P1-Tema-06-IPPA/Tema-06-Parte-1|Tema-06-IPPA]] — técnicas de exame físico (inclui ausculta)*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 ---

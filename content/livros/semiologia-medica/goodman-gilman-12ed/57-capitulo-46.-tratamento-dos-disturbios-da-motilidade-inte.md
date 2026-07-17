@@ -6,10 +6,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   57-Capítulo 46. Tratamento dos distúrbios da motilidade intestinal e do fluxo
   da água; antieméticos; fármacos usados nas doen ças biliares e

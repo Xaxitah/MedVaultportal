@@ -18,7 +18,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T05
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-1
 prioridade: alta
 fontes:
@@ -27,7 +27,7 @@ fontes:
   - livro: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias.md
   - pratica-nlm06: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-03T00:00:00.000Z
@@ -43,7 +43,7 @@ _source: >-
 > A Parte 2 continua com [[P2-Tema-05-Parte-2-Neumonia-Bronconeumonia-Condensacion-Tumoral]].
 
 > **Fontes deste resumo:**
-> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-03-Dra-Funez]]
+> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-03-Dra-Funez]]
 > - Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias]]
 > - Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
@@ -244,6 +244,9 @@ Em linguagem curta:
 
 📌 O Argente destaca que, quando a atelectasia e obstrutiva, os achados indicam reducao da ventilacao da area: menor expansao, menor excursao, reducao/abolicao das vibraciones vocales e murmullo vesicular reduzido/abolido.
 
+![[cap36-fig05-p10.jpg]]
+*Llanio Cap 36 — Atelectasia: pulmão colapsado e retraído junto ao mediastino (escuro/reduzido), enquanto o lado contralateral aparece expandido. Diferenciar de pneumonia: na atelectasia, retração; na pneumonia, expansão mantida com consolidação.*
+
 ---
 
 ### 3.6 Tipos de atelectasia por calibre do bronquio
@@ -298,6 +301,26 @@ Na atelectasia parcial:
 
 > [!danger] Pegadinha de prova
 > Derrame pleural grande empurra mediastino para o lado oposto. Atelectasia masiva puxa mediastino para o lado afetado.
+
+---
+
+### 3.9 Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+| Tipo de Diagnóstico | O que representa | Exemplo em EPOC/Atelectasia |
+|---|---|---|
+| **Diagnóstico Clínico** | Sintomas e signos do paciente | Disnea progressiva + torax em tonel + hipersonoridade · Opacidade + retração hemitorax |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam os achados | Síndrome Enfisematoso · Síndrome de Condensação Atelectásica |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | EPOC por tabagismo · Atelectasia por corpo estranho / tumor |
+
+> [!note] Formas de início na HC (Slide HC — Dra. Fúnez)
+> - **EPOC/Enfisema** = doença **crônica** (curso insidioso, progressivo); paciente chega com história longa de tabagismo/irritantes.
+> - **Atelectasia masiva** = pode ser **aguda** (corpo estranho, pós-cirúrgica) ou instalação gradual (tumor compressivo).
+>
+> Na HEA registrar: ¿Cuándo empezó? · ¿Es la primera vez? · ¿Cómo evolucionó? · Exposição a tabaco e irritantes.
+
+> ⚠️ Diagnósticos **provisórios** na HC — se confirmarão com espirometria, RX, TC.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

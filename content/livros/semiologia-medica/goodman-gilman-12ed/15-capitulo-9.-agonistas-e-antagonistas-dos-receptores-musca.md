@@ -3,10 +3,8 @@ title: 15-Capítulo 9. Agonistas e antagonistas dos receptores muscarínicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 15-Capítulo 9. Agonistas e antagonistas dos receptores muscarínicos.pdf
 motor: PyMuPDF
 paginas: 20

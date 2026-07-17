@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t08-aines-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-08-AINEs\P2-T08-AINEs-Parte-1.md,
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-08-AINEs\P2-T08-AINEs-Parte-2.md

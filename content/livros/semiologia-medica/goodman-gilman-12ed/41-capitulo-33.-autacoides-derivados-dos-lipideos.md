@@ -3,10 +3,8 @@ title: 41-Capítulo 33. Autacoides derivados dos lipídeos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 41-Capítulo 33. Autacoides derivados dos lipídeos.pdf
 motor: PyMuPDF
 paginas: 21

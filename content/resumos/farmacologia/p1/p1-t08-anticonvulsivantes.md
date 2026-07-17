@@ -603,7 +603,7 @@ ANTICONVULSIVANTES
 
 ← [[P1-T07-Antianemicos|T07 — Antianêmicos]]
 → [[P1-T09-Ansioliticos-e-Hipnoticos|T09 — Ansiolíticos e Hipnóticos]]
-↑ [[MED-Vault/03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
+↑ [[03-Disciplinas/Farmacologia/00-Controle/_Prioridades-P1|Prioridades P1 — Farmacologia]]
 
 
 ---

@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t02-betabloqueantes-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-02-Betabloqueantes\P2-T02-Betabloqueantes.md
 prova: P2

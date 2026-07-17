@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t06-hemostasia-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-06-Hemostasia\P2-T06-Hemostasia.md
 prova: P2

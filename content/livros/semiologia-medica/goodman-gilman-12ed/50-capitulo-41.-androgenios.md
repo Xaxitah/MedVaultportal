@@ -3,10 +3,8 @@ title: 50-Capítulo 41. Androgênios
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 50-Capítulo 41. Androgênios.pdf
 motor: PyMuPDF
 paginas: 14

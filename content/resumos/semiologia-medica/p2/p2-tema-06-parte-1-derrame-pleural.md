@@ -18,7 +18,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T06
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-1
 prioridade: alta
 fontes:
@@ -29,9 +29,9 @@ fontes:
   - livro_complementar: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/38-interpretacion-clinica-y-enfoque-diagnostico.md
   - pratica-nlm06: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-.md
   - pratica-nlm07: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-03T00:00:00.000Z
@@ -47,11 +47,11 @@ _source: >-
 > A Parte 2 fica para [[P2-Tema-06-Parte-2-Neumotorax-Gap-Critico]], porque neumotorax e gap sem slide especifico.
 
 > **Fontes deste resumo:**
-> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-05-Dra-Funez]]
+> - Slide/PDF principal: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Sintomas-Sindromes-Respiratorio-Slide-05-Dra-Funez]]
 > - Complemento bibliografico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/36-sindromes-y-patologias-respiratorias]]
 > - Complemento diagnostico: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/38-interpretacion-clinica-y-enfoque-diagnostico]]
-> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
-> - 🎧 Pratica NLM-07: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare]]
+> - 🎧 Pratica NLM-06: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-de-temas-clinicos-asma-examen-fisico-respiratorio-y-]]
+> - 🎧 Pratica NLM-07: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare]]
 > - Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
 ---
@@ -346,6 +346,27 @@ Slide-05:
 
 > [!warning] Para a prova oral
 > Se perguntarem "causas de hemoptise", dar essas 5 em ordem de frequência/importância. Tuberculose sempre na primeira posição no contexto desta disciplina.
+
+---
+
+### 3.12 Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+| Tipo de Diagnóstico | O que representa | Exemplo em derrame pleural |
+|---|---|---|
+| **Diagnóstico Clínico** | Sintomas e signos do paciente | Dor em facada + disnea + matidez em parábola de Damoiseau |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam os achados | Síndrome de Interposição Líquida (derrame pleural) |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | Derrame exudativo por pneumonia · Trasudado por IC descompensada · Exudado por TBC |
+
+> [!note] Formas de início na HC (Slide HC — Dra. Fúnez)
+> - **Derrame por pneumonia** = início **agudo** (febre + dor + dispneia em horas/dias).
+> - **Derrame por ICC** = curso **subagudo/crônico** (ortopneia + edema progressivos).
+> - **Derrame por tumor ou TBC** = instalação **lenta**, com sintomas insidiosos.
+>
+> Na HEA registrar: ¿Cuándo empezó? · ¿Cómo evolucionó? · Antecedentes de cardiopatia, TBC, câncer.
+
+> ⚠️ Diagnósticos **provisórios** na HC — se confirmarão com RX, toracocentese e critérios de Light.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

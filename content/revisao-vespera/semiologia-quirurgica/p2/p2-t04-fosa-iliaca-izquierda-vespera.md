@@ -297,6 +297,6 @@ Dieta pobre em fibra + pouca agua
 - Relatorio de lacunas: [[Relatorio-Lacunas-P2-T04-Fosa-Iliaca-Izquierda]]
 - Revisao de vespera anterior: [[P2-T03-Fosa-Iliaca-Derecha-Vespera]]
 - Proximo tema de vespera: [[P2-T05-Sindrome-Biliar-Sx-Del-HD-Vespera]]
-- Prioridades P2: [[_Prioridades-P2]]
-- Fontes P2: [[_Fontes-Relevantes-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 

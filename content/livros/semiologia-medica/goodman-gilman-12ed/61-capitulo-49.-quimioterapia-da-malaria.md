@@ -3,10 +3,8 @@ title: 61-Capítulo 49. Quimioterapia da malária
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 61-Capítulo 49. Quimioterapia da malária.pdf
 motor: PyMuPDF
 paginas: 36

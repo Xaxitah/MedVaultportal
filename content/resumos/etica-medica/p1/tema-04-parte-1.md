@@ -702,9 +702,9 @@ PRINCÍPIOS BIOÉTICOS — JBAN
 
 *Continua em: [[Tema-04-Parte-2]] — se necessário (aplicação avançada em dilemas clínicos)*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Etica-Medica/00-Controle/_Prioridades-P1]]*
 
-*Ver também: [[Tema-03-Parte-1]] | [[Tema-07-Parte-1]] | [[Tema-08-Parte-1]]*
+*Ver também: [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-03-Bioetica/Tema-03-Parte-1]] | [[Tema-07-Parte-1]] | [[03-Disciplinas/Etica-Medica/Revisao/Resumos/P1/P1-Tema-08-Historia-Etica-Medica/Tema-08-Parte-1]]*
 
 
 

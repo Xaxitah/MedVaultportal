@@ -3,10 +3,8 @@ title: 33-Capítulo 26. Renina e angiotensina
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 33-Capítulo 26. Renina e angiotensina.pdf
 motor: PyMuPDF
 paginas: 24

@@ -2,7 +2,6 @@
 tipo: livro-capitulo
 disciplina: farmacologia
 tags:
-  - biblioteca-geral
   - livro-capitulo
   - goodman-gilman
   - farmacologia

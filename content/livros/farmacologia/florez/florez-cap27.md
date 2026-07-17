@@ -12,7 +12,6 @@ source_pdf: dokumen.pub_farmacologia-humana-jesus-florez-6-edicion.pdf
 pdf_capitulo: Farmacologia-Florez-cap27-farmacos-ansioliticos-sedantes-trastornos-sueno.pdf
 status: revisando
 tags:
-  - medicina
   - farmacologia
   - florez-6ed
   - sistema-nervioso-central

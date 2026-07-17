@@ -3,10 +3,8 @@ title: 79-Capítulo 65. Farmacologia dermatológica
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
   - dermatologia
 source_pdf: 79-Capítulo 65. Farmacologia dermatológica.pdf

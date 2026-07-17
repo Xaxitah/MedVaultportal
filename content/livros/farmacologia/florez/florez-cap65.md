@@ -18,7 +18,6 @@ autores_capitulo:
   - J.R. Azanza
   - B. Sadaba
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

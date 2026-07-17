@@ -702,6 +702,40 @@ Esses ruídos formam a base para reconhecer alterações auscultatórias.
 
 ---
 
+### Distribuição topográfica do murmúrio vesicular
+
+O **murmúrio vesicular** (*murmullo vesicular*) é mais intenso no hemitórax direito, pelo maior calibre do brônquio desse lado.
+
+No plano anterior, é mais intenso na região infraclavicular, especialmente nos dois primeiros espaços intercostais.
+
+No plano axilar, é mais intenso na parte alta do que na região infraaxilar.
+
+---
+
+No plano posterior, a intensidade diminui nesta ordem:
+
+1. Região interescapulovertebral: maior.
+2. Região infraescapular: menos intensa.
+3. Região supraescapular: menor ainda.
+4. Região escapular: mínima, pela lâmina óssea da escápula e pela musculatura.
+
+O murmúrio vesicular é tanto mais intenso quanto menor a espessura e maior a elasticidade do tórax.
+
+---
+
+### Variações fisiológicas do murmúrio vesicular
+
+Por **idade**:
+
+1. Na criança, o murmúrio vesicular é intenso e agudo. A respiração suplementar é chamada **pueril** (*pueril*), pela semelhança com a respiração infantil.
+2. No idoso, a expiração se alonga, recebendo o nome de **respiração enfisematosa** (*respiración enfisematosa*).
+
+Por **sexo**:
+
+Na mulher, a respiração é menos intensa no conjunto, mas o murmúrio vesicular pode ser mais intenso e agudo na porção superior do tórax, pelo tipo respiratório costal superior.
+
+---
+
 ## 5. Correlação Clínica
 
 A inspeção da forma torácica permite reconhecer alterações estruturais.

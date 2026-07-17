@@ -13,7 +13,7 @@ tags:
   - cap-08
   - livro-capitulo
 _source: >-
-  07-Biblioteca-Geral/01-Livros/LLANIO-Propedeutica-Clinica-Tomo-I/LLANIO-Tomo-1-Cap-08-ANATOMIAY-FISIOLOGIA-CLINICAS-DEL-TORAX.md
+  07-Biblioteca-Geral/01-Livros/LLANIO-Propedeutica-Clinica-Tomo-I/LLANIO-Tomo-1-Cap-08-ANATOMIA-Y-FISIOLOGIA-CLINICAS-DEL-TORAX.md
 ---
 
 # Cap 8 — ANATOMÍAY FISIOLOGÍA CLÍNICAS DEL TÓRAX ...
@@ -22,7 +22,7 @@ _source: >-
 > 📚 LLANIO — *Propedéutica Clínica y Semiología Médica*, Tomo 1, Capítulo 8  
 > 📌 Texto bruto fornecido no handoff — páginas 80 a 90  
 > 🖼️ Imagens disponíveis: 15 figuras em `imagens/cap08/`  
-> ⚠️ Trecho final do capítulo aparece truncado no material fornecido: conteúdo posterior ao início de “Intercambio gaseoso” precisa ser conferido na fonte original.
+> ✅ Capítulo completo: o final da seção de intercâmbio gasoso foi reconciliado em 16-06-2026 a partir da extração narrativa anterior (pasta legada `Propedeutica-Clinica-Semiologia-Medica-Tomo-I`, arquivada em `99-Arquivo/`).
 
 ---
 
@@ -713,8 +713,24 @@ Nos capilares e veias, onde a tensão é de 40 mm Hg, satura-se de 75% a 85% da 
 
 Como 5% da hemoglobina arterial permanece insaturada, resta aproximadamente 1 mL de oxigênio por combinar em 100 mL de sangue.
 
-> [!warning]
-> O trecho final do capítulo foi truncado no material recebido. A continuação sobre sangue bronquial e intercâmbio gasoso precisa ser conferida na fonte original.
+---
+
+Parte do sangue da circulação bronquial não passa pelo circuito de oxigenação alveolar, o que também contribui para que a saturação arterial não atinja 100% absolutos.
+
+A tensão de CO2 alveolar é considerada semelhante à tensão capilar, pela alta difusibilidade dos gases, sendo normalmente de **40-43 mm Hg**.
+
+---
+
+### Resumo funcional do mecanismo respiratório
+
+O mecanismo da respiração exige três condições:
+
+1. Chegada de quantidade mínima de O2 do meio externo ao alvéolo.
+2. Transporte adequado de O2 do alvéolo aos tecidos e de CO2 dos tecidos ao alvéolo.
+3. Intercâmbio gasoso adequado entre as células dos tecidos e o sangue.
+
+> [!info] Para raciocínio clínico
+> Em dispneia, hipoxemia ou alteração ventilatória, o problema pode estar em qualquer nível: entrada de ar, ventilação alveolar, difusão, transporte pela hemoglobina, perfusão ou uso tecidual.
 
 ---
 
@@ -1190,4 +1206,4 @@ Usar as figuras do capítulo para revisar em blocos:
 ---
 
 > [!note]
-> Pendência de conferência: o texto fornecido termina truncado durante a seção de **Intercambio gaseoso** (*intercâmbio gasoso*). Para versão 100% completa, conferir a continuação diretamente no LLANIO Tomo 1, Capítulo 8.
+> Capítulo reconciliado em 16-06-2026. O final da seção de intercâmbio gasoso (tensão de CO2 alveolar e resumo funcional do mecanismo respiratório) foi integrado a partir da extração narrativa anterior. A versão legada foi arquivada em `99-Arquivo/`.

@@ -6,9 +6,6 @@ tags:
   - farmacologia
   - p2-t04-inotropicos-positivos-completo
   - mapa-mental
-  - notebooklm
-  - mapa-mental
-  - visual
 fonte: >-
   03-Disciplinas\Farmacologia\Revisao\Resumos\P2-Tema-04-Inotropicos-Positivos\P2-T04-Inotropicos-Positivos.md
 prova: P2

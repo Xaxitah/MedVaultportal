@@ -3,10 +3,8 @@ title: 66-Capítulo 54. Aminoglicosídeos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 66-Capítulo 54. Aminoglicosídeos.pdf
 motor: PyMuPDF
 paginas: 16

@@ -3,10 +3,8 @@ title: 45-Capítulo 37. Agentes hematopoiéticos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 45-Capítulo 37. Agentes hematopoiéticos.pdf
 motor: PyMuPDF
 paginas: 34

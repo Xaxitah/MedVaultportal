@@ -3,10 +3,8 @@ title: 8-Capítulo 3. Farmacodinâmica mecanismos de ação dos fármacos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 8-Capítulo 3. Farmacodinâmica mecanismos de ação dos fármacos.pdf
 motor: PyMuPDF
 paginas: 32

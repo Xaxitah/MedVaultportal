@@ -7,11 +7,10 @@ tags:
   - t06-sindromes-pleurais
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-1-Derrame-Pleural/P2-Tema-06-Parte-1-Derrame-Pleural.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico.md,
-  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
+  03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
 prova: ''
 data: 03-06-2026
 status: construindo
@@ -29,7 +28,7 @@ _source: >-
 
 # Mapa Mental — T06-Sindromes-Pleurais
 
-> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-1-Derrame-Pleural/P2-Tema-06-Parte-1-Derrame-Pleural.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
+> **Fonte:** 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-1-Derrame-Pleural/P2-Tema-06-Parte-1-Derrame-Pleural.md, 03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P2/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico/P2-Tema-06-Parte-2-Neumotorax-Gap-Critico.md, 03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---resumen-detallado-sobre-examen-fisico-respiratorio-sindromes-pulmonare.md
 > **Gerado em:** 03-06-2026 via NotebookLM
 > **Tema declarado:** `T06-Sindromes-Pleurais` | **Disciplina:** `semiologia-medica`
 

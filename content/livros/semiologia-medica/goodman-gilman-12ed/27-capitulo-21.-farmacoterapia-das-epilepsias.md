@@ -3,10 +3,8 @@ title: 27-Capítulo 21. Farmacoterapia das epilepsias
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 27-Capítulo 21. Farmacoterapia das epilepsias.pdf
 motor: PyMuPDF
 paginas: 26

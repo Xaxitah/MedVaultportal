@@ -8,9 +8,8 @@ tags:
   - cap05-semiologia-del-dolor
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
-  K:\Work\Obsidian Claud\Med
+  E:\Work\Obsidian Claud\Med
   Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
 prova: ''
 data: 25-05-2026
@@ -32,7 +31,7 @@ _source: >-
 
 # Mapa Mental — Semiologia del Dolor Vanuno Cap5
 
-> **Fonte:** K:\Work\Obsidian Claud\Med Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
+> **Fonte:** E:\Work\Obsidian Claud\Med Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
 > **Gerado em:** 25-05-2026 via NotebookLM
 > **Tema declarado:** `Cap05-Semiologia-del-dolor` | **Disciplina:** `semiologia-medica`
 

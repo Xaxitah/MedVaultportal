@@ -32,7 +32,7 @@ _source: >-
 - Resumo completo de origem: [[P2-T01-Abdome-Agudo-Hemorragico]]
 - Aula/transcricao: [[abdome-agudo-hemorragico]]
 - Slide/PDF: [[7-sindrome-del-abdomen-agudo-hemorragico]]
-- Controle P2: [[_Prioridades-P2]] | [[_Fontes-Relevantes-P2]] | [[_Mapeamento-Transcricoes-P2]]
+- Controle P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]] | [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Mapeamento-Transcricoes-P2]]
 - Livro-base/complemento: Vanuno - semiologia peritoneal geral
 - Grau de confiabilidade: **alto**, mas o resumo completo ainda esta com `status: construindo`.
 
@@ -236,6 +236,6 @@ Na prova, pense: **paciente palido, frio, sudoroso, hipotenso e taquicardico = s
 ## Navegacao
 
 - Resumo completo: [[P2-T01-Abdome-Agudo-Hemorragico]]
-- Prioridades P2: [[_Prioridades-P2]]
-- Fontes P2: [[_Fontes-Relevantes-P2]]
+- Prioridades P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Prioridades-P2]]
+- Fontes P2: [[03-Disciplinas/Semiologia-Quirurgica/00-Controle/_Fontes-Relevantes-P2]]
 - Proximo tema de vespera: [[P2-T02-Dolor-Epigastrico-Vespera]]

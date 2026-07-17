@@ -3,10 +3,8 @@ title: 69-Capítulo 57. Agentes antifúngicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 69-Capítulo 57. Agentes antifúngicos.pdf
 motor: PyMuPDF
 paginas: 22

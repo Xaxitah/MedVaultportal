@@ -3,10 +3,8 @@ title: 74-Capítulo 61. Agentes citotóxicos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 74-Capítulo 61. Agentes citotóxicos.pdf
 motor: PyMuPDF
 paginas: 54

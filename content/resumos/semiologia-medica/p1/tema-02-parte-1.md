@@ -29,7 +29,7 @@ _source: >-
 > - 📖 Llanio Navarro, R. *Propedêutica Clínica e Semiologia Médica*, Tomo I, Cap. 23, p. 309–331
 
 > [!important] Relação com a História Clínica
-> A anamnese é o **componente de interrogatório** da [[Tema-03-Historia-Clinica|Historia Clínica]] — não é um documento separado.
+> A anamnese é o **componente de interrogatório** da [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Historia Clínica]] — não é um documento separado.
 > A HC = Interrogatório (*anamnese*) + Exame Físico.
 > Estudar anamnese é estudar **uma parte** da HC.
 
@@ -310,7 +310,7 @@ ANAMNESE / INTERROGATÓRIO
 ANAMNESE
 │
 ├── POSIÇÃO NA HC
-│   └── Componente de interrogatório → [[Tema-03-Historia-Clinica]]
+│   └── Componente de interrogatório → [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]]
 │
 ├── DOIS BLOCOS
 │   ├── Próxima → doença atual → 5 Qs → Cronopatograma
@@ -376,9 +376,9 @@ ANAMNESE
 
 ---
 
-*Ver também: [[Tema-03-Historia-Clinica]] — documento completo que contém a anamnese*
-*Ver também: [[Tema-04-Exame-Fisico-Geral]] — segundo componente fundamental da HC*
-*Voltar para: [[_Prioridades-P1]]*
+*Ver também: [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]] — documento completo que contém a anamnese*
+*Ver também: [[P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Tema-04-Exame-Fisico-Geral]] — segundo componente fundamental da HC*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 ---

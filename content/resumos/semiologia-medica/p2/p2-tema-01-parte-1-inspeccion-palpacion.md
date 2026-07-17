@@ -19,7 +19,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T01
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-1
 prioridade: altissima
 fontes:
@@ -32,7 +32,7 @@ fontes:
   - complementar: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio.md
   - pratica-nlm05: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da.md
 confiabilidade: alta-com-revisao-humana
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-03T00:00:00.000Z
@@ -55,15 +55,15 @@ _source: >-
 
 > **Fontes deste resumo:**
 
-> - 🎧 Transcricao: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
+> - 🎧 Transcricao: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Transcricao-Teorica-Respiratorio-Dra-Funez]]
 
-> - 🖥️ Slide/PDF: [[03-Disciplinas/Semiologia-Medica/01-Materiais-Brutos/PDFs/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
+> - 🖥️ Slide/PDF: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P2/P2-Examen-Fisico-Respiratorio-Slide-Dra-Funez]]
 
 > - 📚 Livro: [[07-Biblioteca-Geral/01-Livros/Propedeutica-Clinica-Semiologia-Medica-Tomo-I/09-exploracion-torax-sistema-respiratorio]]
 
 > - 📌 Complemento: [[07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/35-examen-fisico-del-aparato-respiratorio]]
 
-> - 🎧 Pratica NLM-05: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da]]
+> - 🎧 Pratica NLM-05: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/pratica---exame-fisico-do-aparelho-respiratorio-inspecao-palpacao-e-avaliacao-da]]
 
 > - 🖼️ Imagens: [[07-Biblioteca-Geral/07-Banco-de-Imagens/00-Indice-Banco-de-Imagens]]
 
@@ -426,6 +426,9 @@ Respiracao arritmica e patologica.
 > [!warning] Para a prova
 > A professora citou Kussmaul como "clasico del paciente con cetoacidosis diabetica."
 > Cheyne-Stokes: respira cada vez menos → para → recomeça — padrao em lua crescente e minguante.
+
+![[cap33-fig02-p08.jpg]]
+*Llanio Cap 33 — Padrões respiratórios patológicos: Cheyne-Stokes (crescendo-decrescendo + pausa), Biot (grupos irregulares + pausa abrupta) e Kussmaul (respirações profundas e rápidas). Cada um indica patologia sistêmica diferente.*
 
 ---
 
@@ -1114,6 +1117,79 @@ INSPECCION E PALPACION RESPIRATORIA
 ---
 
 
+
+## 📎 Apêndice — Síndrome de Insuficiência Respiratória
+
+> Fonte: Transcrição teórica — Dra. Fúnez (P2-Avulso-Transcricao-Teorica-Respiratorio, págs. 9–12)
+> Critérios ensinados na aula de inspeccion — dispersos na transcrição, consolidados aqui.
+
+---
+
+### Critérios de Respiração NORMAL (os 4)
+
+| Critério | Normal | Limiar de alerta |
+|---|---|---|
+| **Aleteo nasal** | Ausente | Qualquer movimentação das asas do nariz = sinal de esforço |
+| **Cianosis** | Ausente (central e periférica) | Cianosis central = hipoxemia grave; periférica = vasoconstrição |
+| **Frequência respiratória** | ≤ 20/min (aula) · até 25/min (Argente — aceitar na prova) | > 20 → falta de ar leve; > 30 → grave (ex: crise asmática) |
+| **Tiraje** | Ausente em todas as regiões | Qualquer retração intercostal, supraesternal ou supraclavicular |
+
+> [!tip] 💡 Como a professora avalia
+> Na inspeção: checar nariz (aleteo) → rosto (cianosis) → contar FR por 1 minuto → observar tórax (tiraje). Ordem cefalocaudal.
+
+---
+
+### Diagnóstico de Insuficiência Respiratória — Critério Clínico
+
+> [!danger] ⚠️ Regra da Dra. Fúnez — atenção para prova
+> **≥ 2 critérios alterados** (dos 4 acima) → diagnóstico de **Insuficiência Respiratória**.
+> Não precisa de todos os 4 — dois já bastam para o planteo diagnóstico.
+
+| Situação | Interpretação |
+|---|---|
+| 0 critérios alterados | Respiração normal |
+| 1 critério alterado | Vigilância — pode progredir |
+| **≥ 2 critérios alterados** | **Insuficiência Respiratória** |
+
+---
+
+### Saturação de Oxigênio (SaO2) — Correlação
+
+| Situação clínica | SaO2 esperada |
+|---|---|
+| Respiração normal (0 critérios) | **> 95%** |
+| Insuficiência respiratória (≥ 2 critérios) | **< 95%** |
+
+> [!note] Oxímetro é complemento, não substituto
+> A professora enfatizou: não depender 100% do oxímetro. A clínica (aleteo + tiraje + cianosis + FR) já é suficiente para o diagnóstico. O oxímetro **quantifica** — a clínica **orienta**.
+
+---
+
+### Conduta Imediata em Insuficiência Respiratória
+
+> [!warning] Mesmo sem saber a causa → oxigenoterapia PRIMEIRO
+> *"Se está com insuficiência respiratória, com saturação menor de 95, al menos trate de salvarlo."* — Dra. Fúnez
+>
+> 1. Oxigenoterapia (O₂) imediatamente
+> 2. Depois investigar a causa da IR
+
+---
+
+### Progressão da Gravidade pela FR
+
+```
+FR ≤ 20/min → normal
+FR 21–24/min → falta de ar leve (início)
+FR 25–29/min → moderada (Argente aceita 25 como normal — atenção)
+FR ≥ 30/min → grave (ex: crise asmática grave)
+```
+
+> [!example] Caso prático ensinado pela professora
+> Paciente chega com: FR 24 + discreta retração intercostal + sem aleteo + sem cianosis
+> → 2 critérios alterados (FR > 20 + tiraje leve) → **Insuficiência Respiratória**
+> → Conduta imediata: O₂ → depois investigar causa
+
+---
 
 *Status: revisando — nao marcar como finalizado sem revisao humana.*
 

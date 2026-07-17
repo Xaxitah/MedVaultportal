@@ -12,7 +12,6 @@ autores_capitulo:
   - M. A. de Cos
   - J. Merino
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

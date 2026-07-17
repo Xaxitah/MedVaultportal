@@ -11,7 +11,6 @@ paginas_pdf: 1173-1187
 autores_capitulo:
   - J.M. Aran
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

@@ -3,10 +3,8 @@ title: 77-Seção IX - Farmacologia de sistemas especiais
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
   - farmacologia
 source_pdf: 77-Seção IX - Farmacologia de sistemas especiais.pdf
 motor: PyMuPDF

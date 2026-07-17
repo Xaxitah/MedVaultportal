@@ -7,8 +7,6 @@ tags:
   - farmacologia
   - p2-t13-anestesicos-locais
   - mapa-mental
-  - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Farmacologia/Revisao/Resumos/P2/P2-Tema-13-Anestesicos-Locais/P2-T13-Anestesicos-Locais.md
 prova: ''

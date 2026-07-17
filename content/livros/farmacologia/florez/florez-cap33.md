@@ -13,7 +13,6 @@ autores_capitulo:
   - M. Rodr-guez
   - J. Santamar-a
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

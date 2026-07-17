@@ -12,7 +12,6 @@ autores_capitulo:
   - J. Florez
   - J.V. Esplugues
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

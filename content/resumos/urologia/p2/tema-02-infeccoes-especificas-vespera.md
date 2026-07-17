@@ -289,7 +289,7 @@ Pergunta objetiva sobre prova da tuberculina.
 
 *Cruzamento de fontes: [[Tema-02-Cruzamento-Fontes]]*  
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Urologia/00-Controle/_Prioridades-P1]]*
 
 
 

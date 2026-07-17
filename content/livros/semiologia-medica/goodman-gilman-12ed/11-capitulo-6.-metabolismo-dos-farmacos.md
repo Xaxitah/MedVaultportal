@@ -3,10 +3,8 @@ title: 11-Capítulo 6. Metabolismo dos fármacos
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: 11-Capítulo 6. Metabolismo dos fármacos.pdf
 motor: PyMuPDF
 paginas: 22

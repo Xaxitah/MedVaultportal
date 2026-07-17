@@ -644,9 +644,9 @@ Adotado pela Associação Médica Mundial em **1948** (Convenção de Genebra), 
 
 *Continua em: [[Tema-02-Parte-2]] — História da Ética Médica (T08): Hipócrates, Nuremberg, Helsinki*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Etica-Medica/00-Controle/_Prioridades-P1]]*
 
-*Ver também: [[_Mapa-Geral-P1]]*
+*Ver também: [[03-Disciplinas/Etica-Medica/00-Controle/_Mapa-Geral-P1]]*
 
 
 

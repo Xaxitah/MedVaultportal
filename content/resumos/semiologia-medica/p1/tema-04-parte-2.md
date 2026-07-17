@@ -5,9 +5,8 @@ tags:
   - resumo
   - p1
   - exame-fisico-geral
-  - talha
   - peso
-  - IMC
+  - imc
   - temperatura
   - cor-pele
 data: 23-04-2026
@@ -45,11 +44,11 @@ _source: >-
 
 > 💡 **Estrutura do Tema 04:**
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]]: marcha, biotipo, atitude, fácies → Trans 6
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]]: marcha, biotipo, atitude, fácies → Trans 6
 
 > - Parte 2 (esta): talha, peso, IMC, temperatura, cor → Trans 8
 
-> - [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]]: lesões de pele, mucosas, pâneras, edema → Trans 5
+> - [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]]: lesões de pele, mucosas, pâneras, edema → Trans 5
 
 
 
@@ -247,7 +246,7 @@ IMC = Peso (kg) / Altura² (m)
 
 
 
-*[Ver detalhamento completo em [[Tema-05-Sinais-Vitais]].]*
+*[Ver detalhamento completo em [[P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1|Tema-05-Sinais-Vitais]].]*
 
 
 
@@ -307,7 +306,7 @@ A cor da pele é avaliada durante a inspeção do EF geral.
 
 - Higiene (*higiene*)
 
-- Lesões (*lesiones*) — ver [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] para detalhamento
+- Lesões (*lesiones*) — ver [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] para detalhamento
 
 
 
@@ -661,13 +660,13 @@ EF GERAL PARTE 2
 
 
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]] — marcha, biotipo, atitude, fácies*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1|Parte 1]] — marcha, biotipo, atitude, fácies*
 
-*Ver também: [[../Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] — pele, mucosas, pâneras, edema*
+*Ver também: [[03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-3|Parte 3]] — pele, mucosas, pâneras, edema*
 
-*Ver também: [[Tema-05-Sinais-Vitais]] — temperatura completa com curvas febris e hipotermia*
+*Ver também: [[P1-Tema-05-Sinais-Vitais/Tema-05-Parte-1|Tema-05-Sinais-Vitais]] — temperatura completa com curvas febris e hipotermia*
 
-*Voltar para: [[_Prioridades-P1]]*
+*Voltar para: [[03-Disciplinas/Semiologia-Medica/00-Controle/_Prioridades-P1]]*
 
 
 

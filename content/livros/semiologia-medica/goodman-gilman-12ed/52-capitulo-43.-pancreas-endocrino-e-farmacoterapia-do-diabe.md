@@ -5,10 +5,8 @@ title: >-
 data: 03-05-2026
 tipo: livro-extraido
 tags:
-  - medicina
   - semiologia
   - livro
-  - estudo-pdf
 source_pdf: >-
   52-Capítulo 43. Pâncreas endócrino e farmacoterapia do diabetes melito e da
   hipoglicemia.pdf

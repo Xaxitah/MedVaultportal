@@ -6,7 +6,7 @@ tags:
   - p1
   - diagnostico
   - prognostico
-  - sindrome
+  - sindromes
   - nomenclatura
   - propedeutica
 data: 23-04-2026
@@ -32,7 +32,7 @@ _source: >-
 > - 📖 Llanio Navarro, R. *Propedêutica Clínica e Semiologia Médica*, Tomo I, Cap. 21 (p. 273–280)
 
 > 💡 **Relação com outros temas:**
-> Este tema é a **base teórica** da Propedêutica Clínica — define o que é semiologia, como se constrói o raciocínio diagnóstico e os tipos de diagnóstico. Conecta-se diretamente com [[Tema-03-Historia-Clinica]] (onde o diagnóstico é aplicado) e [[Tema-09-Dor-e-Caracteristicas]] (que aplica a metodologia de sintomas).
+> Este tema é a **base teórica** da Propedêutica Clínica — define o que é semiologia, como se constrói o raciocínio diagnóstico e os tipos de diagnóstico. Conecta-se diretamente com [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]] (onde o diagnóstico é aplicado) e [[P1-Tema-09-Dor-e-Caracteristicas/Tema-09-Parte-1|Tema-09-Dor-e-Caracteristicas]] (que aplica a metodologia de sintomas).
 
 ---
 
@@ -417,9 +417,9 @@ PROPEDÊUTICA CLÍNICA
 
 ---
 
-*Ver também: [[Tema-03-Historia-Clinica]] — estrutura da HC onde o diagnóstico é aplicado*
-*Ver também: [[Tema-09-Dor-e-Caracteristicas]] — aplicação da metodologia de sintomas*
-*Ver também: [[Tema-02-Anamnese]] — interrogatório que alimenta o raciocínio diagnóstico*
+*Ver também: [[P1-Tema-03-Historia-Clinica/Tema-03-Parte-1|Tema-03-Historia-Clinica]] — estrutura da HC onde o diagnóstico é aplicado*
+*Ver também: [[P1-Tema-09-Dor-e-Caracteristicas/Tema-09-Parte-1|Tema-09-Dor-e-Caracteristicas]] — aplicação da metodologia de sintomas*
+*Ver também: [[P1-Tema-02-Anamnese/Tema-02-Parte-1|Tema-02-Anamnese]] — interrogatório que alimenta o raciocínio diagnóstico*
 *Voltar para: [[_Prioridades-P1]]*
 
 

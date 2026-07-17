@@ -7,7 +7,6 @@ tags:
   - p1-t04-exame-fisico-geral
   - mapa-mental
   - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-1.md,
   03-Disciplinas/Semiologia-Medica/Revisao/Resumos/P1/P1-Tema-04-Exame-Fisico-Geral/Tema-04-Parte-2.md,

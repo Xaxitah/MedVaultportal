@@ -7,7 +7,6 @@ livro: Farmacologia Humana — Jesús Flórez — 6ª edição
 capitulo: cap2
 paginas: 7-15
 tags:
-  - medicina
   - farmacologia
   - livro
   - farmaco-receptor

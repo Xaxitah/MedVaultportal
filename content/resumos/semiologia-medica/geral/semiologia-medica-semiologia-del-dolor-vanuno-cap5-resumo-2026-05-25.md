@@ -8,9 +8,8 @@ tags:
   - cap05-semiologia-del-dolor
   - resumo
   - notebooklm
-  - resumo-detalhado-study-guide
 fonte: >-
-  K:\Work\Obsidian Claud\Med
+  E:\Work\Obsidian Claud\Med
   Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
 prova: ''
 data: 25-05-2026
@@ -32,7 +31,7 @@ _source: >-
 
 # Resumo Detalhado (Study Guide) — Semiologia del Dolor Vanuno Cap5
 
-> **Fonte:** K:\Work\Obsidian Claud\Med Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
+> **Fonte:** E:\Work\Obsidian Claud\Med Test\MED-Vault-2.0\03-Disciplinas\Semiologia-Medica\03-Biblioteca-md\Transcricoes\vanuno-cap05-semiologia-del-dolor-ocr.md
 > **Gerado em:** 25-05-2026 via NotebookLM
 > **Disciplina:** semiologia-medica
 > **Tema declarado:** `Cap05-Semiologia-del-dolor`

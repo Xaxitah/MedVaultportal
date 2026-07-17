@@ -17,7 +17,7 @@ prova: P2
 data: 28-04-2026
 codigo-tema: P2-T06
 tipo: resumo
-status: revisando
+status: revisado
 parte: parte-2
 prioridade: alta
 fontes:
@@ -26,7 +26,7 @@ fontes:
   - livro_complementar: >-
       07-Biblioteca-Geral/01-Livros/Argente-Semiologia-Medica/Argente-Respiratorio/38-interpretacion-clinica-y-enfoque-diagnostico.md
   - pratica-nlm01: >-
-      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Transcricoes/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
+      03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/Pratica/prova-pratica---sindromes-respiratorios-bronquiais-pleurares-e-infeccoes-das-via.md
 confiabilidade: media-gap-critico
 data-criacao: 2026-04-28T00:00:00.000Z
 data-revisao: 2026-06-03T00:00:00.000Z
@@ -206,6 +206,9 @@ No neumotorax completo:
 > [!danger] Pegadinha
 > Neumotorax completo pode ter hipersonoridade e silencio auscultatorio. Derrame pleural grande tem matidez e tambem MV abolido. A percussao separa os dois.
 
+![[cap36-fig07-p16.jpg]]
+*Llanio Cap 36 — Pneumotórax: espaço pleural amplo preenchido de ar (azul/arroxeado) com pulmão vermelho colapsado medialmente. Setas indicam pressão intrapleural. O pulmão contralateral aparece expandido — desvio mediastinal no hipertensivo.*
+
 ---
 
 ### 3.6 Neumotorax hipertensivo
@@ -238,6 +241,24 @@ Em cerca de 20% dos casos, o neumotorax pode se associar a derrame pleural. A im
 
 ![[07-Biblioteca-Geral/07-Banco-de-Imagens/04-Exames-Complementares/Semiologia-P2-Respiratorio/cap36-hidroneumotorax-tc-p56.jpg]]
 *Hidroneumotorax em TC: presenca conjunta de ar e liquido na cavidade pleural.*
+
+---
+
+### Planteamiento Diagnóstico — Como organizar na HC (Dra. Fúnez — 4ª Aula)
+
+| Tipo de Diagnóstico | O que representa | Exemplo em pneumotórax |
+|---|---|---|
+| **Diagnóstico Clínico** | Sintomas e signos do paciente | Dor torácica brusca em puntada + dispneia súbita + MV abolido + timpanismo |
+| **Diagnóstico Sindrômico** | Síndrome/s que agrupam os achados | Síndrome de Interposição Gasosa (Pneumotórax) |
+| **Diagnóstico Nosológico** | Dx clínico + causa provável | Pneumotórax espontâneo primário (jovem alto) · Pneumotórax secundário por EPOC · Pneumotórax traumático |
+
+> [!note] Forma de início na HC (Slide HC — Dra. Fúnez)
+> Pneumotórax = doença de início **agudo/brusco** — clássico exemplo de *"Enfermedades Agudas"* da aula de HC.
+> Na HEA: ¿Cuándo empezó exactamente? · ¿Fue de repente o gradual? · ¿Tuvo algún trauma / esfuerzo?
+
+> ⚠️ Diagnóstico **provisório** — confirmar com RX em expiração forçada ou TC.
+
+Fonte: [[03-Disciplinas/Semiologia-Medica/03-Biblioteca-md/P1/P1-Slide-4a-Clase-Historia-Clinica-Dra-Funez]]
 
 ---
 

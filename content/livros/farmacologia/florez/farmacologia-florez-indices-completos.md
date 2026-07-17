@@ -7,7 +7,6 @@ livro: Farmacología Humana — J. Flórez (editor) — Elsevier España
 secao: Índice de Capítulos + Índice Alfabético
 paginas: vii-ix + 1169-1197
 tags:
-  - medicina
   - farmacologia
   - florez-6ed
   - indice

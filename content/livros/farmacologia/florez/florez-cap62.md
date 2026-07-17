@@ -12,7 +12,6 @@ autores_capitulo:
   - A. Mediavilla
   - J.M. Garcia-Lobo
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed

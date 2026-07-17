@@ -8,7 +8,6 @@ titulo_capitulo: Funcoes Secretoras do Trato Digestivo
 paginas_pdf: 3544-3619
 status: revisando
 tags:
-  - medicina
   - fisiologia
   - guyton
   - cap65

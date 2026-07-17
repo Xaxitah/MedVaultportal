@@ -7,8 +7,6 @@ tags:
   - farmacologia
   - p1-t02-farmacocinetica-e-farmacodinamica
   - mapa-mental
-  - notebooklm
-  - visual
 fonte: >-
   03-Disciplinas/Farmacologia/Revisao/Resumos/P1/P1-T02-Farmacocinetica-e-Farmacodinamica.md
 prova: ''

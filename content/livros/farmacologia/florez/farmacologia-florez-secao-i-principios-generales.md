@@ -7,7 +7,6 @@ livro: Farmacologia Humana — Jesús Flórez — 6ª edição
 capitulo: secao-i
 paginas: sección introductoria
 tags:
-  - medicina
   - farmacologia
   - livro
   - principios-generales

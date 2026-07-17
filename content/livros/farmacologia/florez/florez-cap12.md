@@ -7,7 +7,6 @@ livro: Farmacología Humana - Jesús Flórez - 6ª edição
 capitulo: 12
 paginas: 206-213
 tags:
-  - medicina
   - farmacologia
   - livro
   - florez-6ed
